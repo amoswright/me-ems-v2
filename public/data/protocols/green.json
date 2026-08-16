@@ -85,9 +85,10 @@
         "html": "<p><img alt=\"Visual reference from Trauma Triage\" src=\"/assets/figures/page-0096-visual.webp\"/></p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ALL",
-        "html": "<blockquote>\n<p><strong>Pearls</strong></p>\n<ul>\n<li>EMS clinician triage to the appropriate level Trauma Center is beneficial to patient outcomes.</li>\n<li>Patients with any suspicion for specialty surgical needs (including neurosurgical injury) should be transferred to a Level 1 or Level 2 Trauma Center whenever possible.</li>\n<li>**If additional transfer time to a Level 1 or Level 2 Trauma Center is felt to be deleterious to the patient, transfer to the highest-level Trauma Center available or the closest emergency department.</li>\n<li>If prehospital clinicians are unable to definitively manage the airway, maintain breathing or support circulation, begin transport to the the most accessible hospital and simultaneously request ALS intercept or tiered response.</li>\n<li>For questions, refer to OLMC.</li>\n</ul>\n</blockquote>"
+        "html": "<ul>\n<li>EMS clinician triage to the appropriate level Trauma Center is beneficial to patient outcomes.</li>\n<li>Patients with any suspicion for specialty surgical needs (including neurosurgical injury) should be transferred to a Level 1 or Level 2 Trauma Center whenever possible.</li>\n<li>**If additional transfer time to a Level 1 or Level 2 Trauma Center is felt to be deleterious to the patient, transfer to the highest-level Trauma Center available or the closest emergency department.</li>\n<li>If prehospital clinicians are unable to definitively manage the airway, maintain breathing or support circulation, begin transport to the the most accessible hospital and simultaneously request ALS intercept or tiered response.</li>\n<li>For questions, refer to OLMC.</li>\n</ul>",
+        "pearlsTitle": null
       }
     ],
     "steps": [],
@@ -363,9 +364,10 @@
         "html": "<h3>Management of Airway/Oxygenation</h3>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "EMT",
-        "html": "<blockquote>\n<p><strong>PEARL:</strong> A single oxygen saturation less than 90% is independently associated with at least a doubling of mortality.</p>\n</blockquote>"
+        "html": "<p>A single oxygen saturation less than 90% is independently associated with at least a doubling of mortality.</p>",
+        "pearlsTitle": null
       },
       {
         "type": "content",
@@ -469,9 +471,16 @@
         "html": "<p>Document initial mental status, GCS <strong>AND</strong> any changes in mental status</p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<blockquote>\n<p>* <strong>Goal Ventilation Rates:</strong>\n* <strong>Age 0-2 years</strong>: 1 breath every 2-3 seconds (25 BPM)\n* <strong>Age 3-14 years</strong>: 1 breath every 3 seconds (20 BPM)\n* <strong>Age 15 years +</strong>: 1 breath every 6 seconds (10 BPM)</p>\n<p>** <strong>Identifying Hypotension in Children:</strong>\n* <strong>Newborn</strong>: 60 mmHg\n* <strong>Age 0-2 years</strong>: 70 mmHg\n* <strong>Age 3-9</strong>: 70+ (age x 2)\n* <strong>Age 10 years or greater</strong>: greater than 90 mmHg</p>\n<p><strong>General Rules:</strong>\n* <strong>Newborn</strong>: greater than 60 mmHg\n* <strong>5 Year Old</strong>: greater than 80 mmHg\n* <strong>10 years or greater</strong>: greater than 90 mmHg</p>\n</blockquote>"
+        "html": "<ul>\n<li><strong>Age 0-2 years</strong>: 1 breath every 2-3 seconds (25 BPM)</li>\n<li><strong>Age 3-14 years</strong>: 1 breath every 3 seconds (20 BPM)</li>\n<li><strong>Age 15 years +</strong>: 1 breath every 6 seconds (10 BPM)</li>\n</ul>",
+        "pearlsTitle": "Goal Ventilation Rates"
+      },
+      {
+        "type": "pearls",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<ul>\n<li><strong>Newborn</strong>: 60 mmHg</li>\n<li><strong>Age 0-2 years</strong>: 70 mmHg</li>\n<li><strong>Age 3-9</strong>: 70+ (age x 2)</li>\n<li><strong>Age 10 years or greater</strong>: greater than 90 mmHg</li>\n</ul>\n<p><strong>General Rules:</strong></p>\n<ul>\n<li><strong>Newborn</strong>: greater than 60 mmHg</li>\n<li><strong>5 Year Old</strong>: greater than 80 mmHg</li>\n<li><strong>10 years or greater</strong>: greater than 90 mmHg</li>\n</ul>",
+        "pearlsTitle": "Identifying Hypotension in Children"
       }
     ],
     "steps": [
@@ -662,9 +671,10 @@
         "html": "<blockquote>\n<p>Current evidence suggests there may be a benefit from use of Lactated Ringers in critically ill patients with shock. Consider using Lactated Ringers preferentially, if available, while still aiming for age-appropriate BP in hemorrhagic shock and head injuries.</p>\n</blockquote>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS for the use of TXA:</strong></p>\n<p>Tranexamic acid is a lysine analogue that competitively binds to plasminogen therefore interrupting interactions with fibrin and preventing fibrinolysis or clot break down. Patients in hemorrhagic shock from either blunt or penetrating trauma may benefit from Tranexamic acid (TXA). TXA must be provided as soon as possible, preferably within 1 (one) hour of injury and absolutely before 3 hours from injury.</p>\n<p>Please ensure that receiving hospital staff:\n1. Know the <strong>time of injury</strong>,\n2. Are aware that the patient <strong>received TXA</strong>,\n3. Are aware of the <strong>1 gram dose</strong> as the patient may need to be re-dosed upon arrival, and\n4. <strong>Flag the IV line</strong> that the patient received TXA through with a labeled piece of tape as some medications and blood products should not be provided through the same line.</p>\n<p>*Additionally, discuss the use of TXA in patients on anticoagulants as these patients may require anticoagulation reversal and the combination of TXA and some of the reversal agents may have additive thrombotic effects. There are few adverse effects of this medication. TXA may cause hypotension if provided rapidly. The full dose should be provided over 10 minutes to prevent hypotension.</p>\n</blockquote>"
+        "html": "<p>Tranexamic acid is a lysine analogue that competitively binds to plasminogen therefore interrupting interactions with fibrin and preventing fibrinolysis or clot break down. Patients in hemorrhagic shock from either blunt or penetrating trauma may benefit from Tranexamic acid (TXA). TXA must be provided as soon as possible, preferably within 1 (one) hour of injury and absolutely before 3 hours from injury.</p>\n<p>Please ensure that receiving hospital staff:</p>\n<ol start=\"1\"><li>Know the <strong>time of injury</strong>,</li><li>Are aware that the patient <strong>received TXA</strong>,</li><li>Are aware of the <strong>1 gram dose</strong> as the patient may need to be re-dosed upon arrival, and</li><li><strong>Flag the IV line</strong> that the patient received TXA through with a labeled piece of tape as some medications and blood products should not be provided through the same line.</li></ol>\n\n<p>*Additionally, discuss the use of TXA in patients on anticoagulants as these patients may require anticoagulation reversal and the combination of TXA and some of the reversal agents may have additive thrombotic effects. There are few adverse effects of this medication. TXA may cause hypotension if provided rapidly. The full dose should be provided over 10 minutes to prevent hypotension.</p>",
+        "pearlsTitle": "the use of TXA"
       },
       {
         "type": "content",
@@ -672,9 +682,10 @@
         "html": "<p><img alt=\"Visual reference from Hemorrhagic Shock\" src=\"/assets/figures/page-0109-visual.webp\"/></p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>Additional PEARLS for Hemorrhagic Shock:</strong></p>\n<p>1) <strong>TXA and GI Bleeding:</strong> Recent evidence suggests patients with gastrointestinal bleeding SHOULD NOT receive tranexamic acid. Patients with GI bleeding who received TXA had no improvement in mortality but did suffer increased morbidity, including increased venous thromboembolic events. </p>\n<p>2) <strong>TXA and Isolated Head Injury:</strong> The role of TXA in isolated head injury remains controversial with conflicting evidence in the medical literature. The most recent evidence suggests an association between prehospital TXA and increased mortality in patients with isolated severe brain injury. In an effort to maintain the upmost patient safety and promote the best possible patient outcomes, <strong>isolated</strong> head trauma remains a contraindication for TXA in the protocols. As a reminder, multi-trauma patients with hemorrhagic shock SHOULD receive TXA regardless of head injury.</p>\n</blockquote>"
+        "html": "<p>1) <strong>TXA and GI Bleeding:</strong> Recent evidence suggests patients with gastrointestinal bleeding SHOULD NOT receive tranexamic acid. Patients with GI bleeding who received TXA had no improvement in mortality but did suffer increased morbidity, including increased venous thromboembolic events. </p>\n<p>2) <strong>TXA and Isolated Head Injury:</strong> The role of TXA in isolated head injury remains controversial with conflicting evidence in the medical literature. The most recent evidence suggests an association between prehospital TXA and increased mortality in patients with isolated severe brain injury. In an effort to maintain the upmost patient safety and promote the best possible patient outcomes, <strong>isolated</strong> head trauma remains a contraindication for TXA in the protocols. As a reminder, multi-trauma patients with hemorrhagic shock SHOULD receive TXA regardless of head injury.</p>",
+        "pearlsTitle": "Additional PEARLS for Hemorrhagic Shock"
       },
       {
         "type": "content",
@@ -769,9 +780,10 @@
     "category": "green",
     "intro": [
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS for Burn Management</strong></p>\n<ul>\n<li>*Severe burns include greater than 10% body surface area (counting only partial and full thickness burns), circumferential burns, airway involvement, genital burns, and burns to the hands or face. Severe burns should be transported following the Trauma Triage Guidelines, <strong>Green 1</strong>.</li>\n<li>Only second (partial thickness) and third (full thickness) degree burns are counted when calculating burn surface area. Do not include first degree burns (superficial thickness).</li>\n<li>Errors are made in burn surface area calculation when an entire limb is counted despite only partial involvement. Consider using the patient's hand size (palm PLUS fingers = 1% BSA) to estimate 1% body surface area.</li>\n<li>Clean, dry dressings are adequate for covering all burns, regardless of size.</li>\n<li>It is preferable to establish IV access in non-burned tissue, but, if necessary, burned tissue may be used as a site for IV access.</li>\n<li>Research indicates that resuscitation based upon a 4 mL/kg/% TBSA strategy commonly results in over-resuscitation and excessive edema formation. National and local burn specialists instead recommend fixed resuscitation strategies.</li>\n<li>Maintain body temperature by keeping the patient warm and dry.</li>\n</ul>\n</blockquote>"
+        "html": "<ul>\n<li>*Severe burns include greater than 10% body surface area (counting only partial and full thickness burns), circumferential burns, airway involvement, genital burns, and burns to the hands or face. Severe burns should be transported following the Trauma Triage Guidelines, <strong>Green 1</strong>.</li>\n<li>Only second (partial thickness) and third (full thickness) degree burns are counted when calculating burn surface area. Do not include first degree burns (superficial thickness).</li>\n<li>Errors are made in burn surface area calculation when an entire limb is counted despite only partial involvement. Consider using the patient's hand size (palm PLUS fingers = 1% BSA) to estimate 1% body surface area.</li>\n<li>Clean, dry dressings are adequate for covering all burns, regardless of size.</li>\n<li>It is preferable to establish IV access in non-burned tissue, but, if necessary, burned tissue may be used as a site for IV access.</li>\n<li>Research indicates that resuscitation based upon a 4 mL/kg/% TBSA strategy commonly results in over-resuscitation and excessive edema formation. National and local burn specialists instead recommend fixed resuscitation strategies.</li>\n<li>Maintain body temperature by keeping the patient warm and dry.</li>\n</ul>",
+        "pearlsTitle": "Burn Management"
       },
       {
         "type": "content",
@@ -951,9 +963,10 @@
         "html": "<hr/>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS for Pain Management:</strong>\n1. Consider the potential for medical causes of trauma, especially in the elderly, lift assist patient, falls, and syncope. In such cases, refer to the appropriate protocol and monitor the patient as described.\n2. Acute pain management is often considered to be a \"ladder\" process; that is, start at the bottom rung and increase the \"strength\" AND risk of interventions in a step-wise fashion, similar to climbing the rungs of a ladder. Therefore, it is expected that all clinicians, regardless of license level, will manage patients in the step-wise fashion to the maximum scope of practice of their licenses.\n3. <strong>Pearls for acetaminophen:</strong> Patients with underlying liver disease or those who have taken acetaminophen within the last 6 hours should <strong>NOT</strong> receive acetaminophen. If <strong>IV</strong> acetaminophen is supplied in a glass container, vented tubing is required for proper administration. Acetaminophen should be administered, over 15 minutes.\n4. <strong>Pearls for fentanyl:</strong> Fentanyl may be considered the first-line analgesic after acetaminophen. Adverse effects include bradypnea and hypotension.\n5. <strong>Pearls for ketamine:</strong> Ketamine may be preferential for patients with a history of opioid intolerance or opioid use disorder. Ketamine must be infused slowly to reduce the incidence of complications including hypotension, bradypnea, and laryngospasm.</p>\n</blockquote>"
+        "html": "<ol start=\"1\"><li>Consider the potential for medical causes of trauma, especially in the elderly, lift assist patient, falls, and syncope. In such cases, refer to the appropriate protocol and monitor the patient as described.</li><li>Acute pain management is often considered to be a \"ladder\" process; that is, start at the bottom rung and increase the \"strength\" AND risk of interventions in a step-wise fashion, similar to climbing the rungs of a ladder. Therefore, it is expected that all clinicians, regardless of license level, will manage patients in the step-wise fashion to the maximum scope of practice of their licenses.</li><li><strong>Pearls for acetaminophen:</strong> Patients with underlying liver disease or those who have taken acetaminophen within the last 6 hours should <strong>NOT</strong> receive acetaminophen. If <strong>IV</strong> acetaminophen is supplied in a glass container, vented tubing is required for proper administration. Acetaminophen should be administered, over 15 minutes.</li><li><strong>Pearls for fentanyl:</strong> Fentanyl may be considered the first-line analgesic after acetaminophen. Adverse effects include bradypnea and hypotension.</li><li><strong>Pearls for ketamine:</strong> Ketamine may be preferential for patients with a history of opioid intolerance or opioid use disorder. Ketamine must be infused slowly to reduce the incidence of complications including hypotension, bradypnea, and laryngospasm.</li></ol>",
+        "pearlsTitle": "Pain Management"
       },
       {
         "type": "content",
@@ -1123,9 +1136,10 @@
         "html": "<ul>\n<li>Patients whose presentation is consistent with a medical cause of cardiac arrest, refer to Adult Cardiac Arrest protocol, <strong>Red 9</strong> or Pediatric Cardiac Arrest Protocol, <strong>Red 18</strong></li>\n<li>Hypothermic Patients, refer to Severe Hypothermia WITHOUT Signs of Life protocol, <strong>Yellow 12</strong></li>\n<li>Drowning patients, refer to Drowning/Submersion Injuries protocol, <strong>Yellow 15</strong></li>\n</ul>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS</strong>\n* The treatment for cardiac arrest secondary to traumatic injury should include CPR, but transport to definitive care should <strong>NOT</strong> be delayed. Each of these calls involve unique circumstances which will require crews to weigh the benefits of transporting immediately against the risks of delaying some prehospital interventions. The safety of providers should always be prioritized during transport, and, if available, mechanical CPR devices should be in place prior to transport for patients who may arrest during transport.\n* Resuscitation of traumatic cardiac arrests include ACLS, but the treatment should also include early bilateral chest needle decompression and IV fluid boluses in addition to airway management.\n* If you suspect that an underlying medical cause led to the patient's arrest, continue to manage per Adult Cardiac Arrest (<strong>Red 9</strong>) or Pediatric Cardiac Arrest (<strong>Red 18</strong>) protocols.\n* *Consider calling for ALS early in traumas where the patient is high-risk for traumatic cardiac arrest (e.g., prolonged entrapment) to either meet on scene or rendezvous en route as treatment of hypotension and tension pneumothorax can be life-saving procedures, both of which may cause cardiac arrest in the trauma patient.</p>\n</blockquote>"
+        "html": "<ul>\n<li>The treatment for cardiac arrest secondary to traumatic injury should include CPR, but transport to definitive care should <strong>NOT</strong> be delayed. Each of these calls involve unique circumstances which will require crews to weigh the benefits of transporting immediately against the risks of delaying some prehospital interventions. The safety of providers should always be prioritized during transport, and, if available, mechanical CPR devices should be in place prior to transport for patients who may arrest during transport.</li>\n<li>Resuscitation of traumatic cardiac arrests include ACLS, but the treatment should also include early bilateral chest needle decompression and IV fluid boluses in addition to airway management.</li>\n<li>If you suspect that an underlying medical cause led to the patient's arrest, continue to manage per Adult Cardiac Arrest (<strong>Red 9</strong>) or Pediatric Cardiac Arrest (<strong>Red 18</strong>) protocols.</li>\n<li>*Consider calling for ALS early in traumas where the patient is high-risk for traumatic cardiac arrest (e.g., prolonged entrapment) to either meet on scene or rendezvous en route as treatment of hypotension and tension pneumothorax can be life-saving procedures, both of which may cause cardiac arrest in the trauma patient.</li>\n</ul>",
+        "pearlsTitle": null
       }
     ],
     "steps": [
@@ -1170,9 +1184,10 @@
     "category": "green",
     "intro": [
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS for Crush Injury:</strong>\nTreat suspension trauma as prolonged entrapment and follow crush injury protocols as above</p>\n</blockquote>"
+        "html": "<p>Treat suspension trauma as prolonged entrapment and follow crush injury protocols as above</p>",
+        "pearlsTitle": "Crush Injury"
       }
     ],
     "steps": [
@@ -1283,9 +1298,10 @@
     "category": "green",
     "intro": [
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>Pearls for eye injuries</strong>\n* Normal or near normal vision does not rule out significant eye injury\n* Chemical and thermal burns to the face may have concomitant respiratory injury\n* Vomiting increases intraocular pressure and should be avoided in patients with eye injury.\n* Tetracaine is to be provided by the Paramedic clinician only and not provided to the patient for ongoing use</p>\n</blockquote>"
+        "html": "<ul>\n<li>Normal or near normal vision does not rule out significant eye injury</li>\n<li>Chemical and thermal burns to the face may have concomitant respiratory injury</li>\n<li>Vomiting increases intraocular pressure and should be avoided in patients with eye injury.</li>\n<li>Tetracaine is to be provided by the Paramedic clinician only and not provided to the patient for ongoing use</li>\n</ul>",
+        "pearlsTitle": "eye injuries"
       }
     ],
     "steps": [
@@ -1350,9 +1366,10 @@
         "html": "<p><strong>Definition of Open Fracture:</strong> Suspected fracture with associated extensive tissue damage, wound, and/or visible bone; including partial or completed amputations.</p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>Pearls for Open Fractures</strong>\n* Examples of Penicillins include: penicillin, amoxicillin, augmentin, piperacillin (Zosyn), ampicillin (Unasyn)\n* Examples of Cephalosporins include: cefazolin (Ancef), Cefdinir, cefuroxime (Ceftin or Zinacef), cefadroxil (Duricef), cephalexin (Keflex). cefepime (Maxipime), ceftriaxone (Rocephin)\n* Contact OLMC for questions regarding the patient's allergies</p>\n</blockquote>"
+        "html": "<ul>\n<li>Examples of Penicillins include: penicillin, amoxicillin, augmentin, piperacillin (Zosyn), ampicillin (Unasyn)</li>\n<li>Examples of Cephalosporins include: cefazolin (Ancef), Cefdinir, cefuroxime (Ceftin or Zinacef), cefadroxil (Duricef), cephalexin (Keflex). cefepime (Maxipime), ceftriaxone (Rocephin)</li>\n<li>Contact OLMC for questions regarding the patient's allergies</li>\n</ul>",
+        "pearlsTitle": "Open Fractures"
       }
     ],
     "steps": [
@@ -1427,9 +1444,10 @@
         "html": "<ul>\n<li>Strangulation should be suspected anytime that someone has been assaulted and experienced either syncope, blunt neck trauma (e.g., \"choking\", being held down with an extremity to their neck, etc.), facial or chest injuries, hoarse voice, loss of hearing or vision, incontinence, etc.</li>\n<li>Patients who have suffered strangulation are at risk for airway compromise, vascular injury and stroke up to 72 hours after injury.</li>\n<li>Interpersonal violence scenes are high risk for EMS providers. Please see <strong>Grey 25</strong> regarding crime scene management.</li>\n<li>Many victims of strangulation have also suffered sexual assault, please see <strong>Grey 18</strong>, if applicable.</li>\n</ul>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS</strong>\n* Patient who have suffered strangulation are at risk for airway compromise, vascular injury and stroke up to 72 hours after injury. These patients should be transported.\n* Many victims of interpersonal violence decline transport or refuse medical evaluations for fear of retaliation, not wanting to disclose abuse, lack of childcare, etc. If you suspect strangulation, call OLMC to discuss refusals and options for alternative evaluations and referrals.\n* Less than 5% of strangulation victims seek medical attention, which means EMS may be the only medical provider that ever evaluates this injury. If patient cannot be convinced to be transported, make sure to discuss signs and symptoms for which the patient should monitor (e.g., difficulty breathing, swallowing or speaking; hoarse voice; neck swelling; fainting; stroke symptoms).\n* Attempt to maintain integrity of evidence at injury sites if it does not interfere with patient care. Up to 50% of strangulation victims have no obvious external injures (including those who die from their strangulation).</p>\n</blockquote>"
+        "html": "<ul>\n<li>Patient who have suffered strangulation are at risk for airway compromise, vascular injury and stroke up to 72 hours after injury. These patients should be transported.</li>\n<li>Many victims of interpersonal violence decline transport or refuse medical evaluations for fear of retaliation, not wanting to disclose abuse, lack of childcare, etc. If you suspect strangulation, call OLMC to discuss refusals and options for alternative evaluations and referrals.</li>\n<li>Less than 5% of strangulation victims seek medical attention, which means EMS may be the only medical provider that ever evaluates this injury. If patient cannot be convinced to be transported, make sure to discuss signs and symptoms for which the patient should monitor (e.g., difficulty breathing, swallowing or speaking; hoarse voice; neck swelling; fainting; stroke symptoms).</li>\n<li>Attempt to maintain integrity of evidence at injury sites if it does not interfere with patient care. Up to 50% of strangulation victims have no obvious external injures (including those who die from their strangulation).</li>\n</ul>",
+        "pearlsTitle": null
       }
     ],
     "steps": [

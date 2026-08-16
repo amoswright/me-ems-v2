@@ -68,10 +68,16 @@ def parse_provider_heading(text: str):
             return None
         normalized.append(_TOKEN_MAP[key])
     return _COMBO_MAP.get(frozenset(normalized))
-PEARLS_BLOCK_RE = re.compile(
-    r'^>\s*#{2,3}\s*PEARLS(?:\s+for\s+(?P<title>.+?))?\s*$\n(?P<body>(?:^>.*$\n?)*)',
-    re.MULTILINE
+BLOCKQUOTE_RUN_RE = re.compile(r'(?:^>.*\n?)+', re.MULTILINE)
+ALERT_BLOCKQUOTE_RE = re.compile(r'^\**(CAUTION|WARNING|NOTE|IMPORTANT|ALERT|LEGEND)\b', re.IGNORECASE)
+PEARLS_HEADING_RE = re.compile(r'^#{1,4}\s*PEARLS?\b(?:\s+for\s+(?P<title>.+?))?\s*$', re.IGNORECASE)
+PEARLS_INLINE_RE = re.compile(
+    r'^\**PEARLS?\b(?:\s+for\s+(?P<title>[^:*]+))?\s*\**\s*:?\s*\**\s*(?P<rest>.*)$', re.IGNORECASE
 )
+# A blockquote whose first line is *only* a short bold/heading label ending in ':' (e.g.
+# "**\*Asthmatic patients:**", "### Pediatric Considerations:") — the source PDF renders these
+# as the same gold callout box as a literal "PEARLS for X" section, just without the word PEARLS.
+ASIDE_TITLE_RE = re.compile(r'^(?:#{1,4}\s*)?(?:\\?\*\s*){0,4}([A-Za-z][A-Za-z0-9 /\-]{2,40}):(?:\\?\*){0,4}\s*$')
 
 MD_EXTENSIONS = ['tables', 'sane_lists', 'fenced_code']
 
@@ -227,29 +233,54 @@ def rewrite_asset_paths(html: str) -> str:
     return re.sub(r'(?:\.\./)*assets/figures/', '/assets/figures/', html)
 
 
+def _classify_blockquote(first_line: str):
+    """Decide whether a blockquote's first line marks it as a PEARLS-style gold callout box.
+    Returns (title_or_None, leftover_text_from_first_line_or_None) if it is one, else None.
+    Plain alert boxes (CAUTION/WARNING/...) and ordinary reference-text blockquotes (the
+    majority — body prose the OCR pipeline happened to indent as a blockquote) return None
+    and are left as regular content."""
+    if ALERT_BLOCKQUOTE_RE.match(first_line):
+        return None
+    m = PEARLS_HEADING_RE.match(first_line)
+    if m:
+        return (m.group('title') or '').strip() or None, None
+    m = PEARLS_INLINE_RE.match(first_line)
+    if m:
+        title = (m.group('title') or '').strip() or None
+        return title, m.group('rest').strip() or None
+    m = ASIDE_TITLE_RE.match(first_line)
+    if m:
+        return m.group(1).strip(), None
+    return None
+
+
 def extract_pearls(markdown_text: str, pearls_out: list):
-    """Pull out '> ### PEARLS for X' blockquote sections, rendering each to HTML and appending
-    {'title', 'html'} to `pearls_out` (shared across a whole protocol so indices stay unique).
-    Each block is replaced in-place with a <div data-pearls-idx="N"> placeholder so it keeps its
-    original position in the document instead of being moved to the end of the protocol —
+    """Pull out PEARLS-style gold callout boxes (see _classify_blockquote), rendering each to
+    HTML and appending {'title', 'html'} to `pearls_out` (shared across a whole protocol so
+    indices stay unique). Each is replaced in-place with a <div data-pearls-idx="N"> placeholder
+    so it keeps its original document position instead of moving to the end of the protocol —
     segment_to_intro_and_steps swaps the placeholder back out for a real 'pearls' intro item
-    once the surrounding markdown has been rendered."""
+    once the surrounding markdown has been rendered. Blockquotes that don't classify as a callout
+    box (plain CAUTION notices, ordinary reference prose) are left untouched."""
 
     def _consume(m):
-        title = (m.group('title') or '').strip() or None
-        body_lines = m.group('body').splitlines()
-        stripped = []
-        for line in body_lines:
-            line = re.sub(r'^>\s?', '', line)
-            stripped.append(line)
-        body_md = '\n'.join(stripped).strip()
+        lines = [re.sub(r'^>\s?', '', line) for line in m.group(0).splitlines()]
+        first, rest_lines = lines[0], lines[1:]
+        classified = _classify_blockquote(first.strip())
+        if classified is None:
+            return m.group(0)
+        title, leftover = classified
+        body_lines = ([leftover] if leftover else []) + rest_lines
+        body_md = '\n'.join(body_lines).strip()
+        if not body_md:
+            return m.group(0)
         html = md_to_html(body_md)
         html = rewrite_asset_paths(html)
         idx = len(pearls_out)
         pearls_out.append({'title': title, 'html': html})
         return f'\n\n<div data-pearls-idx="{idx}"></div>\n\n'
 
-    return PEARLS_BLOCK_RE.sub(_consume, markdown_text)
+    return BLOCKQUOTE_RUN_RE.sub(_consume, markdown_text)
 
 
 def split_by_provider(markdown_text: str, carry_level: str = 'ALL'):

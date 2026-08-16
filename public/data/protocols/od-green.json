@@ -509,9 +509,10 @@
         "html": "<blockquote>\n<p>Do not use amiodarone formulations containing polysorbate-80 in canines due to the adverse hemodynamic side effects; refer to manufacturer's labeling and literature</p>\n</blockquote>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>Termination of Resuscitation:</strong>\nConsider terminating CPR when any of the following occurs:\n1. ROSC\n2. You are too exhausted to continue\n3. Scene/situation becomes unsafe\n4. No ROSC after 20 minutes of ineffective CPR <strong>OR</strong> 30-40 minutes of high-quality CPR</p>\n</blockquote>"
+        "html": "<p>Consider terminating CPR when any of the following occurs:</p>\n<ol start=\"1\"><li>ROSC</li><li>You are too exhausted to continue</li><li>Scene/situation becomes unsafe</li><li>No ROSC after 20 minutes of ineffective CPR <strong>OR</strong> 30-40 minutes of high-quality CPR</li></ol>",
+        "pearlsTitle": "Termination of Resuscitation"
       }
     ],
     "steps": [
@@ -1090,9 +1091,10 @@
         "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ALL",
-        "html": "<blockquote>\n<p><strong>PEARLS:</strong>\n<strong>WARNING: CONTACT WITH THESE TOXINS CAN BE FATAL TO RESCUERS</strong>\n<strong>CONSIDER SCENE SAFETY AND DECONTAMINATION</strong>\n* Assess for <strong>SLUDGEM</strong> symptoms (Salivation, Lacrimation, Urination, Defecation, <strong>GI</strong> Distress, <strong>E</strong>mesis, <strong>M</strong>uscle twitching/Miosis [constricted pupils]) and the <strong>Killer-Bs</strong> (<strong>B</strong>radycardia, <strong>B</strong>ronchorrhea, <strong>B</strong>ronchospasm)\n* If you suspect a bioterrorism/WMD threat, see <strong>Grey 34</strong>\n* Transport canine with all windows of ambulance open\n* Decontaminate entire ambulance after canine transport\n* All responders who contacted the canine require decontamination</p>\n</blockquote>"
+        "html": "<p><strong>WARNING: CONTACT WITH THESE TOXINS CAN BE FATAL TO RESCUERS</strong>\n<strong>CONSIDER SCENE SAFETY AND DECONTAMINATION</strong></p>\n<ul>\n<li>Assess for <strong>SLUDGEM</strong> symptoms (Salivation, Lacrimation, Urination, Defecation, <strong>GI</strong> Distress, <strong>E</strong>mesis, <strong>M</strong>uscle twitching/Miosis [constricted pupils]) and the <strong>Killer-Bs</strong> (<strong>B</strong>radycardia, <strong>B</strong>ronchorrhea, <strong>B</strong>ronchospasm)</li>\n<li>If you suspect a bioterrorism/WMD threat, see <strong>Grey 34</strong></li>\n<li>Transport canine with all windows of ambulance open</li>\n<li>Decontaminate entire ambulance after canine transport</li>\n<li>All responders who contacted the canine require decontamination</li>\n</ul>",
+        "pearlsTitle": null
       },
       {
         "type": "content",
@@ -1399,9 +1401,10 @@
         "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS</strong>\nIn canines, cutaneous (i.e. urticaria/hives, pruritis/itching) signs of allergies are uncommon. However, with progression to anaphylaxis, clinical signs are most often associated with the cardiovascular (CV) and gastrointestinal (GI) systems. Respiratory signs may also develop, along with seizures and anxiousness, progressing to weakness and collapse.\nSigns include:\n* CV: tachycardia, weakness, weak pulses, mucous membrane color changes\n* GI/GU: urinating, vomiting, and diarrhea that is often bloody\n* Respiratory: increased respiratory effort, wheezes, and crackles</p>\n<p>*IV diphenhydramine can cause significant hypotension, therefore give IM</p>\n</blockquote>"
+        "html": "<p>In canines, cutaneous (i.e. urticaria/hives, pruritis/itching) signs of allergies are uncommon. However, with progression to anaphylaxis, clinical signs are most often associated with the cardiovascular (CV) and gastrointestinal (GI) systems. Respiratory signs may also develop, along with seizures and anxiousness, progressing to weakness and collapse.\nSigns include:</p>\n<ul>\n<li>CV: tachycardia, weakness, weak pulses, mucous membrane color changes</li>\n<li>GI/GU: urinating, vomiting, and diarrhea that is often bloody</li>\n<li>Respiratory: increased respiratory effort, wheezes, and crackles</li>\n</ul>\n<p>*IV diphenhydramine can cause significant hypotension, therefore give IM</p>",
+        "pearlsTitle": null
       }
     ],
     "steps": [
@@ -1501,9 +1504,10 @@
         "html": "<ul>\n<li>an anxious look or looking at the abdomen</li>\n<li>extreme agitation due to acute pain</li>\n<li>standing and stretching, head and tail down with an arched back</li>\n<li>pacing, accompanied with the inability to sit or lay down comfortably</li>\n<li>drooling</li>\n<li>distending abdomen</li>\n<li>retching without producing anything except excessive saliva - this is the most common symptom, and sounds like dry-heaving but can sometimes sound like a repeated cough.</li>\n</ul>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARL</strong>\nThe hallmark presentation of GDV is sudden onset of abdominal distention, distress, anxiety and pain (panting, guarding of the belly, anguished facial expression), and multiple attempts at vomiting that are frequently unproductive. Not every canine will have a classic appearance and some canines will not have obvious abdominal distention because of their body configuration.</p>\n</blockquote>"
+        "html": "<p>The hallmark presentation of GDV is sudden onset of abdominal distention, distress, anxiety and pain (panting, guarding of the belly, anguished facial expression), and multiple attempts at vomiting that are frequently unproductive. Not every canine will have a classic appearance and some canines will not have obvious abdominal distention because of their body configuration.</p>",
+        "pearlsTitle": null
       }
     ],
     "steps": [

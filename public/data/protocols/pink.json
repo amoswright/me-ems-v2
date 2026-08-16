@@ -5,9 +5,10 @@
     "category": "pink",
     "intro": [
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ALL",
-        "html": "<blockquote>\n<p><strong>PEARLS</strong>\n<strong>Definition of Brief Resolved Unexplained Event (BRUE):</strong>\nThese are sudden, brief (less than 1 minute), now resolved (returned to baseline) episodes of at least one of the following in a child less than 1 years old:\n1. Cyanosis or pallor\n2. Absent, decreased, or irregular breathing\n3. Marked change in tone (hyper- or hypotonia)\n4. Altered level of responsiveness\n<strong>NOTE:</strong> Most children who experience a BRUE have a normal physical exam, however, almost 50% will have an underlying condition requiring comprehensive medical care.</p>\n<p>In many cases, details from the child's home may be important to downstream health care clinicians. Please include details, such as the following, when providing report to the hospital:\n1. Make note of the home environment: Medications, condition, caregiver's condition, possibility of toxic exposure, etc.\n2. Are there any concerns for non-accidental trauma?</p>\n</blockquote>"
+        "html": "<p><strong>Definition of Brief Resolved Unexplained Event (BRUE):</strong>\nThese are sudden, brief (less than 1 minute), now resolved (returned to baseline) episodes of at least one of the following in a child less than 1 years old:</p>\n<ol start=\"1\"><li>Cyanosis or pallor</li><li>Absent, decreased, or irregular breathing</li><li>Marked change in tone (hyper- or hypotonia)</li><li>Altered level of responsiveness</li></ol>\n\n<p><strong>NOTE:</strong> Most children who experience a BRUE have a normal physical exam, however, almost 50% will have an underlying condition requiring comprehensive medical care.</p>\n<p>In many cases, details from the child's home may be important to downstream health care clinicians. Please include details, such as the following, when providing report to the hospital:</p>\n<ol start=\"1\"><li>Make note of the home environment: Medications, condition, caregiver's condition, possibility of toxic exposure, etc.</li><li>Are there any concerns for non-accidental trauma?</li></ol>",
+        "pearlsTitle": null
       }
     ],
     "steps": [
@@ -62,9 +63,10 @@
         "html": "<p>* Nebulized EPINEPHrine/racemic EPINEPHrine may be contraindicated in children with a history of congenital heart disease.</p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS</strong>\nA common challenge when working with the pediatric population is the administration of medication. If commercial products are unavailable, alternative measures are often undertaken, such as crushing and dissolving portions of a tablet, or extemporaneous compounding of oral products. In some cases, an extemporaneous liquid cannot be prepared easily from tablets or capsules and off-label oral use of an intravenous (IV) or intramuscular (IM) preparation is considered. An example of this is administering the <em>injectable</em> formulation of dexamethasone <em>orally</em>. This practice is followed in emergency departments around the country.</p>\n<p><strong>Please note that at this time, the only IV medication on the MEMS formulary that has been approved to be given orally is single-dose/one-time use dexamethasone.</strong></p>\n</blockquote>"
+        "html": "<p>A common challenge when working with the pediatric population is the administration of medication. If commercial products are unavailable, alternative measures are often undertaken, such as crushing and dissolving portions of a tablet, or extemporaneous compounding of oral products. In some cases, an extemporaneous liquid cannot be prepared easily from tablets or capsules and off-label oral use of an intravenous (IV) or intramuscular (IM) preparation is considered. An example of this is administering the <em>injectable</em> formulation of dexamethasone <em>orally</em>. This practice is followed in emergency departments around the country.</p>\n<p><strong>Please note that at this time, the only IV medication on the MEMS formulary that has been approved to be given orally is single-dose/one-time use dexamethasone.</strong></p>",
+        "pearlsTitle": null
       }
     ],
     "steps": [
@@ -114,9 +116,10 @@
     "category": "pink",
     "intro": [
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ALL",
-        "html": "<blockquote>\n<p><strong>PEARLS</strong>\nNeonates and young infants have immature immune systems and are at high risk for serious bacterial infection despite appearing well. The rate of serious bacterial infection (SBI) is up to 20% in neonates. Often, fever may be the only sign of critical illness in these children. All febrile neonates and young infants should be transported to the emergency department for further evaluation.</p>\n<p>Definitions:\n* Neonates are children 0-28 days old.\n* Young infants are less than 60 days old.\n* Fever is a temperature of greater than or equal to 38.0 \u00b0C or 100.4 \u00b0F measured by any method by either caregivers or EMS.\n* Serious Bacterial Infections (SBI) in neonates and young infants may also present with hypothermia (temperature less than 36.0\u00b0C or 96.8 \u00b0F).</p>\n</blockquote>"
+        "html": "<p>Neonates and young infants have immature immune systems and are at high risk for serious bacterial infection despite appearing well. The rate of serious bacterial infection (SBI) is up to 20% in neonates. Often, fever may be the only sign of critical illness in these children. All febrile neonates and young infants should be transported to the emergency department for further evaluation.</p>\n<p>Definitions:</p>\n<ul>\n<li>Neonates are children 0-28 days old.</li>\n<li>Young infants are less than 60 days old.</li>\n<li>Fever is a temperature of greater than or equal to 38.0 \u00b0C or 100.4 \u00b0F measured by any method by either caregivers or EMS.</li>\n<li>Serious Bacterial Infections (SBI) in neonates and young infants may also present with hypothermia (temperature less than 36.0\u00b0C or 96.8 \u00b0F).</li>\n</ul>",
+        "pearlsTitle": null
       }
     ],
     "steps": [
@@ -248,9 +251,10 @@
         "html": "<p><img alt=\"Visual reference from Pediatric Transportation\" src=\"/assets/figures/page-0143-visual.webp\"/></p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ALL",
-        "html": "<blockquote>\n<p><strong>PEARLS</strong>\nThese guidelines apply to transporting pediatric patients who are of an age/weight that require a child safety seat. Pediatric patients that don't require a child safety seat should be transported following adult guidelines.</p>\n</blockquote>"
+        "html": "<p>These guidelines apply to transporting pediatric patients who are of an age/weight that require a child safety seat. Pediatric patients that don't require a child safety seat should be transported following adult guidelines.</p>",
+        "pearlsTitle": null
       },
       {
         "type": "content",

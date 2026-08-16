@@ -5,9 +5,10 @@
     "category": "gold",
     "intro": [
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS for Allergy/Anaphylaxis</strong></p>\n<p>*IM EPINEPHrine is the foundation of anaphylaxis treatment and should be administered every 5 minutes with nebulizers in between.</p>\n<p>**Patients suffering from shock secondary to anaphylaxis are very ill and the care of these patients may be nuanced. Please consider the value of OLMC discussion for any questions or concerns regarding the management of these patients.</p>\n<p>Children with a known, recent exposure to common triggers of allergic reactions (e.g., peanuts, medications, bee stings) should be considered at risk for having an allergic reaction or anaphylaxis.</p>\n<p>Children with asthma should be considered high risk for a severe reaction.</p>\n<p>Anaphylaxis in children should be treated for those exhibiting hypotension after exposure to a known allergen, respiratory compromise with acute onset of skin or mucosal involvement, or two or more of the following after exposure to a likely allergen: gastrointestinal symptoms, skin/mucosal involvement, respiratory compromise, or hypotension.</p>\n<p>Severity should be differentiated between anaphylaxis and non-anaphylaxis (i.e. Allergic reaction only). Only patients with anaphylaxis (as defined in <strong>Gold 3</strong>) should receive EPINEPHrine. Evidence suggests that the incidence of anaphylaxis is under recognized. Please consider the definitions of anaphylaxis (on the following page) and treat all cases of anaphylaxis with EPINEPHrine.</p>\n<p>Evidence does not support the routine use of cardiac monitoring for patients who receive one dose of EPINEPHrine.</p>\n</blockquote>"
+        "html": "<p>*IM EPINEPHrine is the foundation of anaphylaxis treatment and should be administered every 5 minutes with nebulizers in between.</p>\n<p>**Patients suffering from shock secondary to anaphylaxis are very ill and the care of these patients may be nuanced. Please consider the value of OLMC discussion for any questions or concerns regarding the management of these patients.</p>\n<p>Children with a known, recent exposure to common triggers of allergic reactions (e.g., peanuts, medications, bee stings) should be considered at risk for having an allergic reaction or anaphylaxis.</p>\n<p>Children with asthma should be considered high risk for a severe reaction.</p>\n<p>Anaphylaxis in children should be treated for those exhibiting hypotension after exposure to a known allergen, respiratory compromise with acute onset of skin or mucosal involvement, or two or more of the following after exposure to a likely allergen: gastrointestinal symptoms, skin/mucosal involvement, respiratory compromise, or hypotension.</p>\n<p>Severity should be differentiated between anaphylaxis and non-anaphylaxis (i.e. Allergic reaction only). Only patients with anaphylaxis (as defined in <strong>Gold 3</strong>) should receive EPINEPHrine. Evidence suggests that the incidence of anaphylaxis is under recognized. Please consider the definitions of anaphylaxis (on the following page) and treat all cases of anaphylaxis with EPINEPHrine.</p>\n<p>Evidence does not support the routine use of cardiac monitoring for patients who receive one dose of EPINEPHrine.</p>",
+        "pearlsTitle": "Allergy/Anaphylaxis"
       },
       {
         "type": "content",
@@ -294,9 +295,10 @@
         "html": "<pre><code>d. If IV unavailable, **DO NOT PLACE IO**. Administer glucagon at the following doses:\n    i. **Adult and Pediatric** patients 20 kg or greater: Glucagon 1 mg **IM**.\n    ii. **Pediatric** patients less than 20 kg: Glucagon 0.5 mg **IM**\n</code></pre>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<h3>Pearls for Diabetes/Hypoglycemic Emergencies</h3>\n<ul>\n<li>The definition of hypoglycemia has been changed from 80 mg/dL to 60 mg/dL based upon current literature which suggests most patients will experience adrenergic symptoms under 60 mg/dL and CNS symptoms under 50 mg/dL. If a patient's finger stick glucose measurement is above 60 mg/dL and hypoglycemia remains a concern, contact OLMC for treatment options.</li>\n<li>Goal of fluid bolus in hyperglycemia is to treat hypotension/signs of hypoperfusion as well as decrease blood glucose to less than 300 mg/dL.</li>\n<li>Hypoglycemic patients on sulfonylurea class medications [glipizide (Glucotrol), glyburide (Diabeta), glimepiride (Amaryl)] may have refractory hypoglycemia, therefore all require transport, glucose monitoring, and hospital evaluation.<ul>\n<li>A list of other anti-hyperglycemic agents include, but is not limited to the following: insulins; biguanides (metformin); alpha-glucosidase inhibitors (acarbose); dipeptidyl peptidase-4 inhibitors (saxagliptin, sitagliptin); incretin (GLP-1) mimics (dulaglutide, exenatide, liraglutide); meglitinides (repaglinide); ; SGLT-2 inhibitors (dapagliflozin, empagliflozin); and thiazolidinediones (pioglitazone)</li>\n</ul>\n</li>\n</ul>\n</blockquote>"
+        "html": "<ul>\n<li>The definition of hypoglycemia has been changed from 80 mg/dL to 60 mg/dL based upon current literature which suggests most patients will experience adrenergic symptoms under 60 mg/dL and CNS symptoms under 50 mg/dL. If a patient's finger stick glucose measurement is above 60 mg/dL and hypoglycemia remains a concern, contact OLMC for treatment options.</li>\n<li>Goal of fluid bolus in hyperglycemia is to treat hypotension/signs of hypoperfusion as well as decrease blood glucose to less than 300 mg/dL.</li>\n<li>Hypoglycemic patients on sulfonylurea class medications [glipizide (Glucotrol), glyburide (Diabeta), glimepiride (Amaryl)] may have refractory hypoglycemia, therefore all require transport, glucose monitoring, and hospital evaluation.<ul>\n<li>A list of other anti-hyperglycemic agents include, but is not limited to the following: insulins; biguanides (metformin); alpha-glucosidase inhibitors (acarbose); dipeptidyl peptidase-4 inhibitors (saxagliptin, sitagliptin); incretin (GLP-1) mimics (dulaglutide, exenatide, liraglutide); meglitinides (repaglinide); ; SGLT-2 inhibitors (dapagliflozin, empagliflozin); and thiazolidinediones (pioglitazone)</li>\n</ul>\n</li>\n</ul>",
+        "pearlsTitle": "Diabetes/Hypoglycemic Emergencies"
       }
     ],
     "steps": [
@@ -371,14 +373,16 @@
     "category": "gold",
     "intro": [
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ALL",
-        "html": "<blockquote>\n<p><strong>PEARLS for Seizures:</strong> Most seizures are self-limited. Unless a specific underlying condition exists (e.g., diabetes with hypoglycemia, head injury), treatment of a seizure or multiple seizures with a total duration of less than 5 minutes should focus on patient protection and oxygenation.</p>\n</blockquote>"
+        "html": "<p>Most seizures are self-limited. Unless a specific underlying condition exists (e.g., diabetes with hypoglycemia, head injury), treatment of a seizure or multiple seizures with a total duration of less than 5 minutes should focus on patient protection and oxygenation.</p>",
+        "pearlsTitle": "Seizures"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS for Persistent Seizures:</strong> Patients requiring more than one dose of midazolam are potentially very ill and possibly in status epilepticus. Early hospital notification allows the hospital to prepare additional medications to care for the patient.</p>\n</blockquote>"
+        "html": "<p>Patients requiring more than one dose of midazolam are potentially very ill and possibly in status epilepticus. Early hospital notification allows the hospital to prepare additional medications to care for the patient.</p>",
+        "pearlsTitle": "Persistent Seizures"
       },
       {
         "type": "content",
@@ -386,9 +390,10 @@
         "html": "<pre><code>    ii. Monitor oxygenation and ventilation with O\u2082 saturation and end-tidal capnography, especially if providing repeated doses of midazolam\n    iii. Manage the patient's airway as necessary, see Airway Algorithm, **Blue 2**\n</code></pre>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS for Seizures:</strong></p>\n<ul>\n<li>First dose of midazolam should be given <strong>IM</strong> unless an IV has already been established; do not delay treatment to start an IV.</li>\n<li>For a suspected eclamptic patient who is actively seizing, the first dose of magnesium should be given <strong>IM</strong> unless an IV has already been established; do not delay treatment to start an IV.</li>\n<li>References for dosing of medications in seizures are in part from the article: *Silbergleit, et al. \"Intramuscular versus Intravenous Therapy for Status Epilepticus\", New England Journal of Medicine, Feb 16, 2012, Vol. 366, No. 7.</li>\n<li>Contact OLMC for any patient requiring 3 or more doses of midazolam independent of the route provided.</li>\n<li>For patients with Vagus Nerve Stimulator who are having repeated/continuous seizure activity, consider activation of the Vagus Nerve Stimulator, if not already attempted, by holding the patients hand-held magnet over the Vagus Nerve Stimulator.</li>\n</ul>\n</blockquote>"
+        "html": "<ul>\n<li>First dose of midazolam should be given <strong>IM</strong> unless an IV has already been established; do not delay treatment to start an IV.</li>\n<li>For a suspected eclamptic patient who is actively seizing, the first dose of magnesium should be given <strong>IM</strong> unless an IV has already been established; do not delay treatment to start an IV.</li>\n<li>References for dosing of medications in seizures are in part from the article: *Silbergleit, et al. \"Intramuscular versus Intravenous Therapy for Status Epilepticus\", New England Journal of Medicine, Feb 16, 2012, Vol. 366, No. 7.</li>\n<li>Contact OLMC for any patient requiring 3 or more doses of midazolam independent of the route provided.</li>\n<li>For patients with Vagus Nerve Stimulator who are having repeated/continuous seizure activity, consider activation of the Vagus Nerve Stimulator, if not already attempted, by holding the patients hand-held magnet over the Vagus Nerve Stimulator.</li>\n</ul>",
+        "pearlsTitle": "Seizures"
       }
     ],
     "steps": [
@@ -608,9 +613,10 @@
         "html": "<p>Please present these findings to the Emergency Medicine staff at the receiving hospital. The patient's LKW and the answers to these questions are essential in determining the risks of severe bleeding complications if thrombolysis is administered. It is of critical importance to relay this information to the Emergency Medicine staff at the receiving hospital.</p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ALL",
-        "html": "<blockquote>\n<p><strong>PEARLS for Anticoagulants:</strong>\nPatients may recognize their anticoagulants as \"blood thinners\". Inquire about traditional anticoagulants including warfarin (Coumadin or Jantoven) and heparin (IV/IM - including enoxaparin (Lovenox)) as well as other oral anticoagulants, including dabigatran (Pradaxa), rivaroxaban (Xarelto), apixaban (Eliquis), betrixaban (Bevyxxa) or edoxaban (Savaysa). Please note, medication manufacturers are producing new anticoagulants frequently. Please note all medications the patient identifies as an anticoagulant and pass on to receiving hospital staff.</p>\n<p>Platelet inhibitors, such as aspirin, clopidogrel (Plavix), ticagrelor (Brilinta), and prasugrel (Effient) are <strong>NOT</strong> considered anticoagulants, but as with all medications, the receiving clinician should be made aware of their use.</p>\n</blockquote>"
+        "html": "<p>Patients may recognize their anticoagulants as \"blood thinners\". Inquire about traditional anticoagulants including warfarin (Coumadin or Jantoven) and heparin (IV/IM - including enoxaparin (Lovenox)) as well as other oral anticoagulants, including dabigatran (Pradaxa), rivaroxaban (Xarelto), apixaban (Eliquis), betrixaban (Bevyxxa) or edoxaban (Savaysa). Please note, medication manufacturers are producing new anticoagulants frequently. Please note all medications the patient identifies as an anticoagulant and pass on to receiving hospital staff.</p>\n<p>Platelet inhibitors, such as aspirin, clopidogrel (Plavix), ticagrelor (Brilinta), and prasugrel (Effient) are <strong>NOT</strong> considered anticoagulants, but as with all medications, the receiving clinician should be made aware of their use.</p>",
+        "pearlsTitle": "Anticoagulants"
       },
       {
         "type": "content",
@@ -618,9 +624,10 @@
         "html": "<p>Northern NE Protocol Group has taken extreme caution to ensure all information is accurate and in accordance with professional standards in effect at the time of publication. These protocols, policies, or procedures MAY NOT BE altered or modified.</p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS for Stroke:</strong></p>\n<ul>\n<li>Consider transporting a <strong>witness, family member or caregiver</strong> with the patient to verify the time of stroke symptoms onset. If the witness cannot come with you, obtain the witness' best phone number and relay to receiving hospital staff.</li>\n<li><strong>Time Last Known Well</strong> is the last time the patient was noted to be neurologically normal. If the patient was sleeping and wakes up with symptoms, time last known well is the last time the patient was seen to be normal. Check if the patient had gotten up and been at baseline during the night.</li>\n<li>Consider <strong>stroke mimics</strong> including: migraine, hypoglycemia, seizures, intoxication, sepsis.</li>\n<li>The management of an LVO stroke is a <strong>COMBINATION</strong> of rapid provision of thrombolytic AND endovascular therapies when a patient screens positive for an LVO stroke that is amenable for therapy. At present, BOTH therapies should be performed in as rapid as possible manner, highlighting the role of ALL hospitals in the care of stroke patients.</li>\n</ul>\n<p>This protocol was developed in collaboration with the Northern New England Protocol Group.</p>\n</blockquote>"
+        "html": "<ul>\n<li>Consider transporting a <strong>witness, family member or caregiver</strong> with the patient to verify the time of stroke symptoms onset. If the witness cannot come with you, obtain the witness' best phone number and relay to receiving hospital staff.</li>\n<li><strong>Time Last Known Well</strong> is the last time the patient was noted to be neurologically normal. If the patient was sleeping and wakes up with symptoms, time last known well is the last time the patient was seen to be normal. Check if the patient had gotten up and been at baseline during the night.</li>\n<li>Consider <strong>stroke mimics</strong> including: migraine, hypoglycemia, seizures, intoxication, sepsis.</li>\n<li>The management of an LVO stroke is a <strong>COMBINATION</strong> of rapid provision of thrombolytic AND endovascular therapies when a patient screens positive for an LVO stroke that is amenable for therapy. At present, BOTH therapies should be performed in as rapid as possible manner, highlighting the role of ALL hospitals in the care of stroke patients.</li>\n</ul>\n<p>This protocol was developed in collaboration with the Northern New England Protocol Group.</p>",
+        "pearlsTitle": "Stroke"
       },
       {
         "type": "content",
@@ -730,9 +737,10 @@
         "html": "<ul>\n<li><strong>Suspected infection? AND:</strong></li>\n<li><strong>Evidence of sepsis criteria? Includes two or more of the following:</strong><ul>\n<li>Temperature less than 96.8\u00b0F (36\u00b0C) or greater than 101\u00b0F (38.3\u00b0C)</li>\n<li>Heart rate greater than 90 bpm</li>\n<li>Respiratory rate greater than 20 bpm</li>\n<li><strong>Evidence of hypotension:</strong><ul>\n<li><strong>Adults:</strong> systolic blood pressure less than 90 mmHg or Mean Arterial Pressure (MAP) less than 65 mmHg</li>\n<li><strong>Pediatrics:</strong> systolic BP less than age-appropriate cutoff, mottling, capillary refill less than one second (flash) or greater than 3 seconds (delayed)</li>\n</ul>\n</li>\n<li>New onset altered mental status OR increasing mental status change with previous altered mental status</li>\n</ul>\n</li>\n</ul>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ADVANCED_EMT",
-        "html": "<blockquote>\n<p><strong>PEARLS for Sepsis:</strong> Patients at risk for fluid overload include, but are not limited to, patients over 65 years of age, patients with a history of heart failure, patients on dialysis for renal failure. Such patients may benefit from smaller volumes of resuscitation and earlier initiation of pressors.</p>\n</blockquote>"
+        "html": "<p>Patients at risk for fluid overload include, but are not limited to, patients over 65 years of age, patients with a history of heart failure, patients on dialysis for renal failure. Such patients may benefit from smaller volumes of resuscitation and earlier initiation of pressors.</p>",
+        "pearlsTitle": "Sepsis"
       },
       {
         "type": "content",
@@ -745,9 +753,10 @@
         "html": "<p>Northern NE Protocol Group has taken extreme caution to ensure all information is accurate and in accordance with professional standards in effect at the time of publication. These protocols, policies, or procedures MAY NOT BE altered or modified.</p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS for Sepsis:</strong>\n* Sepsis is a systemic inflammatory response due to infection, often resulting in significant morbidity and mortality.\n* Septic shock has a 50% mortality rate and must be treated aggressively.\n* Treatment consisting of IV fluid administration and early antibiotic administration reduces mortality in septic patients.\n* Please alert the receiving hospital with patients identified as septic.\n* Current evidence suggests there may be a benefit from use of Lactated Ringers in critically ill patients with shock. Consider using Lactated Ringers preferentially, if available.\n* When initiating NOREPInephrine, make sure that the IV flushes easily and that there is NO extravasation. Whenever possible, use proximal IV access.\n* Patients suffering from sepsis or septic shock are very ill patients and the care of these patients may be nuanced. Please consider the value of On-Line Medical Control discussion for any questions or concerns regarding the management of these patients.</p>\n</blockquote>"
+        "html": "<ul>\n<li>Sepsis is a systemic inflammatory response due to infection, often resulting in significant morbidity and mortality.</li>\n<li>Septic shock has a 50% mortality rate and must be treated aggressively.</li>\n<li>Treatment consisting of IV fluid administration and early antibiotic administration reduces mortality in septic patients.</li>\n<li>Please alert the receiving hospital with patients identified as septic.</li>\n<li>Current evidence suggests there may be a benefit from use of Lactated Ringers in critically ill patients with shock. Consider using Lactated Ringers preferentially, if available.</li>\n<li>When initiating NOREPInephrine, make sure that the IV flushes easily and that there is NO extravasation. Whenever possible, use proximal IV access.</li>\n<li>Patients suffering from sepsis or septic shock are very ill patients and the care of these patients may be nuanced. Please consider the value of On-Line Medical Control discussion for any questions or concerns regarding the management of these patients.</li>\n</ul>",
+        "pearlsTitle": "Sepsis"
       },
       {
         "type": "content",
@@ -800,9 +809,10 @@
         "html": "<p>*American College of Pediatrics \"An Emergency Department Septic Shock Protocol and Care Guideline for Children Initiated at Triage\"</p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS for Medical Shock</strong>\n* Many pediatric patients with shock have associated hypoglycemia. Mortality is increased if this is not addressed. Also, the presenting symptoms of shock and those of hypoglycemia can be very similar.\n* In children under the age 6, prompt IO placement after one failed IV attempt should be considered, since timely, successful IV placement in this age group is shown to be difficult.\n* Patients in shock require frequent reassessment. The following physiologic parameters are appropriate endpoints for therapy: normalization of heart rate, capillary refill, mental status, resolution of existing hypotension and, if available, presence of urine output.</p>\n</blockquote>"
+        "html": "<ul>\n<li>Many pediatric patients with shock have associated hypoglycemia. Mortality is increased if this is not addressed. Also, the presenting symptoms of shock and those of hypoglycemia can be very similar.</li>\n<li>In children under the age 6, prompt IO placement after one failed IV attempt should be considered, since timely, successful IV placement in this age group is shown to be difficult.</li>\n<li>Patients in shock require frequent reassessment. The following physiologic parameters are appropriate endpoints for therapy: normalization of heart rate, capillary refill, mental status, resolution of existing hypotension and, if available, presence of urine output.</li>\n</ul>",
+        "pearlsTitle": "Medical Shock"
       }
     ],
     "steps": [
@@ -934,9 +944,10 @@
         "html": "<p>Nausea and vomiting are symptoms of some other illness. Therefore, this is a supplemental protocol to be used in addition to other relevant protocols</p>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS for Management of Nausea and Vomiting:</strong>\nA small percentage of patients receiving ondansetron experience adverse cardiac reactions including QT prolongation. For this reason, patients should be questioned about preexisting QT prolongation, which is a contraindication to receiving ondansetron. In these conditions, patients SHOULD NOT receive ondansetron. There are also many medications which may cause a prolonged QT interval and ondansetron should be withheld in these cases. For more information on drugs that can cause QT prolongation, consider reading: https://www.uspharmacist.com/article/drug-induced-qt-prolongation</p>\n</blockquote>"
+        "html": "<p>A small percentage of patients receiving ondansetron experience adverse cardiac reactions including QT prolongation. For this reason, patients should be questioned about preexisting QT prolongation, which is a contraindication to receiving ondansetron. In these conditions, patients SHOULD NOT receive ondansetron. There are also many medications which may cause a prolonged QT interval and ondansetron should be withheld in these cases. For more information on drugs that can cause QT prolongation, consider reading: https://www.uspharmacist.com/article/drug-induced-qt-prolongation</p>",
+        "pearlsTitle": "Management of Nausea and Vomiting"
       }
     ],
     "steps": [
@@ -1001,14 +1012,16 @@
         "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Weight lbs/kgs</th>\n<th style=\"text-align: left;\">Dose</th>\n<th style=\"text-align: left;\">Number of 160 mg Chew tabs (double number for 80 mg tabs)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\"><strong>NOTE: Oral Acetaminophen is for children 5 years and older AND 20 lbs. and over</strong></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">20 - 26 lbs/9.4 - 12 kgs</td>\n<td style=\"text-align: left;\">160 mg</td>\n<td style=\"text-align: left;\">1 tab</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">27 - 32 lbs/12.1 - 14.7 kgs</td>\n<td style=\"text-align: left;\">200 mg</td>\n<td style=\"text-align: left;\">1 tab</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">32 - 38 lbs/14.8 - 17.3 kgs</td>\n<td style=\"text-align: left;\">240 mg</td>\n<td style=\"text-align: left;\">1.5 tabs</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">38 - 44 lbs/17.4 - 20 kgs</td>\n<td style=\"text-align: left;\">280 mg</td>\n<td style=\"text-align: left;\">1.5 tabs</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">44 - 50 lbs/20.1 - 22.7 kgs</td>\n<td style=\"text-align: left;\">320 mg</td>\n<td style=\"text-align: left;\">2 tabs</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">50 - 56 lbs/22.8 - 25.3 kgs</td>\n<td style=\"text-align: left;\">360 mg</td>\n<td style=\"text-align: left;\">2 tabs</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">56 - 65 lbs/25.4 - 29.3 kgs</td>\n<td style=\"text-align: left;\">400 mg</td>\n<td style=\"text-align: left;\">2.5 tabs</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">65 - 76 lbs/29.4 - 34.7 kgs</td>\n<td style=\"text-align: left;\">480 mg</td>\n<td style=\"text-align: left;\">3 tabs</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">76 - 89 lbs/34.8 - 40.3 kgs</td>\n<td style=\"text-align: left;\">560 mg</td>\n<td style=\"text-align: left;\">3.5 tabs</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">89 - 120 lbs/40.4 - 55 kgs</td>\n<td style=\"text-align: left;\">640 mg</td>\n<td style=\"text-align: left;\">4 tabs</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">121 lbs and up/ 55.1 kgs and up</td>\n<td style=\"text-align: left;\">960 - 1000 mg</td>\n<td style=\"text-align: left;\">6 tabs</td>\n</tr>\n</tbody>\n</table>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS</strong>\nTemperature reliability is dependent on the method utilized. Rectal temperature is the most reliable, followed by oral and axillary routes. Temporal measurement of temperature has low reliability.</p>\n</blockquote>"
+        "html": "<p>Temperature reliability is dependent on the method utilized. Rectal temperature is the most reliable, followed by oral and axillary routes. Temporal measurement of temperature has low reliability.</p>",
+        "pearlsTitle": null
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "PARAMEDIC",
-        "html": "<blockquote>\n<p><strong>PEARLS</strong>\n* An IV should not be placed solely for the administration of IV acetaminophen.\n* The administration of IV administration should not interfere with the resuscitation of the patient (e.g., fluid resuscitation)</p>\n</blockquote>"
+        "html": "<ul>\n<li>An IV should not be placed solely for the administration of IV acetaminophen.</li>\n<li>The administration of IV administration should not interfere with the resuscitation of the patient (e.g., fluid resuscitation)</li>\n</ul>",
+        "pearlsTitle": null
       }
     ],
     "steps": [
