@@ -79,92 +79,92 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "<p>Manage airway as appropriate, see Airway Algorithm, <strong>Blue 2</strong></p>"
+        "html": "Manage airway as appropriate, see Airway Algorithm, <strong>Blue 2</strong>"
       },
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "<p>If shock present, refer to Medical Shock protocol, <strong>Gold 14</strong></p>"
+        "html": "If shock present, refer to Medical Shock protocol, <strong>Gold 14</strong>"
       },
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "<p>If anaphylaxis is identified, assist administration of patient's own EPINEPHrine auto-injector, administer an adult or pediatric (as applicable) auto-injector, OR provide EPINEPHrine through the Maine EMS Check and Inject program in the anterolateral thigh:\n    a. <strong>Adult:</strong> EPINEPHrine 0.3 mg <strong>IM</strong> [0.3 mL of 1 mg/mL] in anterolateral thigh, or\n    b. <strong>Pediatric</strong> dose of EPINEPHrine which is as follows: less than 25 kg, 0.15 mg <strong>IM</strong> [0.15 mL of 1 mg/mL], greater than 25 kg, 0.3 mg <strong>IM</strong> [0.3 mL of 1 mg/mL] in anterolateral thigh\n    c. Repeat <strong>IM</strong> EPINEPHrine doses every 5 min, as needed*\n    d. Notify OLMC of incoming critical patient.</p>"
+        "html": "If anaphylaxis is identified, assist administration of patient's own EPINEPHrine auto-injector, administer an adult or pediatric (as applicable) auto-injector, OR provide EPINEPHrine through the Maine EMS Check and Inject program in the anterolateral thigh:<ol type=\"a\"><li><strong>Adult:</strong> EPINEPHrine 0.3 mg <strong>IM</strong> [0.3 mL of 1 mg/mL] in anterolateral thigh, or</li><li><strong>Pediatric</strong> dose of EPINEPHrine which is as follows: less than 25 kg, 0.15 mg <strong>IM</strong> [0.15 mL of 1 mg/mL], greater than 25 kg, 0.3 mg <strong>IM</strong> [0.3 mL of 1 mg/mL] in anterolateral thigh</li><li>Repeat <strong>IM</strong> EPINEPHrine doses every 5 min, as needed*</li><li>Notify OLMC of incoming critical patient.</li></ol>"
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>Request ALS, if available</p>"
+        "html": "Request ALS, if available"
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p>If wheezing persists 5 minutes after first dose of EPINEPHrine, refer to Respiratory Distress with Bronchospasm protocol, <strong>Blue 6</strong>, for administration of ipratropium bromide/albuterol.</p>"
+        "html": "If wheezing persists 5 minutes after first dose of EPINEPHrine, refer to Respiratory Distress with Bronchospasm protocol, <strong>Blue 6</strong>, for administration of ipratropium bromide/albuterol."
       },
       {
         "num": 6,
         "providerLevel": "EMT",
-        "html": "<p>Consider local measures to prevent absorption of allergen</p>"
+        "html": "Consider local measures to prevent absorption of allergen"
       },
       {
         "num": 7,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>If anaphylaxis identified:\n    a. <strong>Adult:</strong> EPINEPHrine 0.3 mg <strong>IM</strong> [0.3 mL of 1 mg/mL] in anterolateral thigh, or\n    b. <strong>Pediatric</strong> dose of EPINEPHrine which is as follows: less than 25 kg, 0.15 mg <strong>IM</strong> [0.15 mL of 1 mg/mL], greater than 25 kg, 0.3 mg <strong>IM</strong> [0.3 mL of 1 mg/mL] <strong>IM</strong> in anterolateral thigh\n    c. Repeat <strong>IM</strong> EPINEPHrine doses every 5 min, as needed.\n    d. If patient requires repeated EPINEPHrine, request ALS.</p>"
+        "html": "If anaphylaxis identified:<ol type=\"a\"><li><strong>Adult:</strong> EPINEPHrine 0.3 mg <strong>IM</strong> [0.3 mL of 1 mg/mL] in anterolateral thigh, or</li><li><strong>Pediatric</strong> dose of EPINEPHrine which is as follows: less than 25 kg, 0.15 mg <strong>IM</strong> [0.15 mL of 1 mg/mL], greater than 25 kg, 0.3 mg <strong>IM</strong> [0.3 mL of 1 mg/mL] <strong>IM</strong> in anterolateral thigh</li><li>Repeat <strong>IM</strong> EPINEPHrine doses every 5 min, as needed.</li><li>If patient requires repeated EPINEPHrine, request ALS.</li></ol>"
       },
       {
         "num": 8,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>IV en route</p>"
+        "html": "IV en route"
       },
       {
         "num": 9,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>Cardiac monitor</p>"
+        "html": "Cardiac monitor"
       },
       {
         "num": 10,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>If shock present, administer fluid bolus</p>"
+        "html": "If shock present, administer fluid bolus"
       },
       {
         "num": 11,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>For patients with minor symptoms only, or resolution of symptoms with a single dose of EPINEPHrine, the AEMT, in consultation with OLMC, may consider canceling ALS.</p>"
+        "html": "For patients with minor symptoms only, or resolution of symptoms with a single dose of EPINEPHrine, the AEMT, in consultation with OLMC, may consider canceling ALS."
       },
       {
         "num": 12,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Consider glucagon 1 mg <strong>IV</strong> q 5 minutes for patients taking beta-blockers and not responsive to EPINEPHrine</p>"
+        "html": "Consider glucagon 1 mg <strong>IV</strong> q 5 minutes for patients taking beta-blockers and not responsive to EPINEPHrine"
       },
       {
         "num": 13,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Diphenhydramine (Benadryl)\n    a. <strong>Adult:</strong> 25-50 mg <strong>IV/IO/IM</strong>\n    b. <strong>Pediatric:</strong> 1-2 mg/kg <strong>IV/IO/IM</strong> (max single dose of 50 mg)</p>"
+        "html": "Diphenhydramine (Benadryl)<ol type=\"a\"><li><strong>Adult:</strong> 25-50 mg <strong>IV/IO/IM</strong></li><li><strong>Pediatric:</strong> 1-2 mg/kg <strong>IV/IO/IM</strong> (max single dose of 50 mg)</li></ol>"
       },
       {
         "num": 14,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Consider <strong>ONE</strong> of the following; repeat every 5 minutes, as needed\n    a. Albuterol 2.5 mg by nebulization;\n    b. 1 mL of 1 mg/mL EPINEPHrine nebulized with 2 mL of NS\n    c. 0.5 mL of 2.25% racemic EPINEPHrine solution nebulized with 2.5 mL NS</p>"
+        "html": "Consider <strong>ONE</strong> of the following; repeat every 5 minutes, as needed<ol type=\"a\"><li>Albuterol 2.5 mg by nebulization;</li><li>1 mL of 1 mg/mL EPINEPHrine nebulized with 2 mL of NS</li><li>0.5 mL of 2.25% racemic EPINEPHrine solution nebulized with 2.5 mL NS</li></ol>"
       },
       {
         "num": 15,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Repeat <strong>IM</strong> EPINEPHrine every 5 minutes, as needed.</p>"
+        "html": "Repeat <strong>IM</strong> EPINEPHrine every 5 minutes, as needed."
       },
       {
         "num": 16,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If patient suffers hemodynamic collapse OR does not improve OR worsens after 3 doses of <strong>IM</strong> EPINEPHrine, initiate EPINEPHrine <strong>IV</strong> infusion: **\n    <strong>Preparation</strong> - Add 1 mL (1 mg) EPINEPHrine 1 mg/mL to 250 mL bag NS or D_5_W. This results in a 1 mg/250 mL = 4 mcg/mL mix.\n    <strong>Dose</strong> - Start at 0.05 mcg/kg/min. Titrate by 0.05 mcg/kg/min every 5 min. Titrate to desired effect which may include resolution of respiratory symptoms, SPB of &gt; 90 mmHg and/or MAP &gt; 65 mmHg.\n    <strong>Usual dose</strong> is 0.05-0.5 mcg/kg/min. Absolute maximum dose is 0.5 mcg/kg/min\n    <strong>This must be administered via a Maine EMS-approved medication pump.</strong></p>"
+        "html": "If patient suffers hemodynamic collapse OR does not improve OR worsens after 3 doses of <strong>IM</strong> EPINEPHrine, initiate EPINEPHrine <strong>IV</strong> infusion: **"
       },
       {
         "num": 17,
         "providerLevel": "PARAMEDIC",
-        "html": "<p><strong>Acute onset of illness (minutes to hours) with skin or mucosal involvement* AND either of the following:</strong>\n    a. Respiratory compromise**\n    b. Hypotension or evidence of end-organ dysfunction***</p>"
+        "html": "<strong>Acute onset of illness (minutes to hours) with skin or mucosal involvement* AND either of the following:</strong><ol type=\"a\"><li>Respiratory compromise**</li><li>Hypotension or evidence of end-organ dysfunction***</li></ol>"
       },
       {
         "num": 18,
         "providerLevel": "PARAMEDIC",
-        "html": "<p><strong>Acute onset of illness (minutes to hours) after exposure to a likely allergen AND any two of the following:</strong>\n    a. Skin or mucosal changes*\n    b. Respiratory compromise**\n    c. Hypotension or evidence of end-organ dysfunction***\n    d. Persistent GI symptoms****</p>"
+        "html": "<strong>Acute onset of illness (minutes to hours) after exposure to a likely allergen AND any two of the following:</strong><ol type=\"a\"><li>Skin or mucosal changes*</li><li>Respiratory compromise**</li><li>Hypotension or evidence of end-organ dysfunction***</li><li>Persistent GI symptoms****</li></ol>"
       }
     ],
     "pearls": [],
@@ -221,47 +221,47 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "<p>Immobilize spine, if indicated</p>"
+        "html": "Immobilize spine, if indicated"
       },
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "<p>Manage airway as appropriate, see Airway Algorithm, <strong>Blue 2</strong></p>"
+        "html": "Manage airway as appropriate, see Airway Algorithm, <strong>Blue 2</strong>"
       },
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "<p>Request ALS, if available</p>"
+        "html": "Request ALS, if available"
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>If shock present, refer to Medical Shock protocol, <strong>Gold 14</strong></p>"
+        "html": "If shock present, refer to Medical Shock protocol, <strong>Gold 14</strong>"
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p>Perform finger stick to measure blood glucose, if so trained. If blood glucose is less than 60 mg/dL, refer to Diabetic/Hypoglycemic Emergencies protocol, <strong>Gold 6</strong></p>"
+        "html": "Perform finger stick to measure blood glucose, if so trained. If blood glucose is less than 60 mg/dL, refer to Diabetic/Hypoglycemic Emergencies protocol, <strong>Gold 6</strong>"
       },
       {
         "num": 6,
         "providerLevel": "EMT",
-        "html": "<p>If respirations less than 12 per minute AND narcotic overdose suspected, refer to Poisoning/Overdose protocol, <strong>Yellow 1</strong>\n<strong>Never administer naloxone to a neonate</strong></p>"
+        "html": "If respirations less than 12 per minute AND narcotic overdose suspected, refer to Poisoning/Overdose protocol, <strong>Yellow 1</strong>"
       },
       {
         "num": 7,
         "providerLevel": "EMT",
-        "html": "<p>For patients who suffered syncope before their period of AMS, or who are still altered, obtain a 12-lead ECG, if available and so trained. Refer to Syncope protocol, <strong>Red 33</strong>.</p>"
+        "html": "For patients who suffered syncope before their period of AMS, or who are still altered, obtain a 12-lead ECG, if available and so trained. Refer to Syncope protocol, <strong>Red 33</strong>."
       },
       {
         "num": 8,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Establish IV en route</p>"
+        "html": "Establish IV en route"
       },
       {
         "num": 9,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Cardiac monitor</p>"
+        "html": "Cardiac monitor"
       }
     ],
     "pearls": [],
@@ -303,47 +303,47 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "<p>Manage airway as appropriate, see Airway Algorithm, <strong>Blue 2</strong></p>"
+        "html": "Manage airway as appropriate, see Airway Algorithm, <strong>Blue 2</strong>"
       },
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "<p>Request ALS, if available</p>"
+        "html": "Request ALS, if available"
       },
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "<p>If trained, perform finger stick to measure blood glucose\n    a. If blood glucose is less than <strong>60 mg/dL</strong>, <strong>AND PATIENT IS CONSCIOUS AND ABLE TO SWALLOW</strong>, give glucose (one tablet or tube) <strong>orally</strong>. Repeat, as needed, for clinical improvement.</p>"
+        "html": "If trained, perform finger stick to measure blood glucose<ol type=\"a\"><li>If blood glucose is less than <strong>60 mg/dL</strong>, <strong>AND PATIENT IS CONSCIOUS AND ABLE TO SWALLOW</strong>, give glucose (one tablet or tube) <strong>orally</strong>. Repeat, as needed, for clinical improvement.</li></ol>"
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>If unable to obtain a finger stick blood glucose, and patient is a known diabetic, has clinical signs of hypoglycemia <strong>AND IS CONSCIOUS AND ABLE TO SWALLOW</strong>, give glucose (one tablet or tube) <strong>orally</strong>. Repeat, as needed, for clinical improvement.</p>"
+        "html": "If unable to obtain a finger stick blood glucose, and patient is a known diabetic, has clinical signs of hypoglycemia <strong>AND IS CONSCIOUS AND ABLE TO SWALLOW</strong>, give glucose (one tablet or tube) <strong>orally</strong>. Repeat, as needed, for clinical improvement."
       },
       {
         "num": 5,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>Establish IV en route</p>"
+        "html": "Establish IV en route"
       },
       {
         "num": 6,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>If blood glucose is less than <strong>60 mg/dL</strong>:\n    a. And patient is conscious and able to swallow, give glucose (one tablet or tube) <strong>orally</strong>, otherwise,\n    b. If patient is 40 kg or more, administer dextrose 25 gm <strong>IV</strong> (50 mL of 50% solution or 250 mL of D_10_W solution),\n    c. If under 40 kg give D_10_W as per the following:</p>"
+        "html": "If blood glucose is less than <strong>60 mg/dL</strong>:<ol type=\"a\"><li>And patient is conscious and able to swallow, give glucose (one tablet or tube) <strong>orally</strong>, otherwise,</li><li>If patient is 40 kg or more, administer dextrose 25 gm <strong>IV</strong> (50 mL of 50% solution or 250 mL of D_10_W solution),</li><li>If under 40 kg give D_10_W as per the following:</li></ol>"
       },
       {
         "num": 7,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>If blood glucose is greater than <strong>300 mg/dL</strong>, give <strong>NS</strong> fluid bolus</p>"
+        "html": "If blood glucose is greater than <strong>300 mg/dL</strong>, give <strong>NS</strong> fluid bolus"
       },
       {
         "num": 8,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>Repeat glucose measurement every 5 minutes until hypoglycemia is resolved and for any concerns of recurrent hypoglycemia.</p>"
+        "html": "Repeat glucose measurement every 5 minutes until hypoglycemia is resolved and for any concerns of recurrent hypoglycemia."
       },
       {
         "num": 9,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>Cardiac monitor</p>"
+        "html": "Cardiac monitor"
       },
       {
         "num": 10,
@@ -445,17 +445,17 @@
       {
         "num": 11,
         "providerLevel": "PARAMEDIC",
-        "html": "If the patient has a single seizure lasting greater than 5 minutes OR recurrent seizure activity without recovery/return to baseline between seizures, administer IM midazolam if no IV is established. If an IV is established, administer midazolam via the IV route\n    a. <strong>Intramuscular dosing \u2013</strong>\n        i. <strong>Adult</strong> - midazolam 10 mg <strong>IM</strong>\n        ii. <strong>Pediatric</strong> - midazolam 0.2 mg/kg <strong>IM</strong> to MAX dose of 10 mg\n    b. <strong>Intravenous/Intraosseous</strong> dosing\n        i. <strong>Adult</strong> - midazolam 5 mg <strong>IV/IO</strong>\n        ii. <strong>Pediatric</strong> - midazolam 0.1 mg/kg <strong>IV/IO</strong> to a MAX dose of 5 mg\n    c. If seizure continues, repeat midazolam every 5 min until resolution of seizure, for a <strong>MAX cumulative</strong> total of: <strong>Adult:</strong> 20 mg <strong>IM</strong> or 15 mg <strong>IV/IO</strong>; <strong>Pediatric</strong> 0.6 mg/kg <strong>IM</strong> (20 mg), or 0.3 mg/kg <strong>IV/IO</strong> (15 mg)\n        i. Contact the hospital if additional midazolam is necessary"
+        "html": "If the patient has a single seizure lasting greater than 5 minutes OR recurrent seizure activity without recovery/return to baseline between seizures, administer IM midazolam if no IV is established. If an IV is established, administer midazolam via the IV route<ol type=\"a\"><li><strong>Intramuscular dosing \u2013</strong><ol type=\"i\"><li><strong>Adult</strong> - midazolam 10 mg <strong>IM</strong></li><li><strong>Pediatric</strong> - midazolam 0.2 mg/kg <strong>IM</strong> to MAX dose of 10 mg</li></ol></li><li><strong>Intravenous/Intraosseous</strong> dosing<ol type=\"i\"><li><strong>Adult</strong> - midazolam 5 mg <strong>IV/IO</strong></li><li><strong>Pediatric</strong> - midazolam 0.1 mg/kg <strong>IV/IO</strong> to a MAX dose of 5 mg</li></ol></li><li>If seizure continues, repeat midazolam every 5 min until resolution of seizure, for a <strong>MAX cumulative</strong> total of: <strong>Adult:</strong> 20 mg <strong>IM</strong> or 15 mg <strong>IV/IO</strong>; <strong>Pediatric</strong> 0.6 mg/kg <strong>IM</strong> (20 mg), or 0.3 mg/kg <strong>IV/IO</strong> (15 mg)<ol type=\"i\"><li>Contact the hospital if additional midazolam is necessary</li></ol></li></ol>"
       },
       {
         "num": 12,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>For patients visibly pregnant or less than 6 weeks postpartum who are seizing or post-ictal,\n    a. Magnesium sulfate 4 gm <strong>IV/IO</strong> over 15 minutes via medication pump\n        i. If IV/IO not available, in the actively seizing patient OR patient with recurrent seizure activity without recovery/return to baseline between seizures, magnesium sulfate 8 gm <strong>IM</strong> (4 gm in each buttock)\n    b. If <strong>IV/IO/IM</strong> magnesium sulfate was administered AND\n        i. Seizing stopped or patient was post-ictal, start magnesium sulfate infusion at 1 gm/hour via medication pump.\n        ii. Seizing continues, magnesium sulfate 2 gm <strong>IV/IO</strong> over 5 minutes via medication pump.\n            1. If seizing stops after this second <strong>IV/IO</strong> dose of magnesium sulfate start magnesium sulfate infusion at 1 gm/hour via medication pump.\n    c. If patient continues to seize, administer one of the following\n        i. Midazolam 10 mg IM, or\n        ii. Midazolam 5 mg IV/IO\n    d. If seizure continues, repeat midazolam every 5 min until resolution of seizure, for a <strong>MAX cumulative</strong> total of 20 mg <strong>IM</strong> or 15 mg <strong>IV/IO</strong></p>"
+        "html": "For patients visibly pregnant or less than 6 weeks postpartum who are seizing or post-ictal,<ol type=\"a\"><li>Magnesium sulfate 4 gm <strong>IV/IO</strong> over 15 minutes via medication pump<ol type=\"i\"><li>If IV/IO not available, in the actively seizing patient OR patient with recurrent seizure activity without recovery/return to baseline between seizures, magnesium sulfate 8 gm <strong>IM</strong> (4 gm in each buttock)</li></ol></li><li>If <strong>IV/IO/IM</strong> magnesium sulfate was administered AND<ol type=\"i\"><li>Seizing stopped or patient was post-ictal, start magnesium sulfate infusion at 1 gm/hour via medication pump.</li><li>Seizing continues, magnesium sulfate 2 gm <strong>IV/IO</strong> over 5 minutes via medication pump.<ol><li>If seizing stops after this second <strong>IV/IO</strong> dose of magnesium sulfate start magnesium sulfate infusion at 1 gm/hour via medication pump.</li></ol></li></ol></li><li>If patient continues to seize, administer one of the following<ol type=\"i\"><li>Midazolam 10 mg IM, or</li><li>Midazolam 5 mg IV/IO</li></ol></li><li>If seizure continues, repeat midazolam every 5 min until resolution of seizure, for a <strong>MAX cumulative</strong> total of 20 mg <strong>IM</strong> or 15 mg <strong>IV/IO</strong></li></ol>"
       },
       {
         "num": 13,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Contact OLMC for the following OPTIONS:\n    a. If unable to stop seizure activity, or if any therapy beyond these protocols is necessary</p>"
+        "html": "Contact OLMC for the following OPTIONS:<ol type=\"a\"><li>If unable to stop seizure activity, or if any therapy beyond these protocols is necessary</li></ol>"
       }
     ],
     "pearls": [],
@@ -657,12 +657,12 @@
       {
         "num": 6,
         "providerLevel": "EMT",
-        "html": "<p>As early as possible, <strong>alert the receiving hospital</strong> of a \"Code Stroke\"\n    a. Relay the following information:\n        i. Patient age and gender\n        ii. Identify the patient as a potential stroke patient\n        iii. The patient's neurologic deficits and the findings of the Cincinnati Prehospital Stoke Scale and FAST-ED Scale\n        iv. The \"Time Last Known Well\"\n        v. The patient's mental status\n        vi. The patient's vital signs and finger stick blood glucose results\n        vii. ETA</p>"
+        "html": "As early as possible, <strong>alert the receiving hospital</strong> of a \"Code Stroke\"<ol type=\"a\"><li>Relay the following information:<ol type=\"i\"><li>Patient age and gender</li><li>Identify the patient as a potential stroke patient</li><li>The patient's neurologic deficits and the findings of the Cincinnati Prehospital Stoke Scale and FAST-ED Scale</li><li>The \"Time Last Known Well\"</li><li>The patient's mental status</li><li>The patient's vital signs and finger stick blood glucose results</li><li>ETA</li></ol></li></ol>"
       },
       {
         "num": 7,
         "providerLevel": "EMT",
-        "html": "<p>Transport to the most appropriate facility based on regional resources</p>"
+        "html": "Transport to the most appropriate facility based on regional resources"
       },
       {
         "num": 8,
@@ -809,12 +809,12 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "<p>Attempt to identify cause\n    a. Hemorrhagic Shock, see Hemorrhagic Shock protocol, <strong>Green 13</strong>\n    b. Cardiogenic Shock, see Cardiogenic Shock protocol, <strong>Red 32</strong>\n    c. Anaphylactic Shock, see Allergy/Anaphylaxis protocol, <strong>Gold 1</strong></p>"
+        "html": "Attempt to identify cause<ol type=\"a\"><li>Hemorrhagic Shock, see Hemorrhagic Shock protocol, <strong>Green 13</strong></li><li>Cardiogenic Shock, see Cardiogenic Shock protocol, <strong>Red 32</strong></li><li>Anaphylactic Shock, see Allergy/Anaphylaxis protocol, <strong>Gold 1</strong></li></ol>"
       },
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "<p>Manage airway as appropriate, see Airway Algorithm, <strong>Blue 2</strong></p>"
+        "html": "Manage airway as appropriate, see Airway Algorithm, <strong>Blue 2</strong>"
       },
       {
         "num": 3,
@@ -824,27 +824,27 @@
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>Perform finger stick to measure blood glucose, if so trained\n    a. If blood glucose less than 60 mg/dL, refer to Diabetic/Hypoglycemic Emergencies protocol, <strong>Gold 6</strong></p>"
+        "html": "Perform finger stick to measure blood glucose, if so trained<ol type=\"a\"><li>If blood glucose less than 60 mg/dL, refer to Diabetic/Hypoglycemic Emergencies protocol, <strong>Gold 6</strong></li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p>Transport</p>"
+        "html": "Transport"
       },
       {
         "num": 6,
         "providerLevel": "ADVANCED_EMT",
-        "html": "For Severe Sepsis\n    a. Assess for acute pulmonary edema. If present, refer to Cardiogenic Shock protocol, <strong>Red 32</strong>\n    b. Administer up to 30 mL/kg fluid bolus.\n    c. For patients with evidence of fluid overload or at risk for fluid overload, consider consultation with OLMC for different resuscitation volume goals."
+        "html": "For Severe Sepsis<ol type=\"a\"><li>Assess for acute pulmonary edema. If present, refer to Cardiogenic Shock protocol, <strong>Red 32</strong></li><li>Administer up to 30 mL/kg fluid bolus.</li><li>For patients with evidence of fluid overload or at risk for fluid overload, consider consultation with OLMC for different resuscitation volume goals.</li></ol>"
       },
       {
         "num": 7,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>For medical or presumed septic shock\n    a. If no response to initial treatment: initiate NOREPInephrine IV infusion. NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump.\n        i. Preparation - mix NOREPInephrine 8 mg in 250 mL NS [32 mcg/mL]\n        ii. Dosing - Starting dose of NOREPInephrine is 0.03 mcg/kg/min. Titrate by 0.03 mcg/kg/min every 3-5 minutes. Usual dose is 0.03-0.25 mcg/kg/min. Usual MAX dose is 0.6 mcg/kg/min. Absolute MAX dose is 3 mcg/kg/min.\n        iii. Titrate to maintain SBP greater than 90 mmHg and/or MAP &gt; 65 mmHg</p>"
+        "html": "For medical or presumed septic shock<ol type=\"a\"><li>If no response to initial treatment: initiate NOREPInephrine IV infusion. NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump.<ol type=\"i\"><li>Preparation - mix NOREPInephrine 8 mg in 250 mL NS [32 mcg/mL]</li><li>Dosing - Starting dose of NOREPInephrine is 0.03 mcg/kg/min. Titrate by 0.03 mcg/kg/min every 3-5 minutes. Usual dose is 0.03-0.25 mcg/kg/min. Usual MAX dose is 0.6 mcg/kg/min. Absolute MAX dose is 3 mcg/kg/min.</li><li>Titrate to maintain SBP greater than 90 mmHg and/or MAP &gt; 65 mmHg</li></ol></li></ol>"
       },
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Additionally, if the patient is found to have Adrenal Insufficiency (via medic alert bracelet, patient records, or family/staff reports), administer dexamethasone as follows:\n    a. Adults - dexamethasone 16 mg IV/IO/IM x 1 dose\n    b. Pediatrics - dexamethasone 0.6 mg/kg with MAX single dose of 16 mg IV/IO/IM x 1 dose\n    c. May provide patient's own dose of hydrocortisone (Solu-cortef) at the patient's physician's prescribed dose if patient's medications are available</p>"
+        "html": "Additionally, if the patient is found to have Adrenal Insufficiency (via medic alert bracelet, patient records, or family/staff reports), administer dexamethasone as follows:<ol type=\"a\"><li>Adults - dexamethasone 16 mg IV/IO/IM x 1 dose</li><li>Pediatrics - dexamethasone 0.6 mg/kg with MAX single dose of 16 mg IV/IO/IM x 1 dose</li><li>May provide patient's own dose of hydrocortisone (Solu-cortef) at the patient's physician's prescribed dose if patient's medications are available</li></ol>"
       }
     ],
     "pearls": [],
@@ -901,7 +901,7 @@
       {
         "num": 5,
         "providerLevel": "ADVANCED_EMT",
-        "html": "If so trained, perform 12-lead ECG, under the following circumstances:\n    a. The patient has a history of cardiac disease or risk factors for cardiac disease, or\n    b. Based on the clinician's discretion"
+        "html": "If so trained, perform 12-lead ECG, under the following circumstances:<ol type=\"a\"><li>The patient has a history of cardiac disease or risk factors for cardiac disease, or</li><li>Based on the clinician's discretion</li></ol>"
       },
       {
         "num": 6,
@@ -911,7 +911,7 @@
       {
         "num": 7,
         "providerLevel": "PARAMEDIC",
-        "html": "For non-traumatic abdominal pain in a stable patient with a normal level of consciousness:\n    a. Consider fentanyl 1 mcg/kg <strong>IV/IN</strong> for a MAX dose of 100 mcg\n        i. If repeated doses necessary, contact OLMC\n    b. For nausea or vomiting, refer to Nausea and Vomiting protocol, <strong>Gold 18</strong>"
+        "html": "For non-traumatic abdominal pain in a stable patient with a normal level of consciousness:<ol type=\"a\"><li>Consider fentanyl 1 mcg/kg <strong>IV/IN</strong> for a MAX dose of 100 mcg<ol type=\"i\"><li>If repeated doses necessary, contact OLMC</li></ol></li><li>For nausea or vomiting, refer to Nausea and Vomiting protocol, <strong>Gold 18</strong></li></ol>"
       }
     ],
     "pearls": [],
@@ -958,12 +958,12 @@
       {
         "num": 4,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Consider Ondansetron: (Remember: do not administer if patient has history of long QT syndrome)\n    a. <strong>Adults:</strong> administer ondansetron 4 mg ODT tablet <strong>PO</strong>, or ondansetron 4 mg <strong>IV/IM</strong>\n        i. May repeat once after 15 minutes, as needed.\n    b. <strong>Pediatric</strong> patients:\n        i. 6 months to less than 4 years old: ondansetron 2 mg <strong>IV/IM</strong>\n        ii. 4 years old and above: ondansetron 4 mg <strong>PO/IV/IM</strong></p>"
+        "html": "Consider Ondansetron: (Remember: do not administer if patient has history of long QT syndrome)<ol type=\"a\"><li><strong>Adults:</strong> administer ondansetron 4 mg ODT tablet <strong>PO</strong>, or ondansetron 4 mg <strong>IV/IM</strong><ol type=\"i\"><li>May repeat once after 15 minutes, as needed.</li></ol></li><li><strong>Pediatric</strong> patients:<ol type=\"i\"><li>6 months to less than 4 years old: ondansetron 2 mg <strong>IV/IM</strong></li><li>4 years old and above: ondansetron 4 mg <strong>PO/IV/IM</strong></li></ol></li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Consider IV access if active vomiting or for management of underlying cause</p>"
+        "html": "Consider IV access if active vomiting or for management of underlying cause"
       },
       {
         "num": 6,
@@ -1025,12 +1025,12 @@
       {
         "num": 3,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>If no contraindications to oral medications exist, for patients 5 years and older AND 20 pounds/9.4 kg or greater, consider:\n    a. Acetaminophen chewable tab, 10-15 mg/kg rounded to the nearest half tab (may be chewed or swallowed whole). MAX dose 1000 mg.</p>"
+        "html": "If no contraindications to oral medications exist, for patients 5 years and older AND 20 pounds/9.4 kg or greater, consider:<ol type=\"a\"><li>Acetaminophen chewable tab, 10-15 mg/kg rounded to the nearest half tab (may be chewed or swallowed whole). MAX dose 1000 mg.</li></ol>"
       },
       {
         "num": 4,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Monitor closely for development of hypothermia or other vital sign abnormalities</p>"
+        "html": "Monitor closely for development of hypothermia or other vital sign abnormalities"
       },
       {
         "num": 5,
@@ -1040,7 +1040,7 @@
       {
         "num": 6,
         "providerLevel": "PARAMEDIC",
-        "html": "If a patient's condition necessitates IV placement for another reason, AND the oral route of acetaminophen is contraindicated, AND the patient is <strong>greater than 2 years old</strong>, consider acetaminophen 10-15 mg/kg <strong>IV</strong> once up to a MAX of 1000 mg, over 15 minutes.\n    a. NOTE: doses of acetaminophen less than 1000 mg require infusion via pump."
+        "html": "If a patient's condition necessitates IV placement for another reason, AND the oral route of acetaminophen is contraindicated, AND the patient is <strong>greater than 2 years old</strong>, consider acetaminophen 10-15 mg/kg <strong>IV</strong> once up to a MAX of 1000 mg, over 15 minutes.<ol type=\"a\"><li>NOTE: doses of acetaminophen less than 1000 mg require infusion via pump.</li></ol>"
       }
     ],
     "pearls": [],

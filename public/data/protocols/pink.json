@@ -14,12 +14,12 @@
       {
         "num": 1,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Obtain medical history.\n    a. Determine the severity, nature, and duration of the episode.\n    b. Was the patient awake or sleeping at the time of the episode?\n    c. Include details of the resuscitation, if applicable.</p>"
+        "html": "Obtain medical history.<ol type=\"a\"><li>Determine the severity, nature, and duration of the episode.</li><li>Was the patient awake or sleeping at the time of the episode?</li><li>Include details of the resuscitation, if applicable.</li></ol>"
       },
       {
         "num": 2,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Keep the child warm and transport to the emergency department.</p>"
+        "html": "Keep the child warm and transport to the emergency department."
       },
       {
         "num": 3,
@@ -123,17 +123,17 @@
       {
         "num": 1,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Obtain medical history:\n    a. What was the highest temperature? How was it recorded?\n    b. Is the child still feeding normally? If not, are there signs of dehydration?\n    c. Birth history: was the baby full-term or premature? Was the baby admitted to the NICU?\n    d. Were there complications from the pregnancy/delivery?</p>"
+        "html": "Obtain medical history:<ol type=\"a\"><li>What was the highest temperature? How was it recorded?</li><li>Is the child still feeding normally? If not, are there signs of dehydration?</li><li>Birth history: was the baby full-term or premature? Was the baby admitted to the NICU?</li><li>Were there complications from the pregnancy/delivery?</li></ol>"
       },
       {
         "num": 2,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Evaluate the neonate or young infant for the following:\n    a. Appearance (tone, inter-activeness, consolability, gaze, cry)\n    b. Work of breathing (abnormal noises or position, retractions, flaring)\n    c. Circulation (pallor, mottling, cyanosis)\n    d. Evidence of dehydration</p>"
+        "html": "Evaluate the neonate or young infant for the following:<ol type=\"a\"><li>Appearance (tone, inter-activeness, consolability, gaze, cry)</li><li>Work of breathing (abnormal noises or position, retractions, flaring)</li><li>Circulation (pallor, mottling, cyanosis)</li><li>Evidence of dehydration</li></ol>"
       },
       {
         "num": 3,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Evaluate for shock due to severe sepsis. If present, treat per Medical Shock protocol, <strong>Gold 14</strong> and notify receiving hospital.</p>"
+        "html": "Evaluate for shock due to severe sepsis. If present, treat per Medical Shock protocol, <strong>Gold 14</strong> and notify receiving hospital."
       },
       {
         "num": 4,
@@ -312,22 +312,22 @@
       {
         "num": 1,
         "providerLevel": "ALL",
-        "html": "Convertible (traditional) car seat with two belt paths (front and back) with four points for belt attachment to the cot is considered best practice for pediatric patients who can tolerate a semi-upright position.\n    a. Position safety seat on cot facing foot-end with backrest elevated to meet back of child safety seat.\n    b. Secure safety seat with 2 pairs of belts at both forward and rear points of seat.\n    c. Place shoulder straps of the harness through slots just below child's shoulders and fasten snugly to child.\n    d. Follow manufacturer's guidelines regarding child's weight."
+        "html": "Convertible (traditional) car seat with two belt paths (front and back) with four points for belt attachment to the cot is considered best practice for pediatric patients who can tolerate a semi-upright position.<ol type=\"a\"><li>Position safety seat on cot facing foot-end with backrest elevated to meet back of child safety seat.</li><li>Secure safety seat with 2 pairs of belts at both forward and rear points of seat.</li><li>Place shoulder straps of the harness through slots just below child's shoulders and fasten snugly to child.</li><li>Follow manufacturer's guidelines regarding child's weight.</li></ol>"
       },
       {
         "num": 2,
         "providerLevel": "ALL",
-        "html": "Stretcher harness device with 5-point harness (examples: Ferno Pedi-Mate, SafeGuard Transport, EMS Solutions)\n    a. Attach securely to cot following the manufacturer's instructions.\n    b. 5-point harness must rest snugly against child. Secure belt at child's shoulder level so no gaps exists above shoulders.\n    c. Adjust head portion of cot according to manufacturer's recommendation.\n    d. Follow manufacturer guidelines for weight ratings."
+        "html": "Stretcher harness device with 5-point harness (examples: Ferno Pedi-Mate, SafeGuard Transport, EMS Solutions)<ol type=\"a\"><li>Attach securely to cot following the manufacturer's instructions.</li><li>5-point harness must rest snugly against child. Secure belt at child's shoulder level so no gaps exists above shoulders.</li><li>Adjust head portion of cot according to manufacturer's recommendation.</li><li>Follow manufacturer guidelines for weight ratings.</li></ol>"
       },
       {
         "num": 3,
         "providerLevel": "ALL",
-        "html": "Car bed with both a front and rear belt path (example: Dream Ride Infant Car Bed)\n    a. For infants who cannot tolerate a semi-upright position or who must lie flat.\n    b. Position car bed so infant lies perpendicular to cot, keeping infant's head toward center of patient compartment.\n    c. Fully raise backrest and anchor car bed to cot with 2 belts, utilizing the 4 attachment sites supplied with car bed.\n    d. Only appropriate for infants from 5 \u2013 20 lbs."
+        "html": "Car bed with both a front and rear belt path (example: Dream Ride Infant Car Bed)<ol type=\"a\"><li>For infants who cannot tolerate a semi-upright position or who must lie flat.</li><li>Position car bed so infant lies perpendicular to cot, keeping infant's head toward center of patient compartment.</li><li>Fully raise backrest and anchor car bed to cot with 2 belts, utilizing the 4 attachment sites supplied with car bed.</li><li>Only appropriate for infants from 5 \u2013 20 lbs.</li></ol>"
       },
       {
         "num": 4,
         "providerLevel": "ALL",
-        "html": "Isolette/Incubator must be secured to ambulance according to manufacturer's guidelines.\n    a. Secure infant using manufacturer's restraint. (Five-point harness restraint is preferred).\n    b. Blankets or towels may be used for additional stabilization"
+        "html": "Isolette/Incubator must be secured to ambulance according to manufacturer's guidelines.<ol type=\"a\"><li>Secure infant using manufacturer's restraint. (Five-point harness restraint is preferred).</li><li>Blankets or towels may be used for additional stabilization</li></ol>"
       },
       {
         "num": 5,
@@ -372,12 +372,12 @@
       {
         "num": 13,
         "providerLevel": "ALL",
-        "html": "<p>If adult and newborn are stable, secure adult to cot with cot's 5-point harness. Then utilize a commercial harness restraint system with 5-point harness to secure newborn to adult (e.g., Ferno KangooFix)\n    a. It is NEVER appropriate to transport a child held in the parent/guardian/caregiver's arms or lap.</p>"
+        "html": "If adult and newborn are stable, secure adult to cot with cot's 5-point harness. Then utilize a commercial harness restraint system with 5-point harness to secure newborn to adult (e.g., Ferno KangooFix)<ol type=\"a\"><li>It is NEVER appropriate to transport a child held in the parent/guardian/caregiver's arms or lap.</li></ol>"
       },
       {
         "num": 14,
         "providerLevel": "ALL",
-        "html": "<p>If available, may use a size-appropriate child restraint system secured to the stretcher or rear-facing clinician seat/captain's chair following manufacturer's instructions. This may be either a convertible safety seat with a forward-facing belt path or an integrated child restraint system certified by the manufacturer to meet FMVSS No. 213.</p>"
+        "html": "If available, may use a size-appropriate child restraint system secured to the stretcher or rear-facing clinician seat/captain's chair following manufacturer's instructions. This may be either a convertible safety seat with a forward-facing belt path or an integrated child restraint system certified by the manufacturer to meet FMVSS No. 213."
       },
       {
         "num": 15,

@@ -39,12 +39,12 @@
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>If respirations less than 12/minute AND <em>narcotic overdose</em> suspected:</p>\n<p><strong>NEVER GIVE NALOXONE TO A NEONATE</strong></p>\n<p>a. <strong>ADULT</strong> and <strong>PEDIATRIC</strong> patients: naloxone 0.5 mg <strong>IN</strong>. Titrate to effect by providing 0.5 mg in one nostril.\n    i. The desired outcome is effective oxygenation and ventilation with one important parameter being a respiratory rate of greater than 12 breaths/minute. Continue to manage the airway while assessing for effect.\n    ii. If the patient remains apneic or continues to have ineffective oxygenation and ventilation 2 minutes after provision of the first dose of naloxone, provide a second dose of naloxone 0.5 mg in the other nostril.\n    iii. Repeat 0.5 mg of naloxone <strong>IN</strong> every 2 minutes in alternating nostrils.\nb. <strong>EMRs</strong> and <strong>EMTs</strong> may use <strong>IN</strong> or <strong>IM</strong> naloxone via auto-injector at a dose available per commercially packaged product. Repeat dose (in opposite nostril if using <strong>IN</strong> route) if no response in 2 minutes. Lower dose strategies that allow titration of effect are preferred, whenever possible.\nc. <strong>NOTE:</strong> Patients abruptly and fully awakened from narcotic overdose may become combative or suffer acute narcotic withdrawal symptoms. Some drugs are longer acting opioids (or formulated to be so), such as buprenorphine, methadone, and the fentanyl patch, and may require many repeated doses of naloxone which could exceed a total of 4 mg.</p>"
+        "html": "If respirations less than 12/minute AND <em>narcotic overdose</em> suspected:<ol type=\"a\"><li><strong>ADULT</strong> and <strong>PEDIATRIC</strong> patients: naloxone 0.5 mg <strong>IN</strong>. Titrate to effect by providing 0.5 mg in one nostril.<ol type=\"i\"><li>The desired outcome is effective oxygenation and ventilation with one important parameter being a respiratory rate of greater than 12 breaths/minute. Continue to manage the airway while assessing for effect.</li><li>If the patient remains apneic or continues to have ineffective oxygenation and ventilation 2 minutes after provision of the first dose of naloxone, provide a second dose of naloxone 0.5 mg in the other nostril.</li><li>Repeat 0.5 mg of naloxone <strong>IN</strong> every 2 minutes in alternating nostrils.</li></ol></li><li><strong>EMRs</strong> and <strong>EMTs</strong> may use <strong>IN</strong> or <strong>IM</strong> naloxone via auto-injector at a dose available per commercially packaged product. Repeat dose (in opposite nostril if using <strong>IN</strong> route) if no response in 2 minutes. Lower dose strategies that allow titration of effect are preferred, whenever possible.</li><li><strong>NOTE:</strong> Patients abruptly and fully awakened from narcotic overdose may become combative or suffer acute narcotic withdrawal symptoms. Some drugs are longer acting opioids (or formulated to be so), such as buprenorphine, methadone, and the fentanyl patch, and may require many repeated doses of naloxone which could exceed a total of 4 mg.</li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p>For suspected cyanide or CO poisoning, see Cyanide/CO Exposure protocol, <strong>Yellow 8</strong>.</p>"
+        "html": "For suspected cyanide or CO poisoning, see Cyanide/CO Exposure protocol, <strong>Yellow 8</strong>."
       },
       {
         "num": 6,
@@ -69,12 +69,12 @@
       {
         "num": 10,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Alternative naloxone route of administration:\n    a. Naloxone 0.1 - 2 mg <strong>IV/IO/IM</strong>; titrate to improved respiratory drive.\n    b. <strong>Pediatric</strong> patients (excluding neonates): 0.1 mg/kg naloxone if less than 20 kg; 0.1-2 mg <strong>IV/IO/IM</strong> if greater than 20 kg or 5 years or older; titrate to improved respiratory drive.</p>"
+        "html": "Alternative naloxone route of administration:<ol type=\"a\"><li>Naloxone 0.1 - 2 mg <strong>IV/IO/IM</strong>; titrate to improved respiratory drive.</li><li><strong>Pediatric</strong> patients (excluding neonates): 0.1 mg/kg naloxone if less than 20 kg; 0.1-2 mg <strong>IV/IO/IM</strong> if greater than 20 kg or 5 years or older; titrate to improved respiratory drive.</li></ol>"
       },
       {
         "num": 11,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Cardiac Monitor</p>"
+        "html": "Cardiac Monitor"
       },
       {
         "num": 12,
@@ -89,7 +89,7 @@
       {
         "num": 14,
         "providerLevel": "PARAMEDIC",
-        "html": "Suggested Treatments:\n    a. <strong>Symptomatic bradycardia</strong> (hypotension, altered mental status, syncope/pre-syncope, chest pain, dyspnea, acute heart failure, signs of shock, or cyanosis/pallor) due to beta- or calcium channel blocker overdose:\n        i. <strong>Adult:</strong> Calcium gluconate 3 grams <strong>IV/IO</strong>, diluted in 50 - 100 mL of IVF, over 15 minutes, via IV pump may repeat every 10 min for up to 4 additional doses, as needed.\n        ii. <strong>Pediatric:</strong> Calcium gluconate 60 mg/kg <strong>IV/IO</strong>, diluted in 50 - 100 mL of IVF, over 15 minutes, via IV pump (MAX 3 gm/dose); may repeat every 10 min for up to 4 additional doses, as needed.\n        iii. Refer to Adult Bradycardia, <strong>Red 29</strong> or Pediatric Bradycardia <strong>Red 31</strong>, protocol\n    b. <strong>Dystonic reaction</strong>:\n        i. <strong>Adult:</strong> Diphenhydramine 25-50 mg <strong>IV/IM</strong>\n        ii. <strong>Pediatric:</strong> Diphenhydramine 1-2 mg/kg <strong>IV/IM</strong> (MAX dose 50 mg)\n    c. <strong>Organophosphates</strong>: Nerve Agent/Organophosphate/Carbamate Poisoning protocol, <strong>Yellow 7</strong>\n    d. <strong>Severe agitation</strong>: Hyperactive Delirium with Severe Agitation protocol, <strong>Orange 5</strong>\n    e. <strong>Tricyclic Antidepressant (TCA)/sodium-channel blocker</strong>*** overdose with either hemodynamic instability or widened QRS complex on initial 12-lead ECG defined as:\n        i. Tachycardia (Adult: heart rate greater than 100 bpm; Pediatric as defined by age, see <strong>Pink 4</strong>) <strong>AND</strong>,\n            1. QRS greater than 120 msec, <strong>OR</strong>\n            2. An increase in QRS of 10 msec over serial 12-lead ECGs (repeat every 10 min, if feasible).\n        ii. Repeat 12-lead ECG after treatment and every 10 minutes (if feasible) if QRS is less than 120 msec, and every 5 minutes (if feasible) if QRS is greater than 120 msec. Treat as follows:\n            1. Sodium bicarbonate:\n                a. <strong>Adult:</strong> 1 mEq/kg with a MAX of 100 mEq <strong>IV push</strong> over 1 minute. May repeat as needed with goal of QRS complex less than 120 msec. MAX of three doses.\n                b. <strong>Pediatric:</strong> 1 mEq/kg with a Max of 100 mEq <strong>IV push</strong> over 1 minute. May repeat as needed with goal of QRS complex less than 120 msec. MAX of three doses. (8.4% sodium bicarbonate must be diluted 1:1 with D5W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age)\n            2. Fluid bolus for hypotension\n            3. NOREPInephrine <strong>IV infusion</strong>. NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump.\n                a. <strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS [32 mcg/mL]\n                b. <strong>Dosing</strong> - Usual starting dose of NOREPInephrine is 0.03 mcg/kg/min. Clinical circumstances may require a slightly higher starting dose of 0.06 - 0.09 mcg/kg/min. <strong>Titrate</strong> by 0.03 mcg/kg/min every 3 minutes to meet desired clinical effect, which may include appropriate SBP:\n                    i. <strong>Adult</strong> systolic greater than 90 mmHg and/or MAP greater than 65."
+        "html": "Suggested Treatments:<ol type=\"a\"><li><strong>Symptomatic bradycardia</strong> (hypotension, altered mental status, syncope/pre-syncope, chest pain, dyspnea, acute heart failure, signs of shock, or cyanosis/pallor) due to beta- or calcium channel blocker overdose:<ol type=\"i\"><li><strong>Adult:</strong> Calcium gluconate 3 grams <strong>IV/IO</strong>, diluted in 50 - 100 mL of IVF, over 15 minutes, via IV pump may repeat every 10 min for up to 4 additional doses, as needed.</li><li><strong>Pediatric:</strong> Calcium gluconate 60 mg/kg <strong>IV/IO</strong>, diluted in 50 - 100 mL of IVF, over 15 minutes, via IV pump (MAX 3 gm/dose); may repeat every 10 min for up to 4 additional doses, as needed.</li><li>Refer to Adult Bradycardia, <strong>Red 29</strong> or Pediatric Bradycardia <strong>Red 31</strong>, protocol</li></ol></li><li><strong>Dystonic reaction</strong>:<ol type=\"i\"><li><strong>Adult:</strong> Diphenhydramine 25-50 mg <strong>IV/IM</strong></li><li><strong>Pediatric:</strong> Diphenhydramine 1-2 mg/kg <strong>IV/IM</strong> (MAX dose 50 mg)</li></ol></li><li><strong>Organophosphates</strong>: Nerve Agent/Organophosphate/Carbamate Poisoning protocol, <strong>Yellow 7</strong></li><li><strong>Severe agitation</strong>: Hyperactive Delirium with Severe Agitation protocol, <strong>Orange 5</strong></li><li><strong>Tricyclic Antidepressant (TCA)/sodium-channel blocker</strong>*** overdose with either hemodynamic instability or widened QRS complex on initial 12-lead ECG defined as:<ol type=\"i\"><li>Tachycardia (Adult: heart rate greater than 100 bpm; Pediatric as defined by age, see <strong>Pink 4</strong>) <strong>AND</strong>,<ol><li>QRS greater than 120 msec, <strong>OR</strong></li><li>An increase in QRS of 10 msec over serial 12-lead ECGs (repeat every 10 min, if feasible).</li></ol></li><li>Repeat 12-lead ECG after treatment and every 10 minutes (if feasible) if QRS is less than 120 msec, and every 5 minutes (if feasible) if QRS is greater than 120 msec. Treat as follows:<ol><li>Sodium bicarbonate:<ol type=\"a\"><li><strong>Adult:</strong> 1 mEq/kg with a MAX of 100 mEq <strong>IV push</strong> over 1 minute. May repeat as needed with goal of QRS complex less than 120 msec. MAX of three doses.</li><li><strong>Pediatric:</strong> 1 mEq/kg with a Max of 100 mEq <strong>IV push</strong> over 1 minute. May repeat as needed with goal of QRS complex less than 120 msec. MAX of three doses. (8.4% sodium bicarbonate must be diluted 1:1 with D5W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age)</li></ol></li><li>Fluid bolus for hypotension</li><li>NOREPInephrine <strong>IV infusion</strong>. NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump.<ol type=\"a\"><li><strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS [32 mcg/mL]</li><li><strong>Dosing</strong> - Usual starting dose of NOREPInephrine is 0.03 mcg/kg/min. Clinical circumstances may require a slightly higher starting dose of 0.06 - 0.09 mcg/kg/min. <strong>Titrate</strong> by 0.03 mcg/kg/min every 3 minutes to meet desired clinical effect, which may include appropriate SBP:<ol type=\"i\"><li><strong>Adult</strong> systolic greater than 90 mmHg and/or MAP greater than 65.</li></ol></li></ol></li></ol></li></ol></li></ol>"
       },
       {
         "num": 15,
@@ -99,12 +99,12 @@
       {
         "num": 16,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Consider magnesium sulfate for arrhythmia that does not respond to sodium bicarbonate.\n    a. <strong>Adult:</strong> 2 grams of magnesium sulfate <strong>IV/IO</strong>, diluted in 50 - 100 mL of IVF (D\u2085W preferred), over 15 minutes, via IV pump.\n    b. <strong>Pediatric:</strong> 50 mg/kg <strong>IV/IO</strong>, diluted in 50 - 100 mL of IVF (D\u2085W preferred), infusion over 15 minutes, via IV pump (MAX dose 2 grams).</p>"
+        "html": "Consider magnesium sulfate for arrhythmia that does not respond to sodium bicarbonate.<ol type=\"a\"><li><strong>Adult:</strong> 2 grams of magnesium sulfate <strong>IV/IO</strong>, diluted in 50 - 100 mL of IVF (D\u2085W preferred), over 15 minutes, via IV pump.</li><li><strong>Pediatric:</strong> 50 mg/kg <strong>IV/IO</strong>, diluted in 50 - 100 mL of IVF (D\u2085W preferred), infusion over 15 minutes, via IV pump (MAX dose 2 grams).</li></ol>"
       },
       {
         "num": 17,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Contact OLMC if further direction needed for conditions such as arrhythmia</p>"
+        "html": "Contact OLMC if further direction needed for conditions such as arrhythmia"
       }
     ],
     "pearls": [],
@@ -208,12 +208,12 @@
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>If trained, perform finger stick blood glucose.\n    a. If blood glucose less than <strong>60 mg/dL</strong> or clinical condition suggests hypoglycemia, request ALS and refer to Diabetic/Hypoglycemic protocol, <strong>Gold 6</strong></p>"
+        "html": "If trained, perform finger stick blood glucose.<ol type=\"a\"><li>If blood glucose less than <strong>60 mg/dL</strong> or clinical condition suggests hypoglycemia, request ALS and refer to Diabetic/Hypoglycemic protocol, <strong>Gold 6</strong></li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p><strong>In Acute Alcohol Intoxication</strong> - If the patient has evidence of incapacitating intoxication or acute illness/injury, request ALS.</p>"
+        "html": "<strong>In Acute Alcohol Intoxication</strong> - If the patient has evidence of incapacitating intoxication or acute illness/injury, request ALS."
       },
       {
         "num": 6,
@@ -238,12 +238,12 @@
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>For <strong>Severe Alcohol Withdrawal</strong> symptoms, contact OLMC for the option of midazolam 2.5 mg <strong>IV</strong> or 5 mg <strong>IM</strong>. May repeat x 1 with MAX cumulative dose of 5 mg <strong>IV</strong> or 10 mg <strong>IM</strong>.\n    a. <strong>Severe Alcohol Withdrawal</strong> symptoms include hypertension/tachycardia AND <strong>two or more</strong> of the following:\n        i. <em>Severe tremors</em>, test by \"arms extended and fingers spread apart\" or if tremors are noted continuously while at rest\n        ii. <em>Drenching sweats</em>\n        iii. <em>Continuous tactile disturbances</em> - ask \"Have you had any itching, pins and needles sensation, any burning, any numbness, or do you feel bugs crawling on or under your skin?\"\n        iv. <em>Continuous auditory disturbances</em> - ask \"Are you more aware of sounds around you? Are they harsh? Do they frighten you? Are you hearing anything that is disturbing to you? Are you hearing things you know are not there?\"\n        v. <em>Continuous visual disturbances</em> - ask \"Does the light appear to be too bright? Is its color different? Does it hurt your eyes? Are you seeing anything that is disturbing to you? Are you seeing things you know are not there?\"</p>"
+        "html": "For <strong>Severe Alcohol Withdrawal</strong> symptoms, contact OLMC for the option of midazolam 2.5 mg <strong>IV</strong> or 5 mg <strong>IM</strong>. May repeat x 1 with MAX cumulative dose of 5 mg <strong>IV</strong> or 10 mg <strong>IM</strong>.<ol type=\"a\"><li><strong>Severe Alcohol Withdrawal</strong> symptoms include hypertension/tachycardia AND <strong>two or more</strong> of the following:<ol type=\"i\"><li><em>Severe tremors</em>, test by \"arms extended and fingers spread apart\" or if tremors are noted continuously while at rest</li><li><em>Drenching sweats</em></li><li><em>Continuous tactile disturbances</em> - ask \"Have you had any itching, pins and needles sensation, any burning, any numbness, or do you feel bugs crawling on or under your skin?\"</li><li><em>Continuous auditory disturbances</em> - ask \"Are you more aware of sounds around you? Are they harsh? Do they frighten you? Are you hearing anything that is disturbing to you? Are you hearing things you know are not there?\"</li><li><em>Continuous visual disturbances</em> - ask \"Does the light appear to be too bright? Is its color different? Does it hurt your eyes? Are you seeing anything that is disturbing to you? Are you seeing things you know are not there?\"</li></ol></li></ol>"
       },
       {
         "num": 11,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If seizure, refer to Seizure protocol, <strong>Gold 8</strong>.</p>"
+        "html": "If seizure, refer to Seizure protocol, <strong>Gold 8</strong>."
       }
     ],
     "pearls": [],
@@ -305,12 +305,12 @@
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "<p>Manage airway as appropriate, see Airway Algorithm, <strong>Blue 2</strong>.\n    <em>Ventilatory support may be critical in these poisonings</em></p>"
+        "html": "Manage airway as appropriate, see Airway Algorithm, <strong>Blue 2</strong>."
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>Vigorous suctioning may be necessary.</p>"
+        "html": "Vigorous suctioning may be necessary."
       },
       {
         "num": 5,
@@ -345,7 +345,7 @@
       {
         "num": 11,
         "providerLevel": "PARAMEDIC",
-        "html": "Contact OLMC for:\n    a. Doses of medications beyond those listed in the chart below.\n    b. Administration of other selected antidotes."
+        "html": "Contact OLMC for:<ol type=\"a\"><li>Doses of medications beyond those listed in the chart below.</li><li>Administration of other selected antidotes.</li></ol>"
       }
     ],
     "pearls": [],
@@ -534,12 +534,12 @@
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>For Mass Casualty Incidents (MCI), if vomiting occurs:\n    a. Within 1 hour of exposure, survival is unlikely. If providing care to patient will compromise other patients, tag patient \"Black\".\n    b. Less than 4 hours after exposure, patient requires immediate decontamination and medical evaluation, tag patient \"Red\".\n    c. Four hours after exposure, re-evaluation can be delayed 24-72 hours, tag patient \"Yellow\".</p>"
+        "html": "For Mass Casualty Incidents (MCI), if vomiting occurs:<ol type=\"a\"><li>Within 1 hour of exposure, survival is unlikely. If providing care to patient will compromise other patients, tag patient \"Black\".</li><li>Less than 4 hours after exposure, patient requires immediate decontamination and medical evaluation, tag patient \"Red\".</li><li>Four hours after exposure, re-evaluation can be delayed 24-72 hours, tag patient \"Yellow\".</li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p>Treat traumatic injuries per appropriate protocol (Green Section).</p>"
+        "html": "Treat traumatic injuries per appropriate protocol (Green Section)."
       },
       {
         "num": 6,
@@ -805,12 +805,12 @@
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>Cool the patient immediately by any means practical, such as:\n    a. Initiate Radical Cooling when available (especially beneficial for exertional hyperthermia, e.g., athletes, laborers):\n        i. Immerse patient up to their neck in ice water tub, if available.\n        ii. TACO Method (Tarp-Assisted Cooling with Oscillation), if available, with 4-5 people holding the patient in a tarp, add ice water at foot and up to the neck and continuously oscillate the tarp to avoid warming of water in contact with the patient.\n    b. Also consider non-radical cooling which includes: ice packs applied to neck, axillae, groin, back; wet patient, apply cold wet sheets to patient, and air conditioning en route.\n    c. Consider moistening the skin and fan vigorously. This method is effective only at low ambient humidity and a large electric fan is more beneficial than manual fanning.</p>"
+        "html": "Cool the patient immediately by any means practical, such as:<ol type=\"a\"><li>Initiate Radical Cooling when available (especially beneficial for exertional hyperthermia, e.g., athletes, laborers):<ol type=\"i\"><li>Immerse patient up to their neck in ice water tub, if available.</li><li>TACO Method (Tarp-Assisted Cooling with Oscillation), if available, with 4-5 people holding the patient in a tarp, add ice water at foot and up to the neck and continuously oscillate the tarp to avoid warming of water in contact with the patient.</li></ol></li><li>Also consider non-radical cooling which includes: ice packs applied to neck, axillae, groin, back; wet patient, apply cold wet sheets to patient, and air conditioning en route.</li><li>Consider moistening the skin and fan vigorously. This method is effective only at low ambient humidity and a large electric fan is more beneficial than manual fanning.</li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p>Discontinue radical cooling if:\n    a. Shivering begins,\n    b. Core temperature falls to or below 102\u00b0 F (38.8\u00b0 C).</p>"
+        "html": "Discontinue radical cooling if:<ol type=\"a\"><li>Shivering begins,</li><li>Core temperature falls to or below 102\u00b0 F (38.8\u00b0 C).</li></ol>"
       },
       {
         "num": 6,
@@ -892,17 +892,17 @@
       {
         "num": 7,
         "providerLevel": "EMT",
-        "html": "<p>If water temperature is estimated to be less than 43\u00b0 F and submerged:\n    a. Less than 90 minutes - initiate full resuscitation.\n    b. Greater than 90 minutes - consider not initiating resuscitation or termination of resuscitation.</p>"
+        "html": "If water temperature is estimated to be less than 43\u00b0 F and submerged:<ol type=\"a\"><li>Less than 90 minutes - initiate full resuscitation.</li><li>Greater than 90 minutes - consider not initiating resuscitation or termination of resuscitation.</li></ol>"
       },
       {
         "num": 8,
         "providerLevel": "EMT",
-        "html": "<p>If water temperature is estimated to be greater than 43\u00b0 F and submerged:\n    a. Less than 30 minutes - initiate full resuscitation.\n    b. Greater than 30 minutes - consider not initiating resuscitation or termination of resuscitation.</p>"
+        "html": "If water temperature is estimated to be greater than 43\u00b0 F and submerged:<ol type=\"a\"><li>Less than 30 minutes - initiate full resuscitation.</li><li>Greater than 30 minutes - consider not initiating resuscitation or termination of resuscitation.</li></ol>"
       },
       {
         "num": 9,
         "providerLevel": "EMT",
-        "html": "<p>Consider CPAP to supplement the patient's own respiratory effort.</p>"
+        "html": "Consider CPAP to supplement the patient's own respiratory effort."
       },
       {
         "num": 10,

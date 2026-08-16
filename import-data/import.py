@@ -98,11 +98,127 @@ def normalize_list_spacing(text: str) -> str:
     return '\n'.join(out)
 
 
+_TOP_ITEM_RE = re.compile(r'^(\d+)\.\s+(.*)$')
+_SUB_ITEM_RE = re.compile(r'^(\d+\.|[a-zA-Z]{1,4}\.|[*+-])\s+(.*)$')
+
+
+def _md_inline(text: str) -> str:
+    """Render inline markdown (bold/italic/links) for one list-item's text, without wrapping <p>."""
+    html = md_lib.markdown(text.strip(), extensions=['fenced_code'])
+    if html.startswith('<p>') and html.endswith('</p>'):
+        html = html[3:-4]
+    return html
+
+
+def _parse_sub_items(lines):
+    """lines: [(indent:int, raw_text_after_stripping_leading_space), ...] — the indented lines
+    that follow a list item's own first line. Groups them into a nested tree by indent, using a
+    stack keyed on indent value. Lines with no marker are treated as continuation text appended
+    to the innermost currently-open item."""
+    root = []
+    stack = [(-1, root)]
+    last_node = None
+    for indent, raw in lines:
+        m = _SUB_ITEM_RE.match(raw)
+        if not m:
+            if last_node is not None:
+                last_node['text'] = (last_node['text'] + ' ' + raw).strip()
+            continue
+        marker, content = m.groups()
+        node = {'text': content, 'children': [], 'marker': marker}
+        while len(stack) > 1 and indent <= stack[-1][0]:
+            stack.pop()
+        stack[-1][1].append(node)
+        stack.append((indent, node['children']))
+        last_node = node
+    return root
+
+
+def _group_marker_type(nodes, parent_type):
+    """Decide the <ol type=...> for a sibling group. Declan's protocols always nest
+    decimal -> alpha (a, b, c) -> roman (i, ii, iii); a lettered group directly under
+    another lettered (alpha) group is roman, otherwise it's alpha. Digit markers are
+    always decimal (a further nested numbered sub-list, e.g. step 5's Adult/Pediatric)."""
+    first_marker = nodes[0]['marker'].rstrip('.')
+    if first_marker.isdigit():
+        return None  # plain <ol>, no type attribute
+    if first_marker in ('*', '+', '-'):
+        return 'bullet'
+    return 'i' if parent_type == 'a' else 'a'
+
+
+def _render_nodes(nodes, parent_type=None):
+    if not nodes:
+        return ''
+    group_type = _group_marker_type(nodes, parent_type)
+    tag = 'ul' if group_type == 'bullet' else 'ol'
+    type_attr = f' type="{group_type}"' if group_type not in (None, 'bullet') else ''
+    items = []
+    for node in nodes:
+        inline = _md_inline(node['text'])
+        children_html = _render_nodes(node['children'], group_type)
+        items.append(f'<li>{inline}{children_html}</li>')
+    return f'<{tag}{type_attr}>' + ''.join(items) + f'</{tag}>'
+
+
+def _render_top_item(own_text: str, sub_lines):
+    own_html = _md_inline(own_text)
+    sub_html = _render_nodes(_parse_sub_items(sub_lines)) if sub_lines else ''
+    return own_html + sub_html
+
+
+def _extract_top_ordered_lists(text: str) -> str:
+    """Find runs of top-level '1. 2. 3.' list items (possibly with indented lettered/roman/
+    nested-decimal/bulleted sub-items) and replace each run with a fully-rendered raw <ol> HTML
+    block, so python-markdown never has to guess at 'a.'/'i.' markers it doesn't understand."""
+    lines = text.split('\n')
+    out = []
+    i, n = 0, len(lines)
+    while i < n:
+        m = _TOP_ITEM_RE.match(lines[i])
+        if not m:
+            out.append(lines[i])
+            i += 1
+            continue
+
+        items = []  # list of (num, own_text, [(indent, raw), ...])
+        while i < n:
+            m = _TOP_ITEM_RE.match(lines[i])
+            if m:
+                items.append([int(m.group(1)), m.group(2), []])
+                i += 1
+                continue
+            if lines[i].strip() == '':
+                j = i + 1
+                while j < n and lines[j].strip() == '':
+                    j += 1
+                nxt = lines[j] if j < n else ''
+                if j < n and (_TOP_ITEM_RE.match(nxt) or nxt.startswith(' ') or nxt.startswith('\t')):
+                    i += 1
+                    continue
+                break
+            if lines[i].startswith(' ') or lines[i].startswith('\t'):
+                indent = len(lines[i]) - len(lines[i].lstrip(' '))
+                items[-1][2].append((indent, lines[i].strip()))
+                i += 1
+                continue
+            break
+
+        html_items = ''.join(
+            f'<li>{_render_top_item(own_text, sub_lines)}</li>' for _, own_text, sub_lines in items
+        )
+        out.append('')
+        out.append(f'<ol start="{items[0][0]}">{html_items}</ol>')
+        out.append('')
+    return '\n'.join(out)
+
+
 def md_to_html(text: str) -> str:
     text = text.strip()
     if not text:
         return ''
     text = normalize_list_spacing(text)
+    text = _extract_top_ordered_lists(text)
     return md_lib.markdown(text, extensions=MD_EXTENSIONS)
 
 

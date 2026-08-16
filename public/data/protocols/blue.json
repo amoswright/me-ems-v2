@@ -14,37 +14,37 @@
       {
         "num": 1,
         "providerLevel": "ALL",
-        "html": "<p><strong>Airway adjuncts ready</strong>\n    __ Suction\n    __ Oropharyngeal airway/ 2 nasopharyngeal airways\n    __ Nasal cannula for apneic oxygenation</p>"
+        "html": "<strong>Airway adjuncts ready</strong>"
       },
       {
         "num": 2,
         "providerLevel": "ALL",
-        "html": "<p><strong>Intubation equipment ready</strong>\n    __ Laryngoscope assembled and functional\n    __ ET tube ready with lubricant, bougie and syringe (Use of bougies on all intubation attempts with size 6.0 ETT and above is strongly encouraged)\n    __ Tube-securing device ready\n    __ Continuous end-tidal CO\u2082 monitor ready\n    __ OG Tube</p>"
+        "html": "<strong>Intubation equipment ready</strong>"
       },
       {
         "num": 3,
         "providerLevel": "ALL",
-        "html": "<p><strong>Back-up equipment ready</strong>\n    __ Blind Insertion Airway Device (i.e. LMA \u00ae, iLMA\u00ae, or King\u00ae) available\n    __ Consider surgical airway device</p>"
+        "html": "<strong>Back-up equipment ready</strong>"
       },
       {
         "num": 4,
         "providerLevel": "ALL",
-        "html": "<p><strong>Team ready</strong>\n    __ Airway manager\n    __ BVM operator\n    __ Assistant</p>"
+        "html": "<strong>Team ready</strong>"
       },
       {
         "num": 5,
         "providerLevel": "ALL",
-        "html": "<p><strong>Plan discussed</strong></p>"
+        "html": "<strong>Plan discussed</strong>"
       },
       {
         "num": 6,
         "providerLevel": "ALL",
-        "html": "<p><strong>Patient ready</strong>\n    __ Pre-oxygenation/de-nitrogenation\n    __ Vascular access\n    __ Patient positioning (unless contraindicated)\n        __ Ear-to-sternal-notch\n        __ 30 degree head-of-bed elevation\n    __ Monitoring in place\n    __ Evaluate airway difficulty\n    __ Prep for surgical airway as needed</p>"
+        "html": "<strong>Patient ready</strong>"
       },
       {
         "num": 7,
         "providerLevel": "ALL",
-        "html": "<p><strong>Post-intubation medications ready</strong>\n    __ Pain control:\n        __ fentanyl\n    __ Sedation\n        __ midazolam <strong>OR</strong> __ ketamine</p>"
+        "html": "<strong>Post-intubation medications ready</strong>"
       }
     ],
     "pearls": [],
@@ -167,7 +167,7 @@
       {
         "num": 3,
         "providerLevel": "ALL",
-        "html": "Immediate direct visualization of ETT/BIAD through vocal cords?**<ul>\n<li><strong>Yes</strong>: Secure ETT/BIAD in place</li>\n<li><strong>No</strong>: Remove ETT/BIAD and ventilate via BVM -&gt; Attempt correct ETT/BIAD placement or continue BVM ventilation</li>\n</ul>"
+        "html": "Immediate direct visualization of ETT/BIAD through vocal cords?**<ul><li><strong>Yes</strong>: Secure ETT/BIAD in place</li><li><strong>No</strong>: Remove ETT/BIAD and ventilate via BVM -&gt; Attempt correct ETT/BIAD placement or continue BVM ventilation</li></ul>"
       },
       {
         "num": 4,
@@ -260,12 +260,12 @@
       {
         "num": 3,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Pain control\n    a. <strong>Adult &amp; Pediatric</strong>: Fentanyl 0.5 - 1 mcg/kg <strong>IV/IO</strong>, may repeat every 15 minutes to a MAX cumulative dose of 5 mcg/kg.</p>"
+        "html": "Pain control<ol type=\"a\"><li><strong>Adult &amp; Pediatric</strong>: Fentanyl 0.5 - 1 mcg/kg <strong>IV/IO</strong>, may repeat every 15 minutes to a MAX cumulative dose of 5 mcg/kg.</li></ol>"
       },
       {
         "num": 4,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Anxiolysis - After adequate pain control, if the patient continues to have signs of inadequate sedation (including eye opening, coughing or gagging, sweating, tearing, new or worsening hypertension and/or tachycardia, tachypnea, or attempts to self-extubate) and the patient is NOT hypotensive, consider <strong>ONE</strong> of the following options:\n    a. Midazolam\n        i. <strong>Adult</strong>: 0.5 - 2.5 mg <strong>IV/IO</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 5 mg OR 1-5 mg <strong>IM</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 10 mg.\n        ii. <strong>Pediatric</strong>:\n            1. <strong>6 months - 12 years</strong>: 0.05 mg/kg <strong>IV/IO</strong>, may repeat every 5 minutes to a MAX cumulative dose of 5 mg.\n            2. <strong>6 months - 12 years</strong>: 0.1 mg/kg <strong>IM</strong> (MAX single dose 5 mg), may repeat every 5 minutes to a maximum cumulative dose of 10 mg.\n    <strong>-OR-</strong>\n    b. Ketamine (<strong>Adult ONLY</strong>)\n        i. 0.2 mg/kg <strong>IV/IO</strong>, max single dose of 25 mg. Mix in 100 mL bag of saline and infuse over 10 minutes via a pump. May repeat x 1 in 5 minutes.\n        ii. 0.4 mg/kg <strong>IM</strong>, max single dose 50 mg. May repeat x 1 in 10 minutes.</p>"
+        "html": "Anxiolysis - After adequate pain control, if the patient continues to have signs of inadequate sedation (including eye opening, coughing or gagging, sweating, tearing, new or worsening hypertension and/or tachycardia, tachypnea, or attempts to self-extubate) and the patient is NOT hypotensive, consider <strong>ONE</strong> of the following options:<ol type=\"a\"><li>Midazolam<ol type=\"i\"><li><strong>Adult</strong>: 0.5 - 2.5 mg <strong>IV/IO</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 5 mg OR 1-5 mg <strong>IM</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 10 mg.</li><li><strong>Pediatric</strong>:<ol><li><strong>6 months - 12 years</strong>: 0.05 mg/kg <strong>IV/IO</strong>, may repeat every 5 minutes to a MAX cumulative dose of 5 mg.</li><li><strong>6 months - 12 years</strong>: 0.1 mg/kg <strong>IM</strong> (MAX single dose 5 mg), may repeat every 5 minutes to a maximum cumulative dose of 10 mg. <strong>-OR-</strong></li></ol></li></ol></li><li>Ketamine (<strong>Adult ONLY</strong>)<ol type=\"i\"><li>0.2 mg/kg <strong>IV/IO</strong>, max single dose of 25 mg. Mix in 100 mL bag of saline and infuse over 10 minutes via a pump. May repeat x 1 in 5 minutes.</li><li>0.4 mg/kg <strong>IM</strong>, max single dose 50 mg. May repeat x 1 in 10 minutes.</li></ol></li></ol>"
       }
     ],
     "pearls": [],
@@ -322,17 +322,17 @@
       {
         "num": 5,
         "providerLevel": "EMT_ADVANCED_EMT",
-        "html": "<p>For severe respiratory distress, EPINEPHrine:</p>\n<ol>\n<li><strong>Adult</strong> - EPINEPHrine 0.3 mg <strong>IM</strong> of 1mg/1mL every 20 minutes.</li>\n<li><strong>Pediatric</strong> - EPINEPHrine dose which is as follows: less than 25 kg, 0.15 mg <strong>IM</strong> [0.15 mL of 1mg/mL], greater than 25 kg, 0.3 mg <strong>IM</strong> [0.3 mL of 1mg/mL] in anterolateral thigh every 20 minutes.</li>\n</ol>"
+        "html": "For severe respiratory distress, EPINEPHrine:<ol><li><strong>Adult</strong> - EPINEPHrine 0.3 mg <strong>IM</strong> of 1mg/1mL every 20 minutes.</li><li><strong>Pediatric</strong> - EPINEPHrine dose which is as follows: less than 25 kg, 0.15 mg <strong>IM</strong> [0.15 mL of 1mg/mL], greater than 25 kg, 0.3 mg <strong>IM</strong> [0.3 mL of 1mg/mL] in anterolateral thigh every 20 minutes.</li></ol>"
       },
       {
         "num": 6,
         "providerLevel": "EMT_ADVANCED_EMT",
-        "html": "<p>Consider CPAP* in patients greater than 18 yo if no improvement after three nebulizers.\n    *CPAP at the EMT level, only if available and so trained. CPAP should be initiated at 5 cm H2O and titrated slowly (every 5 minutes), as needed. Do not exceed 10 cm H2O. Recall that CPAP should <em>never</em> take the place of bronchodilators and should be used only <em>after</em>, or in concert with, inhaled bronchodilators in patients with acute bronchospasm. If CPAP is going to be used in the asthmatic, nebulizers <em>must</em> be administered <em>simultaneously</em>.*</p>"
+        "html": "Consider CPAP* in patients greater than 18 yo if no improvement after three nebulizers."
       },
       {
         "num": 7,
         "providerLevel": "EMT_ADVANCED_EMT",
-        "html": "<p>If CPAP is initiated, do the following:\n    a. Ensure ALS has been requested (see Definitions, <strong>Purple 1</strong>). ALS clinicians bring additional therapies to support the management of patients requiring CPAP.\n    b. Contact OLMC for the following treatment option:\n        i. Ipratropium bromide 0.5 mg / albuterol sulfate 2.5 mg nebulizer every five minutes while the patient remains on CPAP.</p>"
+        "html": "If CPAP is initiated, do the following:<ol type=\"a\"><li>Ensure ALS has been requested (see Definitions, <strong>Purple 1</strong>). ALS clinicians bring additional therapies to support the management of patients requiring CPAP.</li><li>Contact OLMC for the following treatment option:<ol type=\"i\"><li>Ipratropium bromide 0.5 mg / albuterol sulfate 2.5 mg nebulizer every five minutes while the patient remains on CPAP.</li></ol></li></ol>"
       },
       {
         "num": 8,
@@ -347,17 +347,17 @@
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "<strong>Adult/Pediatric</strong>\n    a. Albuterol 2.5 mg by nebulization. May repeat 1 time; <strong>or</strong>\n    b. Ipratropium bromide 0.5 mg / albuterol sulfate 2.5 mg nebulizer if greater than one (1) year of age and in continued respiratory distress. May repeat every five minutes x 2."
+        "html": "<strong>Adult/Pediatric</strong><ol type=\"a\"><li>Albuterol 2.5 mg by nebulization. May repeat 1 time; <strong>or</strong></li><li>Ipratropium bromide 0.5 mg / albuterol sulfate 2.5 mg nebulizer if greater than one (1) year of age and in continued respiratory distress. May repeat every five minutes x 2.</li></ol>"
       },
       {
         "num": 11,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Dexamethasone\n    a. <strong>Adult</strong>:\n        i. 16 mg <strong>PO</strong> x 1 if patient can tolerate oral medications, is not in overt respiratory distress, and is not requiring an airway management technique that obscures access to the mouth (e.g., O2 mask or CPAP),\n        ii. 16 mg <strong>IV/IM/IO</strong> x 1, if the patient cannot tolerate oral medications, or has any of the above conditions.\n    b. <strong>Pediatric</strong>:\n        i. 0.6 mg/kg (single MAX dose of 16 mg) <strong>PO</strong> x 1, if patient can tolerate oral medications, is not in overt respiratory distress, and is not requiring an airway management technique that obscures access to the mouth (e.g., O2 mask or CPAP),\n        ii. 0.6 mg/kg (single MAX dose of 16 mg) <strong>IV/IM/IO</strong> x 1, if the patient cannot tolerate oral medications, or has any of the above conditions.</p>"
+        "html": "Dexamethasone<ol type=\"a\"><li><strong>Adult</strong>:<ol type=\"i\"><li>16 mg <strong>PO</strong> x 1 if patient can tolerate oral medications, is not in overt respiratory distress, and is not requiring an airway management technique that obscures access to the mouth (e.g., O2 mask or CPAP),</li><li>16 mg <strong>IV/IM/IO</strong> x 1, if the patient cannot tolerate oral medications, or has any of the above conditions.</li></ol></li><li><strong>Pediatric</strong>:<ol type=\"i\"><li>0.6 mg/kg (single MAX dose of 16 mg) <strong>PO</strong> x 1, if patient can tolerate oral medications, is not in overt respiratory distress, and is not requiring an airway management technique that obscures access to the mouth (e.g., O2 mask or CPAP),</li><li>0.6 mg/kg (single MAX dose of 16 mg) <strong>IV/IM/IO</strong> x 1, if the patient cannot tolerate oral medications, or has any of the above conditions.</li></ol></li></ol>"
       },
       {
         "num": 12,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>For patients not improving with the above measures, consider the following OPTIONS:\n    a. Repeated or continuous albuterol by nebulization or inhaler.\n    b. For patients in status asthmaticus:\n        i. EPINEPHrine\n            1. <strong>Adult</strong>: EPINEPHrine 0.3 mg <strong>IM</strong> of 1mg/1mL every 20 minutes.\n            2. <strong>Pediatric</strong>: EPINEPHrine dose which is as follows:\n                a. Less than 25 kg, 0.15 mg <strong>IM</strong> [0.15mL of 1mg/mL] in anterolateral thigh every 20 minutes,\n                b. Greater than 25 kg, 0.3 mg <strong>IM</strong> [0.3 mL of 1mg/mL] in anterolateral thigh every 20 minutes.\n        ii. Magnesium Sulfate\n            1. <strong>Adult</strong>: Magnesium Sulfate 2 grams <strong>IV/IO</strong>, diluted in 50-100 mL of IVF (D5W preferred), over 15 minutes, delivered via medication pump.\n            2. <strong>Pediatric</strong>: Magnesium Sulfate 50 mg/kg <strong>IV/IO</strong> with a MAX dose of 2 grams, diluted in 50-100 mL of IVF (D5W preferred), over 15 minutes, delivered via medication pump.</p>"
+        "html": "For patients not improving with the above measures, consider the following OPTIONS:<ol type=\"a\"><li>Repeated or continuous albuterol by nebulization or inhaler.</li><li>For patients in status asthmaticus:<ol type=\"i\"><li>EPINEPHrine<ol><li><strong>Adult</strong>: EPINEPHrine 0.3 mg <strong>IM</strong> of 1mg/1mL every 20 minutes.</li><li><strong>Pediatric</strong>: EPINEPHrine dose which is as follows:<ol type=\"a\"><li>Less than 25 kg, 0.15 mg <strong>IM</strong> [0.15mL of 1mg/mL] in anterolateral thigh every 20 minutes,</li><li>Greater than 25 kg, 0.3 mg <strong>IM</strong> [0.3 mL of 1mg/mL] in anterolateral thigh every 20 minutes.</li></ol></li></ol></li><li>Magnesium Sulfate<ol><li><strong>Adult</strong>: Magnesium Sulfate 2 grams <strong>IV/IO</strong>, diluted in 50-100 mL of IVF (D5W preferred), over 15 minutes, delivered via medication pump.</li><li><strong>Pediatric</strong>: Magnesium Sulfate 50 mg/kg <strong>IV/IO</strong> with a MAX dose of 2 grams, diluted in 50-100 mL of IVF (D5W preferred), over 15 minutes, delivered via medication pump.</li></ol></li></ol></li></ol>"
       }
     ],
     "pearls": [],
@@ -404,7 +404,7 @@
       {
         "num": 3,
         "providerLevel": "PARAMEDIC",
-        "html": "If unable to achieve sufficient anxiolysis to tolerate CPAP with coaching, contact OLMC for ONE of the following anxiolytics:\n    a. Midazolam\n        i. 0.5 - 2.5 mg <strong>IV/IO</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 5 mg.\n        ii. 1-5 mg <strong>IM</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 10 mg.\n    <strong>-OR-</strong>\n    b. Ketamine\n        i. 0.2 mg/kg <strong>IV/IO</strong>, MAX single dose of 25 mg. Mix in 100 mL bag of saline and infuse over 10 minutes via a pump. May repeat x 1 in 5 minutes.\n        ii. 0.4 mg/kg <strong>IM</strong>, MAX single dose 50 mg. May repeat x 1 in 10 minutes."
+        "html": "If unable to achieve sufficient anxiolysis to tolerate CPAP with coaching, contact OLMC for ONE of the following anxiolytics:<ol type=\"a\"><li>Midazolam<ol type=\"i\"><li>0.5 - 2.5 mg <strong>IV/IO</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 5 mg.</li><li>1-5 mg <strong>IM</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 10 mg. <strong>-OR-</strong></li></ol></li><li>Ketamine<ol type=\"i\"><li>0.2 mg/kg <strong>IV/IO</strong>, MAX single dose of 25 mg. Mix in 100 mL bag of saline and infuse over 10 minutes via a pump. May repeat x 1 in 5 minutes.</li><li>0.4 mg/kg <strong>IM</strong>, MAX single dose 50 mg. May repeat x 1 in 10 minutes.</li></ol></li></ol>"
       }
     ],
     "pearls": [],
@@ -822,12 +822,12 @@
       {
         "num": 5,
         "providerLevel": "ALL",
-        "html": "<p>Suction the tracheostomy tube if unable to ventilate with BVM, coarse upper airway sounds or if respiratory distress continues despite BVM ventilation:\n    a. Use the patient's suctioning supplies or a tube that is no more than 1/2 the diameter of the tracheostomy tube.\n    b. Use no more than 80 mmHg suction pressure in <strong>pediatric</strong> patients and 150 mmHg in <strong>adults</strong>.\n    c. If tracheostomy tube has a cannula, remove it prior to suctioning.\n    d. Determine the proper suction catheter depth by measuring the obturator. If no obturator is available, insert the suction catheter 2-3 inches into the tracheostomy tube. DO NOT force the suction catheter into the tracheostomy tube.\n    e. Pre-oxygenate when possible for 30-60 seconds then insert the suction catheter to the desired depth. Apply suctioning while removing the catheter. Gently rotate the catheter while withdrawing. This should take 10 - 15 seconds.</p>"
+        "html": "Suction the tracheostomy tube if unable to ventilate with BVM, coarse upper airway sounds or if respiratory distress continues despite BVM ventilation:<ol type=\"a\"><li>Use the patient's suctioning supplies or a tube that is no more than 1/2 the diameter of the tracheostomy tube.</li><li>Use no more than 80 mmHg suction pressure in <strong>pediatric</strong> patients and 150 mmHg in <strong>adults</strong>.</li><li>If tracheostomy tube has a cannula, remove it prior to suctioning.</li><li>Determine the proper suction catheter depth by measuring the obturator. If no obturator is available, insert the suction catheter 2-3 inches into the tracheostomy tube. DO NOT force the suction catheter into the tracheostomy tube.</li><li>Pre-oxygenate when possible for 30-60 seconds then insert the suction catheter to the desired depth. Apply suctioning while removing the catheter. Gently rotate the catheter while withdrawing. This should take 10 - 15 seconds.</li></ol>"
       },
       {
         "num": 6,
         "providerLevel": "ALL",
-        "html": "<p>Consider using 2 - 3 mL of saline or nebulized saline to help loosen thick secretions.</p>"
+        "html": "Consider using 2 - 3 mL of saline or nebulized saline to help loosen thick secretions."
       },
       {
         "num": 7,

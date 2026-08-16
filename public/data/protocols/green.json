@@ -208,7 +208,7 @@
         "title": "Spine Management",
         "html": [
           "<p><strong>Role of Backboards</strong> - While the MDPB is attempting to limit the use of backboards, prehospital and hospital clinicians should recognize that there remain circumstances in which use of a backboard is appropriate. Backboards should be reserved to extricate patients from vehicles or other situations when they are unable to extricate themselves (critical patients, patients with lower extremity injuries, severe head injuries, etc.). In most instances, once on the EMS stretcher, the backboard is redundant and can be removed. However, in some settings, it may be appropriate for the backboard to remain. Those settings include, but are not limited to the following:</p>",
-          "<ol>\n<li>Cases in which the backboard is being utilized as an element of the splinting strategy (e.g., multiple long bone fractures),</li>\n<li>Cases in which the patient is at risk for vomiting but unable to protect their own airway (e.g., intoxication, head injury) and may need to be turned to the side for airway protection during transport,</li>\n<li>Cases in which the patient is unresponsive or agitated (e.g., head injury),</li>\n<li>Cases in which removal of the backboard would otherwise delay transport to definitive care in a critical patient.</li>\n</ol>",
+          "<ol start=\"1\"><li>Cases in which the backboard is being utilized as an element of the splinting strategy (e.g., multiple long bone fractures),</li><li>Cases in which the patient is at risk for vomiting but unable to protect their own airway (e.g., intoxication, head injury) and may need to be turned to the side for airway protection during transport,</li><li>Cases in which the patient is unresponsive or agitated (e.g., head injury),</li><li>Cases in which removal of the backboard would otherwise delay transport to definitive care in a critical patient.</li></ol>",
           "<p><strong>Preferred Position</strong> - The preferred position for all patients with concern for spinal injury is <strong>flat and supine</strong>. There should only be two circumstances under which raising the head of the bed should be considered:\n    a. Severe respiratory distress. Populations at risk for developing respiratory distress when laying flat include the elderly with underlying lung disease, patients with morbid obesity and late-term pregnant patients,\n    b. Suspected severe traumatic brain injury. Under these circumstances, consider raising the head of the bed to a <strong>MAXIMUM of 30 degrees</strong>.</p>",
           "<p><strong>Inter-Facility Transport</strong> - Long backboards do not have a role in the transport of patients between hospitals EVEN IF SPINE INJURY IS DIAGNOSED. Use of backboards during inter-facility transport is associated with increased pain and potential for pressure sores and ulcers. Patients should instead be managed with a cervical collar (if appropriate) and firmly secured to the EMS stretcher. If a sending facility has placed the patient on a backboard or requests use of a backboard, EMS clinicians should discuss the option of foregoing backboard use with the sending physician. If a back board is used, it must be padded adequately to maximize patient comfort.</p>",
           "<p><strong>Penetrating Injury</strong> - The incidence of incomplete, unstable spine injury in penetrating trauma is low. Spinal immobilization on a backboard is associated with an increased risk of death in patients with penetrating spine injuries to the neck, especially gunshot wounds, due to unrecognized hemorrhage and airway compromise. Spine immobilization does not appear to prevent progression of neurologic injury in cases of penetrating cervical trauma and may negatively affect patients with vascular and airway injuries.</p>",
@@ -289,22 +289,22 @@
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "<p>Impaled Objects:\n    a. Secure in place with bulky dressings.</p>"
+        "html": "Impaled Objects:<ol type=\"a\"><li>Secure in place with bulky dressings.</li></ol>"
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>Open chest wound:\n    a. Cover with thick, bulky dressing (e.g., abd pad or bulky trauma dressing) and secure in place.\n        i. Monitor for persistent air leak and add additional dressings or consider occlusive dressing and one-way valve, if needed.</p>"
+        "html": "Open chest wound:<ol type=\"a\"><li>Cover with thick, bulky dressing (e.g., abd pad or bulky trauma dressing) and secure in place.<ol type=\"i\"><li>Monitor for persistent air leak and add additional dressings or consider occlusive dressing and one-way valve, if needed.</li></ol></li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p>Flail segment with paradoxical movement and respiratory distress:\n    a. Consider PPV,\n    b. Consider applying non-circumferential splint.</p>"
+        "html": "Flail segment with paradoxical movement and respiratory distress:<ol type=\"a\"><li>Consider PPV,</li><li>Consider applying non-circumferential splint.</li></ol>"
       },
       {
         "num": 6,
         "providerLevel": "EMT",
-        "html": "<p>If available, and so trained, consider 12-lead ECG.</p>"
+        "html": "If available, and so trained, consider 12-lead ECG."
       },
       {
         "num": 7,
@@ -533,7 +533,7 @@
       {
         "num": 8,
         "providerLevel": "EMT",
-        "html": "Target ventilation rates (from the National TBI Guidelines):\n    a. <strong>PEDIATRIC</strong> age 0-2 years: 1 breath every 2-3 seconds (25 breaths per minute)\n    b. <strong>PEDIATRIC</strong> age 3-14 years: 1 breath every 3 seconds (20 breaths per minute)\n    c. Adolescents/Adults age 15+: 1 breath every 6 seconds (10 breaths per minute)"
+        "html": "Target ventilation rates (from the National TBI Guidelines):<ol type=\"a\"><li><strong>PEDIATRIC</strong> age 0-2 years: 1 breath every 2-3 seconds (25 breaths per minute)</li><li><strong>PEDIATRIC</strong> age 3-14 years: 1 breath every 3 seconds (20 breaths per minute)</li><li>Adolescents/Adults age 15+: 1 breath every 6 seconds (10 breaths per minute)</li></ol>"
       },
       {
         "num": 9,
@@ -553,17 +553,17 @@
       {
         "num": 12,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<strong>PEDIATRICS</strong> - GOAL SBP defined below:\n    a. Hypotension is defined as SBP below the 5th percentile for age, estimated using the following guide:\n        i. Age 0-10 years: 70 mmHg + (age x 2)\n        ii. Age greater than 10 years: 90 mmHg (same as adolescents and adults)\n        iii. \"Rules of Thumb\" to remember:\n            1. Infant = 70 mmHg\n            2. 5 year old = 80 mmHg\n            3. 10 years and older = 90 mmHg"
+        "html": "<strong>PEDIATRICS</strong> - GOAL SBP defined below:<ol type=\"a\"><li>Hypotension is defined as SBP below the 5th percentile for age, estimated using the following guide:<ol type=\"i\"><li>Age 0-10 years: 70 mmHg + (age x 2)</li><li>Age greater than 10 years: 90 mmHg (same as adolescents and adults)</li><li>\"Rules of Thumb\" to remember:<ol><li>Infant = 70 mmHg</li><li>5 year old = 80 mmHg</li><li>10 years and older = 90 mmHg</li></ol></li></ol></li></ol>"
       },
       {
         "num": 13,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p><strong>ADOLESCENTS and ADULTS</strong> - Goal SBP = greater than 90 mmHg.\n    a. Initiate fluid resuscitation with an initial bolus of 1 liter for any SBP measurement less than 90 mmHg.\n    b. Continue IV fluid administration at a rate and volume sufficient to maintain SBP greater than 90 mmHg.</p>"
+        "html": "<strong>ADOLESCENTS and ADULTS</strong> - Goal SBP = greater than 90 mmHg.<ol type=\"a\"><li>Initiate fluid resuscitation with an initial bolus of 1 liter for any SBP measurement less than 90 mmHg.</li><li>Continue IV fluid administration at a rate and volume sufficient to maintain SBP greater than 90 mmHg.</li></ol>"
       },
       {
         "num": 14,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>For Nausea and Vomiting, refer to Nausea/Vomiting protocol, <strong>Gold 18</strong>. <strong>Please Note:</strong> IV/IO ondansetron is the preferred route for patients with moderate to severe head injuries.</p>"
+        "html": "For Nausea and Vomiting, refer to Nausea/Vomiting protocol, <strong>Gold 18</strong>. <strong>Please Note:</strong> IV/IO ondansetron is the preferred route for patients with moderate to severe head injuries."
       }
     ],
     "pearls": [
@@ -611,12 +611,12 @@
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "<p>If life-threatening bleeding is on extremity and uncontrolled with direct pressure, consider applying a Maine EMS-approved tourniquet.\n    a. Tourniquets should be applied proximally on the affected limb for the following reasons:\n        i. Injuries are commonly more proximal than anticipated, and\n        ii. Double-bone structures in both the forearm and the lower leg effectively splint the arteries and prevent tourniquets from working properly.\n    b. Tourniquets should be as tight as possible.\n        i. Due to associated pain, request ALS, if available.\n    c. If hemorrhage continues after application of the tourniquet, ensure the tourniquet is applied as tightly as possible. If hemorrhage continues, consider placement of a second tourniquet, proximal to the first. Experience has shown applying two tourniquets greatly reduces the incidence of hemorrhage, especially in injuries to the lower extremity.\n    d. Document time of tourniquet application and communicate this clearly with receiving facility.</p>"
+        "html": "If life-threatening bleeding is on extremity and uncontrolled with direct pressure, consider applying a Maine EMS-approved tourniquet.<ol type=\"a\"><li>Tourniquets should be applied proximally on the affected limb for the following reasons:<ol type=\"i\"><li>Injuries are commonly more proximal than anticipated, and</li><li>Double-bone structures in both the forearm and the lower leg effectively splint the arteries and prevent tourniquets from working properly.</li></ol></li><li>Tourniquets should be as tight as possible.<ol type=\"i\"><li>Due to associated pain, request ALS, if available.</li></ol></li><li>If hemorrhage continues after application of the tourniquet, ensure the tourniquet is applied as tightly as possible. If hemorrhage continues, consider placement of a second tourniquet, proximal to the first. Experience has shown applying two tourniquets greatly reduces the incidence of hemorrhage, especially in injuries to the lower extremity.</li><li>Document time of tourniquet application and communicate this clearly with receiving facility.</li></ol>"
       },
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "<p>If life-threatening bleeding is not controlled by the above or is located in an area not amenable to placement of a tourniquet (if epistaxis, see Facial/dental protocols, <strong>Green 24</strong>), consider applying a Maine EMS-approved hemostatic agent by packing the agent in the wound and applying/maintaining pressure over the agent for a minimum of 5 minutes. Check for ongoing bleeding. If bleeding has stopped, bandage appropriately. If bleeding continues, reapply pressure for a minimum of 5 minutes. If bleeding continues after the second period of pressure, remove the initial hemostatic agent and repeat with a new hemostatic agent. Remember, for these agents to have maximal effectiveness, they must be packed inside the wound as close to the bleeding source as possible</p>"
+        "html": "If life-threatening bleeding is not controlled by the above or is located in an area not amenable to placement of a tourniquet (if epistaxis, see Facial/dental protocols, <strong>Green 24</strong>), consider applying a Maine EMS-approved hemostatic agent by packing the agent in the wound and applying/maintaining pressure over the agent for a minimum of 5 minutes. Check for ongoing bleeding. If bleeding has stopped, bandage appropriately. If bleeding continues, reapply pressure for a minimum of 5 minutes. If bleeding continues after the second period of pressure, remove the initial hemostatic agent and repeat with a new hemostatic agent. Remember, for these agents to have maximal effectiveness, they must be packed inside the wound as close to the bleeding source as possible"
       },
       {
         "num": 4,
@@ -626,12 +626,12 @@
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p>If amputation, rinse severed part briefly and gently with sterile saline to remove debris.\n    a. Wrap severed part in sterile gauze, moisten with sterile saline (do not soak), place in a water-tight container. Place container on ice (do not use dry ice). Do not put part directly on ice. If necessary, use ice packs to provide some level of cooling.</p>"
+        "html": "If amputation, rinse severed part briefly and gently with sterile saline to remove debris.<ol type=\"a\"><li>Wrap severed part in sterile gauze, moisten with sterile saline (do not soak), place in a water-tight container. Place container on ice (do not use dry ice). Do not put part directly on ice. If necessary, use ice packs to provide some level of cooling.</li></ol>"
       },
       {
         "num": 6,
         "providerLevel": "EMT",
-        "html": "<p>Request Paramedic if bleeding cannot be controlled, patient demonstrates signs or symptoms of shock, or the patient requires pain management due to tourniquet placement.</p>"
+        "html": "Request Paramedic if bleeding cannot be controlled, patient demonstrates signs or symptoms of shock, or the patient requires pain management due to tourniquet placement."
       },
       {
         "num": 7,
@@ -713,12 +713,12 @@
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "<p>If patient is in third trimester of pregnancy:\n    a. Place patient in left or right lateral recumbent position and re-evaluate.\n    b. If shock is secondary to trauma, immobilize patient on a backboard before placing in left or right lateral recumbent position (manually displace uterus to the left or right if tilting the board is not possible).</p>"
+        "html": "If patient is in third trimester of pregnancy:<ol type=\"a\"><li>Place patient in left or right lateral recumbent position and re-evaluate.</li><li>If shock is secondary to trauma, immobilize patient on a backboard before placing in left or right lateral recumbent position (manually displace uterus to the left or right if tilting the board is not possible).</li></ol>"
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>If the cause of hypovolemic shock is felt to be secondary to acute unstable pelvic fracture, apply a Maine EMS-approved pelvic stabilization device. If Maine EMS-approved pelvic binder is not available, immobilize with a sheet wrap.</p>"
+        "html": "If the cause of hypovolemic shock is felt to be secondary to acute unstable pelvic fracture, apply a Maine EMS-approved pelvic stabilization device. If Maine EMS-approved pelvic binder is not available, immobilize with a sheet wrap."
       },
       {
         "num": 5,
@@ -738,7 +738,7 @@
       {
         "num": 8,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "If shock present (see table on Hemorrhagic Shock #3), perform fluid bolus according to the following guidelines:\n    a. <strong>Pediatrics</strong> - establish IV access and perform 20 mL/kg fluid bolus. Repeat, as needed, within 15-30 min for a total of 60 mL/kg.\n    b. <strong>Uncontrolled bleeding</strong>: for suspected internal bleeding or uncontrolled bleeding, fluid bolus to maintain age appropriate target systolic BP (90 mmHg in adults).\n    c. In suspected TBI/CNS injury initiate fluid bolus to maintain age-appropriate SBP. Refer to Head Trauma protocol, <strong>Green 8</strong>, for age-appropriate SBP."
+        "html": "If shock present (see table on Hemorrhagic Shock #3), perform fluid bolus according to the following guidelines:<ol type=\"a\"><li><strong>Pediatrics</strong> - establish IV access and perform 20 mL/kg fluid bolus. Repeat, as needed, within 15-30 min for a total of 60 mL/kg.</li><li><strong>Uncontrolled bleeding</strong>: for suspected internal bleeding or uncontrolled bleeding, fluid bolus to maintain age appropriate target systolic BP (90 mmHg in adults).</li><li>In suspected TBI/CNS injury initiate fluid bolus to maintain age-appropriate SBP. Refer to Head Trauma protocol, <strong>Green 8</strong>, for age-appropriate SBP.</li></ol>"
       },
       {
         "num": 9,
@@ -753,7 +753,7 @@
       {
         "num": 11,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>In patients with either penetrating/blunt trauma <strong>OR</strong> post-partum hemorrhage <strong>AND</strong>:\n    a. Are greater than or equal to 16 years of age, and\n    b. Are hemodynamically unstable as evidenced by tachycardia, hypotension or other evidence of shock, and\n    c. Who are less than 180 minutes (3 hours) from the time of injury/hemorrhage, consider:\n        i. Tranexamic acid (TXA) 1 gram <strong>IV</strong> mixed in 250 ml of NS over 10 minutes</p>\n<ol>\n<li>\n<p><strong>NOTE:</strong> Discuss the use of TXA in patients on anticoagulation with OLMC before providing medication.* (see Pearls)</p>\n</li>\n<li>\n<p><strong>NOTE: CONTRAINDICATIONS</strong> for tranexamic acid (TXA) include:</p>\n<ul>\n<li><strong>Isolated</strong> head injury (multi-trauma patients with hemorrhagic shock <strong>SHOULD</strong> receive TXA regardless of head injury),</li>\n<li>Patients younger than 16 years old,</li>\n<li>Patients greater than 24 wks pregnant (or pregnant with fundus above umbilicus) suffering hemorrhagic shock due to trauma,</li>\n<li>Patients with known hypercoagulable states,</li>\n<li>The patient is more than 180 minutes (3 hours) from the time of injury,</li>\n<li>Patients with hemorrhage due to GI bleeding</li>\n</ul>\n</li>\n</ol>"
+        "html": "In patients with either penetrating/blunt trauma <strong>OR</strong> post-partum hemorrhage <strong>AND</strong>:<ol type=\"a\"><li>Are greater than or equal to 16 years of age, and</li><li>Are hemodynamically unstable as evidenced by tachycardia, hypotension or other evidence of shock, and</li><li>Who are less than 180 minutes (3 hours) from the time of injury/hemorrhage, consider:<ol type=\"i\"><li>Tranexamic acid (TXA) 1 gram <strong>IV</strong> mixed in 250 ml of NS over 10 minutes</li></ol></li><li><strong>NOTE:</strong> Discuss the use of TXA in patients on anticoagulation with OLMC before providing medication.* (see Pearls)</li><li><strong>NOTE: CONTRAINDICATIONS</strong> for tranexamic acid (TXA) include:<ul><li><strong>Isolated</strong> head injury (multi-trauma patients with hemorrhagic shock <strong>SHOULD</strong> receive TXA regardless of head injury),</li><li>Patients younger than 16 years old,</li><li>Patients greater than 24 wks pregnant (or pregnant with fundus above umbilicus) suffering hemorrhagic shock due to trauma,</li><li>Patients with known hypercoagulable states,</li><li>The patient is more than 180 minutes (3 hours) from the time of injury,</li><li>Patients with hemorrhage due to GI bleeding</li></ul></li></ol>"
       }
     ],
     "pearls": [],
@@ -890,12 +890,12 @@
       {
         "num": 10,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>If shock <strong>NOT</strong> present, in patients with burns greater than 20% TBSA, initiate fluid resuscitation at the following rates:\n    a. Less than 6 years old: 125 mL per hour,\n    b. 6-13 years old: 250 mL per hour, and\n    c. 14 years old or older: 500 mL per hour.</p>"
+        "html": "If shock <strong>NOT</strong> present, in patients with burns greater than 20% TBSA, initiate fluid resuscitation at the following rates:<ol type=\"a\"><li>Less than 6 years old: 125 mL per hour,</li><li>6-13 years old: 250 mL per hour, and</li><li>14 years old or older: 500 mL per hour.</li></ol>"
       },
       {
         "num": 11,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>For pain control, refer to the Universal Pain Management protocol, <strong>Green 18</strong>.</p>"
+        "html": "For pain control, refer to the Universal Pain Management protocol, <strong>Green 18</strong>."
       }
     ],
     "pearls": [],
@@ -1022,12 +1022,12 @@
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>If pain not improved by above measures and no contraindications to oral medications exist, for patients 5 years and older AND 20 lbs/9.4 kg or over consider:\n    a. Acetaminophen chewable tab, 10 - 15 mg/kg PO rounded to the nearest half tab (may be chewed or swallowed whole). MAX dose 1,000 mg.\n    b. <strong>NOTE:</strong> Acetaminophen is contraindicated for patients with known or suspected liver disease or for those who have received acetaminophen within the past 6 hours.</p>"
+        "html": "If pain not improved by above measures and no contraindications to oral medications exist, for patients 5 years and older AND 20 lbs/9.4 kg or over consider:<ol type=\"a\"><li>Acetaminophen chewable tab, 10 - 15 mg/kg PO rounded to the nearest half tab (may be chewed or swallowed whole). MAX dose 1,000 mg.</li><li><strong>NOTE:</strong> Acetaminophen is contraindicated for patients with known or suspected liver disease or for those who have received acetaminophen within the past 6 hours.</li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p>Request ALS if needed for pain management or management of underlying injury.</p>"
+        "html": "Request ALS if needed for pain management or management of underlying injury."
       },
       {
         "num": 6,
@@ -1052,17 +1052,17 @@
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If contraindication to oral pain medications, consider acetaminophen 10-15 mg/kg <strong>IV</strong> once up to 1000 mg, over 15 minutes.\n    a. NOTE: doses of acetaminophen less than 1000 mg require infusion via pump.</p>"
+        "html": "If contraindication to oral pain medications, consider acetaminophen 10-15 mg/kg <strong>IV</strong> once up to 1000 mg, over 15 minutes.<ol type=\"a\"><li>NOTE: doses of acetaminophen less than 1000 mg require infusion via pump.</li></ol>"
       },
       {
         "num": 11,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>For stable patients continuing to suffer pain from trauma or other listed inclusion criteria, consider the use of any <strong>ONE</strong> of the following medications:\n    a. <strong>Either</strong> Fentanyl 1 mcg/kg <strong>IV/IM/IN</strong> with an initial MAX dose of 100 mcg.\n        i. For persistent traumatic pain, may repeat doses every 5-10 minutes at 0.5-1 mcg/kg (MAX dose 100 mcg) <strong>IV/IM/IN</strong> titrated to effect, with a cumulative MAX dose of 5 mcg/kg.\n        ii. NOTE: Fentanyl may be ineffective in patients with underlying opioid use disorder, on opioids chronically (e.g., methadone) or on opioid antagonists (e.g., buprenorphine/naloxone [Suboxone]).\n    b. <strong>OR</strong>, Ketamine:\n        i. Ketamine 0.2 mg/kg <strong>IV</strong> to a MAX dose of 25 mg. Mix in 100 mL bag of saline and infuse over 10 minutes via a pump.\n            1. Repeat in 15 minutes as needed for continued pain to a cumulative MAX dose of 1 mg/kg .\n        ii. Ketamine 0.5 mg/kg <strong>IN</strong> to a MAX dose of 25 mg\n            1. Repeat 0.25 mg/kg <strong>IN</strong> to a MAX dose of 25 mg in 15 minutes as needed for pain x 1.\n        iii. NOTE: Ketamine is contraindicated in infants less than 3 months old and those with cardiogenic shock (or history of heart failure).\n    c. <strong>OR</strong>, 50% nitrous oxide/oxygen mixture self-administered <strong>ONLY</strong> until patient removes mask or pain is controlled i.e. a blended 50/50 mixture.\n        i. <strong>NOTE:</strong> Nitrous Oxide is contraindicated in suspected pneumothorax or bowel obstructions .</p>"
+        "html": "For stable patients continuing to suffer pain from trauma or other listed inclusion criteria, consider the use of any <strong>ONE</strong> of the following medications:<ol type=\"a\"><li><strong>Either</strong> Fentanyl 1 mcg/kg <strong>IV/IM/IN</strong> with an initial MAX dose of 100 mcg.<ol type=\"i\"><li>For persistent traumatic pain, may repeat doses every 5-10 minutes at 0.5-1 mcg/kg (MAX dose 100 mcg) <strong>IV/IM/IN</strong> titrated to effect, with a cumulative MAX dose of 5 mcg/kg.</li><li>NOTE: Fentanyl may be ineffective in patients with underlying opioid use disorder, on opioids chronically (e.g., methadone) or on opioid antagonists (e.g., buprenorphine/naloxone [Suboxone]).</li></ol></li><li><strong>OR</strong>, Ketamine:<ol type=\"i\"><li>Ketamine 0.2 mg/kg <strong>IV</strong> to a MAX dose of 25 mg. Mix in 100 mL bag of saline and infuse over 10 minutes via a pump.<ol><li>Repeat in 15 minutes as needed for continued pain to a cumulative MAX dose of 1 mg/kg .</li></ol></li><li>Ketamine 0.5 mg/kg <strong>IN</strong> to a MAX dose of 25 mg<ol><li>Repeat 0.25 mg/kg <strong>IN</strong> to a MAX dose of 25 mg in 15 minutes as needed for pain x 1.</li></ol></li><li>NOTE: Ketamine is contraindicated in infants less than 3 months old and those with cardiogenic shock (or history of heart failure).</li></ol></li><li><strong>OR</strong>, 50% nitrous oxide/oxygen mixture self-administered <strong>ONLY</strong> until patient removes mask or pain is controlled i.e. a blended 50/50 mixture.<ol type=\"i\"><li><strong>NOTE:</strong> Nitrous Oxide is contraindicated in suspected pneumothorax or bowel obstructions .</li></ol></li></ol>"
       },
       {
         "num": 12,
         "providerLevel": "PARAMEDIC",
-        "html": "Contact OLMC before using any analgesic (beyond acetaminophen) in:\n    i. Isolated trauma involving the head,\n    ii. Back pain,\n    iii. Non-traumatic extremity pain,\n    iv. Any patient with mental status changes,\n    v. Any patient with unstable vital signs (including SBP < 100 mmHg),\n    vi. Coincident drug use (including alcohol)."
+        "html": "Contact OLMC before using any analgesic (beyond acetaminophen) in:<ol type=\"a\"><li>Isolated trauma involving the head,</li><li>Back pain,</li><li>Non-traumatic extremity pain,</li><li>Any patient with mental status changes,</li><li>Any patient with unstable vital signs (including SBP &lt; 100 mmHg),</li><li>Coincident drug use (including alcohol).</li></ol>"
       },
       {
         "num": 13,
@@ -1226,7 +1226,7 @@
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "Consider the following post extrication:\n    a. Continued resuscitation with <strong>Normal Saline</strong>\n        i. <strong>Adult:</strong> 500-1000 mL/hr\n        ii. <strong>Pediatric:</strong> 10 mL/kg/hr\n    b. If ECG suggestive of hyperkalemia, see Hyperkalemia protocol, <strong>Red 36</strong>."
+        "html": "Consider the following post extrication:<ol type=\"a\"><li>Continued resuscitation with <strong>Normal Saline</strong><ol type=\"i\"><li><strong>Adult:</strong> 500-1000 mL/hr</li><li><strong>Pediatric:</strong> 10 mL/kg/hr</li></ol></li><li>If ECG suggestive of hyperkalemia, see Hyperkalemia protocol, <strong>Red 36</strong>.</li></ol>"
       }
     ],
     "pearls": [],
@@ -1252,22 +1252,22 @@
       {
         "num": 2,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p><strong>Avulsed tooth:</strong>\n    a. Avoid touching the root of the avulsed tooth. Do not wipe off tooth.\n    b. Pick up at crown end. If dirty, rinse off under cold water for 10 seconds.\n    c. Place tooth in milk or saline as the storage medium. Alternatively, a cooperative patient can hold tooth in mouth using own saliva as storage medium.</p>"
+        "html": "<strong>Avulsed tooth:</strong><ol type=\"a\"><li>Avoid touching the root of the avulsed tooth. Do not wipe off tooth.</li><li>Pick up at crown end. If dirty, rinse off under cold water for 10 seconds.</li><li>Place tooth in milk or saline as the storage medium. Alternatively, a cooperative patient can hold tooth in mouth using own saliva as storage medium.</li></ol>"
       },
       {
         "num": 3,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p><strong>Unstable Mandible Injury:</strong>\n    a. Expect patient cannot spit/swallow effectively and have suction readily available.\n    b. Preferentially transport sitting up with emesis basin/suction available (in the absence of a suspected spinal injury, see Spinal Management Protocol, <strong>Green 3</strong>).</p>"
+        "html": "<strong>Unstable Mandible Injury:</strong><ol type=\"a\"><li>Expect patient cannot spit/swallow effectively and have suction readily available.</li><li>Preferentially transport sitting up with emesis basin/suction available (in the absence of a suspected spinal injury, see Spinal Management Protocol, <strong>Green 3</strong>).</li></ol>"
       },
       {
         "num": 4,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p><strong>Epistaxis:</strong>\n    a. Pinch nose continuously for 10 - 15 minutes, below nasal bones while having patient lean forward. May place a nasal clamp for hemorrhage, if so available.</p>"
+        "html": "<strong>Epistaxis:</strong><ol type=\"a\"><li>Pinch nose continuously for 10 - 15 minutes, below nasal bones while having patient lean forward. May place a nasal clamp for hemorrhage, if so available.</li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p><strong>Nose/Ear Avulsion:</strong>\n    a. Recover tissue if doing so does not delay care.\n    b. Transport with avulsed tissue wrapped in dry sterile gauze in a plastic bag placed on ice.\n    c. Severe ear and nose lacerations can be covered with a moist sterile dressing.</p>"
+        "html": "<strong>Nose/Ear Avulsion:</strong><ol type=\"a\"><li>Recover tissue if doing so does not delay care.</li><li>Transport with avulsed tissue wrapped in dry sterile gauze in a plastic bag placed on ice.</li><li>Severe ear and nose lacerations can be covered with a moist sterile dressing.</li></ol>"
       },
       {
         "num": 6,
@@ -1324,7 +1324,7 @@
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "For direct eye trauma:\n    a. Impaled object: secure object and patch both eyes. Keep patient supine.\n    b. Puncture wounds: patch (vs. protective shields) both eyes and keep patient supine.\n    c. Avulsion of globe: do NOT put back into socket. Cover with moist sterile dressings and then place cup over site.\n    d. Other significant eye trauma: place eye shield."
+        "html": "For direct eye trauma:<ol type=\"a\"><li>Impaled object: secure object and patch both eyes. Keep patient supine.</li><li>Puncture wounds: patch (vs. protective shields) both eyes and keep patient supine.</li><li>Avulsion of globe: do NOT put back into socket. Cover with moist sterile dressings and then place cup over site.</li><li>Other significant eye trauma: place eye shield.</li></ol>"
       },
       {
         "num": 6,
@@ -1411,12 +1411,12 @@
       {
         "num": 9,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Ceftriaxone, per dosing recommendations listed below:\n    a. For patients 12 years and older: Ceftriaxone 2 grams IV in 50 -100 ml of NS or D5W over at least 10 minutes.\n    b. For patients less than 12 years old: Ceftriaxone 75 mg/kg IV (max dose 2 grams) in 50 -100 ml of NS or D5W over 10 minutes.\n    c. <strong>NOTE:</strong> ceftriaxone is <strong>CONTRAINDICATED</strong> in patients with history of allergy or anaphylaxis to penicillins or cephalosporins.</p>"
+        "html": "Ceftriaxone, per dosing recommendations listed below:<ol type=\"a\"><li>For patients 12 years and older: Ceftriaxone 2 grams IV in 50 -100 ml of NS or D5W over at least 10 minutes.</li><li>For patients less than 12 years old: Ceftriaxone 75 mg/kg IV (max dose 2 grams) in 50 -100 ml of NS or D5W over 10 minutes.</li><li><strong>NOTE:</strong> ceftriaxone is <strong>CONTRAINDICATED</strong> in patients with history of allergy or anaphylaxis to penicillins or cephalosporins.</li></ol>"
       },
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Notify receiving hospital if patients received antibiotics.\n    a. If patient <strong>DID</strong> receive antibiotics, notify hospital <strong>WHEN</strong> antibiotics were initiated.\n    b. If patient <strong>DID NOT</strong> receive antibiotics, notify hospital <strong>WHY</strong> antibiotics were withheld.</p>"
+        "html": "Notify receiving hospital if patients received antibiotics.<ol type=\"a\"><li>If patient <strong>DID</strong> receive antibiotics, notify hospital <strong>WHEN</strong> antibiotics were initiated.</li><li>If patient <strong>DID NOT</strong> receive antibiotics, notify hospital <strong>WHY</strong> antibiotics were withheld.</li></ol>"
       }
     ],
     "pearls": [],

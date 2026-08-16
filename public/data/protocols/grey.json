@@ -392,7 +392,7 @@
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "Consider following written orders for medications in hospice kit. As an adjunct, consider:\n    a. For Breakthrough Pain, refer to Universal Pain Management Protocol, <strong>Green 18</strong>.\n    b. For Anxiety, contact OLMC for Ketamine 0.5 mg/kg IN for a max dose of 25 mg.\n    c. For Bronchospasm, refer to Respiratory Distress with Bronchospasm protocol, <strong>Blue 6</strong>."
+        "html": "Consider following written orders for medications in hospice kit. As an adjunct, consider:<ol type=\"a\"><li>For Breakthrough Pain, refer to Universal Pain Management Protocol, <strong>Green 18</strong>.</li><li>For Anxiety, contact OLMC for Ketamine 0.5 mg/kg IN for a max dose of 25 mg.</li><li>For Bronchospasm, refer to Respiratory Distress with Bronchospasm protocol, <strong>Blue 6</strong>.</li></ol>"
       }
     ],
     "pearls": [],
@@ -667,12 +667,12 @@
       {
         "num": 7,
         "providerLevel": "ALL",
-        "html": "<p>Notify dispatch of type of MCI and estimate of number and type of patients.\n    a. Request EMS, fire, police assistance\n    b. Request hospital notification</p>"
+        "html": "Notify dispatch of type of MCI and estimate of number and type of patients.<ol type=\"a\"><li>Request EMS, fire, police assistance</li><li>Request hospital notification</li></ol>"
       },
       {
         "num": 8,
         "providerLevel": "ALL",
-        "html": "<p>First ambulance or other vehicle with medical frequencies becomes EMS command vehicle - locate near fire and police command vehicles. Strip equipment/supplies - place in equipment area (near planned patient collection/treatment area).</p>"
+        "html": "First ambulance or other vehicle with medical frequencies becomes EMS command vehicle - locate near fire and police command vehicles. Strip equipment/supplies - place in equipment area (near planned patient collection/treatment area)."
       },
       {
         "num": 9,
@@ -956,7 +956,7 @@
       {
         "num": 16,
         "providerLevel": "ALL",
-        "html": "You must contact Child Protective Services/DHHS (<strong>1-800-452-1999</strong>) to make a report if there is abuse/suspected abuse.\n    This is a 24-hour a day reporting number. You will be protected, by law, from civil liability for making such a report, if made in good faith. Title 22 MRS, Chapter 1071, Subsection 4014"
+        "html": "You must contact Child Protective Services/DHHS (<strong>1-800-452-1999</strong>) to make a report if there is abuse/suspected abuse."
       }
     ],
     "pearls": [],
@@ -1089,7 +1089,7 @@
       {
         "num": 6,
         "providerLevel": "ALL",
-        "html": "<strong>The service is expected to review all patient sign offs through the service's quality assurance mechanism. Patient medical records must be completed for all of these interactions,and must include the following information:</strong>\n    a. The patient must be calm, with decision-making capacity, sober, and alert with the absence of any acute medical/surgical or traumatic process that impairs the patient's decision-making capacity\n    b. Greater than 18 years, emancipated, or contact with guardian\n    c. Service(s) offered\n    d. Reason service(s) declined\n    e. Statement of risks and patient understanding of risk\n    f. Discussion of alternatives to service offered and potential consequences of declining offered service\n    g. Discussion with patient that EMS services may be accessed at any time, and that the patient had decision-making capacity."
+        "html": "<strong>The service is expected to review all patient sign offs through the service's quality assurance mechanism. Patient medical records must be completed for all of these interactions,and must include the following information:</strong><ol type=\"a\"><li>The patient must be calm, with decision-making capacity, sober, and alert with the absence of any acute medical/surgical or traumatic process that impairs the patient's decision-making capacity</li><li>Greater than 18 years, emancipated, or contact with guardian</li><li>Service(s) offered</li><li>Reason service(s) declined</li><li>Statement of risks and patient understanding of risk</li><li>Discussion of alternatives to service offered and potential consequences of declining offered service</li><li>Discussion with patient that EMS services may be accessed at any time, and that the patient had decision-making capacity.</li></ol>"
       },
       {
         "num": 7,
@@ -1264,17 +1264,17 @@
       {
         "num": 1,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Examine baby and refer to appropriate protocol(s) if treatment is needed.\n   Transport to nearest hospital that accepts emergency patients.</p>"
+        "html": "Examine baby and refer to appropriate protocol(s) if treatment is needed."
       },
       {
         "num": 2,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Inform person surrendering baby that information shared is protected under the above law and utilized in the welfare of the child. Information may include:\n    a. Date of birth of baby\n    b. Circumstances related to pregnancy/delivery\n    c. Any information about Native American heritage (Indian Child Welfare Act of 1978)\n    d. Any medical/genetic information relating to baby, parents, extended family\n    e. History of substance abuse by either parent\n    f. Physician or midwife who delivered infant (if known)\n    g. Any information that person surrendering infant is willing to provide (parent(s) names(s), addresses, family members</p>"
+        "html": "Inform person surrendering baby that information shared is protected under the above law and utilized in the welfare of the child. Information may include:<ol type=\"a\"><li>Date of birth of baby</li><li>Circumstances related to pregnancy/delivery</li><li>Any information about Native American heritage (Indian Child Welfare Act of 1978)</li><li>Any medical/genetic information relating to baby, parents, extended family</li><li>History of substance abuse by either parent</li><li>Physician or midwife who delivered infant (if known)</li><li>Any information that person surrendering infant is willing to provide (parent(s) names(s), addresses, family members</li></ol>"
       },
       {
         "num": 3,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Provide accepting hospital with all information gathered at the time of surrender.</p>"
+        "html": "Provide accepting hospital with all information gathered at the time of surrender."
       },
       {
         "num": 4,
@@ -1284,7 +1284,7 @@
       {
         "num": 5,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "Complete a Maine EMS Run Report to include the information obtained\n    a. Date and time of surrender\n    b. Physical Exam and treatment\n    c. Gender"
+        "html": "Complete a Maine EMS Run Report to include the information obtained<ol type=\"a\"><li>Date and time of surrender</li><li>Physical Exam and treatment</li><li>Gender</li></ol>"
       }
     ],
     "pearls": [],

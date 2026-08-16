@@ -135,12 +135,12 @@
       {
         "num": 13,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Consider\n    a. Additional nitroglycerin\n    b. Fentanyl 1 mcg/kg <strong>IV/IM</strong>, or <strong>IN</strong> to a MAX dose of 100 mcgs\n    c. Additional fluid bolus in patients with inferior MI</p>"
+        "html": "Consider<ol type=\"a\"><li>Additional nitroglycerin</li><li>Fentanyl 1 mcg/kg <strong>IV/IM</strong>, or <strong>IN</strong> to a MAX dose of 100 mcgs</li><li>Additional fluid bolus in patients with inferior MI</li></ol>"
       },
       {
         "num": 14,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If patient develops a dysrhythmia, refer to appropriate protocol.</p>"
+        "html": "If patient develops a dysrhythmia, refer to appropriate protocol."
       },
       {
         "num": 15,
@@ -150,12 +150,12 @@
       {
         "num": 16,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>For leads V2-V3, the criteria for STEMI are:</p>\n<ul>\n<li>2 mm - Males 40 yo and older</li>\n<li>2.5 mm - Males younger than 40 yo</li>\n<li>1.5 mm for Women independent of age</li>\n</ul>"
+        "html": "For leads V2-V3, the criteria for STEMI are:<ul><li>2 mm - Males 40 yo and older</li><li>2.5 mm - Males younger than 40 yo</li><li>1.5 mm for Women independent of age</li></ul>"
       },
       {
         "num": 17,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Posterior MI: ST depression greater than 1 mm in V1, V2 (and possibly V3) with an R/S ratio of greater than or equal to 1, place posterior leads to evaluate for ST segment elevation in leads V7/V8/V9</p>"
+        "html": "Posterior MI: ST depression greater than 1 mm in V1, V2 (and possibly V3) with an R/S ratio of greater than or equal to 1, place posterior leads to evaluate for ST segment elevation in leads V7/V8/V9"
       }
     ],
     "pearls": [],
@@ -538,27 +538,27 @@
       {
         "num": 15,
         "providerLevel": "PARAMEDIC",
-        "html": "One medication intervention at each 2-minute reassessment per ACLS protocol:\n    a. VF/VT: amiodarone 300 mg IV/IO; may consider additional 150 mg IV/IO one time (mix in D5W).\n    b. Torsades: 2 grams of magnesium sulfate IV/IO, diluted in 10 mL of IVF (D5W preferred), over 1-2 minutes.\n    c. For refractory VF/VT, refer to Refractory VF/VT protocol, Red 13.\n    d. For PEA, in addition to standard therapies, consider treatment based on QRS complex width and rate: narrow/fast vs wide/slow"
+        "html": "One medication intervention at each 2-minute reassessment per ACLS protocol:<ol type=\"a\"><li>VF/VT: amiodarone 300 mg IV/IO; may consider additional 150 mg IV/IO one time (mix in D5W).</li><li>Torsades: 2 grams of magnesium sulfate IV/IO, diluted in 10 mL of IVF (D5W preferred), over 1-2 minutes.</li><li>For refractory VF/VT, refer to Refractory VF/VT protocol, Red 13.</li><li>For PEA, in addition to standard therapies, consider treatment based on QRS complex width and rate: narrow/fast vs wide/slow</li></ol>"
       },
       {
         "num": 16,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Consider causes of OHCA. Consult OLMC early for questions/advice.\n    a. Is patient on dialysis, have known renal disease or suspicion for hyperkalemia?\n        i. Calcium gluconate 3 gram bolus IV/IO, diluted in a minimum of 10 mL of IVF, over 1 minute\n        ii. Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2\n        iii. IV fluid bolus\n    b. Is patient suspected TCA or other suspected sodium channel blocker overdose? (See Pearls)\n        i. Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2\n        ii. IV fluid bolus\n    c. Is there a suspected pre-existing metabolic acidosis? (See Pearls)\n        i. Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2\n        ii. IV fluid bolus\n    d. Is hypovolemia suspected? If yes, give fluid bolus.\n    e. Is hypoxia suspected? If yes, administer high-flow oxygen and manage airway per Airway Algorithm, Blue 2.\n    f. Do you suspect a pneumothorax? If yes, perform needle decompression.\n    g. Is patient's core temperature less than 30\u00b0C (86\u00b0F) and circumstances consistent with hypothermia? If yes, see Severe Hypothermia WITHOUT signs of Life protocol, Yellow 12.</p>"
+        "html": "Consider causes of OHCA. Consult OLMC early for questions/advice.<ol type=\"a\"><li>Is patient on dialysis, have known renal disease or suspicion for hyperkalemia?<ol type=\"i\"><li>Calcium gluconate 3 gram bolus IV/IO, diluted in a minimum of 10 mL of IVF, over 1 minute</li><li>Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2</li><li>IV fluid bolus</li></ol></li><li>Is patient suspected TCA or other suspected sodium channel blocker overdose? (See Pearls)<ol type=\"i\"><li>Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2</li><li>IV fluid bolus</li></ol></li><li>Is there a suspected pre-existing metabolic acidosis? (See Pearls)<ol type=\"i\"><li>Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2</li><li>IV fluid bolus</li></ol></li><li>Is hypovolemia suspected? If yes, give fluid bolus.</li><li>Is hypoxia suspected? If yes, administer high-flow oxygen and manage airway per Airway Algorithm, Blue 2.</li><li>Do you suspect a pneumothorax? If yes, perform needle decompression.</li><li>Is patient's core temperature less than 30\u00b0C (86\u00b0F) and circumstances consistent with hypothermia? If yes, see Severe Hypothermia WITHOUT signs of Life protocol, Yellow 12.</li></ol>"
       },
       {
         "num": 17,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Upon ROSC:\n    a. Refer to Adult Post-Resuscitation Care protocol, Red 16.\n    b. Contact OLMC for options of:\n        i. Post-resuscitation amiodarone bolus (mix in D5W)</p>"
+        "html": "Upon ROSC:<ol type=\"a\"><li>Refer to Adult Post-Resuscitation Care protocol, Red 16.</li><li>Contact OLMC for options of:<ol type=\"i\"><li>Post-resuscitation amiodarone bolus (mix in D5W)</li></ol></li></ol>"
       },
       {
         "num": 18,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Mechanical CPR (mCPR) devices are not mandatory devices, but may play a role in three prehospital cardiac arrest settings, including:\n    a. Resuscitation events with few numbers of rescuers,\n    b. Resuscitation events that are prolonged,\n    c. Resuscitation events occurring during transport.</p>"
+        "html": "Mechanical CPR (mCPR) devices are not mandatory devices, but may play a role in three prehospital cardiac arrest settings, including:<ol type=\"a\"><li>Resuscitation events with few numbers of rescuers,</li><li>Resuscitation events that are prolonged,</li><li>Resuscitation events occurring during transport.</li></ol>"
       },
       {
         "num": 19,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Manual CPR MUST remain the FIRST strategy for chest compressions as manual CPR is the most readily available and effective compression strategy in the vast majority of cases.</p>"
+        "html": "Manual CPR MUST remain the FIRST strategy for chest compressions as manual CPR is the most readily available and effective compression strategy in the vast majority of cases."
       },
       {
         "num": 20,
@@ -568,17 +568,17 @@
       {
         "num": 21,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Application Process -- Upon encountering a patient in cardiac arrest:\n    a. Initiate manual CPR.\n    b. Continue manual CPR for a minimum of 2 two-minute cycles. Placement or implementation of mechanical CPR may not begin until AFTER the 2nd cycle of CPR.\n    c. If the responding EMS service chooses to implement mechanical CPR, placement may begin AFTER the second cycle of CPR and must be applied in a manner that coordinates with pulse/rhythm checks AND keeps all breaks in CPR to less than 10 seconds.\n    d. Apply the device in accordance to manufacturer's instructions.\n    e. It is possible that application of the device, in a manner that is coordinated with pulse/rhythm checks and maintains interruptions in CPR less than 10 seconds, may take an additional 2 or more cycles of CPR, leading to initiation of mechanical CPR after the 4th round of manual CPR.</p>"
+        "html": "Application Process -- Upon encountering a patient in cardiac arrest:<ol type=\"a\"><li>Initiate manual CPR.</li><li>Continue manual CPR for a minimum of 2 two-minute cycles. Placement or implementation of mechanical CPR may not begin until AFTER the 2nd cycle of CPR.</li><li>If the responding EMS service chooses to implement mechanical CPR, placement may begin AFTER the second cycle of CPR and must be applied in a manner that coordinates with pulse/rhythm checks AND keeps all breaks in CPR to less than 10 seconds.</li><li>Apply the device in accordance to manufacturer's instructions.</li><li>It is possible that application of the device, in a manner that is coordinated with pulse/rhythm checks and maintains interruptions in CPR less than 10 seconds, may take an additional 2 or more cycles of CPR, leading to initiation of mechanical CPR after the 4th round of manual CPR.</li></ol>"
       },
       {
         "num": 22,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Contraindications to Mechanical CPR\n    a. Age less than 18.\n    b. Patients who are unable to fit into the device due to body habitus.</p>"
+        "html": "Contraindications to Mechanical CPR<ol type=\"a\"><li>Age less than 18.</li><li>Patients who are unable to fit into the device due to body habitus.</li></ol>"
       },
       {
         "num": 23,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>In addition to the above, mechanical CPR devices may be placed prior to transport in patients that have recently achieved ROSC in the event of rearrest. The device should be in \"stand-by\" mode and activated if patient re-arrests en route to the hospital.</p>"
+        "html": "In addition to the above, mechanical CPR devices may be placed prior to transport in patients that have recently achieved ROSC in the event of rearrest. The device should be in \"stand-by\" mode and activated if patient re-arrests en route to the hospital."
       },
       {
         "num": 24,
@@ -660,7 +660,7 @@
       {
         "num": 1,
         "providerLevel": "ALL",
-        "html": "Consider dual-sequential external defibrillation, if 2 defibrillators are available.\n    a. This can only be performed with MANUAL defibrillators."
+        "html": "Consider dual-sequential external defibrillation, if 2 defibrillators are available.<ol type=\"a\"><li>This can only be performed with MANUAL defibrillators.</li></ol>"
       },
       {
         "num": 2,
@@ -944,17 +944,17 @@
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If evidence of STEMI on 12-lead ECG, refer to Chest Pain-Suspected Cardiac Origin protocol, <strong>Red 2</strong> and follow local STEMI referral patterns.</p>"
+        "html": "If evidence of STEMI on 12-lead ECG, refer to Chest Pain-Suspected Cardiac Origin protocol, <strong>Red 2</strong> and follow local STEMI referral patterns."
       },
       {
         "num": 9,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If hypotension persists:\n    a. NOREPInephrine IV infusion. NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump.\n        i. <strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS.\n        ii. <strong>Dosing</strong> - Starting dose of NOREPInephrine is 0.03 mcg/kg/min. Titrate by 0.03 mcg/kg/min every 3-5 minutes. Usual dose is 0.03-0.25 mcg/kg/min. Usual MAX dose is 0.6 mcg/kg/min. Absolute MAX dose is 3 mcg/kg/min.\n        iii. <strong>Titrate</strong> to maintain SBP greater than 100 mmHg.</p>"
+        "html": "If hypotension persists:<ol type=\"a\"><li>NOREPInephrine IV infusion. NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump.<ol type=\"i\"><li><strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS.</li><li><strong>Dosing</strong> - Starting dose of NOREPInephrine is 0.03 mcg/kg/min. Titrate by 0.03 mcg/kg/min every 3-5 minutes. Usual dose is 0.03-0.25 mcg/kg/min. Usual MAX dose is 0.6 mcg/kg/min. Absolute MAX dose is 3 mcg/kg/min.</li><li><strong>Titrate</strong> to maintain SBP greater than 100 mmHg.</li></ol></li></ol>"
       },
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If seizure develops, refer to Seizure protocol, <strong>Gold 8</strong>.</p>"
+        "html": "If seizure develops, refer to Seizure protocol, <strong>Gold 8</strong>."
       },
       {
         "num": 11,
@@ -1061,12 +1061,12 @@
       {
         "num": 13,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>For Ventricular Fibrillation (VF)/Pulseless Ventricular Tachycardia (VT):\n    a. Initial defibrillation at 2 J/kg; perform CPR for 2 minutes and recheck rhythm; if still a shockable rhythm, defibrillation at 4 J/kg; perform CPR and reassess every 2 minutes. Continue 2 minute cycles of CPR with defibrillation as indicated. Third defibrillation at 6 J/kg, fourth at 8 J/kg, fifth and subsequent defibrillations at a MAX of 10 J/kg.</p>"
+        "html": "For Ventricular Fibrillation (VF)/Pulseless Ventricular Tachycardia (VT):<ol type=\"a\"><li>Initial defibrillation at 2 J/kg; perform CPR for 2 minutes and recheck rhythm; if still a shockable rhythm, defibrillation at 4 J/kg; perform CPR and reassess every 2 minutes. Continue 2 minute cycles of CPR with defibrillation as indicated. Third defibrillation at 6 J/kg, fourth at 8 J/kg, fifth and subsequent defibrillations at a MAX of 10 J/kg.</li></ol>"
       },
       {
         "num": 14,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>Administer NS 20 mL/kg fluid bolus IV/IO. May repeat x 1 at 5 minutes after initial bolus. If pre-existing cardiac history, consider reducing to 10 mL/kg for each bolus.</p>"
+        "html": "Administer NS 20 mL/kg fluid bolus IV/IO. May repeat x 1 at 5 minutes after initial bolus. If pre-existing cardiac history, consider reducing to 10 mL/kg for each bolus."
       },
       {
         "num": 15,
@@ -1086,22 +1086,22 @@
       {
         "num": 18,
         "providerLevel": "PARAMEDIC",
-        "html": "For pulseless VT/VF, defibrillate as indicated.\n    a. If no response after first defibrillation, administer 0.01 mg/kg (0.1 mL/kg) EPINEPHRine of 1mg/10mL IV/IO rapid push. MAX single dose 1 mg.\n        i. Repeat every 3-5 minutes\n    b. If no response after second defibrillation, consider:\n        i. Amiodarone 5 mg/kg bolus IV/IO. MAX single dose of 300 mg. Can repeat in 3-5 minutes up to a total dose of 15 mg/kg (mix in D\u2085W).\n        ii. Torsades: Magnesium sulfate 25-50 mg/kg IV/IO, diluted in 10 mL IVF (D\u2085W preferred), over 1-2 minutes. MAX single dose 2 grams."
+        "html": "For pulseless VT/VF, defibrillate as indicated.<ol type=\"a\"><li>If no response after first defibrillation, administer 0.01 mg/kg (0.1 mL/kg) EPINEPHRine of 1mg/10mL IV/IO rapid push. MAX single dose 1 mg.<ol type=\"i\"><li>Repeat every 3-5 minutes</li></ol></li><li>If no response after second defibrillation, consider:<ol type=\"i\"><li>Amiodarone 5 mg/kg bolus IV/IO. MAX single dose of 300 mg. Can repeat in 3-5 minutes up to a total dose of 15 mg/kg (mix in D\u2085W).</li><li>Torsades: Magnesium sulfate 25-50 mg/kg IV/IO, diluted in 10 mL IVF (D\u2085W preferred), over 1-2 minutes. MAX single dose 2 grams.</li></ol></li></ol>"
       },
       {
         "num": 19,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>For Asystole or Pulseless Electrical Activity:\n    a. Administer 0.01 mg/kg (0.1 mL/kg) EPINEPHRine (1mg/10mL) IV/IO rapid push. MAX single dose 1 mg.\n        i. Repeat every 3-5 minutes.\n    b. Perform 2 minutes of CPR, then check rhythm. If asystole/PEA, continue EPINEPHRine and 2 minutes of CPR until:\n        i. Pulse obtained, OR\n        ii. Shockable rhythm obtained, OR\n        iii. Decision made to discontinue further efforts, refer to Termination of Resuscitation protocol, <strong>Red 14</strong>.</p>"
+        "html": "For Asystole or Pulseless Electrical Activity:<ol type=\"a\"><li>Administer 0.01 mg/kg (0.1 mL/kg) EPINEPHRine (1mg/10mL) IV/IO rapid push. MAX single dose 1 mg.<ol type=\"i\"><li>Repeat every 3-5 minutes.</li></ol></li><li>Perform 2 minutes of CPR, then check rhythm. If asystole/PEA, continue EPINEPHRine and 2 minutes of CPR until:<ol type=\"i\"><li>Pulse obtained, OR</li><li>Shockable rhythm obtained, OR</li><li>Decision made to discontinue further efforts, refer to Termination of Resuscitation protocol, <strong>Red 14</strong>.</li></ol></li></ol>"
       },
       {
         "num": 20,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Consider causes of OHCA. Consult OLMC early for questions/advice.\n    a. For hypoxia, administer high-flow oxygen and manage airway per Airway Algorithm, <strong>Blue 2</strong>.\n    b. If hypovolemia is suspected, give fluid bolus of 20 mL/kg IV/IO. May repeat x 1 at 5 minutes after initial bolus. If pre-existing cardiac history, consider reducing to 10 mL/kg for each bolus.\n    c. For suspected pre-arrest metabolic acidosis, suspected or known hyperkalemia (dialysis patient), or known TCA overdose, consider:\n        i. Sodium bicarbonate 1 mEq/kg bolus IV/IO, MAX single dose 50 mEq. Do not mix with any resuscitation drugs. Flush IV tubing with NS before and after drug administration. For TCA overdose, repeat every 5 minutes until QRS duration is less than 120 msec. <strong>Do not use routinely in cardiac arrest.</strong> (8.4% sodium bicarbonate must be diluted 1:1 with D\u2085W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age).\n    d. If patient's core temperature less than 30\u00b0C (86\u00b0F) and circumstances consistent with hypothermia, see Severe Hypothermia WITHOUT Signs of Life protocol, <strong>Yellow 12</strong>.\n    e. For known or suspected hyperkalemia or symptomatic calcium channel blocker/beta-blocker overdose, consider:\n        i. Calcium gluconate 60 mg/kg bolus IV/IO, diluted in a minimum of 10 mL of IVF, over 1 minute; MAX single dose of 3 grams; may repeat in 10 minutes. <strong>Do not use routinely in cardiac arrest.</strong>\n    f. Perform needle decompression if there is a suspected pneumothorax.</p>"
+        "html": "Consider causes of OHCA. Consult OLMC early for questions/advice.<ol type=\"a\"><li>For hypoxia, administer high-flow oxygen and manage airway per Airway Algorithm, <strong>Blue 2</strong>.</li><li>If hypovolemia is suspected, give fluid bolus of 20 mL/kg IV/IO. May repeat x 1 at 5 minutes after initial bolus. If pre-existing cardiac history, consider reducing to 10 mL/kg for each bolus.</li><li>For suspected pre-arrest metabolic acidosis, suspected or known hyperkalemia (dialysis patient), or known TCA overdose, consider:<ol type=\"i\"><li>Sodium bicarbonate 1 mEq/kg bolus IV/IO, MAX single dose 50 mEq. Do not mix with any resuscitation drugs. Flush IV tubing with NS before and after drug administration. For TCA overdose, repeat every 5 minutes until QRS duration is less than 120 msec. <strong>Do not use routinely in cardiac arrest.</strong> (8.4% sodium bicarbonate must be diluted 1:1 with D\u2085W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age).</li></ol></li><li>If patient's core temperature less than 30\u00b0C (86\u00b0F) and circumstances consistent with hypothermia, see Severe Hypothermia WITHOUT Signs of Life protocol, <strong>Yellow 12</strong>.</li><li>For known or suspected hyperkalemia or symptomatic calcium channel blocker/beta-blocker overdose, consider:<ol type=\"i\"><li>Calcium gluconate 60 mg/kg bolus IV/IO, diluted in a minimum of 10 mL of IVF, over 1 minute; MAX single dose of 3 grams; may repeat in 10 minutes. <strong>Do not use routinely in cardiac arrest.</strong></li></ol></li><li>Perform needle decompression if there is a suspected pneumothorax.</li></ol>"
       },
       {
         "num": 21,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Upon ROSC:\n    a. Refer to Pediatric Post-Resuscitation Care protocol, <strong>Red 21</strong>.</p>"
+        "html": "Upon ROSC:<ol type=\"a\"><li>Refer to Pediatric Post-Resuscitation Care protocol, <strong>Red 21</strong>.</li></ol>"
       }
     ],
     "pearls": [],
@@ -1143,12 +1143,12 @@
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "<p>Optimize ventilation and oxygenation:\n    a. Initial ventilation rate of 12-20 breaths/min.\n    b. Administer oxygen as appropriate with target of achieving 94-99% saturation (avoid hypo-/hyperoxia).</p>"
+        "html": "Optimize ventilation and oxygenation:<ol type=\"a\"><li>Initial ventilation rate of 12-20 breaths/min.</li><li>Administer oxygen as appropriate with target of achieving 94-99% saturation (avoid hypo-/hyperoxia).</li></ol>"
       },
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "<p>Request ALS.</p>"
+        "html": "Request ALS."
       },
       {
         "num": 4,
@@ -1168,12 +1168,12 @@
       {
         "num": 7,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If hypotension persists after fluid boluses:\n    a. NOREPInephrine IV infusion:\n        i. <strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS\n        ii. <strong>Dosing</strong> - infusion 0.1 - 2 mcg/kg/min (MAX dose of 30 mcg/min) titrated to effect\n        iii. NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump</p>"
+        "html": "If hypotension persists after fluid boluses:<ol type=\"a\"><li>NOREPInephrine IV infusion:<ol type=\"i\"><li><strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS</li><li><strong>Dosing</strong> - infusion 0.1 - 2 mcg/kg/min (MAX dose of 30 mcg/min) titrated to effect</li><li>NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump</li></ol></li></ol>"
       },
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If seizure develops, refer to Seizure protocol, <strong>Gold 8</strong>.</p>"
+        "html": "If seizure develops, refer to Seizure protocol, <strong>Gold 8</strong>."
       },
       {
         "num": 9,
@@ -1311,22 +1311,22 @@
       {
         "num": 7,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Consider <strong>synchronized</strong> cardioversion\n    a. <strong>Regular Narrow</strong> complex (SVT): 50J or monophasic equivalent. With subsequent attempts: 100J, then 120-150J, then 200J, then max available dose.\n    b. <strong>Irregular Narrow</strong> complex (a-fib): 120-200J or monophasic equivalent. Subsequent attempts progress to 200J, then max available dose.\n    c. <strong>Regular Wide</strong> complex (VT): 100J or monophasic equivalent. Subsequent attempts progress to 150J, then 200J then max available dose.\n    d. Consider premedication as follows:\n        i. Midazolam 3 mg <strong>IV/IN/IO</strong> OR fentanyl 1 mcg/kg <strong>IV/IN/IO</strong> to a MAX first dose of 100 mcg.\n    e. If unable to synchronize, or in the case of patient instability or polymorphic VT,\n        i. Defibrillate x 1 at 200J or monophasic equivalent.</p>"
+        "html": "Consider <strong>synchronized</strong> cardioversion<ol type=\"a\"><li><strong>Regular Narrow</strong> complex (SVT): 50J or monophasic equivalent. With subsequent attempts: 100J, then 120-150J, then 200J, then max available dose.</li><li><strong>Irregular Narrow</strong> complex (a-fib): 120-200J or monophasic equivalent. Subsequent attempts progress to 200J, then max available dose.</li><li><strong>Regular Wide</strong> complex (VT): 100J or monophasic equivalent. Subsequent attempts progress to 150J, then 200J then max available dose.</li><li>Consider premedication as follows:<ol type=\"i\"><li>Midazolam 3 mg <strong>IV/IN/IO</strong> OR fentanyl 1 mcg/kg <strong>IV/IN/IO</strong> to a MAX first dose of 100 mcg.</li></ol></li><li>If unable to synchronize, or in the case of patient instability or polymorphic VT,<ol type=\"i\"><li>Defibrillate x 1 at 200J or monophasic equivalent.</li></ol></li></ol>"
       },
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Rate control for A-Fib/A-Flutter ONLY, contact OLMC for option of metoprolol 5 mg <strong>IV</strong> over 5 minutes. REMEMBER, <em>metoprolol must not be used in hypotension (SBP less than 100 mmHg).</em> Discuss wheezing, if present, with OLMC before administration.\n    a. May repeat metoprolol 5 mg <strong>IV</strong> over 5 minutes after consultation with OLMC</p>"
+        "html": "Rate control for A-Fib/A-Flutter ONLY, contact OLMC for option of metoprolol 5 mg <strong>IV</strong> over 5 minutes. REMEMBER, <em>metoprolol must not be used in hypotension (SBP less than 100 mmHg).</em> Discuss wheezing, if present, with OLMC before administration.<ol type=\"a\"><li>May repeat metoprolol 5 mg <strong>IV</strong> over 5 minutes after consultation with OLMC</li></ol>"
       },
       {
         "num": 9,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Contact OLMC for further options, including amiodarone drip (mix in D5W) for wide complex tachycardia.</p>"
+        "html": "Contact OLMC for further options, including amiodarone drip (mix in D5W) for wide complex tachycardia."
       },
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "Narrow complex tachycardia (due to rhythms other than sinus tachycardia):\n    a. Modified Valsalva maneuver - Position patient seated upright and have patient blow into a 10 mL syringe forcefully, attempting to move the plunger for 15 seconds. Then, immediately lay the patient supine and raise legs to 45 degrees. Hold legs for 1 min, then return to seated position. Reassess. May repeat once."
+        "html": "Narrow complex tachycardia (due to rhythms other than sinus tachycardia):<ol type=\"a\"><li>Modified Valsalva maneuver - Position patient seated upright and have patient blow into a 10 mL syringe forcefully, attempting to move the plunger for 15 seconds. Then, immediately lay the patient supine and raise legs to 45 degrees. Hold legs for 1 min, then return to seated position. Reassess. May repeat once.</li></ol>"
       },
       {
         "num": 11,
@@ -1336,7 +1336,7 @@
       {
         "num": 12,
         "providerLevel": "PARAMEDIC",
-        "html": "<strong>For POLYmorphic wide complex tachycardia (Torsades de Pointes):</strong>\n    a. Magnesium sulfate 1-2 grams <strong>IV/IO</strong>, diluted in 50-100 mL of IVF (D5W preferred) over 15 minutes"
+        "html": "<strong>For POLYmorphic wide complex tachycardia (Torsades de Pointes):</strong><ol type=\"a\"><li>Magnesium sulfate 1-2 grams <strong>IV/IO</strong>, diluted in 50-100 mL of IVF (D5W preferred) over 15 minutes</li></ol>"
       }
     ],
     "pearls": [],
@@ -1387,6 +1387,16 @@
         "type": "content",
         "providerLevel": "PARAMEDIC",
         "html": "<p><strong>For WIDE complex tachycardia</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>(MAX dose 300 mg) over 20-60 minutes (mix in D\u2085W).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>defibrillate at 2 J/kg with up to a max of 10 J/kg.</p>"
       },
       {
         "type": "content",
@@ -1448,52 +1458,52 @@
       {
         "num": 7,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If <strong>IV/IO</strong> access present:\n    a. Adenosine* 0.1 mg/kg <strong>IV/IO</strong> (MAX dose 6 mg) rapid bolus at centrally located peripheral IV preferred with rapid saline flush.\n    b. May repeat adenosine x 1 at 0.2 mg/kg <strong>IV/IO</strong> (MAX dose 12 mg) rapid bolus at centrally located peripheral IV with rapid saline flush.</p>"
+        "html": "If <strong>IV/IO</strong> access present:<ol type=\"a\"><li>Adenosine* 0.1 mg/kg <strong>IV/IO</strong> (MAX dose 6 mg) rapid bolus at centrally located peripheral IV preferred with rapid saline flush.</li><li>May repeat adenosine x 1 at 0.2 mg/kg <strong>IV/IO</strong> (MAX dose 12 mg) rapid bolus at centrally located peripheral IV with rapid saline flush.</li></ol>"
       },
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If no <strong>IV/IO</strong> access or adenosine ineffective:\n    a. Synchronized cardioversion at 0.5 - 1.0 J/kg.\n    b. If first attempt unsuccessful, increase to 2.0 J/kg for all subsequent attempts.</p>"
+        "html": "If no <strong>IV/IO</strong> access or adenosine ineffective:<ol type=\"a\"><li>Synchronized cardioversion at 0.5 - 1.0 J/kg.</li><li>If first attempt unsuccessful, increase to 2.0 J/kg for all subsequent attempts.</li></ol>"
       },
       {
         "num": 9,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Consider pre-medication, if feasible\n    a. Midazolam 0.05 mg/kg <strong>IV/IO</strong> or 0.1 mg/kg <strong>IN</strong> (MAX dose 3 mg) OR\n    b. Fentanyl 1 mcg/kg <strong>IV/IN/IO</strong> to a MAX first dose of 100 mcg</p>"
+        "html": "Consider pre-medication, if feasible<ol type=\"a\"><li>Midazolam 0.05 mg/kg <strong>IV/IO</strong> or 0.1 mg/kg <strong>IN</strong> (MAX dose 3 mg) OR</li><li>Fentanyl 1 mcg/kg <strong>IV/IN/IO</strong> to a MAX first dose of 100 mcg</li></ol>"
       },
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Synchronized cardioversion at 0.5 - 1.0 J/kg.\n    a. If first attempt unsuccessful, increased to 2.0 J/kg for all subsequent attempts.</p>"
+        "html": "Synchronized cardioversion at 0.5 - 1.0 J/kg.<ol type=\"a\"><li>If first attempt unsuccessful, increased to 2.0 J/kg for all subsequent attempts.</li></ol>"
       },
       {
         "num": 11,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Contact <strong>OLMC</strong> for consideration of amiodarone 5 mg/kg <strong>IV/IO</strong>\n(MAX dose 300 mg) over 20-60 minutes (mix in D\u2085W).</p>"
+        "html": "Contact <strong>OLMC</strong> for consideration of amiodarone 5 mg/kg <strong>IV/IO</strong>"
       },
       {
         "num": 12,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If unable to synchronize, or in the case of patient instability or polymorphic VT,\ndefibrillate at 2 J/kg with up to a max of 10 J/kg.</p>"
+        "html": "If unable to synchronize, or in the case of patient instability or polymorphic VT,"
       },
       {
         "num": 13,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If pulseless arrest develops, follow Pediatric Cardiac Arrest protocol, <strong>Red 18</strong>.</p>"
+        "html": "If pulseless arrest develops, follow Pediatric Cardiac Arrest protocol, <strong>Red 18</strong>."
       },
       {
         "num": 14,
         "providerLevel": "PARAMEDIC",
-        "html": "Narrow complex tachycardia (due to rhythms other than sinus tachycardia):\n    a. Modified Valsalva maneuver (if patient able to follow directions and participate) - Position patient seated upright and have patient blow into a 10 mL syringe forcefully, attempting to move the plunger for 15 seconds. Then, immediately lay the patient supine and raise legs to 45 degrees. Hold legs for 1 min, then return to seated position. Reassess. May repeat once."
+        "html": "Narrow complex tachycardia (due to rhythms other than sinus tachycardia):<ol type=\"a\"><li>Modified Valsalva maneuver (if patient able to follow directions and participate) - Position patient seated upright and have patient blow into a 10 mL syringe forcefully, attempting to move the plunger for 15 seconds. Then, immediately lay the patient supine and raise legs to 45 degrees. Hold legs for 1 min, then return to seated position. Reassess. May repeat once.</li></ol>"
       },
       {
         "num": 15,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>MONOmorphic and regular Wide Complex tachycardia\n    a. Adenosine:\n        i. Adenosine 0.1 mg/kg IV/IO (MAX dose 6 mg) rapid bolus at centrally located peripheral IV preferred with rapid saline flush.\n        ii. May repeat adenosine x 1 at 0.2 mg/kg IV/IO (MAX dose of 12 mg) rapid bolus at centrally located peripheral IV preferred with rapid saline flush.\n        iii. Contact OLMC for consideration of amiodarone 5 mg/kg IV/IO (MAX dose 300 mg) over 20-60 minutes via IV pump (mix in D\u2085W).</p>"
+        "html": "MONOmorphic and regular Wide Complex tachycardia<ol type=\"a\"><li>Adenosine:<ol type=\"i\"><li>Adenosine 0.1 mg/kg IV/IO (MAX dose 6 mg) rapid bolus at centrally located peripheral IV preferred with rapid saline flush.</li><li>May repeat adenosine x 1 at 0.2 mg/kg IV/IO (MAX dose of 12 mg) rapid bolus at centrally located peripheral IV preferred with rapid saline flush.</li><li>Contact OLMC for consideration of amiodarone 5 mg/kg IV/IO (MAX dose 300 mg) over 20-60 minutes via IV pump (mix in D\u2085W).</li></ol></li></ol>"
       },
       {
         "num": 16,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>POLYmorphic wide complex tachycardia (Torsades de Pointes):\n    a. Magnesium sulfate 25-50 mg/kg IV/IO (MAX single dose 2000 mg) diluted in 50-100 mL IVF (D\u2085W preferred) and administered over 15 minutes via IV pump.\n    b. Contact OLMC for consideration of amiodarone 5 mg/kg IV/IO (MAX dose 300 mg) over 20-60 minutes via IV pump (mix in D\u2085W).</p>"
+        "html": "POLYmorphic wide complex tachycardia (Torsades de Pointes):<ol type=\"a\"><li>Magnesium sulfate 25-50 mg/kg IV/IO (MAX single dose 2000 mg) diluted in 50-100 mL IVF (D\u2085W preferred) and administered over 15 minutes via IV pump.</li><li>Contact OLMC for consideration of amiodarone 5 mg/kg IV/IO (MAX dose 300 mg) over 20-60 minutes via IV pump (mix in D\u2085W).</li></ol>"
       }
     ],
     "pearls": [],
@@ -1590,17 +1600,17 @@
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Apply external pacer. Initiate transcutaneous pacing (TCP) for patients who do not respond to atropine; if serious signs or symptoms, do not delay TCP while awaiting IV/IO access or for atropine to take effect.\n    a. Consider premedicating with:\n        i. Midazolam 3 mg IV/IN/IO OR fentanyl 1 mcg/kg IV/IN/IO to a MAX first dose of 100 mcg.\n    b. Contact OLMC as soon as possible</p>"
+        "html": "Apply external pacer. Initiate transcutaneous pacing (TCP) for patients who do not respond to atropine; if serious signs or symptoms, do not delay TCP while awaiting IV/IO access or for atropine to take effect.<ol type=\"a\"><li>Consider premedicating with:<ol type=\"i\"><li>Midazolam 3 mg IV/IN/IO OR fentanyl 1 mcg/kg IV/IN/IO to a MAX first dose of 100 mcg.</li></ol></li><li>Contact OLMC as soon as possible</li></ol>"
       },
       {
         "num": 9,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Check for capture frequently (every 2 minutes) by checking peripheral pulses, ensuring the pulse matches the paced rate.</p>"
+        "html": "Check for capture frequently (every 2 minutes) by checking peripheral pulses, ensuring the pulse matches the paced rate."
       },
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "If continued signs or symptoms, consider:\n    a. Repeat atropine, or\n    b. EPINEPHrine IV infusion, which may typically be dosed the following way:\n        i. <strong>Preparation</strong> - Add 1mL (1mg) of EPINEPHrine [1mg/mL] to 250 mL bag NS. This results in a 1mg/250mL = 4 mcg/mL mix.\n        ii. <strong>Dose</strong> - Start at 0.05 mcg/kg/min. Titrate by 0.05 mcg/kg/min every 5 min. Titrate to desired desired effect which may include resolution of bradycardia, SPB of > 90 mmHg and/or MAP > 65 mmHg. <strong>Usual dose</strong> is 0.05-0.5 mcg/kg/min. Absolute maximum dose is 0.5 mcg/kg/min\n    c. EPINEPHrine infusions must be administered via a Maine EMS-approved medication pump"
+        "html": "If continued signs or symptoms, consider:<ol type=\"a\"><li>Repeat atropine, or</li><li>EPINEPHrine IV infusion, which may typically be dosed the following way:<ol type=\"i\"><li><strong>Preparation</strong> - Add 1mL (1mg) of EPINEPHrine [1mg/mL] to 250 mL bag NS. This results in a 1mg/250mL = 4 mcg/mL mix.</li><li><strong>Dose</strong> - Start at 0.05 mcg/kg/min. Titrate by 0.05 mcg/kg/min every 5 min. Titrate to desired desired effect which may include resolution of bradycardia, SPB of &gt; 90 mmHg and/or MAP &gt; 65 mmHg. <strong>Usual dose</strong> is 0.05-0.5 mcg/kg/min. Absolute maximum dose is 0.5 mcg/kg/min</li></ol></li><li>EPINEPHrine infusions must be administered via a Maine EMS-approved medication pump</li></ol>"
       }
     ],
     "pearls": [
@@ -1705,17 +1715,17 @@
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If no response to oxygenation, ventilation and chest compressions:\n    a. EPINEPHrine [1 mg/10mL] 0.01 mg/kg (0.1 mL/kg) IV/IO, MAX single dose 1 mg. Repeat every 3-5 minutes.\n    b. In addition, consider Atropine<em> for increased vagal tone or primary AV Block Atropine 0.02 mg/kg IV/IO. May repeat x 1. Minimum dose 0.1 mg and MAX single dose 0.5 mg. (</em>refer to PEARLS, Red 26)</p>"
+        "html": "If no response to oxygenation, ventilation and chest compressions:<ol type=\"a\"><li>EPINEPHrine [1 mg/10mL] 0.01 mg/kg (0.1 mL/kg) IV/IO, MAX single dose 1 mg. Repeat every 3-5 minutes.</li><li>In addition, consider Atropine<em> for increased vagal tone or primary AV Block Atropine 0.02 mg/kg IV/IO. May repeat x 1. Minimum dose 0.1 mg and MAX single dose 0.5 mg. (</em>refer to PEARLS, Red 26)</li></ol>"
       },
       {
         "num": 9,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Apply external pacer. Initiate transcutaneous pacing (TCP) for patients who do not respond to pharmacologic interventions.\n    a. Consider premedicating with:\n        i. Midazolam 0.05 mg/kg IV/IO or 0.1 mg/kg IN (MAX dose 3 mg) OR\n        ii. Fentanyl 1 mcg/kg IV/IN/IO to a MAX first dose of 100 mcg.\n    b. Contact OLMC as soon as possible</p>"
+        "html": "Apply external pacer. Initiate transcutaneous pacing (TCP) for patients who do not respond to pharmacologic interventions.<ol type=\"a\"><li>Consider premedicating with:<ol type=\"i\"><li>Midazolam 0.05 mg/kg IV/IO or 0.1 mg/kg IN (MAX dose 3 mg) OR</li><li>Fentanyl 1 mcg/kg IV/IN/IO to a MAX first dose of 100 mcg.</li></ol></li><li>Contact OLMC as soon as possible</li></ol>"
       },
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Check for capture frequently (every 2 minutes) by checking peripheral pulses, ensuring the pulse matches the paced rate.</p>"
+        "html": "Check for capture frequently (every 2 minutes) by checking peripheral pulses, ensuring the pulse matches the paced rate."
       },
       {
         "num": 11,
@@ -1771,12 +1781,12 @@
       {
         "num": 7,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Contact OLMC with following information: Vital signs, lung sounds, cardiac rhythm, pedal edema assessment for OPTION OF:\n    a. Fluid bolus"
+        "html": "Contact OLMC with following information: Vital signs, lung sounds, cardiac rhythm, pedal edema assessment for OPTION OF:<ol type=\"a\"><li>Fluid bolus</li></ol>"
       },
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "NOREPInephrine IV infusion:\n    a. Preparation - mix NOREPInephrine 8 mg in 250 mL NS.\n    b. Dosing - Starting dose is NOREPInephrine 0.03 mcg/kg/min. Titrate by 0.03 mcg/kg/min every 3-5 minutes. Usual dose is 0.03-0.25 mcg/kg/min. Usual max dose is 0.6 mcg/kg/min. Absolute max dose is 3 mcg/kg/min\n    c. Titrate to maintain systolic BP greater than 100 mmHg\n    d. NOREPInephrine infusions in adults and pediatrics must be administered via a Maine EMS-approved medication pump"
+        "html": "NOREPInephrine IV infusion:<ol type=\"a\"><li>Preparation - mix NOREPInephrine 8 mg in 250 mL NS.</li><li>Dosing - Starting dose is NOREPInephrine 0.03 mcg/kg/min. Titrate by 0.03 mcg/kg/min every 3-5 minutes. Usual dose is 0.03-0.25 mcg/kg/min. Usual max dose is 0.6 mcg/kg/min. Absolute max dose is 3 mcg/kg/min</li><li>Titrate to maintain systolic BP greater than 100 mmHg</li><li>NOREPInephrine infusions in adults and pediatrics must be administered via a Maine EMS-approved medication pump</li></ol>"
       }
     ],
     "pearls": [
@@ -1825,12 +1835,12 @@
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>Treat for shock if appropriate. If the cause of the shock is:\n    a. Anaphylaxis, refer to the <strong>Allergy/Anaphylaxis protocol, Gold 1</strong>.\n    b. Cardiogenic, refer to the <strong>Cardiogenic Shock protocol, Red 32</strong>\n    c. Tension Pneumothorax, refer to the <strong>Chest Trauma protocol, Green 7</strong>.\n    d. Medical Shock, refer to the <strong>Medical Shock protocol, Gold 14</strong>.</p>"
+        "html": "Treat for shock if appropriate. If the cause of the shock is:<ol type=\"a\"><li>Anaphylaxis, refer to the <strong>Allergy/Anaphylaxis protocol, Gold 1</strong>.</li><li>Cardiogenic, refer to the <strong>Cardiogenic Shock protocol, Red 32</strong></li><li>Tension Pneumothorax, refer to the <strong>Chest Trauma protocol, Green 7</strong>.</li><li>Medical Shock, refer to the <strong>Medical Shock protocol, Gold 14</strong>.</li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p>Request ALS.</p>"
+        "html": "Request ALS."
       },
       {
         "num": 6,
@@ -1911,32 +1921,32 @@
       {
         "num": 1,
         "providerLevel": "ALL",
-        "html": "<p>For VAD-related complaints, consider early consult with the patient's VAD support team, including the following individuals in the following order:\n    a. The patient's VAD coordinator,\n    b. The patient's VAD physician,\n    c. Other members of the VAD team, or\n    d. OLMC at the patient's VAD hospital.</p>"
+        "html": "For VAD-related complaints, consider early consult with the patient's VAD support team, including the following individuals in the following order:<ol type=\"a\"><li>The patient's VAD coordinator,</li><li>The patient's VAD physician,</li><li>Other members of the VAD team, or</li><li>OLMC at the patient's VAD hospital.</li></ol>"
       },
       {
         "num": 2,
         "providerLevel": "ALL",
-        "html": "<p>Assess for possible pump malfunction:\n    a. Assess for alarms,\n    b. Auscultate for pump \"hum\" sound (best heard in the left chest),\n    c. Assess for signs of hypoperfusion including pallor, diaphoresis, altered mental status.</p>"
+        "html": "Assess for possible pump malfunction:<ol type=\"a\"><li>Assess for alarms,</li><li>Auscultate for pump \"hum\" sound (best heard in the left chest),</li><li>Assess for signs of hypoperfusion including pallor, diaphoresis, altered mental status.</li></ol>"
       },
       {
         "num": 3,
         "providerLevel": "ALL",
-        "html": "<p>If the VAD pump has malfunctioned:\n    a. Utilize available resources to troubleshoot potential VAD malfunctions and to determine appropriate corrective actions to restore normal VAD function.\n        i. Contact the patient's VAD-trained companion, if available.\n        ii. Contact the patient's VAD-coordinator, using the phone number on the device.\n        iii. Check all connections to the system controller.\n        iv. Change VAD batteries, and/or change the system controller if indicated.\n        v. Have the patient stop all activity and assess for patient tolerance.\n        vi. Follow the appropriate protocol for the patient's presenting complaint.</p>"
+        "html": "If the VAD pump has malfunctioned:<ol type=\"a\"><li>Utilize available resources to troubleshoot potential VAD malfunctions and to determine appropriate corrective actions to restore normal VAD function.<ol type=\"i\"><li>Contact the patient's VAD-trained companion, if available.</li><li>Contact the patient's VAD-coordinator, using the phone number on the device.</li><li>Check all connections to the system controller.</li><li>Change VAD batteries, and/or change the system controller if indicated.</li><li>Have the patient stop all activity and assess for patient tolerance.</li><li>Follow the appropriate protocol for the patient's presenting complaint.</li></ol></li></ol>"
       },
       {
         "num": 4,
         "providerLevel": "ALL",
-        "html": "<p>If the patient is experiencing VAD-related complications or cardiovascular problems, expedite transport to the medical facility where the VAD was placed if the patient's clinical condition and operational considerations allow. If direct transport to the patient's VAD center is not possible, take the patient to the most appropriate facility based on their clinical condition, notifying OLMC and the patient's VAD coordinator of destination decision.\n    a. If patient has a functioning VAD and is experiencing a non-cardiovascular-related problem, contact OLMC and transport to a facility that is appropriate for the patient's main presenting problem without manipulating the device.</p>"
+        "html": "If the patient is experiencing VAD-related complications or cardiovascular problems, expedite transport to the medical facility where the VAD was placed if the patient's clinical condition and operational considerations allow. If direct transport to the patient's VAD center is not possible, take the patient to the most appropriate facility based on their clinical condition, notifying OLMC and the patient's VAD coordinator of destination decision.<ol type=\"a\"><li>If patient has a functioning VAD and is experiencing a non-cardiovascular-related problem, contact OLMC and transport to a facility that is appropriate for the patient's main presenting problem without manipulating the device.</li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "ALL",
-        "html": "<p>If the patient is in cardiac arrest\n    a. CPR should <strong>NOT</strong> be performed if there is any evidence the pump is still functioning. The decision whether to perform CPR should be based upon best clinical judgment. Consult OLMC <strong>or</strong> the patient's VAD coordinator for questions.\n    b. CPR is indicated only when:\n        i. The patient's pump has stopped and troubleshooting efforts to restart the pump have failed, <strong>AND</strong>\n        ii. The patient is unresponsive with no detectable signs of life.</p>"
+        "html": "If the patient is in cardiac arrest<ol type=\"a\"><li>CPR should <strong>NOT</strong> be performed if there is any evidence the pump is still functioning. The decision whether to perform CPR should be based upon best clinical judgment. Consult OLMC <strong>or</strong> the patient's VAD coordinator for questions.</li><li>CPR is indicated only when:<ol type=\"i\"><li>The patient's pump has stopped and troubleshooting efforts to restart the pump have failed, <strong>AND</strong></li><li>The patient is unresponsive with no detectable signs of life.</li></ol></li></ol>"
       },
       {
         "num": 6,
         "providerLevel": "ALL",
-        "html": "<p>Manage the patient's airway as indicated by the Airway Algorithm, <strong>Blue 2</strong>.</p>"
+        "html": "Manage the patient's airway as indicated by the Airway Algorithm, <strong>Blue 2</strong>."
       },
       {
         "num": 7,
@@ -2015,12 +2025,12 @@
       {
         "num": 4,
         "providerLevel": "ALL",
-        "html": "<p>If ECG changes suggestive of hyperkalemia are noted, administer:\n    a. IV/IO fluid bolus: 500 - 1000 mL (NS or LR)\n    b. Calcium gluconate - NOTE: DO NOT administer calcium through same IV/IO as sodium bicarbonate\n        i. Adult: 2 grams diluted in 50-100 mL IVF IV/IO over 15 minutes, via pump\n        ii. Pediatric: 60 mg/kg diluted in 50-100 mL IVF (with MAX dose of 2 grams) IV/IO over 15 minutes, via pump\n    c. Sodium bicarbonate - NOTE: DO NOT administer sodium bicarbonate through same IV/IO as Calcium\n        i. Adult: 50mEq IV/IO\n        ii. Pediatric: 1mEq/kg IV/IO over 5 minutes with MAX dose of 50mEq (8.4% sodium bicarbonate must be diluted with D5W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age.)\n    d. Albuterol\n        i. Adult: 15 mg via nebulizer\n        ii. Pediatric:\n            1. Pediatric less than 25 kg: 2.5 mg via nebulizer\n            2. Pediatric greater than 25 kg: 5 mg via nebulizer</p>"
+        "html": "If ECG changes suggestive of hyperkalemia are noted, administer:<ol type=\"a\"><li>IV/IO fluid bolus: 500 - 1000 mL (NS or LR)</li><li>Calcium gluconate - NOTE: DO NOT administer calcium through same IV/IO as sodium bicarbonate<ol type=\"i\"><li>Adult: 2 grams diluted in 50-100 mL IVF IV/IO over 15 minutes, via pump</li><li>Pediatric: 60 mg/kg diluted in 50-100 mL IVF (with MAX dose of 2 grams) IV/IO over 15 minutes, via pump</li></ol></li><li>Sodium bicarbonate - NOTE: DO NOT administer sodium bicarbonate through same IV/IO as Calcium<ol type=\"i\"><li>Adult: 50mEq IV/IO</li><li>Pediatric: 1mEq/kg IV/IO over 5 minutes with MAX dose of 50mEq (8.4% sodium bicarbonate must be diluted with D5W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age.)</li></ol></li><li>Albuterol<ol type=\"i\"><li>Adult: 15 mg via nebulizer</li><li>Pediatric:<ol><li>Pediatric less than 25 kg: 2.5 mg via nebulizer</li><li>Pediatric greater than 25 kg: 5 mg via nebulizer</li></ol></li></ol></li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "ALL",
-        "html": "<p>Repeat 12-lead ECG after treatment to evaluate for improvement.</p>"
+        "html": "Repeat 12-lead ECG after treatment to evaluate for improvement."
       },
       {
         "num": 6,
@@ -2030,7 +2040,7 @@
       {
         "num": 7,
         "providerLevel": "ALL",
-        "html": "Note: If patient progresses to cardiac arrest, give the following early in your resuscitation efforts (Refer to Adult Cardiac Arrest #2 protocol, <strong>Red 10</strong> or Pediatric Cardiac Arrest #2 protocol, <strong>Red 19</strong>):\n    a. Calcium gluconate:\n        i. <strong>Adult:</strong> 3 gram <strong>IV/IO push</strong>, diluted in a minimum of 10 mL of IVF, over 1 minute, may repeat in 10 minutes.\n        ii. <strong>Pediatric:</strong> 60 mg/kg <strong>IV/IO push</strong>, diluted in a minimum of 10 mL of IVF, over 1 minute, max dose 3000 mg, may repeat in 10 minutes.\n    b. Sodium bicarbonate:\n        i. <strong>Adult:</strong> 50 mEq <strong>IV/IO push</strong> over 1-2 minutes, repeat every 5 minutes until QRS duration less than 120 msec.\n        ii. <strong>Pediatric:</strong> 1 to 2 mEq/kg <strong>IV/IO push</strong> over 1-2 minutes, <strong>MAX</strong> single dose: 50 mEq, repeat every 5 minutes until QRS duration less than 120 msec. (8.4% sodium bicarbonate must be diluted 1:1 with D_5_W to 4.2% [0.5 mEq/L] prior to administration in patients less than 2 years of age.)\n    c. Fluid bolus"
+        "html": "Note: If patient progresses to cardiac arrest, give the following early in your resuscitation efforts (Refer to Adult Cardiac Arrest #2 protocol, <strong>Red 10</strong> or Pediatric Cardiac Arrest #2 protocol, <strong>Red 19</strong>):<ol type=\"a\"><li>Calcium gluconate:<ol type=\"i\"><li><strong>Adult:</strong> 3 gram <strong>IV/IO push</strong>, diluted in a minimum of 10 mL of IVF, over 1 minute, may repeat in 10 minutes.</li><li><strong>Pediatric:</strong> 60 mg/kg <strong>IV/IO push</strong>, diluted in a minimum of 10 mL of IVF, over 1 minute, max dose 3000 mg, may repeat in 10 minutes.</li></ol></li><li>Sodium bicarbonate:<ol type=\"i\"><li><strong>Adult:</strong> 50 mEq <strong>IV/IO push</strong> over 1-2 minutes, repeat every 5 minutes until QRS duration less than 120 msec.</li><li><strong>Pediatric:</strong> 1 to 2 mEq/kg <strong>IV/IO push</strong> over 1-2 minutes, <strong>MAX</strong> single dose: 50 mEq, repeat every 5 minutes until QRS duration less than 120 msec. (8.4% sodium bicarbonate must be diluted 1:1 with D_5_W to 4.2% [0.5 mEq/L] prior to administration in patients less than 2 years of age.)</li></ol></li><li>Fluid bolus</li></ol>"
       }
     ],
     "pearls": [],

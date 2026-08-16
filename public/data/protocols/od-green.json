@@ -115,7 +115,7 @@
       {
         "num": 5,
         "providerLevel": "ALL",
-        "html": "Heat-related injury (need to allow evaporative cooling via panting).\n    If these canines need to be muzzled, a Cage- or Basket-type muzzle is preferred."
+        "html": "Heat-related injury (need to allow evaporative cooling via panting)."
       },
       {
         "num": 1,
@@ -212,27 +212,27 @@
       {
         "num": 4,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Attempt Heimlich maneuver (avoid if sharp object involved)\n    a. \"Bear hug\"or lay canine on side and place fist just below sternum or behind ribs\n    b. Five (5) quick and upward abdominal thrusts followed by airway check\n    c. If not successful, repeat 1-2 times</p>"
+        "html": "Attempt Heimlich maneuver (avoid if sharp object involved)<ol type=\"a\"><li>\"Bear hug\"or lay canine on side and place fist just below sternum or behind ribs</li><li>Five (5) quick and upward abdominal thrusts followed by airway check</li><li>If not successful, repeat 1-2 times</li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Palpate throat/trachea - you may be able to dislodge a supraglottic foreign body cephalad out of the pharynx.\n    a. Palpate the object at the supraglottic region (ventral mandible)\n    b. From caudal aspect of object, squeeze/push cranially\n        i. Two-handed with both thumbs, or\n        ii. Single-handed with thumb and index or middle finger</p>"
+        "html": "Palpate throat/trachea - you may be able to dislodge a supraglottic foreign body cephalad out of the pharynx.<ol type=\"a\"><li>Palpate the object at the supraglottic region (ventral mandible)</li><li>From caudal aspect of object, squeeze/push cranially<ol type=\"i\"><li>Two-handed with both thumbs, or</li><li>Single-handed with thumb and index or middle finger</li></ol></li></ol>"
       },
       {
         "num": 6,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>In an <strong>unconscious</strong> canine, open the airway by extending the head and neck, and pull the tongue forward. A second rescuer may use gauze/leash looped behind upper canine teeth to keep the mouth open. You may use a second length of gauze/leash for the lower jaw as well.</p>"
+        "html": "In an <strong>unconscious</strong> canine, open the airway by extending the head and neck, and pull the tongue forward. A second rescuer may use gauze/leash looped behind upper canine teeth to keep the mouth open. You may use a second length of gauze/leash for the lower jaw as well."
       },
       {
         "num": 7,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>In an <strong>unconscious</strong> canine, if the obstruction is:\n    a. <strong>VISIBLE</strong>: attempt to manually remove; do not push foreign body further back in airway\n    b. <strong>NOT VISIBLE</strong>: do <strong>not</strong> attempt a blind finger sweep due to risk of pushing the foreign body further down the airway</p>"
+        "html": "In an <strong>unconscious</strong> canine, if the obstruction is:<ol type=\"a\"><li><strong>VISIBLE</strong>: attempt to manually remove; do not push foreign body further back in airway</li><li><strong>NOT VISIBLE</strong>: do <strong>not</strong> attempt a blind finger sweep due to risk of pushing the foreign body further down the airway</li></ol>"
       },
       {
         "num": 8,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>If object is not removed and canine collapses, provide chest compressions and mouth-to-snout or BVM (with a canine mask). If unable to get chest rise, proceed to Airway Management protocol, <strong>OD Green 6</strong> and Cardiac Arrest protocol, <strong>OD Green 10</strong>.</p>"
+        "html": "If object is not removed and canine collapses, provide chest compressions and mouth-to-snout or BVM (with a canine mask). If unable to get chest rise, proceed to Airway Management protocol, <strong>OD Green 6</strong> and Cardiac Arrest protocol, <strong>OD Green 10</strong>."
       }
     ],
     "pearls": [],
@@ -274,12 +274,12 @@
       {
         "num": 2,
         "providerLevel": "EMT_ADVANCED_EMT",
-        "html": "<p>Open airway\n    a. Tilt head and slightly extend the neck\n    b. If foreign body suspected, refer to Airway Obstruction protocol, <strong>OD Green 4</strong>.</p>"
+        "html": "Open airway<ol type=\"a\"><li>Tilt head and slightly extend the neck</li><li>If foreign body suspected, refer to Airway Obstruction protocol, <strong>OD Green 4</strong>.</li></ol>"
       },
       {
         "num": 3,
         "providerLevel": "EMT_ADVANCED_EMT",
-        "html": "<p>Provide oxygen to maintain SpO2 &gt; 94%*</p>"
+        "html": "Provide oxygen to maintain SpO2 > 94%*"
       },
       {
         "num": 4,
@@ -289,12 +289,12 @@
       {
         "num": 5,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If unable to ventilate with basic airway maneuvers, proceed with intubation (only if canine is <strong>unconscious</strong>)\n    a. <strong>Prepare</strong>\n        * Suction\n        * Light source (flashlight/headlamp/laryngoscope)\n        * ET tube ready with lubricant, bougie and syringe\n          Measure ETT from incisor to thoracic inlet (typical ETT size is 9-11 mm)\n        * Tube-securing device ready\n        * Continuous end-tidal CO2 monitor ready if available\n        * Consider surgical airway device as back-up\n    b. <strong>Pre-oxygenate</strong> (If time allows, often the collapse is sudden, not allowing adequate time to pre-oxygenate)\n        * Pre-oxygenate with face mask x 3 minutes\n        * Ensure SpO2 greater than 90%\n    c. <strong>Position</strong>\n        * Sternal/prone position\n        * Assistant to help open mouth\n        * Second rescuer may use gauze/leash and place behind upper canines to hold mouth/airway open.\n    d. <strong>Pass the tube</strong>\n        * Pull tongue straight out and over mandible\n        * Visualize vocal cords\n        * Directly visualize ETT passing through cords\n        * Inflate cuff\n    e. <strong>Check tube placement</strong>\n        * Breath sounds/chest rise\n        * End-tidal CO2, if available (35-45 mmHg)\n    f. <strong>Secure ETT</strong>\n        * Consider using a mouth-gag to keep mouth open and prevent damage to the ETT. This can be achieved with a 1-2 wide inch roll of tape\n    g. <strong>Titrate oxygen</strong> to maintain SpO2 ~ 94%</p>"
+        "html": "If unable to ventilate with basic airway maneuvers, proceed with intubation (only if canine is <strong>unconscious</strong>)<ol type=\"a\"><li><strong>Prepare</strong><ul><li>Suction</li><li>Light source (flashlight/headlamp/laryngoscope)</li><li>ET tube ready with lubricant, bougie and syringe Measure ETT from incisor to thoracic inlet (typical ETT size is 9-11 mm)</li><li>Tube-securing device ready</li><li>Continuous end-tidal CO2 monitor ready if available</li><li>Consider surgical airway device as back-up</li></ul></li><li><strong>Pre-oxygenate</strong> (If time allows, often the collapse is sudden, not allowing adequate time to pre-oxygenate)<ul><li>Pre-oxygenate with face mask x 3 minutes</li><li>Ensure SpO2 greater than 90%</li></ul></li><li><strong>Position</strong><ul><li>Sternal/prone position</li><li>Assistant to help open mouth</li><li>Second rescuer may use gauze/leash and place behind upper canines to hold mouth/airway open.</li></ul></li><li><strong>Pass the tube</strong><ul><li>Pull tongue straight out and over mandible</li><li>Visualize vocal cords</li><li>Directly visualize ETT passing through cords</li><li>Inflate cuff</li></ul></li><li><strong>Check tube placement</strong><ul><li>Breath sounds/chest rise</li><li>End-tidal CO2, if available (35-45 mmHg)</li></ul></li><li><strong>Secure ETT</strong><ul><li>Consider using a mouth-gag to keep mouth open and prevent damage to the ETT. This can be achieved with a 1-2 wide inch roll of tape</li></ul></li><li><strong>Titrate oxygen</strong> to maintain SpO2 ~ 94%</li></ol>"
       },
       {
         "num": 6,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If unable to intubate or ventilate with BVM, proceed to Surgical Airway, protocol <strong>OD Green 8</strong></p>"
+        "html": "If unable to intubate or ventilate with BVM, proceed to Surgical Airway, protocol <strong>OD Green 8</strong>"
       }
     ],
     "pearls": [],
@@ -411,17 +411,17 @@
       {
         "num": 9,
         "providerLevel": "ALL",
-        "html": "<p>Extend the neck when possible to ensure best access to the trachea.\n    a. Place a towel, IV bag or similar item under the neck to help extension. Swab/cleanse the area.</p>"
+        "html": "Extend the neck when possible to ensure best access to the trachea.<ol type=\"a\"><li>Place a towel, IV bag or similar item under the neck to help extension. Swab/cleanse the area.</li></ol>"
       },
       {
         "num": 10,
         "providerLevel": "ALL",
-        "html": "<p>Stabilize the larynx and locate the cricothyroid membrane\n    a. Immobilize the trachea with your non-dominant thumb and middle finger while palpating the cricothyroid membrane with your non-dominant index finger. It is best to start palpation over the trachea and move cephalad to locate the membrane. NOTE: The cricothyroid membrane is immediately ABOVE the cricoid cartilage and BELOW the thyroid cartilage.</p>"
+        "html": "Stabilize the larynx and locate the cricothyroid membrane<ol type=\"a\"><li>Immobilize the trachea with your non-dominant thumb and middle finger while palpating the cricothyroid membrane with your non-dominant index finger. It is best to start palpation over the trachea and move cephalad to locate the membrane. NOTE: The cricothyroid membrane is immediately ABOVE the cricoid cartilage and BELOW the thyroid cartilage.</li></ol>"
       },
       {
         "num": 11,
         "providerLevel": "ALL",
-        "html": "<p>Make a 3 - 5 cm <strong>vertical</strong> incision over the cricothyroid membrane through the skin and subcutaneous tissues. NOTE: Severe bleeding is possible with this procedure and may occur at this or the following steps. Be prepared to suction and provide direct pressure to control bleeding</p>"
+        "html": "Make a 3 - 5 cm <strong>vertical</strong> incision over the cricothyroid membrane through the skin and subcutaneous tissues. NOTE: Severe bleeding is possible with this procedure and may occur at this or the following steps. Be prepared to suction and provide direct pressure to control bleeding"
       },
       {
         "num": 12,
@@ -436,37 +436,37 @@
       {
         "num": 14,
         "providerLevel": "ALL",
-        "html": "<p>Insert the tracheal hook or bougie in the opening of the membrane while maintaining hold of the thyroid cartilage with your non-dominant hand.</p>"
+        "html": "Insert the tracheal hook or bougie in the opening of the membrane while maintaining hold of the thyroid cartilage with your non-dominant hand."
       },
       {
         "num": 15,
         "providerLevel": "ALL",
-        "html": "<p>If Trousseau dilator available, insert into the incision site and spread vertical then rotate 90 degrees until the dilator is parallel with the neck.</p>"
+        "html": "If Trousseau dilator available, insert into the incision site and spread vertical then rotate 90 degrees until the dilator is parallel with the neck."
       },
       {
         "num": 16,
         "providerLevel": "ALL",
-        "html": "<p>Insert the cuffed tracheostomy tube or ETT tube into the incision site and advance caudally. Advance until the flanges rest on the skin of the neck (when using tracheostomy tube).</p>"
+        "html": "Insert the cuffed tracheostomy tube or ETT tube into the incision site and advance caudally. Advance until the flanges rest on the skin of the neck (when using tracheostomy tube)."
       },
       {
         "num": 17,
         "providerLevel": "ALL",
-        "html": "<p>Carefully remove the dilator (if used), tracheal hook and obturator of the tracheostomy tube.</p>"
+        "html": "Carefully remove the dilator (if used), tracheal hook and obturator of the tracheostomy tube."
       },
       {
         "num": 18,
         "providerLevel": "ALL",
-        "html": "<p>Inflate the balloon of the tracheostomy tube/ETT.</p>"
+        "html": "Inflate the balloon of the tracheostomy tube/ETT."
       },
       {
         "num": 19,
         "providerLevel": "ALL",
-        "html": "<p>Ventilate and confirm position by physical exam and ETCO\u2082.</p>"
+        "html": "Ventilate and confirm position by physical exam and ETCO\u2082."
       },
       {
         "num": 20,
         "providerLevel": "ALL",
-        "html": "<p>Secure the tube in place.</p>"
+        "html": "Secure the tube in place."
       }
     ],
     "pearls": [],
@@ -518,12 +518,12 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "<p>Initiate high-quality chest compressions with minimal interruptions\n    a. Compression rate of 100-120 compressions/minute\n    b. Depth of 1/3 -1/2 of chest width\n    c. Allow for full chest recoil</p>"
+        "html": "Initiate high-quality chest compressions with minimal interruptions<ol type=\"a\"><li>Compression rate of 100-120 compressions/minute</li><li>Depth of 1/3 -1/2 of chest width</li><li>Allow for full chest recoil</li></ol>"
       },
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "<p>High-flow O2 with BVM ventilation 1 breath every 10 chest compressions during recoil and <strong>without</strong> interrupting compressions <strong>or</strong> at a ratio of 30:2</p>"
+        "html": "High-flow O2 with BVM ventilation 1 breath every 10 chest compressions during recoil and <strong>without</strong> interrupting compressions <strong>or</strong> at a ratio of 30:2"
       },
       {
         "num": 3,
@@ -568,17 +568,17 @@
       {
         "num": 11,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>EPINEPHRine 0.01 mg/kg of 1 mg/10 mL <strong>IV/IO</strong> push every 3-5 minutes\n    a. Asystole/PEA: atropine 0.04 mg/kg <strong>IV/IO</strong> push at the initiation of CPR,\n    b. VF/VT: lidocaine 2 mg/kg or amiodarone 5 mg/kg <strong>IV/IO</strong> push</p>"
+        "html": "EPINEPHRine 0.01 mg/kg of 1 mg/10 mL <strong>IV/IO</strong> push every 3-5 minutes<ol type=\"a\"><li>Asystole/PEA: atropine 0.04 mg/kg <strong>IV/IO</strong> push at the initiation of CPR,</li><li>VF/VT: lidocaine 2 mg/kg or amiodarone 5 mg/kg <strong>IV/IO</strong> push</li></ol>"
       },
       {
         "num": 12,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Consider causes of OHCA:\n    a. Is hypovolemia suspected? If yes, give fluid bolus of 20 mL/kg\n    b. Is hypoxia suspected? If yes, administer high-flow oxygen and manage airway per <strong>OD Green 6</strong>\n    c. Do you suspect a pneumothorax? If yes, perform bilateral needle decompressions, refer to <strong>OD Green 15</strong></p>"
+        "html": "Consider causes of OHCA:<ol type=\"a\"><li>Is hypovolemia suspected? If yes, give fluid bolus of 20 mL/kg</li><li>Is hypoxia suspected? If yes, administer high-flow oxygen and manage airway per <strong>OD Green 6</strong></li><li>Do you suspect a pneumothorax? If yes, perform bilateral needle decompressions, refer to <strong>OD Green 15</strong></li></ol>"
       },
       {
         "num": 13,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Contact veterinarian for further treatment recommendations</p>"
+        "html": "Contact veterinarian for further treatment recommendations"
       },
       {
         "num": 14,
@@ -635,22 +635,22 @@
       {
         "num": 5,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Treat hypotension with fluid boluses.\n    a.  Goal systolic BP is measured by return of palpable femoral pulse.\n    b.  For post-resuscitation hypotension, administer fluid boluses of 20 mL/kg. Total volume should not exceed 60 mL/kg"
+        "html": "Treat hypotension with fluid boluses.<ol type=\"a\"><li>Goal systolic BP is measured by return of palpable femoral pulse.</li><li>For post-resuscitation hypotension, administer fluid boluses of 20 mL/kg. Total volume should not exceed 60 mL/kg</li></ol>"
       },
       {
         "num": 6,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If hypotension persists: Contact the veterinarian for options such as</p>\n<p><strong>NOREPInephrine IV/IO infusion.</strong>\n<strong>Preparation:</strong> mix NOREPInephrine 8 mg in 250 mL NS\na.  <strong>Dosing</strong> - usual dose of NOREPInephrine is 1 mcg/kg/min, follow guidelines of your veterinarian for dosing.</p>"
+        "html": "If hypotension persists: Contact the veterinarian for options such as<ol type=\"a\"><li><strong>Dosing</strong> - usual dose of NOREPInephrine is 1 mcg/kg/min, follow guidelines of your veterinarian for dosing.</li></ol>"
       },
       {
         "num": 7,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If seizure develops, check blood glucose\n    a.  If glucose &lt; 70 mg/dL, administer D50 0.5 g/kg <strong>IV/IO (diluted to D25 or D12.5 with NS)</strong> or give 0.5 g/kg of D10W.\n    b.  If glucose &gt; 70 mg/dL, provide supportive care</p>"
+        "html": "If seizure develops, check blood glucose<ol type=\"a\"><li>If glucose &lt; 70 mg/dL, administer D50 0.5 g/kg <strong>IV/IO (diluted to D25 or D12.5 with NS)</strong> or give 0.5 g/kg of D10W.</li><li>If glucose &gt; 70 mg/dL, provide supportive care</li></ol>"
       },
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If K9 suffers loss of spontaneous circulation and re-arrests, follow the K9 Cardiac Arrest protocol, <strong>OD Green 10</strong>.</p>"
+        "html": "If K9 suffers loss of spontaneous circulation and re-arrests, follow the K9 Cardiac Arrest protocol, <strong>OD Green 10</strong>."
       }
     ],
     "pearls": [],
@@ -692,17 +692,17 @@
       {
         "num": 1,
         "providerLevel": "ALL",
-        "html": "Ascertain all sites of bleeding and control with direct pressure\n    a.  Extremity: apply an elastic wrap/pressure bandage, or SWAT-T."
+        "html": "Ascertain all sites of bleeding and control with direct pressure<ol type=\"a\"><li>Extremity: apply an elastic wrap/pressure bandage, or SWAT-T.</li></ol>"
       },
       {
         "num": 2,
         "providerLevel": "ALL",
-        "html": "<p>For deep wounds in junctional areas or areas containing large muscle bellies (neck, thigh, shoulder/triceps area) control bleeding by applying a Maine EMS-approved hemostatic agent and packing the agent in the wound and applying/maintaining pressure over the agent for a minimum of 5 minutes.\n    a.  Check for ongoing bleeding. If bleeding has stopped, apply appropriate pressure bandage over top of dressing; if bleeding continues, reapply pressure for a minimum of 5 minutes.\n    b.  If bleeding continues, remove the initial hemostatic agent and repeat with a new hemostatic agent. Remember, for these agents to have maximal effectiveness, they must be packed inside the wound as close to the bleeding source as possible</p>"
+        "html": "For deep wounds in junctional areas or areas containing large muscle bellies (neck, thigh, shoulder/triceps area) control bleeding by applying a Maine EMS-approved hemostatic agent and packing the agent in the wound and applying/maintaining pressure over the agent for a minimum of 5 minutes.<ol type=\"a\"><li>Check for ongoing bleeding. If bleeding has stopped, apply appropriate pressure bandage over top of dressing; if bleeding continues, reapply pressure for a minimum of 5 minutes.</li><li>If bleeding continues, remove the initial hemostatic agent and repeat with a new hemostatic agent. Remember, for these agents to have maximal effectiveness, they must be packed inside the wound as close to the bleeding source as possible</li></ol>"
       },
       {
         "num": 3,
         "providerLevel": "ALL",
-        "html": "<p>Treat for shock, if indicated, <strong>OD Green 14</strong></p>"
+        "html": "Treat for shock, if indicated, <strong>OD Green 14</strong>"
       },
       {
         "num": 4,
@@ -769,12 +769,12 @@
       {
         "num": 4,
         "providerLevel": "ADVANCED_EMT",
-        "html": "If shock present (see below table), perform fluid bolus according to the following guidelines:\n    a.  Establish <strong>IV/IO</strong> access and perform 20 mL/kg fluid bolus (LR preferred) Repeat, as needed, within 15-30 min\n        i.  May repeat in 250-500 mL boluses to achieve palpable femoral pulse and improved mentation with MAX total dose 60 mL/kg."
+        "html": "If shock present (see below table), perform fluid bolus according to the following guidelines:<ol type=\"a\"><li>Establish <strong>IV/IO</strong> access and perform 20 mL/kg fluid bolus (LR preferred) Repeat, as needed, within 15-30 min<ol type=\"i\"><li>May repeat in 250-500 mL boluses to achieve palpable femoral pulse and improved mentation with MAX total dose 60 mL/kg.</li></ol></li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "PARAMEDIC",
-        "html": "In canines with either penetrating/blunt trauma and are hemodynamically unstable, as evidenced by tachycardia, hypotension (weak femoral pulse), or other evidence of shock, and who are less than 180 minutes (3 hours) from the time of injury/hemorrhage, consider:\n    a.  Tranexamic acid (TXA) 500 mg <strong>IV/IO</strong> mixed in 250 ml of NS over 10 minutes\n    b.  Notify receiving facility of the need for the second 10 mg/kg dose of TXA as a continuous infusion over 8 hours"
+        "html": "In canines with either penetrating/blunt trauma and are hemodynamically unstable, as evidenced by tachycardia, hypotension (weak femoral pulse), or other evidence of shock, and who are less than 180 minutes (3 hours) from the time of injury/hemorrhage, consider:<ol type=\"a\"><li>Tranexamic acid (TXA) 500 mg <strong>IV/IO</strong> mixed in 250 ml of NS over 10 minutes</li><li>Notify receiving facility of the need for the second 10 mg/kg dose of TXA as a continuous infusion over 8 hours</li></ol>"
       }
     ],
     "pearls": [],
@@ -821,17 +821,17 @@
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "<p>Impaled Objects\n    a. Secure in place with bulky dressings</p>"
+        "html": "Impaled Objects<ol type=\"a\"><li>Secure in place with bulky dressings</li></ol>"
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>Open chest wound\n    a. Cover with vented or non-vented occlusive dressing\n    b. If shock present, consider tension pneumothorax has developed and burp/vent the chest seal.</p>"
+        "html": "Open chest wound<ol type=\"a\"><li>Cover with vented or non-vented occlusive dressing</li><li>If shock present, consider tension pneumothorax has developed and burp/vent the chest seal.</li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p>Flail segment with paradoxical movement and respiratory distress\n    a. Consider positive pressure ventilation.</p>"
+        "html": "Flail segment with paradoxical movement and respiratory distress<ol type=\"a\"><li>Consider positive pressure ventilation.</li></ol>"
       },
       {
         "num": 6,
@@ -841,12 +841,12 @@
       {
         "num": 7,
         "providerLevel": "ADVANCED_EMT",
-        "html": "If shock present,\n    a. Perform fluid bolus of 20 mL/kg LR"
+        "html": "If shock present,<ol type=\"a\"><li>Perform fluid bolus of 20 mL/kg LR</li></ol>"
       },
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "For presumed tension pneumothorax, perform chest decompression\n    a. Landmark\n        i. 7th - 9th intercostal space (canines have 13 ribs)\n        -OR-\n        ii. Midpoint between shoulder and last rib/widest point on rib cage<pre><code>![Canine landmarks showing Distal End of Last Rib, Point of Shoulder, and 7th - 9th ICS](canine_landmarks.png)\n\nPhoto used with permission from K9 TCCC Quick Reference Guide\n</code></pre>\n<p>b. Go over top (cranial) aspect of rib\nc. Aspirate and consider decompressing the other side of the chest as well\n    i. Remember the canine mediastinum is fenestrated\nd. DO NOT leave catheter(s) in place unless otherwise directed</p>"
+        "html": "For presumed tension pneumothorax, perform chest decompression<ol type=\"a\"><li>Landmark<ol type=\"i\"><li>7th - 9th intercostal space (canines have 13 ribs) -OR-</li><li>Midpoint between shoulder and last rib/widest point on rib cage <img alt=\"Canine landmarks showing Distal End of Last Rib, Point of Shoulder, and 7th - 9th ICS\" src=\"canine_landmarks.png\"/> Photo used with permission from K9 TCCC Quick Reference Guide</li></ol></li><li>Go over top (cranial) aspect of rib</li><li>Aspirate and consider decompressing the other side of the chest as well<ol type=\"i\"><li>Remember the canine mediastinum is fenestrated</li></ol></li><li>DO NOT leave catheter(s) in place unless otherwise directed</li></ol>"
       }
     ],
     "pearls": [],
@@ -928,7 +928,7 @@
       {
         "num": 10,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "If shock NOT present and TBSA > 20% or full thickness burns present, deliver fluid bolus as follows:\n    a. 2mL/kg x %TBSA burned = amount to be given in first 8 hours"
+        "html": "If shock NOT present and TBSA > 20% or full thickness burns present, deliver fluid bolus as follows:<ol type=\"a\"><li>2mL/kg x %TBSA burned = amount to be given in first 8 hours</li></ol>"
       }
     ],
     "pearls": [],
@@ -990,7 +990,7 @@
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "If it is suspected that the canine came into contact with an opioid and is showing symptoms of opioid overdose, administer:\n    a. Naloxone 2-4 mg IN, repeat every 2-5 minutes as needed (dose depends upon pre-packaged medication); OR\n    b. Naloxone 2-4 mg IM via auto-injector (dose depends upon device), repeat every 2-5 minutes as needed"
+        "html": "If it is suspected that the canine came into contact with an opioid and is showing symptoms of opioid overdose, administer:<ol type=\"a\"><li>Naloxone 2-4 mg IN, repeat every 2-5 minutes as needed (dose depends upon pre-packaged medication); OR</li><li>Naloxone 2-4 mg IM via auto-injector (dose depends upon device), repeat every 2-5 minutes as needed</li></ol>"
       },
       {
         "num": 5,
@@ -1000,12 +1000,12 @@
       {
         "num": 6,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Alternative route of administration:\n    a. Naloxone 2-4 mg IV/IO; may repeat every 2-5 minutes.</p>"
+        "html": "Alternative route of administration:<ol type=\"a\"><li>Naloxone 2-4 mg IV/IO; may repeat every 2-5 minutes.</li></ol>"
       },
       {
         "num": 7,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>If canine is hypotensive, administer a fluid bolus of 20 mL/kg of LR</p>"
+        "html": "If canine is hypotensive, administer a fluid bolus of 20 mL/kg of LR"
       }
     ],
     "pearls": [],
@@ -1057,7 +1057,7 @@
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "Administer high-flow O2\n   *pulse oximetry may be inaccurate in exposure to CO/CN"
+        "html": "Administer high-flow O2"
       },
       {
         "num": 4,
@@ -1067,7 +1067,7 @@
       {
         "num": 5,
         "providerLevel": "PARAMEDIC",
-        "html": "In case of severe CN toxicity, either alone or in combination with CO exposure:\n    a. Hydroxocobalamin (Cyanokit) - 150mg/kg IV/IO over 10-15 minutes, with consultation with the receiving veterinarian <em>strongly</em> encouraged."
+        "html": "In case of severe CN toxicity, either alone or in combination with CO exposure:<ol type=\"a\"><li>Hydroxocobalamin (Cyanokit) - 150mg/kg IV/IO over 10-15 minutes, with consultation with the receiving veterinarian <em>strongly</em> encouraged.</li></ol>"
       }
     ],
     "pearls": [],
@@ -1144,12 +1144,12 @@
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "<p>Manage airway as appropriate, see <strong>OD Green 6</strong>\n<em>Ventilatory support may be critical in these poisonings</em></p>"
+        "html": "Manage airway as appropriate, see <strong>OD Green 6</strong>"
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "<p>Vigorous suctioning may be necessary</p>"
+        "html": "Vigorous suctioning may be necessary"
       },
       {
         "num": 5,
@@ -1306,12 +1306,12 @@
       {
         "num": 13,
         "providerLevel": "EMT",
-        "html": "<p>Follow guidelines above and start active external cooling\n    a. Use cooling fans or air conditioning to reduce core body temperature\n    b. Place cold compresses or wrapped in towels on the head and neck as well as the axillae and groin. Avoid placing ice packs on the limbs as this shunts hot blood back to the core.\n    c. Douse or spray body with cool water; soak hair to skin with cool water and use fans or A/C to cool further.</p>"
+        "html": "Follow guidelines above and start active external cooling<ol type=\"a\"><li>Use cooling fans or air conditioning to reduce core body temperature</li><li>Place cold compresses or wrapped in towels on the head and neck as well as the axillae and groin. Avoid placing ice packs on the limbs as this shunts hot blood back to the core.</li><li>Douse or spray body with cool water; soak hair to skin with cool water and use fans or A/C to cool further.</li></ol>"
       },
       {
         "num": 14,
         "providerLevel": "EMT",
-        "html": "<p>Monitor vital signs every 5 minutes; discontinue cooling efforts when core temp reaches 104F</p>"
+        "html": "Monitor vital signs every 5 minutes; discontinue cooling efforts when core temp reaches 104F"
       },
       {
         "num": 15,
@@ -1321,22 +1321,22 @@
       {
         "num": 16,
         "providerLevel": "EMT",
-        "html": "<p>Continue to monitor temperature every 10 minutes for at least the next few hours as body temperature may continue dropping to the subnormal range or rise excessively again.\n    a. If body temperature drops below 100F (rebound hypothermia) consider passive warming by covering with blankets or other similar materials</p>"
+        "html": "Continue to monitor temperature every 10 minutes for at least the next few hours as body temperature may continue dropping to the subnormal range or rise excessively again.<ol type=\"a\"><li>If body temperature drops below 100F (rebound hypothermia) consider passive warming by covering with blankets or other similar materials</li></ol>"
       },
       {
         "num": 17,
         "providerLevel": "EMT",
-        "html": "<p>Transport to appropriate veterinary treatment facility</p>"
+        "html": "Transport to appropriate veterinary treatment facility"
       },
       {
         "num": 18,
         "providerLevel": "EMT",
-        "html": "<p>Rapid cooling to a body temperature of 103.5-104 F\n    a. Cool water (do not submerge in ice bath)\n    b. Soaking the canine to the skin with cool water. Soak the entire canine as rapidly as possible through the hair, soaking the skin thoroughly and implement convective cooling with cooling fans or A/C.</p>"
+        "html": "Rapid cooling to a body temperature of 103.5-104 F<ol type=\"a\"><li>Cool water (do not submerge in ice bath)</li><li>Soaking the canine to the skin with cool water. Soak the entire canine as rapidly as possible through the hair, soaking the skin thoroughly and implement convective cooling with cooling fans or A/C.</li></ol>"
       },
       {
         "num": 19,
         "providerLevel": "EMT",
-        "html": "<p>When temperature reaches 104 F, remove from bath/water, dry hair and continue to monitor temperature, watch for rebound hypothermia, as above.</p>"
+        "html": "When temperature reaches 104 F, remove from bath/water, dry hair and continue to monitor temperature, watch for rebound hypothermia, as above."
       },
       {
         "num": 20,
@@ -1351,12 +1351,12 @@
       {
         "num": 22,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Administer 20 mL/kg fluid bolus IV/IO of LR\n    a. Repeat as needed to achieve palpable femoral pulse and HR &lt; 120 bpm and improved mentation</p>"
+        "html": "Administer 20 mL/kg fluid bolus IV/IO of LR<ol type=\"a\"><li>Repeat as needed to achieve palpable femoral pulse and HR &lt; 120 bpm and improved mentation</li></ol>"
       },
       {
         "num": 23,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Check blood glucose. If &lt;60 mg/dL, administer 0.5 g/kg D50 IV/IO (diluted to D25 or D12.5 in NS) or give 0.5 g/kg of D10W</p>"
+        "html": "Check blood glucose. If <60 mg/dL, administer 0.5 g/kg D50 IV/IO (diluted to D25 or D12.5 in NS) or give 0.5 g/kg of D10W"
       },
       {
         "num": 24,
@@ -1428,12 +1428,12 @@
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "<p>If anaphylaxis identified, assist administration of EPINEPHrine auto-injector, administer an adult or pediatric (as applicable) auto-injector, or provide EPINEPHrine through the Maine EMS Check and Inject program.\n    a. EPINEPHrine 0.3 mg IM (Adult auto-injector) for canine 20 kg or greater\n    b. EPINEPHrine 0.15 mg IM (Pedi auto-injector) for canine less than 20 kg</p>"
+        "html": "If anaphylaxis identified, assist administration of EPINEPHrine auto-injector, administer an adult or pediatric (as applicable) auto-injector, or provide EPINEPHrine through the Maine EMS Check and Inject program.<ol type=\"a\"><li>EPINEPHrine 0.3 mg IM (Adult auto-injector) for canine 20 kg or greater</li><li>EPINEPHrine 0.15 mg IM (Pedi auto-injector) for canine less than 20 kg</li></ol>"
       },
       {
         "num": 6,
         "providerLevel": "EMT",
-        "html": "<p>Transport</p>"
+        "html": "Transport"
       },
       {
         "num": 7,
@@ -1443,12 +1443,12 @@
       {
         "num": 8,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>If anaphylaxis identified:\n    a. EPINEPHrine 0.3 mg IM [0.3 mL of 1 mg/mL] for canine 20 kg or greater,\n    b. EPINEPHrine 0.15 mg IM [0.15 mL of 1 mg/mL] in canine less than 20 kg</p>"
+        "html": "If anaphylaxis identified:<ol type=\"a\"><li>EPINEPHrine 0.3 mg IM [0.3 mL of 1 mg/mL] for canine 20 kg or greater,</li><li>EPINEPHrine 0.15 mg IM [0.15 mL of 1 mg/mL] in canine less than 20 kg</li></ol>"
       },
       {
         "num": 9,
         "providerLevel": "ADVANCED_EMT",
-        "html": "<p>IV/IO en route</p>"
+        "html": "IV/IO en route"
       },
       {
         "num": 10,

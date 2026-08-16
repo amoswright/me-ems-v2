@@ -100,12 +100,12 @@
       {
         "num": 4,
         "providerLevel": "ALL",
-        "html": "<p>Assess the patient's risk for depression and suicidal ideation.\n    a. <strong>SAD PERSONS Scale</strong> (report score to receiving hospital):\n        1 point for each of the following\n        <strong>S</strong>ex: male\n        <strong>A</strong>ge &lt;20 or &gt;44\n        <strong>D</strong>epression\n        <strong>P</strong>revious suicide attempt\n        <strong>E</strong>thanol abuse\n        <strong>R</strong>ational thinking loss\n        <strong>S</strong>ocial supports lacking\n        <strong>O</strong>rganized suicide plan\n        <strong>N</strong>o spouse (divorced, widowed, single)\n        <strong>S</strong>ickness (chronic, debilitating, or severe)\n    b. Columbia Suicide Screening (if possible, discuss the following questions with the patient):\n        i. Have you wished you were dead or wished you could go to sleep and not wake up?\n        ii. Have you been thinking about how you might kill yourself?\n        iii. Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)?</p>"
+        "html": "Assess the patient's risk for depression and suicidal ideation.<ol type=\"a\"><li><strong>SAD PERSONS Scale</strong> (report score to receiving hospital): 1 point for each of the following <strong>S</strong>ex: male <strong>A</strong>ge &lt;20 or &gt;44 <strong>D</strong>epression <strong>P</strong>revious suicide attempt <strong>E</strong>thanol abuse <strong>R</strong>ational thinking loss <strong>S</strong>ocial supports lacking <strong>O</strong>rganized suicide plan <strong>N</strong>o spouse (divorced, widowed, single) <strong>S</strong>ickness (chronic, debilitating, or severe)</li><li>Columbia Suicide Screening (if possible, discuss the following questions with the patient):<ol type=\"i\"><li>Have you wished you were dead or wished you could go to sleep and not wake up?</li><li>Have you been thinking about how you might kill yourself?</li><li>Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)?</li></ol></li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "ALL",
-        "html": "<p>Provide constant, 1:1 supervision for the patient.</p>"
+        "html": "Provide constant, 1:1 supervision for the patient."
       },
       {
         "num": 6,
@@ -304,12 +304,12 @@
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>If Altered Mental Status Score <strong>+4</strong>, consider <strong>either</strong>:\n    a. *Midazolam for patient/EMS clinician safety and patient comfort. The first dose should be based on patient's size, age, and the circumstances causing the agitation:\n        i. <strong>Adult</strong> - midazolam 4-10 mg <strong>IM</strong>\n        ii. <strong>Pediatric (10 years or older)</strong> - midazolam 0.1 mg/kg <strong>IM</strong>, MAX single dose of 10 mg\n            1. For children less than 10 yo, <strong>OLMC</strong> must be contacted <strong>prior</strong> to administration</p>\n<p><strong>-OR-</strong></p>\n<p>b. **Ketamine\n    i. <strong>Adult</strong> - ketamine 4 mg/kg <strong>IM</strong> (MAX dose of 500 mg)\n        1. <strong>may not</strong> be used in patients greater than 65 years old\n    ii. <strong>Pediatric</strong> - ketamine 4 mg/kg <strong>IM</strong> .\n        1. For children less than 10 yo, <strong>OLMC</strong> must be contacted <strong>prior</strong> to administration</p>"
+        "html": "If Altered Mental Status Score <strong>+4</strong>, consider <strong>either</strong>:<ol type=\"a\"><li>*Midazolam for patient/EMS clinician safety and patient comfort. The first dose should be based on patient's size, age, and the circumstances causing the agitation:<ol type=\"i\"><li><strong>Adult</strong> - midazolam 4-10 mg <strong>IM</strong></li><li><strong>Pediatric (10 years or older)</strong> - midazolam 0.1 mg/kg <strong>IM</strong>, MAX single dose of 10 mg<ol><li>For children less than 10 yo, <strong>OLMC</strong> must be contacted <strong>prior</strong> to administration <strong>-OR-</strong></li></ol></li></ol></li><li>**Ketamine<ol type=\"i\"><li><strong>Adult</strong> - ketamine 4 mg/kg <strong>IM</strong> (MAX dose of 500 mg)<ol><li><strong>may not</strong> be used in patients greater than 65 years old</li></ol></li><li><strong>Pediatric</strong> - ketamine 4 mg/kg <strong>IM</strong> .<ol><li>For children less than 10 yo, <strong>OLMC</strong> must be contacted <strong>prior</strong> to administration</li></ol></li></ol></li></ol>"
       },
       {
         "num": 9,
         "providerLevel": "PARAMEDIC",
-        "html": "<p>Continuously monitor and document the following every 5 minutes - ECG, O2 sat, ETCO2, AMSS, and vital signs</p>"
+        "html": "Continuously monitor and document the following every 5 minutes - ECG, O2 sat, ETCO2, AMSS, and vital signs"
       },
       {
         "num": 10,
@@ -360,17 +360,17 @@
       {
         "num": 4,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Homeless patients are at risk of exposure to environmental elements. Move the patient to a \"safe\" environment (i.e. ambulance) early in the encounter, if feasible.\n    a. Once the patient is physically in a private and safe location, consider inquiring about the patient's safety from physical or verbal threats.</p>"
+        "html": "Homeless patients are at risk of exposure to environmental elements. Move the patient to a \"safe\" environment (i.e. ambulance) early in the encounter, if feasible.<ol type=\"a\"><li>Once the patient is physically in a private and safe location, consider inquiring about the patient's safety from physical or verbal threats.</li></ol>"
       },
       {
         "num": 5,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Be aware of concurrent illnesses that may influence the chief complaint. Homeless individuals may lack access to routine medical care predisposing them to the risk for both chronic and acute illnesses.\n    a. For example, the pregnancy rate of homeless women is estimated to be twice that of the general population.</p>"
+        "html": "Be aware of concurrent illnesses that may influence the chief complaint. Homeless individuals may lack access to routine medical care predisposing them to the risk for both chronic and acute illnesses.<ol type=\"a\"><li>For example, the pregnancy rate of homeless women is estimated to be twice that of the general population.</li></ol>"
       },
       {
         "num": 6,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "<p>Mental illness and substance abuse occur frequently in the homeless population. Avoid attributing the current chief complaint to these underlying conditions.</p>"
+        "html": "Mental illness and substance abuse occur frequently in the homeless population. Avoid attributing the current chief complaint to these underlying conditions."
       },
       {
         "num": 7,
