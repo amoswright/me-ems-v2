@@ -1,0 +1,4893 @@
+{
+  "id": "page-0110",
+  "pdf_page": 110,
+  "protocol_label": "Green 16",
+  "kind": "protocol",
+  "chapter_id": "green",
+  "topic_id": "green-burn",
+  "title": "Burn",
+  "markdown": "# Burn\n\n## EMT\n\n1. Remove burned clothing and/or jewelry, unless adhered to patient.\n2. Administer high flow oxygen in patients with respiratory distress or evidence of hemorrhagic shock. Additionally, consider the administration of oxygen in patients who may have been exposed to high levels of carbon monoxide (e.g., enclosed spaces).\n3. Give highest priority to airway problems and major trauma.\n4. Manage shock, if present.\n5. Cover burn with dry dressing, sterile sheet, or commercially prepared dry dressing.\n6. Request ALS where there is a possibility of respiratory compromise, shock, severe\\* burns or need for pain medication. Severe burns should be transported following the Trauma Triage protocols, **Green 1**.\n\n## ADVANCED EMT/PARAMEDIC\n\n7. Establish venous access en-route, IV/IO.\n8. Cardiac Monitor (avoid placing leads on burned skin)\n9. If shock present, perform fluid bolus.\n10. If shock **NOT** present, in patients with burns greater than 20% TBSA, initiate fluid resuscitation at the following rates:\n    a. Less than 6 years old: 125 mL per hour,\n    b. 6-13 years old: 250 mL per hour, and\n    c. 14 years old or older: 500 mL per hour.\n11. For pain control, refer to the Universal Pain Management protocol, **Green 18**.\n\n> **PEARLS for Burn Management**\n>\n> * \\*Severe burns include greater than 10% body surface area (counting only partial and full thickness burns), circumferential burns, airway involvement, genital burns, and burns to the hands or face. Severe burns should be transported following the Trauma Triage Guidelines, **Green 1**.\n> * Only second (partial thickness) and third (full thickness) degree burns are counted when calculating burn surface area. Do not include first degree burns (superficial thickness).\n> * Errors are made in burn surface area calculation when an entire limb is counted despite only partial involvement. Consider using the patient's hand size (palm PLUS fingers = 1% BSA) to estimate 1% body surface area.\n> * Clean, dry dressings are adequate for covering all burns, regardless of size.\n> * It is preferable to establish IV access in non-burned tissue, but, if necessary, burned tissue may be used as a site for IV access.\n> * Research indicates that resuscitation based upon a 4 mL/kg/% TBSA strategy commonly results in over-resuscitation and excessive edema formation. National and local burn specialists instead recommend fixed resuscitation strategies.\n> * Maintain body temperature by keeping the patient warm and dry.\n",
+  "plain_text": "Burn EMT Remove burned clothing and/or jewelry, unless adhered to patient. Administer high flow oxygen in patients with respiratory distress or evidence of hemorrhagic shock. Additionally, consider the administration of oxygen in patients who may have been exposed to high levels of carbon monoxide (e.g., enclosed spaces). Give highest priority to airway problems and major trauma. Manage shock, if present. Cover burn with dry dressing, sterile sheet, or commercially prepared dry dressing. Request ALS where there is a possibility of respiratory compromise, shock, severe burns or need for pain medication. Severe burns should be transported following the Trauma Triage protocols, Green 1. ADVANCED EMT/PARAMEDIC Establish venous access en-route, IV/IO. Cardiac Monitor (avoid placing leads on burned skin) If shock present, perform fluid bolus. If shock NOT present, in patients with burns greater than 20% TBSA, initiate fluid resuscitation at the following rates: Less than 6 years old: 125 mL per hour, 6-13 years old: 250 mL per hour, and 14 years old or older: 500 mL per hour. For pain control, refer to the Universal Pain Management protocol, Green 18. PEARLS for Burn Management Severe burns include greater than 10% body surface area (counting only partial and full thickness burns), circumferential burns, airway involvement, genital burns, and burns to the hands or face. Severe burns should be transported following the Trauma Triage Guidelines, Green 1. Only second (partial thickness) and third (full thickness) degree burns are counted when calculating burn surface area. Do not include first degree burns (superficial thickness). Errors are made in burn surface area calculation when an entire limb is counted despite only partial involvement. Consider using the patient's hand size (palm PLUS fingers = 1% BSA) to estimate 1% body surface area. Clean, dry dressings are adequate for covering all burns, regardless of size. It is preferable to establish IV access in non-burned tissue, but, if necessary, burned tissue may be used as a site for IV access. Research indicates that resuscitation based upon a 4 mL/kg/% TBSA strategy commonly results in over-resuscitation and excessive edema formation. National and local burn specialists instead recommend fixed resuscitation strategies. Maintain body temperature by keeping the patient warm and dry.",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        452.87,
+        34.17,
+        576.36,
+        59.42
+      ],
+      "text": "Bur n #1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        99.18,
+        190.5,
+        114.33
+      ],
+      "text": "EMT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        116.85,
+        788.7,
+        132.0
+      ],
+      "text": "1.Remove burned clothing and/or jewelry, unless adhered to patient.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        134.46,
+        909.22,
+        149.61
+      ],
+      "text": "2.Administer high flow oxygen in patients with respiratory distress or evidence of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        166.62,
+        152.14,
+        859.08,
+        167.28
+      ],
+      "text": "hemorrhagic shock. Additionally, consider the administration of oxygen in",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        166.62,
+        169.75,
+        884.2,
+        184.9
+      ],
+      "text": "patients who may have been exposed to high levels of carbon monoxide (e.g.,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        166.62,
+        187.42,
+        326.44,
+        202.57
+      ],
+      "text": "enclosed spaces).",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        93.75,
+        201.52,
+        726.12,
+        224.25
+      ],
+      "text": "E 3.Give highest priority to airway problems and major trauma.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        222.65,
+        404.29,
+        237.79
+      ],
+      "text": "4.Manage shock, if present.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        240.32,
+        854.79,
+        255.46
+      ],
+      "text": "5.Cover burn with dry dressing, sterile sheet, or commercially prepared dry",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        166.62,
+        257.93,
+        250.98,
+        273.08
+      ],
+      "text": "dressing.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        275.6,
+        862.1,
+        290.75
+      ],
+      "text": "6.Request ALS where there is a possibility of respiratory compromise, shock,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        166.62,
+        293.21,
+        907.15,
+        308.36
+      ],
+      "text": "severe* burns or need for pain medication. Severe burns should be transported",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        166.62,
+        310.83,
+        616.77,
+        325.98
+      ],
+      "text": "following the Trauma Triage protocols, Gr een 1 .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        166.62,
+        346.11,
+        457.76,
+        361.26
+      ],
+      "text": "ADVANCED EMT/PARAMEDIC",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        363.78,
+        534.72,
+        378.93
+      ],
+      "text": "7. Establish venous access en-route, IV/IO.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        381.4,
+        663.33,
+        396.54
+      ],
+      "text": "8. Cardiac Monitor (avoid placing leads on burned skin)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        399.07,
+        514.4,
+        414.21
+      ],
+      "text": "9. If shock present, perform fluid bolus.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        416.68,
+        888.14,
+        431.83
+      ],
+      "text": "10. If shock NOT present, in patients with burns greater than 20% TBSA, initiate",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        173.53,
+        434.29,
+        550.7,
+        449.44
+      ],
+      "text": "fluid resuscitation at the following rates:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        77.79,
+        443.74,
+        562.21,
+        467.11
+      ],
+      "text": "A P a. Less than 6 years old: 125 mL per hour,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        173.53,
+        469.58,
+        535.39,
+        484.73
+      ],
+      "text": "b. 6-13 years old: 250 mL per hour, and",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        173.53,
+        487.25,
+        557.11,
+        502.4
+      ],
+      "text": "c. 14 years old or older: 500 mL per hour.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        504.86,
+        898.1,
+        520.01
+      ],
+      "text": "11. For pain control, refer to the Universal Pain Management protocol, Gr een 18 .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        349.12,
+        584.01,
+        648.33,
+        599.16
+      ],
+      "text": "PEARLS for Bur n Management",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        83.46,
+        619.24,
+        852.04,
+        634.39
+      ],
+      "text": "- *Severe burns include greater than 10% body surface area (counting only partial",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        106.99,
+        636.85,
+        891.53,
+        652.0
+      ],
+      "text": "and full thickness burns), circumferential burns, airway involvement, genital burns,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        106.99,
+        654.46,
+        864.8,
+        669.61
+      ],
+      "text": "and burns to the hands or face. Severe burns should be transported following the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        106.99,
+        672.08,
+        442.58,
+        687.23
+      ],
+      "text": "Trauma Triage Guidelines, Gr een 1.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        89.93,
+        690.26,
+        877.64,
+        705.41
+      ],
+      "text": "- Only second (partial thickness) and third (full thickness) degree burns are counted",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        707.87,
+        869.9,
+        723.02
+      ],
+      "text": "when calculating burn surface area. Do not include first degree burns (superficial",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        725.49,
+        209.65,
+        740.64
+      ],
+      "text": "thickness).",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        89.93,
+        743.1,
+        861.46,
+        758.25
+      ],
+      "text": "- Errors are made in burn surface area calculation when an entire limb is counted",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        760.71,
+        890.15,
+        775.86
+      ],
+      "text": "despite only partial involvement. Consider using the patient's hand size (palm PLUS",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        778.33,
+        591.88,
+        793.48
+      ],
+      "text": "fingers = 1% BSA) to estimate 1% body surface area.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        89.93,
+        795.94,
+        807.99,
+        811.09
+      ],
+      "text": "- Clean, dry dressings are adequate for covering all burns, regardless of size.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        89.93,
+        813.56,
+        886.13,
+        828.7
+      ],
+      "text": "- It is preferable to establish IV access in non-burned tissue, but, if necessary, burned",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        831.17,
+        490.95,
+        846.32
+      ],
+      "text": "tissue may be used as a site for IV access.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        89.93,
+        848.78,
+        919.72,
+        863.93
+      ],
+      "text": "- Research indicates that resuscitation based upon a 4 mL/kg/% TBSA strategy commonly",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        866.4,
+        899.75,
+        881.54
+      ],
+      "text": "results in over-resuscitation and excessive edema formation. National and local burn",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0041",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        884.01,
+        673.9,
+        899.16
+      ],
+      "text": "specialists instead recommend fixed resuscitation strategies.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0042",
+      "type": "text_line",
+      "box_1000": [
+        89.93,
+        901.62,
+        724.5,
+        916.77
+      ],
+      "text": "- Maintain body temperature by keeping the patient warm and dry.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0043",
+      "type": "text_line",
+      "box_1000": [
+        439.93,
+        936.28,
+        932.88,
+        953.7
+      ],
+      "text": "(Back to TOC) Green 16",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "6a246edf92457a55a6896b5e54aa572dadc92f74ef9d219c604444822e780913",
+    "native": {
+      "text": "Bur n #1\nEMT\n1.Remove burned clothing and/or jewelry, unless adhered to patient.\n2.Administer high flow oxygen in patients with respiratory distress or evidence of\nhemorrhagic shock. Additionally, consider the administration of oxygen in\npatients who may have been exposed to high levels of carbon monoxide (e.g.,\nenclosed spaces).\nE 3.Give highest priority to airway problems and major trauma.\n4.Manage shock, if present.\n5.Cover burn with dry dressing, sterile sheet, or commercially prepared dry\ndressing.\n6.Request ALS where there is a possibility of respiratory compromise, shock,\nsevere* burns or need for pain medication. Severe burns should be transported\nfollowing the Trauma Triage protocols, Gr een 1.\nADVANCED EMT/PARAMEDIC\n7. Establish venous access en-route, IV/IO.\n8. Cardiac Monitor (avoid placing leads on burned skin)\n9. If shock present, perform fluid bolus.\n10. If shock NOT present, in patients with burns greater than 20% TBSA, initiate\nfluid resuscitation at the following rates:\nA P\na. Less than 6 years old: 125 mL per hour,\nb. 6-13 years old: 250 mL per hour, and\nc. 14 years old or older: 500 mL per hour.\n11. For pain control, refer to the Universal Pain Management protocol, Gr een 18.\nPEARLS for Bur n Management\n- *Severe burns include greater than 10% body surface area (counting only partial\nand full thickness burns), circumferential burns, airway involvement, genital burns,\nand burns to the hands or face. Severe burns should be transported following the\nTrauma Triage Guidelines, Gr een 1.\n- Only second (partial thickness) and third (full thickness) degree burns are counted\nwhen calculating burn surface area. Do not include first degree burns (superficial\nthickness).\n- Errors are made in burn surface area calculation when an entire limb is counted\ndespite only partial involvement. Consider using the patient's hand size (palm PLUS\nfingers = 1% BSA) to estimate 1% body surface area.\n- Clean, dry dressings are adequate for covering all burns, regardless of size.\n- It is preferable to establish IV access in non-burned tissue, but, if necessary, burned\ntissue may be used as a site for IV access.\n- Research indicates that resuscitation based upon a 4 mL/kg/% TBSA strategy commonly\nresults in over-resuscitation and excessive edema formation. National and local burn\nspecialists instead recommend fixed resuscitation strategies.\n- Maintain body temperature by keeping the patient warm and dry.\n(Back to TOC) Green 16",
+      "body_text": "(Back to TOC) Green 16 E A P EMT 1.Remove burned clothing and/or jewelry, unless adhered to patient. 2.Administer high flow oxygen in patients with respiratory distress or evidence of hemorrhagic shock. Additionally, consider the administration of oxygen in patients who may have been exposed to high levels of carbon monoxide (e.g., enclosed spaces). 3.Give highest priority to airway problems and major trauma. 4.Manage shock, if present. 5.Cover burn with dry dressing, sterile sheet, or commercially prepared dry dressing. 6.Request ALS where there is a possibility of respiratory compromise, shock, severe* burns or need for pain medication. Severe burns should be transported following the Trauma Triage protocols, Gr een 1 . ADVANCED EMT/PARAMEDIC 7. Establish venous access en-route, IV/IO. 8. Cardiac Monitor (avoid placing leads on burned skin) 9. If shock present, perform fluid bolus. 10. If shock NOT present, in patients with burns greater than 20% TBSA, initiate fluid resuscitation at the following rates: a. Less than 6 years old: 125 mL per hour, b. 6-13 years old: 250 mL per hour, and c. 14 years old or older: 500 mL per hour. 11. For pain control, refer to the Universal Pain Management protocol, Gr een 18 . PEARLS for Bur n Management - *Severe burns include greater than 10% body surface area (counting only partial and full thickness burns), circumferential burns, airway involvement, genital burns, and burns to the hands or face. Severe burns should be transported following the Trauma Triage Guidelines, Gr een 1. - Only second (partial thickness) and third (full thickness) degree burns are counted when calculating burn surface area. Do not include first degree burns (superficial thickness). - Errors are made in burn surface area calculation when an entire limb is counted despite only partial involvement. Consider using the patient's hand size (palm PLUS fingers = 1% BSA) to estimate 1% body surface area. - Clean, dry dressings are adequate for covering all burns, regardless of size. - It is preferable to establish IV access in non-burned tissue, but, if necessary, burned tissue may be used as a site for IV access. - Research indicates that resuscitation based upon a 4 mL/kg/% TBSA strategy commonly results in over-resuscitation and excessive edema formation. National and local burn specialists instead recommend fixed resuscitation strategies. - Maintain body temperature by keeping the patient warm and dry.",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            269.235,
+            743.336,
+            299.889,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            304.02,
+            743.336,
+            314.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            318.06,
+            743.336,
+            345.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Green",
+          "box": [
+            519.75,
+            741.536,
+            553.479,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "16",
+          "box": [
+            557.55,
+            741.536,
+            570.925,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Bur",
+          "box": [
+            277.155,
+            27.063,
+            309.581,
+            47.061
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "n",
+          "box": [
+            312.345,
+            27.063,
+            323.464,
+            47.061
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#1",
+          "box": [
+            330.435,
+            27.063,
+            352.732,
+            47.061
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "E",
+          "box": [
+            57.375,
+            159.606,
+            69.381,
+            177.606
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "A",
+          "box": [
+            47.61,
+            351.441,
+            59.616,
+            369.441
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "P",
+          "box": [
+            66.555,
+            351.441,
+            78.561,
+            369.441
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "EMT",
+          "box": [
+            90.0,
+            78.551,
+            116.586,
+            90.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1.Remove",
+          "box": [
+            90.0,
+            92.546,
+            147.664,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burned",
+          "box": [
+            150.525,
+            92.546,
+            191.985,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clothing",
+          "box": [
+            195.84,
+            92.546,
+            242.477,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and/or",
+          "box": [
+            245.385,
+            92.546,
+            281.619,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "jewelry,",
+          "box": [
+            286.38,
+            92.546,
+            332.646,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "unless",
+          "box": [
+            334.845,
+            92.546,
+            371.753,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "adhered",
+          "box": [
+            374.31,
+            92.546,
+            421.206,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            425.025,
+            92.546,
+            435.68,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient.",
+          "box": [
+            439.02,
+            92.546,
+            482.686,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2.Administer",
+          "box": [
+            90.0,
+            106.496,
+            164.237,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "high",
+          "box": [
+            169.02,
+            106.496,
+            193.595,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "flow",
+          "box": [
+            197.685,
+            106.496,
+            221.305,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oxygen",
+          "box": [
+            226.08,
+            106.496,
+            265.546,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            269.775,
+            106.496,
+            280.283,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            284.445,
+            106.496,
+            330.774,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            333.315,
+            106.496,
+            358.388,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "respiratory",
+          "box": [
+            362.475,
+            106.496,
+            426.128,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "distress",
+          "box": [
+            430.02,
+            106.496,
+            474.343,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            476.55,
+            106.496,
+            487.47,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "evidence",
+          "box": [
+            492.3,
+            106.496,
+            543.488,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            546.3,
+            106.496,
+            556.444,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hemorrhagic",
+          "box": [
+            101.97,
+            120.491,
+            176.228,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock.",
+          "box": [
+            179.28,
+            120.491,
+            215.731,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Additionally,",
+          "box": [
+            218.97,
+            120.491,
+            292.667,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consider",
+          "box": [
+            294.84,
+            120.491,
+            342.439,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            347.22,
+            120.491,
+            365.729,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "administration",
+          "box": [
+            368.595,
+            120.491,
+            453.048,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            457.2,
+            120.491,
+            467.344,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oxygen",
+          "box": [
+            471.6,
+            120.491,
+            511.066,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            515.25,
+            120.491,
+            525.758,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            101.97,
+            134.441,
+            148.299,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "who",
+          "box": [
+            150.84,
+            134.441,
+            175.348,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            178.74,
+            134.441,
+            202.468,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "have",
+          "box": [
+            206.37,
+            134.441,
+            233.88,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "been",
+          "box": [
+            236.745,
+            134.441,
+            263.62,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "exposed",
+          "box": [
+            267.795,
+            134.441,
+            313.944,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            317.79,
+            134.441,
+            328.445,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "high",
+          "box": [
+            331.83,
+            134.441,
+            356.405,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "levels",
+          "box": [
+            360.45,
+            134.441,
+            393.447,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            396.0,
+            134.441,
+            406.144,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "carbon",
+          "box": [
+            410.355,
+            134.441,
+            449.623,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "monoxide",
+          "box": [
+            453.6,
+            134.441,
+            511.088,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(e.g.,",
+          "box": [
+            513.9,
+            134.441,
+            541.131,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "enclosed",
+          "box": [
+            101.97,
+            148.436,
+            151.187,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "spaces).",
+          "box": [
+            155.025,
+            148.436,
+            199.783,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3.Give",
+          "box": [
+            90.0,
+            162.386,
+            127.632,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "highest",
+          "box": [
+            130.5,
+            162.386,
+            171.189,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "priority",
+          "box": [
+            175.23,
+            162.386,
+            218.72,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            222.615,
+            162.386,
+            233.27,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "airway",
+          "box": [
+            236.655,
+            162.386,
+            275.381,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "problems",
+          "box": [
+            279.27,
+            162.386,
+            333.931,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            336.465,
+            162.386,
+            357.63,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "major",
+          "box": [
+            361.44,
+            162.386,
+            394.048,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trauma.",
+          "box": [
+            398.835,
+            162.386,
+            444.388,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4.Manage",
+          "box": [
+            90.0,
+            176.336,
+            147.48,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock,",
+          "box": [
+            150.345,
+            176.336,
+            186.553,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            189.585,
+            176.336,
+            196.758,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "present.",
+          "box": [
+            200.97,
+            176.336,
+            247.423,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5.Cover",
+          "box": [
+            90.0,
+            190.331,
+            133.149,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burn",
+          "box": [
+            137.925,
+            190.331,
+            165.223,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            169.425,
+            190.331,
+            194.499,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dry",
+          "box": [
+            198.585,
+            190.331,
+            217.714,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dressing,",
+          "box": [
+            221.625,
+            190.331,
+            273.253,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "sterile",
+          "box": [
+            276.03,
+            190.331,
+            311.853,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "sheet,",
+          "box": [
+            314.73,
+            190.331,
+            348.16,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            350.955,
+            190.331,
+            361.875,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "commercially",
+          "box": [
+            366.615,
+            190.331,
+            444.007,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "prepared",
+          "box": [
+            447.93,
+            190.331,
+            500.226,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dry",
+          "box": [
+            504.0,
+            190.331,
+            523.129,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dressing.",
+          "box": [
+            101.97,
+            204.281,
+            153.598,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6.Request",
+          "box": [
+            90.0,
+            218.276,
+            146.165,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ALS",
+          "box": [
+            150.21,
+            218.276,
+            174.146,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "where",
+          "box": [
+            175.77,
+            218.276,
+            212.352,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "there",
+          "box": [
+            215.235,
+            218.276,
+            245.817,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            248.67,
+            218.276,
+            258.506,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            261.045,
+            218.276,
+            267.715,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "possibility",
+          "box": [
+            270.945,
+            218.276,
+            328.878,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            332.775,
+            218.276,
+            342.919,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "respiratory",
+          "box": [
+            347.13,
+            218.276,
+            410.783,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "compromise,",
+          "box": [
+            414.675,
+            218.276,
+            488.889,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock,",
+          "box": [
+            491.4,
+            218.276,
+            527.608,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "severe*",
+          "box": [
+            101.97,
+            232.226,
+            143.681,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burns",
+          "box": [
+            148.14,
+            232.226,
+            182.506,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            185.04,
+            232.226,
+            195.96,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "need",
+          "box": [
+            200.745,
+            232.226,
+            227.998,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            231.795,
+            232.226,
+            247.028,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pain",
+          "box": [
+            251.82,
+            232.226,
+            276.444,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "medication.",
+          "box": [
+            280.62,
+            232.226,
+            348.181,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Severe",
+          "box": [
+            351.45,
+            232.226,
+            389.854,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burns",
+          "box": [
+            392.715,
+            232.226,
+            427.081,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "should",
+          "box": [
+            429.615,
+            232.226,
+            467.573,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            471.15,
+            232.226,
+            485.182,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transported",
+          "box": [
+            488.25,
+            232.226,
+            555.173,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "following",
+          "box": [
+            101.97,
+            246.176,
+            156.046,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            158.94,
+            246.176,
+            177.449,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Trauma",
+          "box": [
+            180.36,
+            246.176,
+            225.622,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Triage",
+          "box": [
+            228.825,
+            246.176,
+            265.428,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocols,",
+          "box": [
+            268.29,
+            246.176,
+            324.321,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            327.105,
+            246.176,
+            340.325,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            342.603,
+            246.176,
+            362.971,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            367.425,
+            246.176,
+            374.095,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            374.13,
+            246.176,
+            377.465,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ADVANCED",
+          "box": [
+            101.97,
+            274.121,
+            170.495,
+            286.118
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT/PARAMEDIC",
+          "box": [
+            174.195,
+            274.121,
+            280.152,
+            286.118
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "7.",
+          "box": [
+            90.0,
+            288.116,
+            100.04,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Establish",
+          "box": [
+            102.33,
+            288.116,
+            153.201,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "venous",
+          "box": [
+            157.275,
+            288.116,
+            198.805,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "access",
+          "box": [
+            201.375,
+            288.116,
+            237.771,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "en-route,",
+          "box": [
+            240.3,
+            288.116,
+            292.12,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV/IO.",
+          "box": [
+            294.885,
+            288.116,
+            327.247,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "8.",
+          "box": [
+            90.0,
+            302.066,
+            100.04,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Cardiac",
+          "box": [
+            102.33,
+            302.066,
+            146.051,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Monitor",
+          "box": [
+            149.085,
+            302.066,
+            193.747,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(avoid",
+          "box": [
+            198.54,
+            302.066,
+            233.353,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "placing",
+          "box": [
+            237.195,
+            302.066,
+            279.184,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "leads",
+          "box": [
+            282.06,
+            302.066,
+            312.317,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            314.865,
+            302.066,
+            328.461,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burned",
+          "box": [
+            332.64,
+            302.066,
+            374.1,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "skin)",
+          "box": [
+            377.955,
+            302.066,
+            405.957,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "9.",
+          "box": [
+            90.0,
+            316.061,
+            100.04,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            102.33,
+            316.061,
+            110.071,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock",
+          "box": [
+            114.3,
+            316.061,
+            146.155,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "present,",
+          "box": [
+            150.3,
+            316.061,
+            196.753,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "perform",
+          "box": [
+            199.53,
+            316.061,
+            245.849,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fluid",
+          "box": [
+            250.335,
+            316.061,
+            276.607,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bolus.",
+          "box": [
+            280.44,
+            316.061,
+            314.811,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10.",
+          "box": [
+            90.0,
+            330.011,
+            106.745,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            109.935,
+            330.011,
+            117.676,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock",
+          "box": [
+            121.905,
+            330.011,
+            153.76,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NOT",
+          "box": [
+            157.905,
+            330.011,
+            183.298,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "present,",
+          "box": [
+            186.435,
+            330.011,
+            232.888,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            235.665,
+            330.011,
+            246.173,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            250.38,
+            330.011,
+            296.709,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            299.25,
+            330.011,
+            324.323,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burns",
+          "box": [
+            328.365,
+            330.011,
+            362.731,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "greater",
+          "box": [
+            365.265,
+            330.011,
+            404.953,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            409.77,
+            330.011,
+            435.033,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "20%",
+          "box": [
+            439.2,
+            330.011,
+            463.275,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TBSA,",
+          "box": [
+            466.2,
+            330.011,
+            499.6,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "initiate",
+          "box": [
+            502.65,
+            330.011,
+            543.542,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fluid",
+          "box": [
+            106.2,
+            343.961,
+            132.472,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "resuscitation",
+          "box": [
+            136.26,
+            343.961,
+            208.919,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            213.12,
+            343.961,
+            223.093,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            227.115,
+            343.961,
+            245.624,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "following",
+          "box": [
+            248.49,
+            343.961,
+            302.566,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "rates:",
+          "box": [
+            305.46,
+            343.961,
+            337.027,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            106.2,
+            357.956,
+            116.29,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Less",
+          "box": [
+            119.475,
+            357.956,
+            144.783,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            147.33,
+            357.956,
+            172.593,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6",
+          "box": [
+            176.805,
+            357.956,
+            183.475,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "years",
+          "box": [
+            186.615,
+            357.956,
+            218.102,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "old:",
+          "box": [
+            220.635,
+            357.956,
+            241.978,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "125",
+          "box": [
+            245.205,
+            357.956,
+            265.285,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL",
+          "box": [
+            268.47,
+            357.956,
+            286.476,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "per",
+          "box": [
+            290.385,
+            357.956,
+            308.163,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hour,",
+          "box": [
+            312.93,
+            357.956,
+            344.071,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b.",
+          "box": [
+            106.2,
+            371.906,
+            116.659,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6-13",
+          "box": [
+            119.88,
+            371.906,
+            143.681,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "years",
+          "box": [
+            146.835,
+            371.906,
+            178.321,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "old:",
+          "box": [
+            180.855,
+            371.906,
+            202.198,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "250",
+          "box": [
+            205.425,
+            371.906,
+            225.505,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL",
+          "box": [
+            228.645,
+            371.906,
+            246.651,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "per",
+          "box": [
+            250.605,
+            371.906,
+            268.383,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hour,",
+          "box": [
+            273.15,
+            371.906,
+            304.291,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            306.495,
+            371.906,
+            327.66,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "c.",
+          "box": [
+            106.2,
+            385.901,
+            115.439,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "14",
+          "box": [
+            118.62,
+            385.901,
+            131.995,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "years",
+          "box": [
+            135.18,
+            385.901,
+            166.666,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "old",
+          "box": [
+            169.2,
+            385.901,
+            186.516,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            190.35,
+            385.901,
+            201.27,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "older:",
+          "box": [
+            206.01,
+            385.901,
+            239.427,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "500",
+          "box": [
+            242.685,
+            385.901,
+            262.765,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL",
+          "box": [
+            265.905,
+            385.901,
+            283.911,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "per",
+          "box": [
+            287.865,
+            385.901,
+            305.643,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hour.",
+          "box": [
+            310.41,
+            385.901,
+            340.952,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "11.",
+          "box": [
+            90.0,
+            399.851,
+            106.745,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "For",
+          "box": [
+            109.935,
+            399.851,
+            127.453,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pain",
+          "box": [
+            132.255,
+            399.851,
+            156.879,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "control,",
+          "box": [
+            161.055,
+            399.851,
+            205.248,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            208.035,
+            399.851,
+            234.837,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            239.625,
+            399.851,
+            250.28,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            253.665,
+            399.851,
+            272.174,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Universal",
+          "box": [
+            275.04,
+            399.851,
+            328.596,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pain",
+          "box": [
+            332.775,
+            399.851,
+            357.044,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Management",
+          "box": [
+            361.215,
+            399.851,
+            435.191,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            439.2,
+            399.851,
+            489.818,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            492.3,
+            399.851,
+            505.52,
+            411.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            507.798,
+            399.851,
+            528.166,
+            411.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "18",
+          "box": [
+            532.8,
+            399.851,
+            546.175,
+            411.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            546.3,
+            399.851,
+            549.635,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PEARLS",
+          "box": [
+            213.66,
+            462.536,
+            262.504,
+            474.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            264.645,
+            462.536,
+            280.758,
+            474.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Bur",
+          "box": [
+            286.155,
+            462.536,
+            306.21,
+            474.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "n",
+          "box": [
+            308.488,
+            462.536,
+            315.159,
+            474.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Management",
+          "box": [
+            319.635,
+            462.536,
+            396.779,
+            474.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            51.075,
+            490.436,
+            55.07,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "*Severe",
+          "box": [
+            62.325,
+            490.436,
+            106.728,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burns",
+          "box": [
+            109.62,
+            490.436,
+            143.986,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "include",
+          "box": [
+            146.52,
+            490.436,
+            189.369,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "greater",
+          "box": [
+            192.24,
+            490.436,
+            231.928,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            236.745,
+            490.436,
+            262.008,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10%",
+          "box": [
+            266.175,
+            490.436,
+            290.25,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "body",
+          "box": [
+            293.49,
+            490.436,
+            321.021,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "surface",
+          "box": [
+            324.9,
+            490.436,
+            367.221,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "area",
+          "box": [
+            370.125,
+            490.436,
+            395.623,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(counting",
+          "box": [
+            398.835,
+            490.436,
+            453.528,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "only",
+          "box": [
+            456.3,
+            490.436,
+            480.567,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "partial",
+          "box": [
+            484.2,
+            490.436,
+            521.448,
+            502.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            65.475,
+            504.386,
+            86.64,
+            516.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "full",
+          "box": [
+            90.45,
+            504.386,
+            108.877,
+            516.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "thickness",
+          "box": [
+            113.04,
+            504.386,
+            167.209,
+            516.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burns),",
+          "box": [
+            169.74,
+            504.386,
+            211.011,
+            516.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "circumferential",
+          "box": [
+            213.84,
+            504.386,
+            301.997,
+            516.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burns,",
+          "box": [
+            306.18,
+            504.386,
+            343.297,
+            516.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "airway",
+          "box": [
+            346.095,
+            504.386,
+            384.821,
+            516.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "involvement,",
+          "box": [
+            388.71,
+            504.386,
+            463.722,
+            516.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "genital",
+          "box": [
+            466.2,
+            504.386,
+            504.177,
+            516.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burns,",
+          "box": [
+            508.5,
+            504.386,
+            545.617,
+            516.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            65.475,
+            518.336,
+            86.64,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burns",
+          "box": [
+            90.45,
+            518.336,
+            124.817,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            127.35,
+            518.336,
+            138.005,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            141.39,
+            518.336,
+            159.899,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hands",
+          "box": [
+            162.765,
+            518.336,
+            198.234,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            200.745,
+            518.336,
+            211.665,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "face.",
+          "box": [
+            216.45,
+            518.336,
+            243.294,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Severe",
+          "box": [
+            246.51,
+            518.336,
+            284.914,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burns",
+          "box": [
+            287.82,
+            518.336,
+            322.186,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "should",
+          "box": [
+            324.72,
+            518.336,
+            362.678,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            366.48,
+            518.336,
+            380.512,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transported",
+          "box": [
+            383.4,
+            518.336,
+            450.323,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "following",
+          "box": [
+            454.05,
+            518.336,
+            508.126,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            510.75,
+            518.336,
+            529.259,
+            530.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Trauma",
+          "box": [
+            65.475,
+            532.286,
+            110.737,
+            544.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Triage",
+          "box": [
+            113.94,
+            532.286,
+            150.543,
+            544.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Guidelines,",
+          "box": [
+            153.405,
+            532.286,
+            217.672,
+            544.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            220.5,
+            532.286,
+            233.72,
+            544.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            235.998,
+            532.286,
+            256.366,
+            544.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1.",
+          "box": [
+            260.82,
+            532.286,
+            270.86,
+            544.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.035,
+            546.686,
+            59.03,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Only",
+          "box": [
+            67.23,
+            546.686,
+            93.477,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "second",
+          "box": [
+            97.38,
+            546.686,
+            136.455,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(partial",
+          "box": [
+            140.265,
+            546.686,
+            181.667,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "thickness)",
+          "box": [
+            185.85,
+            546.686,
+            243.429,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            246.735,
+            546.686,
+            267.9,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "third",
+          "box": [
+            271.71,
+            546.686,
+            299.709,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(full",
+          "box": [
+            303.525,
+            546.686,
+            326.106,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "thickness)",
+          "box": [
+            330.255,
+            546.686,
+            387.834,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "degree",
+          "box": [
+            391.14,
+            546.686,
+            430.12,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burns",
+          "box": [
+            432.99,
+            546.686,
+            467.356,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            469.8,
+            546.686,
+            488.877,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "counted",
+          "box": [
+            491.85,
+            546.686,
+            537.115,
+            558.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "when",
+          "box": [
+            67.23,
+            560.636,
+            98.16,
+            572.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "calculating",
+          "box": [
+            102.33,
+            560.636,
+            165.058,
+            572.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burn",
+          "box": [
+            167.985,
+            560.636,
+            195.283,
+            572.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "surface",
+          "box": [
+            199.485,
+            560.636,
+            241.806,
+            572.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "area.",
+          "box": [
+            244.665,
+            560.636,
+            273.583,
+            572.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Do",
+          "box": [
+            276.84,
+            560.636,
+            292.231,
+            572.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            295.605,
+            560.636,
+            313.606,
+            572.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "include",
+          "box": [
+            317.61,
+            560.636,
+            360.459,
+            572.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "first",
+          "box": [
+            363.33,
+            560.636,
+            385.998,
+            572.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "degree",
+          "box": [
+            390.015,
+            560.636,
+            428.995,
+            572.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burns",
+          "box": [
+            431.865,
+            560.636,
+            466.232,
+            572.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(superficial",
+          "box": [
+            468.45,
+            560.636,
+            532.376,
+            572.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "thickness).",
+          "box": [
+            67.23,
+            574.586,
+            128.303,
+            586.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.035,
+            588.536,
+            59.03,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Errors",
+          "box": [
+            67.23,
+            588.536,
+            104.468,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            107.01,
+            588.536,
+            126.087,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "made",
+          "box": [
+            128.97,
+            588.536,
+            161.092,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            163.935,
+            588.536,
+            174.443,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burn",
+          "box": [
+            178.65,
+            588.536,
+            205.948,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "surface",
+          "box": [
+            210.15,
+            588.536,
+            252.471,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "area",
+          "box": [
+            255.33,
+            588.536,
+            280.828,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "calculation",
+          "box": [
+            284.04,
+            588.536,
+            345.953,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "when",
+          "box": [
+            350.145,
+            588.536,
+            381.075,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "an",
+          "box": [
+            385.29,
+            588.536,
+            398.715,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "entire",
+          "box": [
+            402.885,
+            588.536,
+            437.314,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "limb",
+          "box": [
+            440.19,
+            588.536,
+            465.754,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            469.35,
+            588.536,
+            479.186,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "counted",
+          "box": [
+            481.95,
+            588.536,
+            527.215,
+            600.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "despite",
+          "box": [
+            67.23,
+            602.486,
+            108.404,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "only",
+          "box": [
+            111.285,
+            602.486,
+            135.552,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "partial",
+          "box": [
+            139.455,
+            602.486,
+            176.704,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "involvement.",
+          "box": [
+            180.855,
+            602.486,
+            255.867,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Consider",
+          "box": [
+            259.11,
+            602.486,
+            307.929,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "using",
+          "box": [
+            312.705,
+            602.486,
+            343.98,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            346.905,
+            602.486,
+            365.414,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient's",
+          "box": [
+            368.28,
+            602.486,
+            417.252,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hand",
+          "box": [
+            419.805,
+            602.486,
+            448.584,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "size",
+          "box": [
+            452.25,
+            602.486,
+            474.305,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(palm",
+          "box": [
+            477.0,
+            602.486,
+            508.985,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PLUS",
+          "box": [
+            513.45,
+            602.486,
+            544.771,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fingers",
+          "box": [
+            67.23,
+            616.436,
+            107.645,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "=",
+          "box": [
+            110.205,
+            616.436,
+            117.211,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1%",
+          "box": [
+            120.015,
+            616.436,
+            137.385,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "BSA)",
+          "box": [
+            140.58,
+            616.436,
+            167.286,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            170.595,
+            616.436,
+            181.25,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "estimate",
+          "box": [
+            184.59,
+            616.436,
+            233.238,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1%",
+          "box": [
+            236.115,
+            616.436,
+            253.485,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "body",
+          "box": [
+            256.68,
+            616.436,
+            284.211,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "surface",
+          "box": [
+            288.135,
+            616.436,
+            330.456,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "area.",
+          "box": [
+            333.315,
+            616.436,
+            362.233,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.035,
+            630.386,
+            59.03,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Clean,",
+          "box": [
+            67.23,
+            630.386,
+            102.564,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dry",
+          "box": [
+            105.345,
+            630.386,
+            124.475,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dressings",
+          "box": [
+            128.385,
+            630.386,
+            182.677,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            185.22,
+            630.386,
+            204.297,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "adequate",
+          "box": [
+            207.18,
+            630.386,
+            260.109,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            262.98,
+            630.386,
+            278.213,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "covering",
+          "box": [
+            283.005,
+            630.386,
+            332.87,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "all",
+          "box": [
+            335.745,
+            630.386,
+            348.883,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burns,",
+          "box": [
+            353.07,
+            630.386,
+            390.187,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "regardless",
+          "box": [
+            392.985,
+            630.386,
+            452.834,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            455.4,
+            630.386,
+            465.544,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "size.",
+          "box": [
+            469.35,
+            630.386,
+            494.491,
+            642.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.035,
+            644.336,
+            59.03,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "It",
+          "box": [
+            67.23,
+            644.336,
+            74.971,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            78.975,
+            644.336,
+            88.811,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "preferable",
+          "box": [
+            91.35,
+            644.336,
+            151.679,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            154.575,
+            644.336,
+            165.23,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "establish",
+          "box": [
+            168.57,
+            644.336,
+            218.388,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            222.48,
+            644.336,
+            234.888,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "access",
+          "box": [
+            238.095,
+            644.336,
+            274.491,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            277.02,
+            644.336,
+            287.528,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "non-burned",
+          "box": [
+            291.735,
+            644.336,
+            359.321,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tissue,",
+          "box": [
+            363.15,
+            644.336,
+            399.293,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "but,",
+          "box": [
+            402.075,
+            644.336,
+            424.611,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            427.365,
+            644.336,
+            434.538,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "necessary,",
+          "box": [
+            438.75,
+            644.336,
+            498.7,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burned",
+          "box": [
+            500.85,
+            644.336,
+            542.31,
+            656.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tissue",
+          "box": [
+            67.23,
+            658.286,
+            100.287,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            103.14,
+            658.286,
+            126.868,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            130.77,
+            658.286,
+            144.802,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "used",
+          "box": [
+            147.69,
+            658.286,
+            173.809,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            177.615,
+            658.286,
+            190.368,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            192.915,
+            658.286,
+            199.585,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "site",
+          "box": [
+            202.77,
+            658.286,
+            222.799,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            225.675,
+            658.286,
+            240.908,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            245.7,
+            658.286,
+            258.108,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "access.",
+          "box": [
+            261.315,
+            658.286,
+            300.461,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.035,
+            672.236,
+            59.03,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Research",
+          "box": [
+            67.23,
+            672.236,
+            118.095,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "indicates",
+          "box": [
+            122.175,
+            672.236,
+            174.021,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "that",
+          "box": [
+            176.535,
+            672.236,
+            198.346,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "resuscitation",
+          "box": [
+            202.365,
+            672.236,
+            275.024,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "based",
+          "box": [
+            279.225,
+            672.236,
+            311.847,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "upon",
+          "box": [
+            315.675,
+            672.236,
+            344.247,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            348.435,
+            672.236,
+            355.105,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4",
+          "box": [
+            358.29,
+            672.236,
+            364.96,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL/kg/%",
+          "box": [
+            368.145,
+            672.236,
+            417.886,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TBSA",
+          "box": [
+            421.11,
+            672.236,
+            450.716,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "strategy",
+          "box": [
+            454.05,
+            672.236,
+            498.958,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "commonly",
+          "box": [
+            503.1,
+            672.236,
+            562.868,
+            684.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "results",
+          "box": [
+            67.23,
+            686.186,
+            106.158,
+            698.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            108.675,
+            686.186,
+            119.183,
+            698.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "over-resuscitation",
+          "box": [
+            123.39,
+            686.186,
+            225.483,
+            698.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            229.68,
+            686.186,
+            250.845,
+            698.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "excessive",
+          "box": [
+            254.655,
+            686.186,
+            308.024,
+            698.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "edema",
+          "box": [
+            310.905,
+            686.186,
+            349.116,
+            698.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "formation.",
+          "box": [
+            352.305,
+            686.186,
+            413.231,
+            698.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "National",
+          "box": [
+            416.475,
+            686.186,
+            464.299,
+            698.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            468.45,
+            686.186,
+            489.615,
+            698.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "local",
+          "box": [
+            493.2,
+            686.186,
+            519.168,
+            698.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "burn",
+          "box": [
+            523.35,
+            686.186,
+            550.648,
+            698.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "specialists",
+          "box": [
+            67.23,
+            700.136,
+            126.118,
+            712.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "instead",
+          "box": [
+            128.655,
+            700.136,
+            169.6,
+            712.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "recommend",
+          "box": [
+            173.43,
+            700.136,
+            241.836,
+            712.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fixed",
+          "box": [
+            245.655,
+            700.136,
+            273.831,
+            712.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "resuscitation",
+          "box": [
+            277.65,
+            700.136,
+            350.309,
+            712.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "strategies.",
+          "box": [
+            354.51,
+            700.136,
+            412.427,
+            712.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.035,
+            714.086,
+            59.03,
+            726.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Maintain",
+          "box": [
+            67.23,
+            714.086,
+            118.187,
+            726.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "body",
+          "box": [
+            122.355,
+            714.086,
+            149.886,
+            726.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "temperature",
+          "box": [
+            153.81,
+            714.086,
+            225.791,
+            726.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "by",
+          "box": [
+            228.69,
+            714.086,
+            241.933,
+            726.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "keeping",
+          "box": [
+            245.835,
+            714.086,
+            291.186,
+            726.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            294.075,
+            714.086,
+            312.584,
+            726.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            315.45,
+            714.086,
+            354.891,
+            726.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "warm",
+          "box": [
+            358.92,
+            714.086,
+            391.292,
+            726.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            395.775,
+            714.086,
+            416.94,
+            726.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dry.",
+          "box": [
+            420.75,
+            714.086,
+            443.395,
+            726.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0110.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 99.07,
+    "output_to_native_length_ratio": 0.982,
+    "native_dosage_tokens": [
+      "125ml",
+      "250ml",
+      "4ml/kg",
+      "500ml"
+    ],
+    "output_dosage_tokens": [
+      "125ml",
+      "250ml",
+      "4ml/kg",
+      "500ml"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

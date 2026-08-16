@@ -1,0 +1,345 @@
+{
+  "id": "page-0194",
+  "pdf_page": 194,
+  "protocol_label": null,
+  "kind": "annex_divider",
+  "chapter_id": null,
+  "topic_id": null,
+  "title": "Annex",
+  "markdown": "# Annex\n\nThe following protocols require specialty training.\nThese protocols are not part of the standard prehospital patient care protocols.\n",
+  "plain_text": "Annex The following protocols require specialty training. These protocols are not part of the standard prehospital patient care protocols.",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        345.51,
+        295.61,
+        631.66,
+        356.17
+      ],
+      "text": "A N N EX",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        256.99,
+        377.59,
+        725.12,
+        392.74
+      ],
+      "text": "The following protocols require specialty training.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        172.5,
+        395.26,
+        809.94,
+        410.41
+      ],
+      "text": "These protocols are not part of the standard prehospital patient care",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        445.29,
+        412.87,
+        536.85,
+        428.02
+      ],
+      "text": "protocols.",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "53de7192f284ed05b822893a0652b91cda7bb5a11b698926d4852d4ffa772718",
+    "native": {
+      "text": "A N N EX\nThe following protocols require specialty training.\nThese protocols are not part of the standard prehospital patient care\nprotocols.",
+      "body_text": "A N N EX The following protocols require specialty training. These protocols are not part of the standard prehospital patient care protocols.",
+      "words": [
+        {
+          "text": "A",
+          "box": [
+            211.455,
+            234.12,
+            243.451,
+            282.09
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 47.97
+        },
+        {
+          "text": "N",
+          "box": [
+            247.595,
+            234.12,
+            282.229,
+            282.09
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 47.97
+        },
+        {
+          "text": "N",
+          "box": [
+            285.421,
+            234.12,
+            320.056,
+            282.09
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 47.97
+        },
+        {
+          "text": "EX",
+          "box": [
+            323.248,
+            234.12,
+            386.578,
+            282.09
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 47.97
+        },
+        {
+          "text": "The",
+          "box": [
+            157.275,
+            299.051,
+            178.912,
+            311.048
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "following",
+          "box": [
+            181.755,
+            299.051,
+            235.831,
+            311.048
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocols",
+          "box": [
+            238.77,
+            299.051,
+            292.051,
+            311.048
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "require",
+          "box": [
+            294.57,
+            299.051,
+            337.779,
+            311.048
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "specialty",
+          "box": [
+            340.65,
+            299.051,
+            390.287,
+            311.048
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "training.",
+          "box": [
+            394.2,
+            299.051,
+            443.774,
+            311.048
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "These",
+          "box": [
+            105.57,
+            313.046,
+            139.042,
+            325.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocols",
+          "box": [
+            141.93,
+            313.046,
+            195.211,
+            325.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            197.775,
+            313.046,
+            216.852,
+            325.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            219.69,
+            313.046,
+            237.691,
+            325.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "part",
+          "box": [
+            241.695,
+            313.046,
+            264.799,
+            325.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            268.83,
+            313.046,
+            278.974,
+            325.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            283.185,
+            313.046,
+            301.694,
+            325.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "standard",
+          "box": [
+            304.56,
+            313.046,
+            355.131,
+            325.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "prehospital",
+          "box": [
+            358.965,
+            313.046,
+            423.196,
+            325.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            427.365,
+            313.046,
+            466.806,
+            325.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "care",
+          "box": [
+            470.7,
+            313.046,
+            495.681,
+            325.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocols.",
+          "box": [
+            272.52,
+            326.996,
+            328.551,
+            338.993
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0194.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 100.0,
+    "output_to_native_length_ratio": 1.0,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

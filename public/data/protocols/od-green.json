@@ -1,0 +1,1971 @@
+[
+  {
+    "id": "od-green_195",
+    "title": "Operational K9 Protocols Intro",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>The Medical Direction and Practices Board recognizes that EMS clinicians may work with Operational K9s [OpK9] as part of their job (with search and rescue or law enforcement teams). While the handler of the canine is ultimately responsible for their dog, they may grant permission to trained EMS personnel to provide care for their canine partner.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</strong></p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>At no time should the care of an OpK9 take priority over a person. It is vital that the EMS personnel have a working relationship with the OpK9 handler(s) well in advance of needing to implement these protocols.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>MRS Title 14, Chapter 7, subsection 164-B, <em>Immunity from civil liability for assistance given to law enforcement dogs, search and rescue dogs and service dogs</em> (2017), and <em>An act to authorize the provision of emergency medical treatment for certain dogs</em> (2024), MRS Title 32, Chapter 85, subsection 9; MRS Title 32, Chapter 88, subsection 1 paragraph A; provides protections for emergency medical services clinicians who render aid to a working dog. Please refer to statutes for details.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>At this time, these protocols do NOT apply to service dogs. Service dogs are defined by the ADA as a dog specifically trained to perform work for a person with a disability. Examples include guide dogs, medic alert dogs, and emotional support/psychiatric service dogs.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>It is expected that clinicians maintain clinical competency and attend continuing education courses pertaining to the care of the Operational K9.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>[V]</strong> Denotes a potentially complex canine patient. Please consult the veterinarian to collaborate your efforts</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>[Phone Icon]</strong> Denotes a requirement to contact the <strong>veterinarian</strong> to provide the care in the section</p>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_195",
+        "pageNumber": "OD Green 1",
+        "jpgReference": "/assets/pages_webp/0195.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_196_197",
+    "title": "Operational K9 Restraint",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</strong></p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>The goal is to <em>safely</em> provide the canine's initial medical evaluation, treatment and transport to definitive care. Injured and ill canines may pose an unintentional threat to clinicians, therefore it is imperative that the canine be secured prior to medical evaluation. This is best done by the canine's handler. It is preferable that the handler stay with their canine throughout all phases of care, evacuation, and transport unless they, themselves, are injured or required for threat neutralization. If the primary handler is not available, attempt to locate another handler or person that is familiar with handling OpK9s to secure and stay with the injured canine.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>All injured canines should be muzzled before handling. The following are relative contraindications to muzzling:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p><strong>Muzzling</strong></p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Muzzle Type</th>\n<th style=\"text-align: left;\">Required Materials</th>\n<th style=\"text-align: left;\">Suggested Use</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Cage or Basket</td>\n<td style=\"text-align: left;\">Manufactured cage/basket muzzle<br/>(preferably made out of rubber)</td>\n<td style=\"text-align: left;\">~All-purpose<br/>~Preferred muzzle: allows for open-mouth breathing<br/>~Suggested if oxygen delivery is indicated</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Fabric</td>\n<td style=\"text-align: left;\">Manufactured, pre-sized muzzle</td>\n<td style=\"text-align: left;\">All-purpose</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Quick muzzle</td>\n<td style=\"text-align: left;\">Any available, broad-width (greater than 1-2 inches) tape, leash, webbing, gauze, etc.</td>\n<td style=\"text-align: left;\">~Use only if fabric or cage/basket muzzle is unavailable<br/>~Narrow tape/gauze etc. can cause injury</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>It is important that the clinician be adequately trained to restrain the Operational K9 in order to safely apply a muzzle. A stressed canine may not only bite the EMS clinician or others, but may bite its handler as well.</strong></p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Unconsciousness"
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Upper airway obstruction"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "Vomiting"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "Severe facial trauma"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "Heat-related injury (need to allow evaporative cooling via panting).\n    If these canines need to be muzzled, a Cage- or Basket-type muzzle is preferred."
+      },
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "The type of muzzle used depends on the size of the of canine, available material, type of injury and desired canine access."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "The canine should be restrained in a position of comfort, which may include sitting or standing. Do not restrain the canine in such a manner that its ability to breathe or pant is impeded."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Slide the appropriately-sized muzzle over the canine's snout from the rostral (anterior) to caudal (posterior) aspect. Be sure that the lower jaw is captured in the muzzle and not free."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Be sure to frequently check the security of the muzzle and make sure that it is not impeding the canine's ability to breathe."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_196",
+        "pageNumber": "OD Green 2",
+        "jpgReference": "/assets/pages_webp/0196.webp"
+      },
+      {
+        "pageId": "od-green_197",
+        "pageNumber": "OD Green 3",
+        "jpgReference": "/assets/pages_webp/0197.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_198_199",
+    "title": "Operational K9 Airway Obstruction",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Operational K9 Airway Obstruction\" src=\"/assets/figures/page-0198-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Clinical signs of airway obstruction include the following:</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Gagging</li>\n<li>Pawing at the mouth</li>\n<li>Excessive drooling</li>\n<li>Frequent swallowing motions</li>\n<li>Extension of the head and neck</li>\n<li>Tripod position</li>\n<li>Reluctance to lie down</li>\n<li>Cyanosis (late sign)</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Similar to a person who can speak clearly without any respiratory distress, consider a canine that is barking, growling, or whining without any clinical signs of respiratory distress to have a patent airway.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Pharyngo-laryngeal manipulation</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p><img alt=\"Visual reference from Operational K9 Airway Obstruction\" src=\"/assets/figures/page-0199-visual.webp\"/></p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Allow for position of comfort (sit or stand, sternal helps with gravity)"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Secure canine with leash/rope"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Avoid putting hands in canine's mouth (serious injury to clinician can occur)"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Attempt Heimlich maneuver (avoid if sharp object involved)\n    a. \"Bear hug\"or lay canine on side and place fist just below sternum or behind ribs\n    b. Five (5) quick and upward abdominal thrusts followed by airway check\n    c. If not successful, repeat 1-2 times</p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Palpate throat/trachea - you may be able to dislodge a supraglottic foreign body cephalad out of the pharynx.\n    a. Palpate the object at the supraglottic region (ventral mandible)\n    b. From caudal aspect of object, squeeze/push cranially\n        i. Two-handed with both thumbs, or\n        ii. Single-handed with thumb and index or middle finger</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>In an <strong>unconscious</strong> canine, open the airway by extending the head and neck, and pull the tongue forward. A second rescuer may use gauze/leash looped behind upper canine teeth to keep the mouth open. You may use a second length of gauze/leash for the lower jaw as well.</p>"
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>In an <strong>unconscious</strong> canine, if the obstruction is:\n    a. <strong>VISIBLE</strong>: attempt to manually remove; do not push foreign body further back in airway\n    b. <strong>NOT VISIBLE</strong>: do <strong>not</strong> attempt a blind finger sweep due to risk of pushing the foreign body further down the airway</p>"
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>If object is not removed and canine collapses, provide chest compressions and mouth-to-snout or BVM (with a canine mask). If unable to get chest rise, proceed to Airway Management protocol, <strong>OD Green 6</strong> and Cardiac Arrest protocol, <strong>OD Green 10</strong>.</p>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_198",
+        "pageNumber": "OD Green 4",
+        "jpgReference": "/assets/pages_webp/0198.webp"
+      },
+      {
+        "pageId": "od-green_199",
+        "pageNumber": "OD Green 5",
+        "jpgReference": "/assets/pages_webp/0199.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_200_201",
+    "title": "Operational K9 Airway Management",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</strong></p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p>*Pulse oximetry is most reliable in unconscious, sedated, or anesthetized canines. Finger probes used for people do not work well in canines. If possible, obtain and use a flat ear probe attachment. Place the probe on the tongue or non-pigmented portion of the lip. In conscious dogs, use the ear pinna, lip fold, inguinal skin fold or prepuce/vulva; although not optimal for oximetry, these alternate sites generally yield reliable results in most instances. Alternatively , a neonatal or disposable pulse oximetry adhesive sensor attached to the base of the canine's tail provides an alternative and very reliable site.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Place the canine in the sternal (prone) position"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "<p>Open airway\n    a. Tilt head and slightly extend the neck\n    b. If foreign body suspected, refer to Airway Obstruction protocol, <strong>OD Green 4</strong>.</p>"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "<p>Provide oxygen to maintain SpO2 &gt; 94%*</p>"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "BVM (with canine mask) with goal respiratory rate of 10-12 breaths/minute"
+      },
+      {
+        "num": 5,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If unable to ventilate with basic airway maneuvers, proceed with intubation (only if canine is <strong>unconscious</strong>)\n    a. <strong>Prepare</strong>\n        * Suction\n        * Light source (flashlight/headlamp/laryngoscope)\n        * ET tube ready with lubricant, bougie and syringe\n          Measure ETT from incisor to thoracic inlet (typical ETT size is 9-11 mm)\n        * Tube-securing device ready\n        * Continuous end-tidal CO2 monitor ready if available\n        * Consider surgical airway device as back-up\n    b. <strong>Pre-oxygenate</strong> (If time allows, often the collapse is sudden, not allowing adequate time to pre-oxygenate)\n        * Pre-oxygenate with face mask x 3 minutes\n        * Ensure SpO2 greater than 90%\n    c. <strong>Position</strong>\n        * Sternal/prone position\n        * Assistant to help open mouth\n        * Second rescuer may use gauze/leash and place behind upper canines to hold mouth/airway open.\n    d. <strong>Pass the tube</strong>\n        * Pull tongue straight out and over mandible\n        * Visualize vocal cords\n        * Directly visualize ETT passing through cords\n        * Inflate cuff\n    e. <strong>Check tube placement</strong>\n        * Breath sounds/chest rise\n        * End-tidal CO2, if available (35-45 mmHg)\n    f. <strong>Secure ETT</strong>\n        * Consider using a mouth-gag to keep mouth open and prevent damage to the ETT. This can be achieved with a 1-2 wide inch roll of tape\n    g. <strong>Titrate oxygen</strong> to maintain SpO2 ~ 94%</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If unable to intubate or ventilate with BVM, proceed to Surgical Airway, protocol <strong>OD Green 8</strong></p>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_200",
+        "pageNumber": "OD Green 6",
+        "jpgReference": "/assets/pages_webp/0200.webp"
+      },
+      {
+        "pageId": "od-green_201",
+        "pageNumber": "OD Green 7",
+        "jpgReference": "/assets/pages_webp/0201.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_202_203",
+    "title": "Operational K9 Surgical Airway",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Operational K9 Surgical Airway\" src=\"/assets/figures/page-0202-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Indication:</strong> Inability to oxygenate or ventilate via less invasive means (i.e., basic airway maneuvers, and inability to intubate.)</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Materials/Equipment for Surgical Cricothyrotomy</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Procedure:</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Operational K9 Surgical Airway\" src=\"/assets/figures/page-0203-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Procedure (continued from previous page)</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Photos compliments of:\nSureiyan Hardjo,\nUQVETS Small Animal Hospital</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Dissection depicting the ventral laryngeal anatomy in a cadaver dog. (A) Blue arrow points to intact cricothyroid membrane and ligament. (B) Black arrow indicates the incision in the cricothyroid ligament. The cricothyroid membrane is located on the ventral aspect of the larynx, joining the caudoventral border of the thyroid cartilage and the cranioventral aspect of the cricoid cartilage. The medial part of the cricothyroid membrane is termed the cricothyroid ligament. The ligament is devoid of a major blood supply but may have small vessels associated near the cricoid and thyroid attachments</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Hardjo S, Croton C, Haworth MD. A pilot study evaluating the utility of a novel tube cricothyrotomy technique in providing ventilation in small animals using a live porcine model. <em>Vet Med (Auckl).</em> 2019;10:111-121\nhttps://doi.org/10.2147/VMRR.S216551</p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Cuffed tracheostomy tube or 6.0 - 10.0 ETT (dogs ~25 kg can accept a 9.0 mm tube)"
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Tracheal hook or bougie"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "Trousseau dilator (if available)"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "Syringe to inflate cuff"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "Scalpel (No. 11 blade)"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Umbilical tape or other means to secure tracheostomy tube or ETT"
+      },
+      {
+        "num": 7,
+        "providerLevel": "ALL",
+        "html": "4x4 gauze"
+      },
+      {
+        "num": 8,
+        "providerLevel": "ALL",
+        "html": "Suction, if available"
+      },
+      {
+        "num": 9,
+        "providerLevel": "ALL",
+        "html": "<p>Extend the neck when possible to ensure best access to the trachea.\n    a. Place a towel, IV bag or similar item under the neck to help extension. Swab/cleanse the area.</p>"
+      },
+      {
+        "num": 10,
+        "providerLevel": "ALL",
+        "html": "<p>Stabilize the larynx and locate the cricothyroid membrane\n    a. Immobilize the trachea with your non-dominant thumb and middle finger while palpating the cricothyroid membrane with your non-dominant index finger. It is best to start palpation over the trachea and move cephalad to locate the membrane. NOTE: The cricothyroid membrane is immediately ABOVE the cricoid cartilage and BELOW the thyroid cartilage.</p>"
+      },
+      {
+        "num": 11,
+        "providerLevel": "ALL",
+        "html": "<p>Make a 3 - 5 cm <strong>vertical</strong> incision over the cricothyroid membrane through the skin and subcutaneous tissues. NOTE: Severe bleeding is possible with this procedure and may occur at this or the following steps. Be prepared to suction and provide direct pressure to control bleeding</p>"
+      },
+      {
+        "num": 12,
+        "providerLevel": "ALL",
+        "html": "Palpate the membrane through the incision to confirm anatomy."
+      },
+      {
+        "num": 13,
+        "providerLevel": "ALL",
+        "html": "Make a small (1 cm or less) incision <strong>horizontally</strong> through the cricothyroid membrane."
+      },
+      {
+        "num": 14,
+        "providerLevel": "ALL",
+        "html": "<p>Insert the tracheal hook or bougie in the opening of the membrane while maintaining hold of the thyroid cartilage with your non-dominant hand.</p>"
+      },
+      {
+        "num": 15,
+        "providerLevel": "ALL",
+        "html": "<p>If Trousseau dilator available, insert into the incision site and spread vertical then rotate 90 degrees until the dilator is parallel with the neck.</p>"
+      },
+      {
+        "num": 16,
+        "providerLevel": "ALL",
+        "html": "<p>Insert the cuffed tracheostomy tube or ETT tube into the incision site and advance caudally. Advance until the flanges rest on the skin of the neck (when using tracheostomy tube).</p>"
+      },
+      {
+        "num": 17,
+        "providerLevel": "ALL",
+        "html": "<p>Carefully remove the dilator (if used), tracheal hook and obturator of the tracheostomy tube.</p>"
+      },
+      {
+        "num": 18,
+        "providerLevel": "ALL",
+        "html": "<p>Inflate the balloon of the tracheostomy tube/ETT.</p>"
+      },
+      {
+        "num": 19,
+        "providerLevel": "ALL",
+        "html": "<p>Ventilate and confirm position by physical exam and ETCO\u2082.</p>"
+      },
+      {
+        "num": 20,
+        "providerLevel": "ALL",
+        "html": "<p>Secure the tube in place.</p>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_202",
+        "pageNumber": "OD Green 8",
+        "jpgReference": "/assets/pages_webp/0202.webp"
+      },
+      {
+        "pageId": "od-green_203",
+        "pageNumber": "OD Green 9",
+        "jpgReference": "/assets/pages_webp/0203.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_204_205",
+    "title": "Operational K9 Cardiac Arrest",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Operational K9 Cardiac Arrest\" src=\"/assets/figures/page-0204-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>These canine guidelines are reserved for use only on <strong>Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</strong></p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "PARAMEDIC",
+        "html": "<table>\n<thead>\n<tr>\n<th></th>\n<th>Weight (kg)</th>\n<th></th>\n<th>25</th>\n<th>30</th>\n<th>35</th>\n<th>40</th>\n<th>45</th>\n<th>50</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td>Weight (lb)</td>\n<td></td>\n<td>50</td>\n<td>60</td>\n<td>70</td>\n<td>80</td>\n<td>90</td>\n<td>100</td>\n</tr>\n<tr>\n<td></td>\n<td>Drug</td>\n<td>Dose</td>\n<td>mL</td>\n<td>mL</td>\n<td>mL</td>\n<td>mL</td>\n<td>mL</td>\n<td>mL</td>\n</tr>\n<tr>\n<td>Arrest</td>\n<td>Epi 1mg/10mL every other BLS cycle</td>\n<td>0.01 mg/kg</td>\n<td>2.5</td>\n<td>3</td>\n<td>3.5</td>\n<td>4</td>\n<td>4.5</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Arrest</td>\n<td>Atropine (0.54 mg/mL)</td>\n<td>0.04 mg/kg</td>\n<td>1.9</td>\n<td>2.2</td>\n<td>2.6</td>\n<td>3</td>\n<td>3.3</td>\n<td>3.7</td>\n</tr>\n<tr>\n<td>Anti-Arrhyth</td>\n<td>Amiodarone (50 mg/mL)</td>\n<td>5 mg/kg</td>\n<td>2.5</td>\n<td>3</td>\n<td>3.5</td>\n<td>4</td>\n<td>4.5</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Anti-Arrhyth</td>\n<td>Lidocaine (20 mg/mL)</td>\n<td>2 mg/kg</td>\n<td>2.5</td>\n<td>3</td>\n<td>3.5</td>\n<td>4</td>\n<td>4.5</td>\n<td>5</td>\n</tr>\n<tr>\n<td>Reversal</td>\n<td>Naloxone (0.4 mg/mL)</td>\n<td>0.04 mg/kg</td>\n<td>2.5</td>\n<td>3</td>\n<td>3.5</td>\n<td>4</td>\n<td>4.5</td>\n<td>5</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p>Do not use amiodarone formulations containing polysorbate-80 in canines due to the adverse hemodynamic side effects; refer to manufacturer's labeling and literature</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>Termination of Resuscitation:</strong>\nConsider terminating CPR when any of the following occurs:\n1. ROSC\n2. You are too exhausted to continue\n3. Scene/situation becomes unsafe\n4. No ROSC after 20 minutes of ineffective CPR <strong>OR</strong> 30-40 minutes of high-quality CPR</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "<p>Initiate high-quality chest compressions with minimal interruptions\n    a. Compression rate of 100-120 compressions/minute\n    b. Depth of 1/3 -1/2 of chest width\n    c. Allow for full chest recoil</p>"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "<p>High-flow O2 with BVM ventilation 1 breath every 10 chest compressions during recoil and <strong>without</strong> interrupting compressions <strong>or</strong> at a ratio of 30:2</p>"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Continue 2-minute cycles of chest compressions with pulse checks"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "Contact emergency veterinary as soon as possible for further guidance"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "If ROSC occurs, refer to K9 Post-Resuscitation Care protocol, <strong>OD Green 12</strong>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "If no ROSC in 20 minutes and ALS-trained K9 care clinician not on scene, terminate resuscitation."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "If defibrillator available and patient in VF/pulseless VT, shock at 2 J/kg, any subsequent shocks at 4 J/kg."
+      },
+      {
+        "num": 8,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Establish <strong>IV/IO</strong> without interrupting chest compressions"
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Manage the airway per <strong>OD Green 6</strong>. Avoid respiratory rate greater than 10/minute in cardiac arrest"
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "One medication intervention at each 2-minute reassessment per RECOVER clinical guidelines (https://recoverinitiative.org/2024-guidelines/)"
+      },
+      {
+        "num": 11,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>EPINEPHRine 0.01 mg/kg of 1 mg/10 mL <strong>IV/IO</strong> push every 3-5 minutes\n    a. Asystole/PEA: atropine 0.04 mg/kg <strong>IV/IO</strong> push at the initiation of CPR,\n    b. VF/VT: lidocaine 2 mg/kg or amiodarone 5 mg/kg <strong>IV/IO</strong> push</p>"
+      },
+      {
+        "num": 12,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Consider causes of OHCA:\n    a. Is hypovolemia suspected? If yes, give fluid bolus of 20 mL/kg\n    b. Is hypoxia suspected? If yes, administer high-flow oxygen and manage airway per <strong>OD Green 6</strong>\n    c. Do you suspect a pneumothorax? If yes, perform bilateral needle decompressions, refer to <strong>OD Green 15</strong></p>"
+      },
+      {
+        "num": 13,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Contact veterinarian for further treatment recommendations</p>"
+      },
+      {
+        "num": 14,
+        "providerLevel": "PARAMEDIC",
+        "html": "If achieve ROSC, proceed to <strong>OD Green 12</strong>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_204",
+        "pageNumber": "OD Green 10",
+        "jpgReference": "/assets/pages_webp/0204.webp"
+      },
+      {
+        "pageId": "od-green_205",
+        "pageNumber": "OD Green 11",
+        "jpgReference": "/assets/pages_webp/0205.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_206",
+    "title": "Operational K9 Post-Resuscitation Care",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</strong></p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Manage airway, <strong>OD Green 6</strong>"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Administer O\u2082 only to keep O\u2082 sats greater than or equal to 94% and less than 99% (avoid hypo/hyperoxia)."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Maintain ventilation rate between 10 - 12 breaths per minute"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Obtain <strong>IV/IO</strong> access"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Treat hypotension with fluid boluses.\n    a.  Goal systolic BP is measured by return of palpable femoral pulse.\n    b.  For post-resuscitation hypotension, administer fluid boluses of 20 mL/kg. Total volume should not exceed 60 mL/kg"
+      },
+      {
+        "num": 6,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If hypotension persists: Contact the veterinarian for options such as</p>\n<p><strong>NOREPInephrine IV/IO infusion.</strong>\n<strong>Preparation:</strong> mix NOREPInephrine 8 mg in 250 mL NS\na.  <strong>Dosing</strong> - usual dose of NOREPInephrine is 1 mcg/kg/min, follow guidelines of your veterinarian for dosing.</p>"
+      },
+      {
+        "num": 7,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If seizure develops, check blood glucose\n    a.  If glucose &lt; 70 mg/dL, administer D50 0.5 g/kg <strong>IV/IO (diluted to D25 or D12.5 with NS)</strong> or give 0.5 g/kg of D10W.\n    b.  If glucose &gt; 70 mg/dL, provide supportive care</p>"
+      },
+      {
+        "num": 8,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If K9 suffers loss of spontaneous circulation and re-arrests, follow the K9 Cardiac Arrest protocol, <strong>OD Green 10</strong>.</p>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_206",
+        "pageNumber": "OD Green 12",
+        "jpgReference": "/assets/pages_webp/0206.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_207",
+    "title": "Operational K9 Hemorrhage Control",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>EMS</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Commercially made windlass tourniquets are not effective on canines due to the tapered shape of their extremities.</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<blockquote>\n<p>Please note that the SWAT-T should be stored in the OpK9 first aid pack only. This is <strong>not</strong> a Maine EMS-approved tourniquet for use on humans.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Ascertain all sites of bleeding and control with direct pressure\n    a.  Extremity: apply an elastic wrap/pressure bandage, or SWAT-T."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "<p>For deep wounds in junctional areas or areas containing large muscle bellies (neck, thigh, shoulder/triceps area) control bleeding by applying a Maine EMS-approved hemostatic agent and packing the agent in the wound and applying/maintaining pressure over the agent for a minimum of 5 minutes.\n    a.  Check for ongoing bleeding. If bleeding has stopped, apply appropriate pressure bandage over top of dressing; if bleeding continues, reapply pressure for a minimum of 5 minutes.\n    b.  If bleeding continues, remove the initial hemostatic agent and repeat with a new hemostatic agent. Remember, for these agents to have maximal effectiveness, they must be packed inside the wound as close to the bleeding source as possible</p>"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "<p>Treat for shock, if indicated, <strong>OD Green 14</strong></p>"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "Manage airway as appropriate, <strong>OD Green 6</strong>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "IV/IO en route if feasible. Do not delay transport for IV/IO access."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_207",
+        "pageNumber": "OD Green 13",
+        "jpgReference": "/assets/pages_webp/0207.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_208",
+    "title": "Operational K9 Hemorrhagic Shock",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>If history of illness or mechanism of injury consistent with signs/symptoms of shock (elevated pulse, elevated respiratory rate, pale mucous membranes, altered LOC, or lowered BP) then transport as soon and as efficiently as possible.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Alert veterinary hospital as soon as possible as they may need to call in a donor dog for a blood transfusion.</strong></p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "PARAMEDIC",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Stage of Shock</th>\n<th style=\"text-align: left;\">HR beats/min</th>\n<th style=\"text-align: left;\">Capillary Refill secs</th>\n<th style=\"text-align: left;\">Mucous Membranes</th>\n<th style=\"text-align: left;\">Mentation</th>\n<th style=\"text-align: left;\">Pulse Quality</th>\n<th style=\"text-align: left;\">SBP mmHg</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Normal (at rest)</td>\n<td style=\"text-align: left;\">&lt;120</td>\n<td style=\"text-align: left;\">&lt;2</td>\n<td style=\"text-align: left;\">Pink</td>\n<td style=\"text-align: left;\">Bright, Alert</td>\n<td style=\"text-align: left;\">Strong</td>\n<td style=\"text-align: left;\">&gt;90</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Acute Compensatory</td>\n<td style=\"text-align: left;\">&gt;120</td>\n<td style=\"text-align: left;\">&lt;1</td>\n<td style=\"text-align: left;\">Red</td>\n<td style=\"text-align: left;\">Alert</td>\n<td style=\"text-align: left;\">Fair</td>\n<td style=\"text-align: left;\">&gt;90</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Early Decompensatory</td>\n<td style=\"text-align: left;\">&gt;140</td>\n<td style=\"text-align: left;\">&gt;2</td>\n<td style=\"text-align: left;\">Pale</td>\n<td style=\"text-align: left;\">Depressed</td>\n<td style=\"text-align: left;\">Weak</td>\n<td style=\"text-align: left;\">&lt;90</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Terminal/Irreversible</td>\n<td style=\"text-align: left;\">&lt;80</td>\n<td style=\"text-align: left;\">Absent</td>\n<td style=\"text-align: left;\">Pale</td>\n<td style=\"text-align: left;\">Stupor/Comatose</td>\n<td style=\"text-align: left;\">Absent</td>\n<td style=\"text-align: left;\">Low</td>\n</tr>\n</tbody>\n</table>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Control bleeding, refer to Hemorrhage protocol, <strong>OD Green 13</strong>"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Manage airway as appropriate; see <strong>OD Green 6</strong>"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "IV/IO en route"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "If shock present (see below table), perform fluid bolus according to the following guidelines:\n    a.  Establish <strong>IV/IO</strong> access and perform 20 mL/kg fluid bolus (LR preferred) Repeat, as needed, within 15-30 min\n        i.  May repeat in 250-500 mL boluses to achieve palpable femoral pulse and improved mentation with MAX total dose 60 mL/kg."
+      },
+      {
+        "num": 5,
+        "providerLevel": "PARAMEDIC",
+        "html": "In canines with either penetrating/blunt trauma and are hemodynamically unstable, as evidenced by tachycardia, hypotension (weak femoral pulse), or other evidence of shock, and who are less than 180 minutes (3 hours) from the time of injury/hemorrhage, consider:\n    a.  Tranexamic acid (TXA) 500 mg <strong>IV/IO</strong> mixed in 250 ml of NS over 10 minutes\n    b.  Notify receiving facility of the need for the second 10 mg/kg dose of TXA as a continuous infusion over 8 hours"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_208",
+        "pageNumber": "OD Green 14",
+        "jpgReference": "/assets/pages_webp/0208.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_209",
+    "title": "Operational K9 Chest Trauma",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Operational K9 Chest Trauma\" src=\"/assets/figures/page-0209-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>NOTE:</strong> Chest decompressions will be performed using a Maine EMS-approved device.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "O\u2082, as appropriate"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Assist ventilations (PPV), if needed"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "<p>Impaled Objects\n    a. Secure in place with bulky dressings</p>"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "<p>Open chest wound\n    a. Cover with vented or non-vented occlusive dressing\n    b. If shock present, consider tension pneumothorax has developed and burp/vent the chest seal.</p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "<p>Flail segment with paradoxical movement and respiratory distress\n    a. Consider positive pressure ventilation.</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "IV/IO en route"
+      },
+      {
+        "num": 7,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "If shock present,\n    a. Perform fluid bolus of 20 mL/kg LR"
+      },
+      {
+        "num": 8,
+        "providerLevel": "PARAMEDIC",
+        "html": "For presumed tension pneumothorax, perform chest decompression\n    a. Landmark\n        i. 7th - 9th intercostal space (canines have 13 ribs)\n        -OR-\n        ii. Midpoint between shoulder and last rib/widest point on rib cage<pre><code>![Canine landmarks showing Distal End of Last Rib, Point of Shoulder, and 7th - 9th ICS](canine_landmarks.png)\n\nPhoto used with permission from K9 TCCC Quick Reference Guide\n</code></pre>\n<p>b. Go over top (cranial) aspect of rib\nc. Aspirate and consider decompressing the other side of the chest as well\n    i. Remember the canine mediastinum is fenestrated\nd. DO NOT leave catheter(s) in place unless otherwise directed</p>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_209",
+        "pageNumber": "OD Green 15",
+        "jpgReference": "/assets/pages_webp/0209.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_210",
+    "title": "Operational K9 Burns",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Operational K9 Burns\" src=\"/assets/figures/page-0210-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<blockquote>\n<h3>BODY SURFACE AREA IN K9S \u2013 \u201cK9 RULE OF 9\u2019s\u201d</h3>\n<p>HENRIKSSON A, KUO K, GERKEN K, CLINE K, ET AL. J VET EMERG CRIT CARE, 2021 (PENDING PUBLICATION)</p>\n<p>Head 14%</p>\n<p>Neck 9%</p>\n<p>Thorax 18%</p>\n<p>Abdomen 14%</p>\n<p>Forelimbs 9% EA.</p>\n<p>Hind Limb 11% EA.</p>\n<p>Genitals/Tail = 5%</p>\n<p><strong>Ventral aspect</strong>\n* 7\n* 4.5, 4.5, 4.5\n* 9\n* 7\n* 5.5, 2.5, 5.5</p>\n<p><strong>Dorsal aspect</strong>\n* 7\n* 4.5, 4.5, 4.5\n* 9\n* 7\n* 5.5, 2.5, 5.5</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Remove collar/harness/vest/booties, etc. Avoid pulling away any gear that is melted in the the skin/coat"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "O2, as appropriate"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Give highest priority to airway problems and major trauma"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "If burn is < 15% of TBSA (superficial or partial thickness), consider cooling burn with cool water (sterile water/saline if available)"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "Cover burn with dry dressing, sterile sheet, or commercially prepared dry dressing"
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "Prevent heat loss/hypothermia"
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT",
+        "html": "If suspect CO/CN poisoning, refer to <strong>OD Green 18</strong>"
+      },
+      {
+        "num": 8,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "IV/IO en-route"
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "If shock present, perform fluid bolus of 20 mL/kg of lactated ringers"
+      },
+      {
+        "num": 10,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "If shock NOT present and TBSA > 20% or full thickness burns present, deliver fluid bolus as follows:\n    a. 2mL/kg x %TBSA burned = amount to be given in first 8 hours"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_210",
+        "pageNumber": "OD Green 16",
+        "jpgReference": "/assets/pages_webp/0210.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_211",
+    "title": "Operational K9 Opioid Overdose",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>WARNING: CONTACT WITH THESE TOXINS CAN BE FATAL TO RESCUERS</strong>\n<strong>CONSIDER SCENE SAFETY AND DECONTAMINATION</strong></p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Don appropriate PPE as opioid exposure is often due to contact with the opioid in powder form and cross contamination can occur between the OpK9, handler, and EMS clinician. Please alert the Veterinary Hospital as soon as feasibly possible so that they can take appropriate precautions as well.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Opioid overdose in canines is manifested primarily by <strong>excessive sedation, bradycardia, and hypothermia</strong>. Canines are less susceptible than humans to the respiratory depressant effects of opioids.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<blockquote>\n<p>Animal Poison Helplines (Fees may apply - tell them you are caring for a working canine):\n* ASPCA Animal Poison Control: (888) 426-4435\n* Pet Poison Control Helpline: (855) 764-7661</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Administer O2, as appropriate"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Manage airway providing rescue breaths if RR < 8, see <strong>OD Green 6</strong>"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Consider securing canine with muzzle in anticipation of reversal of opioid"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "If it is suspected that the canine came into contact with an opioid and is showing symptoms of opioid overdose, administer:\n    a. Naloxone 2-4 mg IN, repeat every 2-5 minutes as needed (dose depends upon pre-packaged medication); OR\n    b. Naloxone 2-4 mg IM via auto-injector (dose depends upon device), repeat every 2-5 minutes as needed"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Establish IV/IO access"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Alternative route of administration:\n    a. Naloxone 2-4 mg IV/IO; may repeat every 2-5 minutes.</p>"
+      },
+      {
+        "num": 7,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>If canine is hypotensive, administer a fluid bolus of 20 mL/kg of LR</p>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_211",
+        "pageNumber": "OD Green 17",
+        "jpgReference": "/assets/pages_webp/0211.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_212",
+    "title": "Operational K9 CO/CN Exposure / Smoke Inhalation",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Don PPE if necessary, assess canine after evacuation\nRemove canine from source of smoke/inhalation</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT",
+        "html": "<p><strong>If suspect CO/CN exposure:</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p>Clinical signs of cyanide toxicity are frothing at the mouth, rapid/deep breathing, excitability (tremors, seizure), and can progress to severe respiratory depression, loss of consciousness, coma, and death.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Secure canine per <strong>OD Green 2</strong>"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Manage airway as per <strong>OD Green 6</strong>"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Administer high-flow O2\n   *pulse oximetry may be inaccurate in exposure to CO/CN"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "If hypotensive, administer IV/IO bolus of 20 mL/kg of LR, may repeat x 1"
+      },
+      {
+        "num": 5,
+        "providerLevel": "PARAMEDIC",
+        "html": "In case of severe CN toxicity, either alone or in combination with CO exposure:\n    a. Hydroxocobalamin (Cyanokit) - 150mg/kg IV/IO over 10-15 minutes, with consultation with the receiving veterinarian <em>strongly</em> encouraged."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_212",
+        "pageNumber": "OD Green 18",
+        "jpgReference": "/assets/pages_webp/0212.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_213",
+    "title": "Operational K9 Nerve Agent / Organophosphate / Carbamate Exposure",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>PEARLS:</strong>\n<strong>WARNING: CONTACT WITH THESE TOXINS CAN BE FATAL TO RESCUERS</strong>\n<strong>CONSIDER SCENE SAFETY AND DECONTAMINATION</strong>\n* Assess for <strong>SLUDGEM</strong> symptoms (Salivation, Lacrimation, Urination, Defecation, <strong>GI</strong> Distress, <strong>E</strong>mesis, <strong>M</strong>uscle twitching/Miosis [constricted pupils]) and the <strong>Killer-Bs</strong> (<strong>B</strong>radycardia, <strong>B</strong>ronchorrhea, <strong>B</strong>ronchospasm)\n* If you suspect a bioterrorism/WMD threat, see <strong>Grey 34</strong>\n* Transport canine with all windows of ambulance open\n* Decontaminate entire ambulance after canine transport\n* All responders who contacted the canine require decontamination</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>In unstable canines with known organophosphate/carbamate poisoning:</p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Symptoms/Medications</th>\n<th style=\"text-align: left;\">Dyspnea, twitching, nausea, vomiting, sweating, confusion, or pinpoint pupils</th>\n<th style=\"text-align: left;\">Apnea, seizure, unconsciousness, or flaccid paralysis</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Atropine</td>\n<td style=\"text-align: left;\">0.2-0.5 mg/kg <strong>IM/IV/IO</strong> or <strong>ONE</strong> auto-injector (2 mg) per 20 lb <br/>Repeat every 10-20 minutes as needed with preference of repeat doses of 0.1 mg/kg if feasible</td>\n<td style=\"text-align: left;\">(Atropine dose is the same as left)</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">2-PAM Chloride</td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">10-20 mg/kg <strong>IM</strong> every 8-12 hours as needed</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>* If atropine is drawn up from a vial to administer (<strong>Paramedic</strong>), the concentration may require more than one injection site to achieve the full dose without exceeding the recommended 3-5 mL max IM volume</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>Atropine Dose by Weight</h3>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Lb</th>\n<th style=\"text-align: left;\">Kg</th>\n<th style=\"text-align: left;\">Dose (mg)</th>\n<th style=\"text-align: left;\">Min # auto-injectors</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">40</td>\n<td style=\"text-align: left;\">18</td>\n<td style=\"text-align: left;\">3.6 - 9</td>\n<td style=\"text-align: left;\">2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">50</td>\n<td style=\"text-align: left;\">22</td>\n<td style=\"text-align: left;\">4.5 - 11.4</td>\n<td style=\"text-align: left;\">2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">60</td>\n<td style=\"text-align: left;\">27</td>\n<td style=\"text-align: left;\">5.4 - 13.5</td>\n<td style=\"text-align: left;\">2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">70</td>\n<td style=\"text-align: left;\">32</td>\n<td style=\"text-align: left;\">6.4 - 16</td>\n<td style=\"text-align: left;\">3</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">80</td>\n<td style=\"text-align: left;\">36</td>\n<td style=\"text-align: left;\">7.2 - 18</td>\n<td style=\"text-align: left;\">3</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">90</td>\n<td style=\"text-align: left;\">41</td>\n<td style=\"text-align: left;\">8.2 - 20.5</td>\n<td style=\"text-align: left;\">4</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>2-PAM Chloride Dose by Weight</h3>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Lb</th>\n<th style=\"text-align: left;\">Kg</th>\n<th style=\"text-align: left;\">Dose (mg)</th>\n<th style=\"text-align: left;\">Min # auto-injectors</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">40</td>\n<td style=\"text-align: left;\">18</td>\n<td style=\"text-align: left;\">180-360</td>\n<td style=\"text-align: left;\">2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">50</td>\n<td style=\"text-align: left;\">22</td>\n<td style=\"text-align: left;\">227-450</td>\n<td style=\"text-align: left;\">2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">60</td>\n<td style=\"text-align: left;\">27</td>\n<td style=\"text-align: left;\">270-540</td>\n<td style=\"text-align: left;\">2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">70</td>\n<td style=\"text-align: left;\">32</td>\n<td style=\"text-align: left;\">320-640</td>\n<td style=\"text-align: left;\">3</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">80</td>\n<td style=\"text-align: left;\">36</td>\n<td style=\"text-align: left;\">360-720</td>\n<td style=\"text-align: left;\">3</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">90</td>\n<td style=\"text-align: left;\">41</td>\n<td style=\"text-align: left;\">410-820</td>\n<td style=\"text-align: left;\">4</td>\n</tr>\n</tbody>\n</table>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Remove canine from contaminated area and consider decontamination as needed based on scene/call circumstances"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "O2 as appropriate"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "<p>Manage airway as appropriate, see <strong>OD Green 6</strong>\n<em>Ventilatory support may be critical in these poisonings</em></p>"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "<p>Vigorous suctioning may be necessary</p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "Mark 1 kit (noted as <strong>auto-injector</strong> in table below)"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "IV/IO en route"
+      },
+      {
+        "num": 7,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "In all cases, continue to monitor closely for worsening symptoms"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_213",
+        "pageNumber": "OD Green 19",
+        "jpgReference": "/assets/pages_webp/0213.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_214_215_216",
+    "title": "Operational K9 Heat Illness",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<ul>\n<li>Canines do not sweat. Their predominant cooling mechanism is by panting.</li>\n<li>The progression of heat injury in the canine can be quite rapid and requires immediate intervention.</li>\n<li>Causes are environmental, exertional or a combination of the two.</li>\n<li>Prevention is key - it is important for handlers to assure that their canines are acclimated, and physically conditioned to the climate and level of activity. Consider work:rest cycles and adequate hydration.</li>\n<li><strong>AVOID</strong> muzzles unless required for safety reasons; an open basket muzzle is the preferred muzzle in this case to allow for panting.</li>\n</ul>\n</blockquote>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\">Core Temp* (F)</th>\n<th style=\"text-align: left;\">HR</th>\n<th style=\"text-align: left;\">MM</th>\n<th style=\"text-align: left;\">LOC</th>\n<th style=\"text-align: left;\">Panting**</th>\n<th style=\"text-align: left;\">Behavior/Performance</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Mild (heat stress)</td>\n<td style=\"text-align: left;\">Varies 105-106</td>\n<td style=\"text-align: left;\">Fast, Strong</td>\n<td style=\"text-align: left;\">Moist, Pink</td>\n<td style=\"text-align: left;\">Alert</td>\n<td style=\"text-align: left;\">Heavy, Controlled</td>\n<td style=\"text-align: left;\">Excessive thirst, discomfort with physical activity, slightly decreased performance</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Moderate (heat exhaustion)</td>\n<td style=\"text-align: left;\">106-108</td>\n<td style=\"text-align: left;\">Fast, Strong, or Weak</td>\n<td style=\"text-align: left;\">Tacky or Dry, Bright Red</td>\n<td style=\"text-align: left;\">Alert</td>\n<td style=\"text-align: left;\">Uncontrolled, Failure to Salivate</td>\n<td style=\"text-align: left;\">Weakness, anxiety, unwillingness to work, acts tired, unresponsive to handler commands</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Severe (heat stroke)</td>\n<td style=\"text-align: left;\">Usually &gt; 108</td>\n<td style=\"text-align: left;\">Weak</td>\n<td style=\"text-align: left;\">Dry Pale</td>\n<td style=\"text-align: left;\">Altered</td>\n<td style=\"text-align: left;\">Maybe</td>\n<td style=\"text-align: left;\">Vomiting, diarrhea, ataxia, head tremors, seizures, blindness, abnormal pupil size</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>*Many canines are not trained or tolerable of rectal temps; may use axillary temperature if a rectal temp is not achievable. Axillary temps are approximately 1-2 degrees F less than rectal\n**Refer to PEARL in <strong>OD Green 22</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Treatment for all stages of heat illness includes:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Source: DHS Working Dog Handler Medical Care Manual 2017\n(continued)</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT",
+        "html": "<h4>Mild Heat Injury (heat stress)</h4>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT",
+        "html": "<h4>Moderate Heat Injury (heat exhaustion)</h4>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT",
+        "html": "<h4>Severe Heat Injury (heat stroke)</h4>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT",
+        "html": "<p>This is a life-threatening condition</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT",
+        "html": "<p>Source: DHS Working Dog Handler Medical Care Manual 2017\n(continued)</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>NOTE:</strong> No single core temperature value defines heat-related illness for all canines in all circumstances. Well-conditioned, acclimated canines may reach peak core temperatures as high 106 - 108\u00b0F while working, yet display no behavioral or clinical signs of heat stress. Base clinical assessment on presence and progression of clinical signs over core temperature.</p>\n<p><strong>**Controlled panting:</strong> the canine can stop panting with an alcohol-soaked gauze is put in front of the nose or when the canine becomes interested in or distracted by something (i.e. toy, reward, noxious stimulus, verbal command).</p>\n<p><strong>**Uncontrolled panting:</strong> the canine cannot stop panting even when offered a treat or reward or when exposed to alcohol-soaked gauze or other noxious stimuli.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Remove the canine from the heat source and stop their work/exercise"
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Begin cooling methods"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "Monitor temperature (rectal or axillary)"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "Monitor for changes in mentation"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "Monitor closely for several hours to make sure illness does not progress to the next stage and that a rebound low body temperature does not develop."
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "Cool by bringing to a shaded or lightly air-conditioned area. If no A/C available, use circulating fan to blow a light breeze by the canine"
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT",
+        "html": "As feasible, remove muzzles, harnesses, tactical gear, etc."
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT",
+        "html": "Place on a cool surface to promote conductive cooling"
+      },
+      {
+        "num": 9,
+        "providerLevel": "EMT",
+        "html": "Offer cool water and encourage drinking"
+      },
+      {
+        "num": 10,
+        "providerLevel": "EMT",
+        "html": "Ensure the canine is afforded ample time to rest and recover where they are displaying no signs of heat stress."
+      },
+      {
+        "num": 11,
+        "providerLevel": "EMT",
+        "html": "Monitor vital signs every 5 minutes; discontinue cooling efforts when core temp is 104F or less."
+      },
+      {
+        "num": 12,
+        "providerLevel": "EMT",
+        "html": "Ideally, these canines should not return to work or participate in outdoor activity for the rest of the day."
+      },
+      {
+        "num": 13,
+        "providerLevel": "EMT",
+        "html": "<p>Follow guidelines above and start active external cooling\n    a. Use cooling fans or air conditioning to reduce core body temperature\n    b. Place cold compresses or wrapped in towels on the head and neck as well as the axillae and groin. Avoid placing ice packs on the limbs as this shunts hot blood back to the core.\n    c. Douse or spray body with cool water; soak hair to skin with cool water and use fans or A/C to cool further.</p>"
+      },
+      {
+        "num": 14,
+        "providerLevel": "EMT",
+        "html": "<p>Monitor vital signs every 5 minutes; discontinue cooling efforts when core temp reaches 104F</p>"
+      },
+      {
+        "num": 15,
+        "providerLevel": "EMT",
+        "html": "Dry canine off, place on dry surface and avoid direct application of air on canine from circulating fans or A/C."
+      },
+      {
+        "num": 16,
+        "providerLevel": "EMT",
+        "html": "<p>Continue to monitor temperature every 10 minutes for at least the next few hours as body temperature may continue dropping to the subnormal range or rise excessively again.\n    a. If body temperature drops below 100F (rebound hypothermia) consider passive warming by covering with blankets or other similar materials</p>"
+      },
+      {
+        "num": 17,
+        "providerLevel": "EMT",
+        "html": "<p>Transport to appropriate veterinary treatment facility</p>"
+      },
+      {
+        "num": 18,
+        "providerLevel": "EMT",
+        "html": "<p>Rapid cooling to a body temperature of 103.5-104 F\n    a. Cool water (do not submerge in ice bath)\n    b. Soaking the canine to the skin with cool water. Soak the entire canine as rapidly as possible through the hair, soaking the skin thoroughly and implement convective cooling with cooling fans or A/C.</p>"
+      },
+      {
+        "num": 19,
+        "providerLevel": "EMT",
+        "html": "<p>When temperature reaches 104 F, remove from bath/water, dry hair and continue to monitor temperature, watch for rebound hypothermia, as above.</p>"
+      },
+      {
+        "num": 20,
+        "providerLevel": "EMT",
+        "html": "Transport to appropriate veterinary treatment facility"
+      },
+      {
+        "num": 21,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Establish IV/IO access for moderate and severe heat-related illness"
+      },
+      {
+        "num": 22,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Administer 20 mL/kg fluid bolus IV/IO of LR\n    a. Repeat as needed to achieve palpable femoral pulse and HR &lt; 120 bpm and improved mentation</p>"
+      },
+      {
+        "num": 23,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Check blood glucose. If &lt;60 mg/dL, administer 0.5 g/kg D50 IV/IO (diluted to D25 or D12.5 in NS) or give 0.5 g/kg of D10W</p>"
+      },
+      {
+        "num": 24,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Supplemental oxygen via face mask"
+      },
+      {
+        "num": 25,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Transport to appropriate veterinary treatment facility"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_214",
+        "pageNumber": "OD Green 20",
+        "jpgReference": "/assets/pages_webp/0214.webp"
+      },
+      {
+        "pageId": "od-green_215",
+        "pageNumber": "OD Green 21",
+        "jpgReference": "/assets/pages_webp/0215.webp"
+      },
+      {
+        "pageId": "od-green_216",
+        "pageNumber": "OD Green 22",
+        "jpgReference": "/assets/pages_webp/0216.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_217",
+    "title": "Operational K9 Anaphylaxis",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>PEARLS</strong>\nIn canines, cutaneous (i.e. urticaria/hives, pruritis/itching) signs of allergies are uncommon. However, with progression to anaphylaxis, clinical signs are most often associated with the cardiovascular (CV) and gastrointestinal (GI) systems. Respiratory signs may also develop, along with seizures and anxiousness, progressing to weakness and collapse.\nSigns include:\n* CV: tachycardia, weakness, weak pulses, mucous membrane color changes\n* GI/GU: urinating, vomiting, and diarrhea that is often bloody\n* Respiratory: increased respiratory effort, wheezes, and crackles</p>\n<p>*IV diphenhydramine can cause significant hypotension, therefore give IM</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Allow canine to assume position of comfort"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Secure canine with leash/rope"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Manage airway as appropriate, OD Green 6"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "Supplemental O2, as appropriate"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "<p>If anaphylaxis identified, assist administration of EPINEPHrine auto-injector, administer an adult or pediatric (as applicable) auto-injector, or provide EPINEPHrine through the Maine EMS Check and Inject program.\n    a. EPINEPHrine 0.3 mg IM (Adult auto-injector) for canine 20 kg or greater\n    b. EPINEPHrine 0.15 mg IM (Pedi auto-injector) for canine less than 20 kg</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "<p>Transport</p>"
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT",
+        "html": "May repeat IM EPINEPHrine dose every 5-15 min x 3 if signs/symptoms continue or return despite initial treatment"
+      },
+      {
+        "num": 8,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "<p>If anaphylaxis identified:\n    a. EPINEPHrine 0.3 mg IM [0.3 mL of 1 mg/mL] for canine 20 kg or greater,\n    b. EPINEPHrine 0.15 mg IM [0.15 mL of 1 mg/mL] in canine less than 20 kg</p>"
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "<p>IV/IO en route</p>"
+      },
+      {
+        "num": 10,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "If shock present, perform fluid bolus of 20 mL/kg and may repeat x 3 to MAX total volume of 60 mL/kg"
+      },
+      {
+        "num": 11,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "If wheezing persists 5-15 minutes after EPINEPHrine administration, consider administration of albuterol via nebulizer 2.5 mg x 1"
+      },
+      {
+        "num": 12,
+        "providerLevel": "PARAMEDIC",
+        "html": "Diphenhydramine 2 mg/kg IM (do not give IV)*"
+      },
+      {
+        "num": 13,
+        "providerLevel": "PARAMEDIC",
+        "html": "For mild allergic reactions/cutaneous allergies, the handler may administer 4 mg/kg diphenhydramine PO"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_217",
+        "pageNumber": "OD Green 23",
+        "jpgReference": "/assets/pages_webp/0217.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_218",
+    "title": "Operational K9 Gastric Dilation and Volvulus",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>GDV (aka \"bloat\") progresses very rapidly and recognizing the symptoms in the canine quickly can save their life. Initial signs are often associated with abdominal pain. These can include, but are not limited to:</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>an anxious look or looking at the abdomen</li>\n<li>extreme agitation due to acute pain</li>\n<li>standing and stretching, head and tail down with an arched back</li>\n<li>pacing, accompanied with the inability to sit or lay down comfortably</li>\n<li>drooling</li>\n<li>distending abdomen</li>\n<li>retching without producing anything except excessive saliva - this is the most common symptom, and sounds like dry-heaving but can sometimes sound like a repeated cough.</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>PEARL</strong>\nThe hallmark presentation of GDV is sudden onset of abdominal distention, distress, anxiety and pain (panting, guarding of the belly, anguished facial expression), and multiple attempts at vomiting that are frequently unproductive. Not every canine will have a classic appearance and some canines will not have obvious abdominal distention because of their body configuration.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Immediate transport in position of comfort"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Notify veterinary center early of GDV concern"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "IV/IO access in the forelimb en route if feasible (do not delay transport for IV/IO access)"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Administer fluid bolus of LR 20 mL/kg IV/IO"
+      },
+      {
+        "num": 5,
+        "providerLevel": "PARAMEDIC",
+        "html": "Place canine on their side with side of maximum distention up."
+      },
+      {
+        "num": 6,
+        "providerLevel": "PARAMEDIC",
+        "html": "Palpate the dilated stomach and caudal edge of the rib cage."
+      },
+      {
+        "num": 7,
+        "providerLevel": "PARAMEDIC",
+        "html": "Identify point of maximum tympany on the left side. Perform needle decompression of gastric dilation with a 12-14 gauge x 3.25-5.25 inch IV catheter or large-bore needle."
+      },
+      {
+        "num": 8,
+        "providerLevel": "PARAMEDIC",
+        "html": "Monitor for recurrent gastric dilatation; decompress as indicated."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_218",
+        "pageNumber": "OD Green 24",
+        "jpgReference": "/assets/pages_webp/0218.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_219",
+    "title": "Operational K9 M\u00b3ARCH\u00b2 PEDALS",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>These canine guidelines are reserved for use only on Operational K9s, who are injured or become ill while on duty, by appropriately trained EMS personnel. Ill or injured humans always take priority over canines.</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li><strong>Move</strong> K9 to safety</li>\n<li><strong>Muzzle</strong> the K9 if conscious, no upper airway obstruction present, and not heat stress; handle cautiously if mentation is altered, K9 may have increased aggression</li>\n<li>\n<p>Control <strong>Massive Hemorrhage</strong></p>\n<ul>\n<li>Direct pressure</li>\n<li>Pressure bandage and/or wound packing</li>\n<li>Avoid windlass tourniquets</li>\n<li>Consider elastic tourniquet (i.e. SWAT-T)</li>\n</ul>\n</li>\n<li>\n<p><strong>Airway</strong></p>\n<ul>\n<li>Clear oral cavity</li>\n<li>Manual airway maneuvers (head and neck extended and in-line, prone positioning)</li>\n<li>Advanced airway (ETT or surgical cricothyrotomy in the unresponsive canine)</li>\n</ul>\n</li>\n<li>\n<p><strong>Respiratory</strong>/Breathing</p>\n<ul>\n<li>Seal open chest wound</li>\n<li>Tension pneumothorax management</li>\n</ul>\n</li>\n<li>\n<p><strong>Circulation</strong></p>\n<ul>\n<li>IV/IO fluid resuscitation</li>\n<li>TXA</li>\n</ul>\n</li>\n<li>\n<p><strong>Hypothermia</strong></p>\n<ul>\n<li>Minimize exposure to elements</li>\n<li>Apply survival blanket/maintain warmth</li>\n</ul>\n</li>\n<li>\n<p><strong>Head</strong> and Trauma management</p>\n</li>\n<li><strong>Pain</strong> management (not available on formulary at this time)</li>\n<li><strong>Environment</strong></li>\n<li><strong>Dehydration</strong></li>\n<li><strong>Antibiotics</strong> (not available on formulary at this time)</li>\n<li>\n<p><strong>Lacerations/Wounds</strong></p>\n<ul>\n<li>Bandage open abdominal wounds</li>\n<li>Moisten/protect exposed organs</li>\n</ul>\n</li>\n<li>\n<p><strong>Splint</strong> fracture (if safe to do so)</p>\n</li>\n</ul>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_219",
+        "pageNumber": "OD Green 25",
+        "jpgReference": "/assets/pages_webp/0219.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_220",
+    "title": "Operational K9 Casualty Card",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Operational K9 Casualty Card\" src=\"/assets/figures/page-0220-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>CANINE-TACTICAL COMBAT CASUALTY CARE CARD (cTCCC)</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>EVAC CAT:</strong> [ ] Urgent [ ] Priority [ ] Routine</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>EVAC TYPE:</strong> [ ] Fixed [ ] Rotary [ ] Ground [ ] MEDEVAC [ ] CASEVAC</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>UNIT:</strong> <strong><em>_</em></strong><strong><em>_</em></strong>_ <strong>NAME:</strong> <strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em>_ <strong>TATTOO:</strong> </strong><strong><em>_</em></strong><strong><em>_</em></strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>DATE:</strong> (DD-MM-YY) <strong><em>_</em></strong><strong><em>_</em></strong>_ <strong>TIME:</strong> <strong><em>_</em></strong>____ <strong>GENDER:</strong> [ ] M [ ] F</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Mechanism of Injury:</strong> (Mark X all that apply\n[ ] IED [ ] GSW [ ] MINE [ ] BURN [ ] GRENADE [ ] ARTILLERY [ ] FALL\n[ ] OTHER: <strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong>_____</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Injury:</strong> (Mark all injuries that apply with an X)</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>[Left and Right Lateral Canine Outlines for marking injury locations]</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Signs and Symptoms:</strong> (fill in the blank)</p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: center;\"><em>Time</em></th>\n<th style=\"text-align: center;\"></th>\n<th style=\"text-align: center;\"></th>\n<th style=\"text-align: center;\"></th>\n<th style=\"text-align: center;\"></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\"><strong>Pain Score (0-10)</strong></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Temperature (99-102.5)</strong></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Pulse Rate/Location (60-80)</strong></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Respirations (16-30)</strong></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Blood Pressure (120/80)</strong></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Pulse Ox% (&gt; 95%)</strong></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Capillary Refill (&lt; 2 sec)</strong></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n<td style=\"text-align: center;\"></td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>NOTES:</strong> <strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong><strong><em>_</em></strong>_____</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<hr/>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<hr/>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<hr/>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>DD FORM 3073 OCTOBER 2019 \u00a0\u00a0\u00a0\u00a0 (Send card to dog.consult@us.af.mil) \u00a0\u00a0\u00a0\u00a0 Page ___ of ___</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>https://jts.amed.army.mil/assets/docs/forms/DD 3073 Canine Tactical Combat Casualty Care Card.pdf</p>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_220",
+        "pageNumber": "OD Green 26",
+        "jpgReference": "/assets/pages_webp/0220.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_221",
+    "title": "Operational K9 Normal Vitals & Glasgow Coma Score",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Operational K9 Normal Vitals &amp; Glasgow Coma Score\" src=\"/assets/figures/page-0221-visual.webp\"/></p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Parameter</th>\n<th style=\"text-align: left;\">Normal Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\"><strong>RR</strong></td>\n<td style=\"text-align: left;\">10 - 40 breaths/minute</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>HR</strong></td>\n<td style=\"text-align: left;\">60 - 80 bpm (up to 130 post exercise)</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Capillary Refill</strong></td>\n<td style=\"text-align: left;\">less than 2 sec.</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Rectal Temp</strong></td>\n<td style=\"text-align: left;\">100 -102.5 F (103-106 F post exercise)</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>LOC</strong></td>\n<td style=\"text-align: left;\">Bright, alert, responsive (BAR)</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>BP</strong></td>\n<td style=\"text-align: left;\">120/75 mmHg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Blood Glucose</strong></td>\n<td style=\"text-align: left;\">70 - 120 mg/dL</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>SpO2</strong></td>\n<td style=\"text-align: left;\">greater than 94%</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>EtCO2</strong></td>\n<td style=\"text-align: left;\">35 - 45 mmHg</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>K9 Modified Glasgow Coma Score</h3>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Motor Activity</th>\n<th style=\"text-align: center;\"></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Normal gait, normal spinal reflexes</td>\n<td style=\"text-align: center;\">6</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Hemiparesis, tetraparesis, or decerebrate activity</td>\n<td style=\"text-align: center;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Recumbent, intermittent extensor rigidity</td>\n<td style=\"text-align: center;\">4</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Recumbent, constant extensor rigidity</td>\n<td style=\"text-align: center;\">3</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Recubment, constant extensor rigidity with opisthotonus</td>\n<td style=\"text-align: center;\">2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Recumbent, hypotonia of muscles, depressed or absent spinal reflexes</td>\n<td style=\"text-align: center;\">1</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Brain Stem Reflexes</th>\n<th style=\"text-align: center;\"></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Normal pupillary light reflexes and oculocephalic reflexes</td>\n<td style=\"text-align: center;\">6</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Slow pupillary light reflexes and normal to reduced oculocephalic reflexes</td>\n<td style=\"text-align: center;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Bilateral unresponsive miosis with normal to reduced oculocephalic reflexes</td>\n<td style=\"text-align: center;\">4</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Pinpoint pupils with reduced or absent oculocephalic reflexes</td>\n<td style=\"text-align: center;\">3</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Unilateral, unresponsive mydriasis with reduced or absent oculocephalic reflexes</td>\n<td style=\"text-align: center;\">2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Bilateral, unresponsive mydriasis with reduced or absent oculocephalic reflexes</td>\n<td style=\"text-align: center;\">1</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Level of Consciousness</th>\n<th style=\"text-align: center;\"></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Occasional periods of alertness and responsive to environment</td>\n<td style=\"text-align: center;\">6</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Depression or delirium, capable of responding to environment but response may be inappropriate</td>\n<td style=\"text-align: center;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Stupor, responsive to visual stimuli</td>\n<td style=\"text-align: center;\">4</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Stupor, responsive to auditory stimuli</td>\n<td style=\"text-align: center;\">3</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Stupor, responsive only to noxious stimuli</td>\n<td style=\"text-align: center;\">2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Coma, unresponsive to repeated noxious stimuli</td>\n<td style=\"text-align: center;\">1</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Score Interpretation</th>\n<th style=\"text-align: center;\"></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Grave</td>\n<td style=\"text-align: center;\">3-6</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Guarded</td>\n<td style=\"text-align: center;\">9-14</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Good</td>\n<td style=\"text-align: center;\">15-18</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Source: www.K9tecc.org</p>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_221",
+        "pageNumber": "OD Green 27",
+        "jpgReference": "/assets/pages_webp/0221.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_222",
+    "title": "Operational K9 Equipment Reference",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Operational K9 Equipment Reference\" src=\"/assets/figures/page-0222-visual.webp\"/></p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Vascular Access</th>\n<th style=\"text-align: left;\">Size</th>\n<th style=\"text-align: left;\">Length</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">IM</td>\n<td style=\"text-align: left;\">20 g</td>\n<td style=\"text-align: left;\">1 inch</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">SC</td>\n<td style=\"text-align: left;\">18 - 20 g</td>\n<td style=\"text-align: left;\">1.5 inch</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">IV</td>\n<td style=\"text-align: left;\">18 g</td>\n<td style=\"text-align: left;\">30 -32 mm</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">IO</td>\n<td style=\"text-align: left;\">15 g</td>\n<td style=\"text-align: left;\">15 - 25 mm</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p>For GDV/Bloat - Must use forelimb for IV/IO access</p>\n</blockquote>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Airway</th>\n<th style=\"text-align: left;\">Size</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">ETT</td>\n<td style=\"text-align: left;\">10.0 - 12.0 mm</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Miller</td>\n<td style=\"text-align: left;\">4 - 5</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Cric</td>\n<td style=\"text-align: left;\">8.0 mm</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>K9 ECG</strong></p>\n<p>May attach to:\na. Large Paw Pads\nb. Axillary and inguinal\nc. Distal limbs</p>\n<p><strong>KEY</strong>: Electrodes must be in direct contact with skin:\nCLIP HAIR</p>\n</blockquote>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Needle Decompression (Chest or GDV)</th>\n<th style=\"text-align: left;\"></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">14 g</td>\n<td style=\"text-align: left;\">3.25 inch</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Subcutaneous Fluids</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Epaxials</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Pelvis</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Triceps</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Quads</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Ribs</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Epaxial Muscles</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Pelvis</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>IV Access (Front Leg)</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>IV Access (Back Leg)</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Defib Pads (R / L)</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Intraosseous (EZ IO) Sites</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Proximal Humerus</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Medial Tibia</p>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_222",
+        "pageNumber": "OD Green 28",
+        "jpgReference": "/assets/pages_webp/0222.webp"
+      }
+    ]
+  },
+  {
+    "id": "od-green_223",
+    "title": "Operational K9 Formulary (for 30 kg K9)",
+    "category": "od-green",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Operational K9 Formulary (for 30 kg K9)\" src=\"/assets/figures/page-0223-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>Formulary for 30 kg Canine</h2>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: center;\">Enter Weight Below (kg)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">30.00</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>Emergency Formulary for Operational K9s</h2>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Drug</th>\n<th style=\"text-align: left;\">Dosage</th>\n<th style=\"text-align: left;\">Dose for 30 kg dog</th>\n<th style=\"text-align: left;\">Units</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\"><strong>ALS DRUGS</strong></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">EPINEPHrine</td>\n<td style=\"text-align: left;\">0.01 mg/kg <strong>IV/IO</strong> (1mg/10 mL) Cardiac Arrest q5min</td>\n<td style=\"text-align: left;\">0.3</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Atropine</td>\n<td style=\"text-align: left;\">0.04 mg/kg <strong>IV/IO/IM</strong> q4 min</td>\n<td style=\"text-align: left;\">1.2</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Amiodarone</td>\n<td style=\"text-align: left;\">5 mg/kg <strong>IV/IO</strong></td>\n<td style=\"text-align: left;\">150</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Defibrillation</td>\n<td style=\"text-align: left;\">2-4 J/kg</td>\n<td style=\"text-align: left;\">60 | 120</td>\n<td style=\"text-align: left;\">J</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>ANESTHETICS</strong></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Tetracaine 0.5%</td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">1-2 drops/eye</td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>DRUG REVERSALS</strong></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Naloxone</td>\n<td style=\"text-align: left;\">2-4 mg <strong>IV/IO/IM/IN</strong>; repeat q2-5 min</td>\n<td style=\"text-align: left;\">2 - 4</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>ANTIEMETICS</strong></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Ondansetron</td>\n<td style=\"text-align: left;\">0.2 - 0.5 mg/kg PO or <strong>IV/IO</strong> (slowly over 2-15 min) q8h</td>\n<td style=\"text-align: left;\">6 | 15</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>MISCELLANEOUS</strong></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Diphenhydramine</td>\n<td style=\"text-align: left;\">2-4 mg/kg <strong>IM</strong> or 4 mg/kg PO q8-12h</td>\n<td style=\"text-align: left;\">60 | 120</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">EpiPen</td>\n<td style=\"text-align: left;\">0.15-0.3 mg <strong>IM</strong></td>\n<td style=\"text-align: left;\">0.3</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">EPINEPHrine</td>\n<td style=\"text-align: left;\">0.01 mg/kg <strong>IM</strong> (1 mg/1mL) Anaphylaxis q3-5 min</td>\n<td style=\"text-align: left;\">0.3</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">D50</td>\n<td style=\"text-align: left;\">0.5 g/kg <strong>IV</strong> slowly (dilute 1:1 with saline to make 25% or 1:2 to make D12.5) Can also deliver <strong>IV/IO</strong> via D10</td>\n<td style=\"text-align: left;\">15</td>\n<td style=\"text-align: left;\">grams</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Atropine</td>\n<td style=\"text-align: left;\">0.2-0.5 mg/kg <strong>IM</strong> for organophosphate poisoning</td>\n<td style=\"text-align: left;\">6 | 15</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"><strong>repeat</strong> dose of 0.1 mg/kg <strong>IM</strong> every 10-20 min</td>\n<td style=\"text-align: left;\">3</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">2-PAM Chloride</td>\n<td style=\"text-align: left;\">10-20 mg/kg <strong>IM</strong> every 8-12 h</td>\n<td style=\"text-align: left;\">300 - 600</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Hydroxocobalamin</td>\n<td style=\"text-align: left;\">150 mg/kg <strong>IV/IO</strong> infuse over 10-15 min</td>\n<td style=\"text-align: left;\">4500</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>Avoid NON-STEROIDAL ANTI-INFLAMMATORY</strong> medications (ASA, ibuprofen, etc) in the trauma patients</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>Fluid Resuscitation Guideline</h2>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Acute Trauma</h3>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\"></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Crystalloid</td>\n<td style=\"text-align: left;\">20 mL/kg <strong>IV/IO</strong> (can repeat x 2)</td>\n<td style=\"text-align: left;\">600</td>\n<td style=\"text-align: left;\">mL</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Traumatic Shock</h3>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\"></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Crystalloid</td>\n<td style=\"text-align: left;\">10 mL/kg <strong>IV/IO</strong> and only if evac time is &gt;30 min (repeat only x2)</td>\n<td style=\"text-align: left;\">300</td>\n<td style=\"text-align: left;\">mL</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">TXA</td>\n<td style=\"text-align: left;\">500 mg <strong>IV/IO</strong> slow infusion</td>\n<td style=\"text-align: left;\">500</td>\n<td style=\"text-align: left;\">mg</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Acute trauma with:</h3>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\"></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Crystalloid</td>\n<td style=\"text-align: left;\">10 mL/kg <strong>IV/IO</strong> given ONCE; <strong>no more than 250 mL total if pulmonary contusion</strong> known or highly suspected</td>\n<td style=\"text-align: left;\">300 (250 if pulm contusion)</td>\n<td style=\"text-align: left;\">mL</td>\n</tr>\n</tbody>\n</table>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "<em>Without active</em> Hemorrhage, <strong>OR</strong>"
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "<em>With controlled</em> Hemorrhage"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "<em>With uncontrolled</em> active hemorrhage, <strong>OR</strong>"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "With internal body cavity bleeding"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "Head trauma, <strong>OR</strong>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Pulmonary contusions (blast, overpressure or blunt trauma)"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "od-green_223",
+        "pageNumber": "OD Green 29",
+        "jpgReference": "/assets/pages_webp/0223.webp"
+      }
+    ]
+  }
+]

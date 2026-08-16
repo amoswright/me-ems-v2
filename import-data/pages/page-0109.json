@@ -1,0 +1,2791 @@
+{
+  "id": "page-0109",
+  "pdf_page": 109,
+  "protocol_label": "Green 15",
+  "kind": "protocol",
+  "chapter_id": "green",
+  "topic_id": "green-hemorrhagic-shock",
+  "title": "Hemorrhagic Shock",
+  "markdown": "# Hemorrhagic Shock\n\n![Visual reference from Hemorrhagic Shock](../../assets/figures/page-0109-visual.webp)\n\n> **Additional PEARLS for Hemorrhagic Shock:**\n> \n> 1) **TXA and GI Bleeding:** Recent evidence suggests patients with gastrointestinal bleeding SHOULD NOT receive tranexamic acid. Patients with GI bleeding who received TXA had no improvement in mortality but did suffer increased morbidity, including increased venous thromboembolic events. \n> \n> 2) **TXA and Isolated Head Injury:** The role of TXA in isolated head injury remains controversial with conflicting evidence in the medical literature. The most recent evidence suggests an association between prehospital TXA and increased mortality in patients with isolated severe brain injury. In an effort to maintain the upmost patient safety and promote the best possible patient outcomes, **isolated** head trauma remains a contraindication for TXA in the protocols. As a reminder, multi-trauma patients with hemorrhagic shock SHOULD receive TXA regardless of head injury.\n\n### Classification of Hemorrhagic Shock\n\n| | Compensated Shock | Mild Shock | Moderate Shock | Severe Shock |\n| :--- | :--- | :--- | :--- | :--- |\n| Blood Loss | <15% (1000 mL) | 15-30% (1000-1500 mL) | 30-40% (1500-2000 mL) | >40% (> 2000 mL) |\n| Pulse | Normal | Elevated (>100) | Elevated (>120) | Elevated (>140) |\n| Blood Pressure | Normal | Orthostatic Change | Marked Decrease | Profound Decrease |\n| Cap Refill | Normal | May be Delayed | Usually Delayed | Always Delayed |\n| Respiration | Normal | Mild Increase | Moderate Tachypnea | Marked Tachypnea and Respiratory Collapse |\n| Mental Status | Normal or Agitated | Agitated | Confused | Lethargic/Obtunded |\n",
+  "plain_text": "Hemorrhagic Shock Additional PEARLS for Hemorrhagic Shock: TXA and GI Bleeding: Recent evidence suggests patients with gastrointestinal bleeding SHOULD NOT receive tranexamic acid. Patients with GI bleeding who received TXA had no improvement in mortality but did suffer increased morbidity, including increased venous thromboembolic events. TXA and Isolated Head Injury: The role of TXA in isolated head injury remains controversial with conflicting evidence in the medical literature. The most recent evidence suggests an association between prehospital TXA and increased mortality in patients with isolated severe brain injury. In an effort to maintain the upmost patient safety and promote the best possible patient outcomes, isolated head trauma remains a contraindication for TXA in the protocols. As a reminder, multi-trauma patients with hemorrhagic shock SHOULD receive TXA regardless of head injury. Classification of Hemorrhagic Shock Compensated Shock Mild Shock Moderate Shock Severe Shock Blood Loss <15% (1000 mL) 15-30% (1000-1500 mL) 30-40% (1500-2000 mL) >40% (> 2000 mL) Pulse Normal Elevated (>100) Elevated (>120) Elevated (>140) Blood Pressure Normal Orthostatic Change Marked Decrease Profound Decrease Cap Refill Normal May be Delayed Usually Delayed Always Delayed Respiration Normal Mild Increase Moderate Tachypnea Marked Tachypnea and Respiratory Collapse Mental Status Normal or Agitated Agitated Confused Lethargic/Obtunded",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        338.01,
+        33.6,
+        691.21,
+        58.85
+      ],
+      "text": "Hem or r hagic Shock #3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        82.28,
+        95.77,
+        513.2,
+        110.92
+      ],
+      "text": "Additional PEARLS for Hemor r hagic Shock:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        131.06,
+        824.12,
+        146.2
+      ],
+      "text": "1) TXA and GI Bleeding: Recent evidence suggests patients with gastrointestinal",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        148.67,
+        892.27,
+        163.82
+      ],
+      "text": "bleeding SHOULD NOT receive tranexamic acid. Patients with GI bleeding who received",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        166.34,
+        858.05,
+        181.49
+      ],
+      "text": "TXA had no improvement in mortality but did suffer increased morbidity, including",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        183.95,
+        471.64,
+        199.1
+      ],
+      "text": "increased venous thromboembolic events.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        219.24,
+        847.86,
+        234.39
+      ],
+      "text": "2) TXA and Isolated Head Injur y: The role of TXA in isolated head injury remains",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        236.85,
+        832.04,
+        252.0
+      ],
+      "text": "controversial with conflicting evidence in the medical literature. The most recent",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        254.52,
+        872.32,
+        269.67
+      ],
+      "text": "evidence suggests an association between prehospital TXA and increased mortality in",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        272.14,
+        870.33,
+        287.28
+      ],
+      "text": "patients with isolated severe brain injury. In an effort to maintain the upmost patient",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        289.81,
+        893.99,
+        304.95
+      ],
+      "text": "safety and promote the best possible patient outcomes, isolated head trauma remains a",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        307.42,
+        867.44,
+        322.57
+      ],
+      "text": "contraindication for TXA in the protocols. As a reminder, multi-trauma patients with",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        325.03,
+        703.83,
+        340.18
+      ],
+      "text": "hemorrhagic shock SHOULD receive TXA regardless of head injury.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        349.49,
+        655.9,
+        648.21,
+        668.52
+      ],
+      "text": "Classification of Hemorrhagic Shock",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        237.13,
+        683.17,
+        869.15,
+        695.8
+      ],
+      "text": "Compensated Shock Mild Shock Moderate Shock Severe Shock",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        401.32,
+        707.03,
+        703.66,
+        719.66
+      ],
+      "text": "15-30% (1000-1500 30-40% (1500-2000",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        111.25,
+        714.42,
+        887.67,
+        727.05
+      ],
+      "text": "Blood Loss <15% (1000 mL) >40% (> 2000 mL)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        457.87,
+        721.81,
+        647.01,
+        734.43
+      ],
+      "text": "mL) mL)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        132.21,
+        750.78,
+        878.51,
+        763.41
+      ],
+      "text": "Pulse Normal Elevated (>100) Elevated (>120) Elevated (>140)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        430.22,
+        779.19,
+        516.89,
+        791.82
+      ],
+      "text": "Orthostatic",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        94.63,
+        786.01,
+        893.54,
+        798.64
+      ],
+      "text": "Blood Pressure Normal Marked Decrease Profound Decrease",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        444.71,
+        793.4,
+        502.55,
+        806.02
+      ],
+      "text": "Change",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        115.88,
+        818.97,
+        879.67,
+        831.59
+      ],
+      "text": "Cap Refill Normal May be Delayed Usually Delayed Always Delayed",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        594.26,
+        846.24,
+        909.7,
+        858.86
+      ],
+      "text": "Moderate Marked Tachypnea and",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        108.16,
+        853.63,
+        526.96,
+        866.25
+      ],
+      "text": "Respiration Normal Mild Increase",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        589.41,
+        861.01,
+        899.49,
+        873.64
+      ],
+      "text": "Tachypnea Respiratory Collapse",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        100.07,
+        890.56,
+        896.36,
+        903.18
+      ],
+      "text": "Mental Status Normal or Agitated Agitated Confused Lethargic/Obtunded",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        439.93,
+        936.28,
+        932.88,
+        953.7
+      ],
+      "text": "(Back to TOC) Green 15",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0109-visual",
+      "type": "diagram",
+      "path": "assets/figures/page-0109-visual.webp",
+      "alt": "Visual reference from Hemorrhagic Shock",
+      "source_box_points": [
+        42,
+        72,
+        570.0,
+        744.0
+      ],
+      "reasons": [
+        "structured_visual"
+      ],
+      "sha256": "7e56955e2562942d265f1116020a63fff2f763b62b65c03c9c24c3a30d2f0bc2"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "e28a7baea27d84fb0755d1070c5e9684fd1d6cfb10285f181d5c3d2f541103dc",
+    "native": {
+      "text": "Hem or r hagic Shock #3\nAdditional PEARLS for Hemor r hagic Shock:\n1) TXA and GI Bleeding: Recent evidence suggests patients with gastrointestinal\nbleeding SHOULD NOT receive tranexamic acid. Patients with GI bleeding who received\nTXA had no improvement in mortality but did suffer increased morbidity, including\nincreased venous thromboembolic events.\n2) TXA and Isolated Head Injur y: The role of TXA in isolated head injury remains\ncontroversial with conflicting evidence in the medical literature. The most recent\nevidence suggests an association between prehospital TXA and increased mortality in\npatients with isolated severe brain injury. In an effort to maintain the upmost patient\nsafety and promote the best possible patient outcomes, isolated head trauma remains a\ncontraindication for TXA in the protocols. As a reminder, multi-trauma patients with\nhemorrhagic shock SHOULD receive TXA regardless of head injury.\nClassification of Hemorrhagic Shock\nCompensated Shock Mild Shock Moderate Shock Severe Shock\n15-30% (1000-1500 30-40% (1500-2000\nBlood Loss <15% (1000 mL) >40% (> 2000 mL)\nmL) mL)\nPulse Normal Elevated (>100) Elevated (>120) Elevated (>140)\nOrthostatic\nBlood Pressure Normal Marked Decrease Profound Decrease\nChange\nCap Refill Normal May be Delayed Usually Delayed Always Delayed\nModerate Marked Tachypnea and\nRespiration Normal Mild Increase\nTachypnea Respiratory Collapse\nMental Status Normal or Agitated Agitated Confused Lethargic/Obtunded\n(Back to TOC) Green 15",
+      "body_text": "(Back to TOC) Green 15 Classification of Hemorrhagic Shock Compensated Shock Mild Shock Moderate Shock Severe Shock 15-30% (1000-1500 30-40% (1500-2000 Blood Loss <15% (1000 mL) >40% (> 2000 mL) mL) mL) Pulse Normal Elevated (>100) Elevated (>120) Elevated (>140) Orthostatic Blood Pressure Normal Marked Decrease Profound Decrease Change Cap Refill Normal May be Delayed Usually Delayed Always Delayed Moderate Marked Tachypnea and Respiration Normal Mild Increase Tachypnea Respiratory Collapse Mental Status Normal or Agitated Agitated Confused Lethargic/Obtunded Additional PEARLS for Hemor r hagic Shock: 1) TXA and GI Bleeding: Recent evidence suggests patients with gastrointestinal bleeding SHOULD NOT receive tranexamic acid. Patients with GI bleeding who received TXA had no improvement in mortality but did suffer increased morbidity, including increased venous thromboembolic events. 2) TXA and Isolated Head Injur y: The role of TXA in isolated head injury remains controversial with conflicting evidence in the medical literature. The most recent evidence suggests an association between prehospital TXA and increased mortality in patients with isolated severe brain injury. In an effort to maintain the upmost patient safety and promote the best possible patient outcomes, isolated head trauma remains a contraindication for TXA in the protocols. As a reminder, multi-trauma patients with hemorrhagic shock SHOULD receive TXA regardless of head injury.",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            269.235,
+            743.336,
+            299.889,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            304.02,
+            743.336,
+            314.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            318.06,
+            743.336,
+            345.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Green",
+          "box": [
+            519.75,
+            741.536,
+            553.479,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "15",
+          "box": [
+            557.55,
+            741.536,
+            570.925,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Hem",
+          "box": [
+            206.865,
+            26.613,
+            250.082,
+            46.611
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "or",
+          "box": [
+            252.32,
+            26.613,
+            270.521,
+            46.611
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "r",
+          "box": [
+            273.285,
+            26.613,
+            279.944,
+            46.611
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "hagic",
+          "box": [
+            282.708,
+            26.613,
+            333.815,
+            46.611
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Shock",
+          "box": [
+            338.85,
+            26.613,
+            393.804,
+            46.611
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#3",
+          "box": [
+            400.725,
+            26.613,
+            423.022,
+            46.611
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Classification",
+          "box": [
+            213.885,
+            519.471,
+            281.34,
+            529.47
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 9.999
+        },
+        {
+          "text": "of",
+          "box": [
+            285.075,
+            519.471,
+            293.885,
+            529.47
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 9.999
+        },
+        {
+          "text": "Hemorrhagic",
+          "box": [
+            297.765,
+            519.471,
+            364.87,
+            529.47
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 9.999
+        },
+        {
+          "text": "Shock",
+          "box": [
+            367.785,
+            519.471,
+            396.702,
+            529.47
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 9.999
+        },
+        {
+          "text": "Compensated",
+          "box": [
+            145.125,
+            541.071,
+            208.481,
+            551.07
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Shock",
+          "box": [
+            211.68,
+            541.071,
+            239.148,
+            551.07
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Mild",
+          "box": [
+            263.385,
+            541.071,
+            284.621,
+            551.07
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Shock",
+          "box": [
+            287.82,
+            541.071,
+            315.288,
+            551.07
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Moderate",
+          "box": [
+            348.255,
+            541.071,
+            394.11,
+            551.07
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Shock",
+          "box": [
+            396.495,
+            541.071,
+            423.963,
+            551.07
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Severe",
+          "box": [
+            470.25,
+            541.071,
+            502.251,
+            551.07
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Shock",
+          "box": [
+            504.45,
+            541.071,
+            531.918,
+            551.07
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "15-30%",
+          "box": [
+            245.61,
+            559.971,
+            279.956,
+            569.97
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "(1000-1500",
+          "box": [
+            282.645,
+            559.971,
+            333.89,
+            569.97
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "30-40%",
+          "box": [
+            342.36,
+            559.971,
+            376.706,
+            569.97
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "(1500-2000",
+          "box": [
+            379.395,
+            559.971,
+            430.64,
+            569.97
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Blood",
+          "box": [
+            68.085,
+            565.821,
+            94.817,
+            575.82
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Loss",
+          "box": [
+            98.01,
+            565.821,
+            119.516,
+            575.82
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "<15%",
+          "box": [
+            154.62,
+            565.821,
+            180.276,
+            575.82
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "(1000",
+          "box": [
+            182.97,
+            565.821,
+            208.758,
+            575.82
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "mL)",
+          "box": [
+            211.365,
+            565.821,
+            230.368,
+            575.82
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": ">40%",
+          "box": [
+            459.45,
+            565.821,
+            485.106,
+            575.82
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "(>",
+          "box": [
+            487.8,
+            565.821,
+            497.101,
+            575.82
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "2000",
+          "box": [
+            499.5,
+            565.821,
+            521.826,
+            575.82
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "mL)",
+          "box": [
+            524.25,
+            565.821,
+            543.253,
+            575.82
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "mL)",
+          "box": [
+            280.215,
+            571.671,
+            299.218,
+            581.67
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "mL)",
+          "box": [
+            376.965,
+            571.671,
+            395.968,
+            581.67
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Pulse",
+          "box": [
+            80.91,
+            594.621,
+            106.463,
+            604.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Normal",
+          "box": [
+            174.465,
+            594.621,
+            209.773,
+            604.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Elevated",
+          "box": [
+            253.575,
+            594.621,
+            293.499,
+            604.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "(>100)",
+          "box": [
+            296.685,
+            594.621,
+            325.832,
+            604.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Elevated",
+          "box": [
+            350.325,
+            594.621,
+            390.249,
+            604.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "(>120)",
+          "box": [
+            393.435,
+            594.621,
+            422.582,
+            604.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Elevated",
+          "box": [
+            465.3,
+            594.621,
+            505.224,
+            604.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "(>140)",
+          "box": [
+            508.5,
+            594.621,
+            537.647,
+            604.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Orthostatic",
+          "box": [
+            263.295,
+            617.121,
+            316.339,
+            627.12
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Blood",
+          "box": [
+            57.915,
+            622.521,
+            84.647,
+            632.52
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Pressure",
+          "box": [
+            87.795,
+            622.521,
+            129.435,
+            632.52
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Normal",
+          "box": [
+            174.465,
+            622.521,
+            209.773,
+            632.52
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Marked",
+          "box": [
+            345.24,
+            622.521,
+            381.521,
+            632.52
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Decrease",
+          "box": [
+            384.705,
+            622.521,
+            428.001,
+            632.52
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Profound",
+          "box": [
+            456.3,
+            622.521,
+            500.337,
+            632.52
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Decrease",
+          "box": [
+            503.55,
+            622.521,
+            546.846,
+            632.52
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Change",
+          "box": [
+            272.16,
+            628.371,
+            307.559,
+            638.37
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Cap",
+          "box": [
+            70.92,
+            648.621,
+            88.242,
+            658.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Refill",
+          "box": [
+            91.44,
+            648.621,
+            115.354,
+            658.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Normal",
+          "box": [
+            174.465,
+            648.621,
+            209.773,
+            658.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "May",
+          "box": [
+            252.225,
+            648.621,
+            271.93,
+            658.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "be",
+          "box": [
+            275.175,
+            648.621,
+            286.868,
+            658.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Delayed",
+          "box": [
+            289.26,
+            648.621,
+            326.765,
+            658.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Usually",
+          "box": [
+            348.615,
+            648.621,
+            383.072,
+            658.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Delayed",
+          "box": [
+            386.325,
+            648.621,
+            423.83,
+            658.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Always",
+          "box": [
+            464.4,
+            648.621,
+            498.633,
+            658.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Delayed",
+          "box": [
+            500.85,
+            648.621,
+            538.355,
+            658.62
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Moderate",
+          "box": [
+            363.69,
+            670.221,
+            409.545,
+            680.22
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Marked",
+          "box": [
+            445.77,
+            670.221,
+            482.051,
+            680.22
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Tachypnea",
+          "box": [
+            485.1,
+            670.221,
+            536.658,
+            680.22
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "and",
+          "box": [
+            539.1,
+            670.221,
+            556.737,
+            680.22
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Respiration",
+          "box": [
+            66.195,
+            676.071,
+            120.029,
+            686.07
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Normal",
+          "box": [
+            174.465,
+            676.071,
+            209.773,
+            686.07
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Mild",
+          "box": [
+            257.265,
+            676.071,
+            278.501,
+            686.07
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Increase",
+          "box": [
+            281.7,
+            676.071,
+            322.498,
+            686.07
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Tachypnea",
+          "box": [
+            360.72,
+            681.921,
+            412.278,
+            691.92
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Respiratory",
+          "box": [
+            452.7,
+            681.921,
+            507.382,
+            691.92
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Collapse",
+          "box": [
+            510.75,
+            681.921,
+            550.487,
+            691.92
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Mental",
+          "box": [
+            61.245,
+            705.321,
+            93.693,
+            715.32
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Status",
+          "box": [
+            97.155,
+            705.321,
+            126.412,
+            715.32
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Normal",
+          "box": [
+            146.835,
+            705.321,
+            182.143,
+            715.32
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "or",
+          "box": [
+            185.625,
+            705.321,
+            194.724,
+            715.32
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Agitated",
+          "box": [
+            198.72,
+            705.321,
+            237.726,
+            715.32
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Agitated",
+          "box": [
+            270.0,
+            705.321,
+            309.006,
+            715.32
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Confused",
+          "box": [
+            364.41,
+            705.321,
+            408.018,
+            715.32
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Lethargic/Obtunded",
+          "box": [
+            453.6,
+            705.321,
+            548.572,
+            715.32
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Additional",
+          "box": [
+            50.355,
+            75.851,
+            113.227,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "PEARLS",
+          "box": [
+            117.9,
+            75.851,
+            166.744,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            168.93,
+            75.851,
+            185.043,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Hemor",
+          "box": [
+            190.44,
+            75.851,
+            230.286,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "r",
+          "box": [
+            232.564,
+            75.851,
+            236.559,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "hagic",
+          "box": [
+            238.838,
+            75.851,
+            270.967,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Shock:",
+          "box": [
+            274.41,
+            75.851,
+            314.078,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1)",
+          "box": [
+            47.25,
+            103.796,
+            57.95,
+            115.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TXA",
+          "box": [
+            61.2,
+            103.796,
+            85.811,
+            115.793
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            90.0,
+            103.796,
+            111.858,
+            115.793
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "GI",
+          "box": [
+            116.055,
+            103.796,
+            128.615,
+            115.793
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Bleeding:",
+          "box": [
+            133.245,
+            103.796,
+            189.291,
+            115.793
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Recent",
+          "box": [
+            192.735,
+            103.796,
+            230.068,
+            115.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "evidence",
+          "box": [
+            234.045,
+            103.796,
+            285.233,
+            115.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suggests",
+          "box": [
+            288.135,
+            103.796,
+            335.893,
+            115.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            338.445,
+            103.796,
+            384.774,
+            115.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            387.315,
+            103.796,
+            412.389,
+            115.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "gastrointestinal",
+          "box": [
+            416.43,
+            103.796,
+            504.359,
+            115.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bleeding",
+          "box": [
+            47.25,
+            117.746,
+            96.786,
+            129.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "SHOULD",
+          "box": [
+            99.675,
+            117.746,
+            149.354,
+            129.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NOT",
+          "box": [
+            152.55,
+            117.746,
+            177.943,
+            129.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "receive",
+          "box": [
+            181.08,
+            117.746,
+            222.578,
+            129.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tranexamic",
+          "box": [
+            225.45,
+            117.746,
+            290.734,
+            129.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "acid.",
+          "box": [
+            293.76,
+            117.746,
+            320.953,
+            129.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Patients",
+          "box": [
+            324.18,
+            117.746,
+            370.154,
+            129.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            372.69,
+            117.746,
+            397.763,
+            129.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "GI",
+          "box": [
+            401.85,
+            117.746,
+            413.749,
+            129.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bleeding",
+          "box": [
+            417.915,
+            117.746,
+            467.45,
+            129.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "who",
+          "box": [
+            470.25,
+            117.746,
+            494.758,
+            129.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "received",
+          "box": [
+            498.15,
+            117.746,
+            546.069,
+            129.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TXA",
+          "box": [
+            47.25,
+            131.741,
+            70.525,
+            143.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "had",
+          "box": [
+            74.07,
+            131.741,
+            95.109,
+            143.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "no",
+          "box": [
+            98.955,
+            131.741,
+            113.365,
+            143.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "improvement",
+          "box": [
+            116.73,
+            131.741,
+            193.459,
+            143.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            197.46,
+            131.741,
+            207.968,
+            143.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mortality",
+          "box": [
+            212.175,
+            131.741,
+            264.848,
+            143.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "but",
+          "box": [
+            268.74,
+            131.741,
+            287.051,
+            143.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "did",
+          "box": [
+            291.06,
+            131.741,
+            308.93,
+            143.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suffer",
+          "box": [
+            312.75,
+            131.741,
+            344.819,
+            143.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "increased",
+          "box": [
+            349.605,
+            131.741,
+            404.42,
+            143.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "morbidity,",
+          "box": [
+            408.24,
+            131.741,
+            468.889,
+            143.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "including",
+          "box": [
+            470.7,
+            131.741,
+            525.126,
+            143.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "increased",
+          "box": [
+            47.25,
+            145.691,
+            102.065,
+            157.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "venous",
+          "box": [
+            105.84,
+            145.691,
+            147.37,
+            157.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "thromboembolic",
+          "box": [
+            149.94,
+            145.691,
+            245.463,
+            157.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "events.",
+          "box": [
+            248.49,
+            145.691,
+            288.643,
+            157.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2)",
+          "box": [
+            47.25,
+            173.636,
+            57.95,
+            185.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TXA",
+          "box": [
+            61.2,
+            173.636,
+            85.811,
+            185.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            90.0,
+            173.636,
+            111.858,
+            185.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Isolated",
+          "box": [
+            116.055,
+            173.636,
+            163.62,
+            185.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Head",
+          "box": [
+            167.895,
+            173.636,
+            198.424,
+            185.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Injur",
+          "box": [
+            202.635,
+            173.636,
+            231.585,
+            185.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "y:",
+          "box": [
+            233.98,
+            173.636,
+            244.263,
+            185.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "The",
+          "box": [
+            247.725,
+            173.636,
+            269.362,
+            185.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "role",
+          "box": [
+            272.25,
+            173.636,
+            295.101,
+            185.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            297.945,
+            173.636,
+            308.089,
+            185.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TXA",
+          "box": [
+            312.3,
+            173.636,
+            335.575,
+            185.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            339.165,
+            173.636,
+            349.673,
+            185.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "isolated",
+          "box": [
+            353.88,
+            173.636,
+            397.614,
+            185.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "head",
+          "box": [
+            401.4,
+            173.636,
+            428.86,
+            185.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "injury",
+          "box": [
+            432.675,
+            173.636,
+            467.231,
+            185.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "remains",
+          "box": [
+            471.15,
+            173.636,
+            518.89,
+            185.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "controversial",
+          "box": [
+            47.25,
+            187.586,
+            121.844,
+            199.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            126.0,
+            187.586,
+            151.074,
+            199.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "conflicting",
+          "box": [
+            155.16,
+            187.586,
+            216.094,
+            199.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "evidence",
+          "box": [
+            218.97,
+            187.586,
+            270.158,
+            199.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            273.06,
+            187.586,
+            283.568,
+            199.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            287.73,
+            187.586,
+            306.239,
+            199.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "medical",
+          "box": [
+            309.15,
+            187.586,
+            353.428,
+            199.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "literature.",
+          "box": [
+            357.615,
+            187.586,
+            415.239,
+            199.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "The",
+          "box": [
+            418.455,
+            187.586,
+            440.092,
+            199.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "most",
+          "box": [
+            442.935,
+            187.586,
+            469.945,
+            199.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "recent",
+          "box": [
+            473.85,
+            187.586,
+            509.207,
+            199.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "evidence",
+          "box": [
+            47.25,
+            201.581,
+            98.438,
+            213.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suggests",
+          "box": [
+            101.295,
+            201.581,
+            149.053,
+            213.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "an",
+          "box": [
+            151.605,
+            201.581,
+            165.03,
+            213.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "association",
+          "box": [
+            169.2,
+            201.581,
+            231.744,
+            213.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "between",
+          "box": [
+            235.935,
+            201.581,
+            283.68,
+            213.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "prehospital",
+          "box": [
+            287.865,
+            201.581,
+            352.096,
+            213.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TXA",
+          "box": [
+            356.31,
+            201.581,
+            379.585,
+            213.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            383.175,
+            201.581,
+            404.34,
+            213.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "increased",
+          "box": [
+            408.15,
+            201.581,
+            462.965,
+            213.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mortality",
+          "box": [
+            466.65,
+            201.581,
+            519.323,
+            213.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            523.35,
+            201.581,
+            533.858,
+            213.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            47.25,
+            215.531,
+            93.579,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            96.075,
+            215.531,
+            121.149,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "isolated",
+          "box": [
+            125.235,
+            215.531,
+            168.969,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "severe",
+          "box": [
+            172.8,
+            215.531,
+            210.093,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "brain",
+          "box": [
+            212.94,
+            215.531,
+            243.216,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "injury.",
+          "box": [
+            247.41,
+            215.531,
+            285.482,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "In",
+          "box": [
+            288.72,
+            215.531,
+            299.796,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "an",
+          "box": [
+            303.975,
+            215.531,
+            317.4,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "effort",
+          "box": [
+            321.615,
+            215.531,
+            352.691,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            356.67,
+            215.531,
+            367.325,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "maintain",
+          "box": [
+            370.71,
+            215.531,
+            421.748,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            425.925,
+            215.531,
+            444.434,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "upmost",
+          "box": [
+            447.3,
+            215.531,
+            489.286,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            493.2,
+            215.531,
+            532.641,
+            227.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "safety",
+          "box": [
+            47.25,
+            229.526,
+            80.375,
+            241.523
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            84.24,
+            229.526,
+            105.405,
+            241.523
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "promote",
+          "box": [
+            109.215,
+            229.526,
+            158.076,
+            241.523
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            160.965,
+            229.526,
+            179.474,
+            241.523
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "best",
+          "box": [
+            182.34,
+            229.526,
+            204.872,
+            241.523
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "possible",
+          "box": [
+            208.89,
+            229.526,
+            255.595,
+            241.523
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            258.48,
+            229.526,
+            297.921,
+            241.523
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "outcomes,",
+          "box": [
+            301.95,
+            229.526,
+            359.932,
+            241.523
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "isolated",
+          "box": [
+            362.7,
+            229.526,
+            409.68,
+            241.523
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "head",
+          "box": [
+            413.91,
+            229.526,
+            441.37,
+            241.523
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trauma",
+          "box": [
+            445.185,
+            229.526,
+            487.319,
+            241.523
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "remains",
+          "box": [
+            490.5,
+            229.526,
+            538.24,
+            241.523
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            540.45,
+            229.526,
+            547.12,
+            241.523
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "contraindication",
+          "box": [
+            47.25,
+            243.476,
+            141.31,
+            255.473
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            145.485,
+            243.476,
+            160.718,
+            255.473
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TXA",
+          "box": [
+            165.51,
+            243.476,
+            188.785,
+            255.473
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            192.375,
+            243.476,
+            202.883,
+            255.473
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            207.045,
+            243.476,
+            225.554,
+            255.473
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocols.",
+          "box": [
+            228.42,
+            243.476,
+            284.451,
+            255.473
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "As",
+          "box": [
+            290.79,
+            243.476,
+            305.249,
+            255.473
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            307.8,
+            243.476,
+            314.47,
+            255.473
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reminder,",
+          "box": [
+            317.655,
+            243.476,
+            375.412,
+            255.473
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "multi-trauma",
+          "box": [
+            377.64,
+            243.476,
+            454.11,
+            255.473
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            457.2,
+            243.476,
+            503.529,
+            255.473
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            505.8,
+            243.476,
+            530.874,
+            255.473
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hemorrhagic",
+          "box": [
+            47.25,
+            257.426,
+            121.508,
+            269.423
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock",
+          "box": [
+            124.515,
+            257.426,
+            156.371,
+            269.423
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "SHOULD",
+          "box": [
+            160.515,
+            257.426,
+            210.194,
+            269.423
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "receive",
+          "box": [
+            213.39,
+            257.426,
+            254.888,
+            269.423
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TXA",
+          "box": [
+            257.76,
+            257.426,
+            281.035,
+            269.423
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "regardless",
+          "box": [
+            284.625,
+            257.426,
+            344.474,
+            269.423
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            347.04,
+            257.426,
+            357.184,
+            269.423
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "head",
+          "box": [
+            361.395,
+            257.426,
+            388.855,
+            269.423
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "injury.",
+          "box": [
+            392.67,
+            257.426,
+            430.742,
+            269.423
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0109.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 93.56,
+    "output_to_native_length_ratio": 0.985,
+    "native_dosage_tokens": [
+      "1000ml",
+      "2000ml"
+    ],
+    "output_dosage_tokens": [
+      "1000ml",
+      "1500ml",
+      "2000ml"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

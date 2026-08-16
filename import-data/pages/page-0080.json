@@ -1,0 +1,4729 @@
+{
+  "id": "page-0080",
+  "pdf_page": 80,
+  "protocol_label": "Gold 6",
+  "kind": "protocol",
+  "chapter_id": "gold",
+  "topic_id": "gold-diabetic-hypoglycemic-emergencies",
+  "title": "Diabetic/Hypoglycemic Emergencies",
+  "markdown": "# Diabetic/Hypoglycemic Emergencies\n\n## EMT\n\n1. Manage airway as appropriate, see Airway Algorithm, **Blue 2**\n\n2. Request ALS, if available\n\n3. If trained, perform finger stick to measure blood glucose\n    a. If blood glucose is less than **60 mg/dL**, **AND PATIENT IS CONSCIOUS AND ABLE TO SWALLOW**, give glucose (one tablet or tube) **orally**. Repeat, as needed, for clinical improvement.\n\n4. If unable to obtain a finger stick blood glucose, and patient is a known diabetic, has clinical signs of hypoglycemia **AND IS CONSCIOUS AND ABLE TO SWALLOW**, give glucose (one tablet or tube) **orally**. Repeat, as needed, for clinical improvement.\n\n**Oral glucose is to be administered as soon as possible if the patient IS CONSCIOUS, ABLE TO SWALLOW, AND PRESENTING WITH THE SIGNS/SYMPTOMS OF A DIABETIC EMERGENCY**\n\n## ADVANCED EMT\n\n5. Establish IV en route\n\n6. If blood glucose is less than **60 mg/dL**:\n    a. And patient is conscious and able to swallow, give glucose (one tablet or tube) **orally**, otherwise,\n    b. If patient is 40 kg or more, administer dextrose 25 gm **IV** (50 mL of 50% solution or 250 mL of D_10_W solution),\n    c. If under 40 kg give D_10_W as per the following:\n\n| Weight (Kg/Lbs) | Volume to be infused |\n| :--- | :--- |\n| 3/6.6 (newborn) | 15 mL |\n| 5/11 | 25 mL |\n| 10/22 | 50 mL |\n| 20/44 | 100 mL |\n| 30/66 | 150 mL |\n| 40/88 | 200 mL |\n\n    d. If IV unavailable, **DO NOT PLACE IO**. Administer glucagon at the following doses:\n        i. **Adult and Pediatric** patients 20 kg or greater: Glucagon 1 mg **IM**.\n        ii. **Pediatric** patients less than 20 kg: Glucagon 0.5 mg **IM**\n\n7. If blood glucose is greater than **300 mg/dL**, give **NS** fluid bolus\n\n8. Repeat glucose measurement every 5 minutes until hypoglycemia is resolved and for any concerns of recurrent hypoglycemia.\n\n9. Cardiac monitor\n\n## PARAMEDIC\n\n10. Repeat **oral** glucose, **IV** dextrose or **IM** glucagon, if clinically indicated. If oral glucose is contraindicated, or oral glucose and **IM** glucagon are ineffective **AND IV** access cannot be established, consider placing an **IO** for administration of dextrose 25 gm (250 mL of D_10_W)\n",
+  "plain_text": "Diabetic/Hypoglycemic Emergencies EMT Manage airway as appropriate, see Airway Algorithm, Blue 2 Request ALS, if available If trained, perform finger stick to measure blood glucose If blood glucose is less than 60 mg/dL, AND PATIENT IS CONSCIOUS AND ABLE TO SWALLOW, give glucose (one tablet or tube) orally. Repeat, as needed, for clinical improvement. If unable to obtain a finger stick blood glucose, and patient is a known diabetic, has clinical signs of hypoglycemia AND IS CONSCIOUS AND ABLE TO SWALLOW, give glucose (one tablet or tube) orally. Repeat, as needed, for clinical improvement. Oral glucose is to be administered as soon as possible if the patient IS CONSCIOUS, ABLE TO SWALLOW, AND PRESENTING WITH THE SIGNS/SYMPTOMS OF A DIABETIC EMERGENCY ADVANCED EMT Establish IV en route If blood glucose is less than 60 mg/dL: And patient is conscious and able to swallow, give glucose (one tablet or tube) orally, otherwise, If patient is 40 kg or more, administer dextrose 25 gm IV (50 mL of 50% solution or 250 mL of D10W solution), If under 40 kg give D10W as per the following: Weight (Kg/Lbs) Volume to be infused 3/6.6 (newborn) 15 mL 5/11 25 mL 10/22 50 mL 20/44 100 mL 30/66 150 mL 40/88 200 mL If IV unavailable, DO NOT PLACE IO. Administer glucagon at the following doses: Adult and Pediatric patients 20 kg or greater: Glucagon 1 mg IM. Pediatric patients less than 20 kg: Glucagon 0.5 mg IM If blood glucose is greater than 300 mg/dL, give NS fluid bolus Repeat glucose measurement every 5 minutes until hypoglycemia is resolved and for any concerns of recurrent hypoglycemia. Cardiac monitor PARAMEDIC Repeat oral glucose, IV dextrose or IM glucagon, if clinically indicated. If oral glucose is contraindicated, or oral glucose and IM glucagon are ineffective AND IV access cannot be established, consider placing an IO for administration of dextrose 25 gm (250 mL of D10W)",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        195.44,
+        58.33,
+        804.08,
+        83.58
+      ],
+      "text": "Diabetic/Hypoglycem ic Em er gencies #1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        104.58,
+        175.79,
+        119.73
+      ],
+      "text": "EMT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        122.19,
+        724.43,
+        137.34
+      ],
+      "text": "1. Manage airway as appropriate, see Airway Algorithm, Blue 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        139.86,
+        381.03,
+        155.01
+      ],
+      "text": "2. Request ALS, if available",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        157.48,
+        679.77,
+        172.62
+      ],
+      "text": "3. If trained, perform finger stick to measure blood glucose",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        155.88,
+        175.15,
+        911.49,
+        190.29
+      ],
+      "text": "a. If blood glucose is less than 60 mg/dL , AND PATIENT IS CONSCIOUS AND ABLE",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        179.41,
+        192.76,
+        894.74,
+        207.91
+      ],
+      "text": "TO SWALLOW, give glucose (one tablet or tube) or ally . Repeat, as needed, for",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        179.41,
+        210.43,
+        384.41,
+        225.58
+      ],
+      "text": "clinical improvement.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        228.04,
+        891.16,
+        243.19
+      ],
+      "text": "4. If unable to obtain a finger stick blood glucose, and patient is a known diabetic,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        79.04,
+        235.22,
+        98.66,
+        257.94
+      ],
+      "text": "E",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        152.72,
+        245.66,
+        903.58,
+        260.81
+      ],
+      "text": "has clinical signs of hypoglycemia AND IS CONSCIOUS AND ABLE TO SWALLOW,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        152.72,
+        263.33,
+        799.41,
+        278.48
+      ],
+      "text": "give glucose (one tablet or tube) or ally . Repeat, as needed, for clinical",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        152.72,
+        280.94,
+        285.0,
+        296.09
+      ],
+      "text": "improvement.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        316.23,
+        819.46,
+        331.37
+      ],
+      "text": "Or al glucose is to be administer ed as soon as possible if the patient IS",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        333.84,
+        759.86,
+        348.99
+      ],
+      "text": "CONSCIOUS, ABLE TO SWALLOW, AND PRESENTING WITH THE",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        351.51,
+        601.16,
+        366.66
+      ],
+      "text": "SIGNS/SYMPTOMS OF A DIABETIC EMERGENCY",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        386.79,
+        293.74,
+        401.94
+      ],
+      "text": "ADVANCED EMT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        404.41,
+        346.44,
+        419.56
+      ],
+      "text": "5. Establish IV en route",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        422.08,
+        506.05,
+        437.23
+      ],
+      "text": "6. If blood glucose is less than 60 mg/dL:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        439.69,
+        906.48,
+        454.84
+      ],
+      "text": "a. And patient is conscious and able to swallow, give glucose (one tablet or tube)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        185.29,
+        457.31,
+        352.8,
+        472.45
+      ],
+      "text": "or ally , otherwise,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        474.98,
+        848.16,
+        490.12
+      ],
+      "text": "b. If patient is 40 kg or more, administer dextrose 25 gm IV (50 mL of 50%",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        185.29,
+        492.59,
+        532.39,
+        507.74
+      ],
+      "text": "solution or 250 mL of D W solution),",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        403.38,
+        498.69,
+        418.68,
+        509.3
+      ],
+      "text": "10",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        510.26,
+        609.34,
+        525.41
+      ],
+      "text": "c. If under 40 kg give D W as per the following:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        378.09,
+        516.31,
+        393.39,
+        526.91
+      ],
+      "text": "10",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        300.0,
+        538.67,
+        692.66,
+        553.82
+      ],
+      "text": "Weight (Kg/Lbs) Volume to be infused",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        297.21,
+        560.71,
+        623.1,
+        575.86
+      ],
+      "text": "3/6.6 (newborn) 15 mL",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        77.79,
+        582.87,
+        623.1,
+        609.25
+      ],
+      "text": "A 5/11 25 mL",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        346.54,
+        605.6,
+        623.1,
+        620.75
+      ],
+      "text": "10/22 50 mL",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        346.54,
+        627.76,
+        628.61,
+        642.91
+      ],
+      "text": "20/44 100 mL",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        346.54,
+        650.49,
+        628.61,
+        665.64
+      ],
+      "text": "30/66 150 mL",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        346.54,
+        673.21,
+        628.61,
+        688.36
+      ],
+      "text": "40/88 200 mL",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        162.87,
+        703.9,
+        878.8,
+        719.04
+      ],
+      "text": "d. If IV unavailable, DO NOT PLACE IO. Administer glucagon at the following",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        185.29,
+        721.51,
+        242.27,
+        736.66
+      ],
+      "text": "doses:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        188.31,
+        739.12,
+        813.54,
+        754.27
+      ],
+      "text": "i. Adult and Pediatr ic patients 20 kg or greater: Glucagon 1 mg IM .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        185.29,
+        756.74,
+        714.41,
+        771.89
+      ],
+      "text": "ii. Pediatr ic patients less than 20 kg: Glucagon 0.5 mg IM",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        774.35,
+        731.08,
+        789.5
+      ],
+      "text": "7. If blood glucose is greater than 300 mg/dL , give NS fluid bolus",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        791.96,
+        908.85,
+        807.11
+      ],
+      "text": "8. Repeat glucose measurement every 5 minutes until hypoglycemia is resolved and",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        152.72,
+        809.58,
+        568.39,
+        824.73
+      ],
+      "text": "for any concerns of recurrent hypoglycemia.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0041",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        827.19,
+        303.48,
+        842.34
+      ],
+      "text": "9. Cardiac monitor",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0042",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        862.99,
+        255.58,
+        878.14
+      ],
+      "text": "PARAMEDIC",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0043",
+      "type": "text_line",
+      "box_1000": [
+        79.34,
+        870.61,
+        98.96,
+        893.34
+      ],
+      "text": "P",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0044",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        880.6,
+        883.73,
+        895.75
+      ],
+      "text": "10. Repeat or al glucose, IV dextrose or IM glucagon, if clinically indicated. If oral",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0045",
+      "type": "text_line",
+      "box_1000": [
+        162.87,
+        898.21,
+        901.76,
+        913.36
+      ],
+      "text": "glucose is contraindicated, or oral glucose and IM glucagon are ineffective AND",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0046",
+      "type": "text_line",
+      "box_1000": [
+        163.9,
+        915.83,
+        876.13,
+        930.98
+      ],
+      "text": "IV access cannot be established, consider placing an IO for administration of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0047",
+      "type": "text_line",
+      "box_1000": [
+        162.87,
+        933.44,
+        471.53,
+        949.92
+      ],
+      "text": "dextrose 25 gm (250 mL of D 10 W )",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0048",
+      "type": "text_line",
+      "box_1000": [
+        444.71,
+        958.91,
+        867.61,
+        974.18
+      ],
+      "text": "(Back to TOC) Gold 6",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "7a7e0725d68f3db39dd8121931c726bf905f74bed3da77aa8b53bb9d0b7dd509",
+    "native": {
+      "text": "Diabetic/Hypoglycem ic Em er gencies #1\nEMT\n1. Manage airway as appropriate, see Airway Algorithm, Blue 2\n2. Request ALS, if available\n3. If trained, perform finger stick to measure blood glucose\na. If blood glucose is less than 60 mg/dL, AND PATIENT IS CONSCIOUS AND ABLE\nTO SWALLOW, give glucose (one tablet or tube) or ally. Repeat, as needed, for\nclinical improvement.\n4. If unable to obtain a finger stick blood glucose, and patient is a known diabetic,\nE\nhas clinical signs of hypoglycemia AND IS CONSCIOUS AND ABLE TO SWALLOW,\ngive glucose (one tablet or tube) or ally. Repeat, as needed, for clinical\nimprovement.\nOr al glucose is to be administer ed as soon as possible if the patient IS\nCONSCIOUS, ABLE TO SWALLOW, AND PRESENTING WITH THE\nSIGNS/SYMPTOMS OF A DIABETIC EMERGENCY\nADVANCED EMT\n5. Establish IV en route\n6. If blood glucose is less than 60 mg/dL:\na. And patient is conscious and able to swallow, give glucose (one tablet or tube)\nor ally, otherwise,\nb. If patient is 40 kg or more, administer dextrose 25 gm IV (50 mL of 50%\nsolution or 250 mL of D W solution),\n10\nc. If under 40 kg give D W as per the following:\n10\nWeight (Kg/Lbs) Volume to be infused\n3/6.6 (newborn) 15 mL\nA 5/11 25 mL\n10/22 50 mL\n20/44 100 mL\n30/66 150 mL\n40/88 200 mL\nd. If IV unavailable, DO NOT PLACE IO. Administer glucagon at the following\ndoses:\ni. Adult and Pediatr ic patients 20 kg or greater: Glucagon 1 mg IM.\nii. Pediatr ic patients less than 20 kg: Glucagon 0.5 mg IM\n7. If blood glucose is greater than 300 mg/dL, give NS fluid bolus\n8. Repeat glucose measurement every 5 minutes until hypoglycemia is resolved and\nfor any concerns of recurrent hypoglycemia.\n9. Cardiac monitor\nPARAMEDIC\nP\n10. Repeat or al glucose, IV dextrose or IM glucagon, if clinically indicated. If oral\nglucose is contraindicated, or oral glucose and IM glucagon are ineffective AND\nIV access cannot be established, consider placing an IO for administration of\ndextrose 25 gm (250 mL of D W)\n10\n(Back to TOC) Gold 6",
+      "body_text": "E A P EMT 1. Manage airway as appropriate, see Airway Algorithm, Blue 2 2. Request ALS, if available 3. If trained, perform finger stick to measure blood glucose a. If blood glucose is less than 60 mg/dL , AND PATIENT IS CONSCIOUS AND ABLE TO SWALLOW, give glucose (one tablet or tube) or ally . Repeat, as needed, for clinical improvement. 4. If unable to obtain a finger stick blood glucose, and patient is a known diabetic, has clinical signs of hypoglycemia AND IS CONSCIOUS AND ABLE TO SWALLOW, give glucose (one tablet or tube) or ally . Repeat, as needed, for clinical improvement. Or al glucose is to be administer ed as soon as possible if the patient IS CONSCIOUS, ABLE TO SWALLOW, AND PRESENTING WITH THE SIGNS/SYMPTOMS OF A DIABETIC EMERGENCY ADVANCED EMT 5. Establish IV en route 6. If blood glucose is less than 60 mg/dL: a. And patient is conscious and able to swallow, give glucose (one tablet or tube) or ally , otherwise, b. If patient is 40 kg or more, administer dextrose 25 gm IV (50 mL of 50% solution or 250 mL of D 10 W solution), c. If under 40 kg give D 10 W as per the following: d. If IV unavailable, DO NOT PLACE IO. Administer glucagon at the following doses: i. Adult and Pediatr ic patients 20 kg or greater: Glucagon 1 mg IM . ii. Pediatr ic patients less than 20 kg: Glucagon 0.5 mg IM 7. If blood glucose is greater than 300 mg/dL , give NS fluid bolus 8. Repeat glucose measurement every 5 minutes until hypoglycemia is resolved and for any concerns of recurrent hypoglycemia. 9. Cardiac monitor PARAMEDIC 10. Repeat or al glucose, IV dextrose or IM glucagon, if clinically indicated. If oral glucose is contraindicated, or oral glucose and IM glucagon are ineffective AND IV access cannot be established, consider placing an IO for administration of dextrose 25 gm (250 mL of D 10 W ) Weight (Kg/Lbs) Volume to be infused 3/6.6 (newborn) 15 mL 5/11 25 mL 10/22 50 mL 20/44 100 mL 30/66 150 mL 40/88 200 mL",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            272.16,
+            759.536,
+            302.814,
+            771.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            306.99,
+            759.536,
+            317.645,
+            771.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            320.985,
+            759.536,
+            348.6,
+            771.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gold",
+          "box": [
+            494.55,
+            759.458,
+            520.642,
+            771.554
+          ],
+          "font": "Helvetica",
+          "size": 12.096
+        },
+        {
+          "text": "6",
+          "box": [
+            524.25,
+            759.458,
+            530.975,
+            771.554
+          ],
+          "font": "Helvetica",
+          "size": 12.096
+        },
+        {
+          "text": "Diabetic/Hypoglycem",
+          "box": [
+            119.61,
+            46.197,
+            319.643,
+            66.195
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ic",
+          "box": [
+            321.88,
+            46.197,
+            338.274,
+            66.195
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Em",
+          "box": [
+            343.35,
+            46.197,
+            372.469,
+            66.195
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "er",
+          "box": [
+            374.706,
+            46.197,
+            392.066,
+            66.195
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "gencies",
+          "box": [
+            394.632,
+            46.197,
+            465.732,
+            66.195
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#1",
+          "box": [
+            469.8,
+            46.197,
+            492.097,
+            66.195
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "E",
+          "box": [
+            48.375,
+            186.291,
+            60.381,
+            204.291
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "A",
+          "box": [
+            47.61,
+            464.526,
+            59.616,
+            482.526
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "P",
+          "box": [
+            48.555,
+            689.526,
+            60.561,
+            707.526
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "EMT",
+          "box": [
+            81.0,
+            82.826,
+            107.586,
+            94.823
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1.",
+          "box": [
+            81.0,
+            96.776,
+            91.04,
+            108.773
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Manage",
+          "box": [
+            96.075,
+            96.776,
+            141.585,
+            108.773
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "airway",
+          "box": [
+            144.495,
+            96.776,
+            183.221,
+            108.773
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            187.11,
+            96.776,
+            199.863,
+            108.773
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "appropriate,",
+          "box": [
+            202.41,
+            96.776,
+            273.702,
+            108.773
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "see",
+          "box": [
+            276.48,
+            96.776,
+            294.985,
+            108.773
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Airway",
+          "box": [
+            297.855,
+            96.776,
+            338.287,
+            108.773
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Algorithm,",
+          "box": [
+            342.225,
+            96.776,
+            403.666,
+            108.773
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Blue",
+          "box": [
+            406.44,
+            96.776,
+            433.395,
+            108.773
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            436.68,
+            96.776,
+            443.35,
+            108.773
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "2.",
+          "box": [
+            81.0,
+            110.771,
+            91.04,
+            122.768
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Request",
+          "box": [
+            93.33,
+            110.771,
+            137.525,
+            122.768
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ALS,",
+          "box": [
+            141.57,
+            110.771,
+            167.365,
+            122.768
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            170.01,
+            110.771,
+            177.183,
+            122.768
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available",
+          "box": [
+            181.395,
+            110.771,
+            233.189,
+            122.768
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3.",
+          "box": [
+            81.0,
+            124.721,
+            91.04,
+            136.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            93.33,
+            124.721,
+            101.071,
+            136.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trained,",
+          "box": [
+            105.3,
+            124.721,
+            150.627,
+            136.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "perform",
+          "box": [
+            153.405,
+            124.721,
+            199.724,
+            136.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "finger",
+          "box": [
+            204.21,
+            124.721,
+            236.969,
+            136.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "stick",
+          "box": [
+            241.74,
+            124.721,
+            267.118,
+            136.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            271.26,
+            124.721,
+            281.915,
+            136.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "measure",
+          "box": [
+            285.3,
+            124.721,
+            335.044,
+            136.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "blood",
+          "box": [
+            337.905,
+            124.721,
+            369.509,
+            136.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "glucose",
+          "box": [
+            373.32,
+            124.721,
+            416.021,
+            136.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            95.4,
+            138.716,
+            105.49,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            109.8,
+            138.716,
+            117.541,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "blood",
+          "box": [
+            121.725,
+            138.716,
+            153.329,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "glucose",
+          "box": [
+            157.14,
+            138.716,
+            199.841,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            202.725,
+            138.716,
+            212.561,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "less",
+          "box": [
+            215.1,
+            138.716,
+            236.654,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            239.175,
+            138.716,
+            264.438,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "60",
+          "box": [
+            268.65,
+            138.716,
+            282.025,
+            150.713
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "mg/dL",
+          "box": [
+            285.165,
+            138.716,
+            321.622,
+            150.713
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ",",
+          "box": [
+            322.83,
+            138.716,
+            326.165,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "AND",
+          "box": [
+            328.95,
+            138.716,
+            355.229,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PATIENT",
+          "box": [
+            358.38,
+            138.716,
+            408.605,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IS",
+          "box": [
+            411.75,
+            138.716,
+            424.158,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "CONSCIOUS",
+          "box": [
+            425.835,
+            138.716,
+            494.943,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "AND",
+          "box": [
+            496.35,
+            138.716,
+            522.629,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ABLE",
+          "box": [
+            526.05,
+            138.716,
+            557.83,
+            150.713
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TO",
+          "box": [
+            109.8,
+            152.666,
+            126.487,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "SWALLOW,",
+          "box": [
+            129.15,
+            152.666,
+            195.242,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "give",
+          "box": [
+            197.325,
+            152.666,
+            220.877,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "glucose",
+          "box": [
+            223.74,
+            152.666,
+            266.441,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(one",
+          "box": [
+            269.325,
+            152.666,
+            294.815,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tablet",
+          "box": [
+            297.675,
+            152.666,
+            329.493,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            333.54,
+            152.666,
+            344.46,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tube)",
+          "box": [
+            349.2,
+            152.666,
+            378.817,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            382.095,
+            152.666,
+            393.443,
+            164.663
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ally",
+          "box": [
+            395.721,
+            152.666,
+            417.238,
+            164.663
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            418.23,
+            152.666,
+            421.565,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Repeat,",
+          "box": [
+            424.755,
+            152.666,
+            466.785,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            469.35,
+            152.666,
+            482.103,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "needed,",
+          "box": [
+            484.65,
+            152.666,
+            529.714,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            532.35,
+            152.666,
+            547.583,
+            164.663
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clinical",
+          "box": [
+            109.8,
+            166.661,
+            150.162,
+            178.658
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "improvement.",
+          "box": [
+            154.305,
+            166.661,
+            235.259,
+            178.658
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4.",
+          "box": [
+            81.0,
+            180.611,
+            91.04,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            93.33,
+            180.611,
+            101.071,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "unable",
+          "box": [
+            105.3,
+            180.611,
+            145.161,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            148.05,
+            180.611,
+            158.705,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "obtain",
+          "box": [
+            162.045,
+            180.611,
+            197.82,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            202.05,
+            180.611,
+            208.72,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "finger",
+          "box": [
+            211.905,
+            180.611,
+            244.664,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "stick",
+          "box": [
+            249.435,
+            180.611,
+            274.813,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "blood",
+          "box": [
+            278.955,
+            180.611,
+            310.559,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "glucose,",
+          "box": [
+            314.37,
+            180.611,
+            360.157,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            362.97,
+            180.611,
+            384.135,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            387.945,
+            180.611,
+            427.386,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            431.415,
+            180.611,
+            441.251,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            443.79,
+            180.611,
+            450.46,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "known",
+          "box": [
+            453.6,
+            180.611,
+            492.175,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "diabetic,",
+          "box": [
+            496.35,
+            180.611,
+            545.389,
+            192.608
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "has",
+          "box": [
+            93.465,
+            194.561,
+            113.832,
+            206.558
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clinical",
+          "box": [
+            116.37,
+            194.561,
+            156.732,
+            206.558
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "signs",
+          "box": [
+            160.875,
+            194.561,
+            190.318,
+            206.558
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            192.87,
+            194.561,
+            203.014,
+            206.558
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hypoglycemia",
+          "box": [
+            207.225,
+            194.561,
+            286.433,
+            206.558
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "AND",
+          "box": [
+            289.665,
+            194.561,
+            315.944,
+            206.558
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IS",
+          "box": [
+            319.14,
+            194.561,
+            331.548,
+            206.558
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "CONSCIOUS",
+          "box": [
+            333.18,
+            194.561,
+            402.288,
+            206.558
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "AND",
+          "box": [
+            403.92,
+            194.561,
+            430.199,
+            206.558
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ABLE",
+          "box": [
+            433.395,
+            194.561,
+            465.175,
+            206.558
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TO",
+          "box": [
+            467.55,
+            194.561,
+            484.237,
+            206.558
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "SWALLOW,",
+          "box": [
+            486.9,
+            194.561,
+            552.992,
+            206.558
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "give",
+          "box": [
+            93.465,
+            208.556,
+            117.017,
+            220.553
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "glucose",
+          "box": [
+            119.88,
+            208.556,
+            162.581,
+            220.553
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(one",
+          "box": [
+            165.465,
+            208.556,
+            190.955,
+            220.553
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tablet",
+          "box": [
+            193.815,
+            208.556,
+            225.633,
+            220.553
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            229.635,
+            208.556,
+            240.555,
+            220.553
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tube)",
+          "box": [
+            245.34,
+            208.556,
+            274.957,
+            220.553
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            278.235,
+            208.556,
+            289.583,
+            220.553
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ally",
+          "box": [
+            291.861,
+            208.556,
+            313.378,
+            220.553
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            314.325,
+            208.556,
+            317.66,
+            220.553
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Repeat,",
+          "box": [
+            320.895,
+            208.556,
+            362.925,
+            220.553
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            365.715,
+            208.556,
+            378.468,
+            220.553
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "needed,",
+          "box": [
+            381.015,
+            208.556,
+            426.079,
+            220.553
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            428.85,
+            208.556,
+            444.083,
+            220.553
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clinical",
+          "box": [
+            448.875,
+            208.556,
+            489.237,
+            220.553
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "improvement.",
+          "box": [
+            93.465,
+            222.506,
+            174.419,
+            234.503
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Or",
+          "box": [
+            81.0,
+            250.451,
+            94.436,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "al",
+          "box": [
+            96.714,
+            250.451,
+            106.564,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "glucose",
+          "box": [
+            111.24,
+            250.451,
+            156.375,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            159.66,
+            250.451,
+            169.883,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            172.89,
+            250.451,
+            184.177,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            187.965,
+            250.451,
+            202.42,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "administer",
+          "box": [
+            205.695,
+            250.451,
+            270.375,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ed",
+          "box": [
+            272.653,
+            250.451,
+            286.173,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            290.43,
+            250.451,
+            303.615,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "soon",
+          "box": [
+            306.585,
+            250.451,
+            333.811,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            338.265,
+            250.451,
+            351.45,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "possible",
+          "box": [
+            354.465,
+            250.451,
+            404.163,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            407.43,
+            250.451,
+            414.99,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            419.67,
+            250.451,
+            439.197,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            442.485,
+            250.451,
+            484.443,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "IS",
+          "box": [
+            488.7,
+            250.451,
+            501.512,
+            262.448
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "CONSCIOUS,",
+          "box": [
+            81.0,
+            264.401,
+            156.416,
+            276.398
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ABLE",
+          "box": [
+            159.615,
+            264.401,
+            192.552,
+            276.398
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "TO",
+          "box": [
+            195.48,
+            264.401,
+            212.644,
+            276.398
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "SWALLOW,",
+          "box": [
+            215.91,
+            264.401,
+            284.837,
+            276.398
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "AND",
+          "box": [
+            287.415,
+            264.401,
+            314.563,
+            276.398
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "PRESENTING",
+          "box": [
+            318.24,
+            264.401,
+            397.949,
+            276.398
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "WITH",
+          "box": [
+            400.995,
+            264.401,
+            435.1,
+            276.398
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "THE",
+          "box": [
+            439.38,
+            264.401,
+            465.035,
+            276.398
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "SIGNS/SYMPTOMS",
+          "box": [
+            81.0,
+            278.396,
+            192.885,
+            290.393
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "OF",
+          "box": [
+            195.03,
+            278.396,
+            211.801,
+            290.393
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "A",
+          "box": [
+            215.055,
+            278.396,
+            223.057,
+            290.393
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "DIABETIC",
+          "box": [
+            227.205,
+            278.396,
+            287.441,
+            290.393
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMERGENCY",
+          "box": [
+            289.935,
+            278.396,
+            367.912,
+            290.393
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ADVANCED",
+          "box": [
+            81.0,
+            306.341,
+            149.525,
+            318.338
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT",
+          "box": [
+            153.18,
+            306.341,
+            179.766,
+            318.338
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "5.",
+          "box": [
+            81.0,
+            320.291,
+            91.04,
+            332.288
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Establish",
+          "box": [
+            93.33,
+            320.291,
+            144.201,
+            332.288
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            148.275,
+            320.291,
+            160.683,
+            332.288
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "en",
+          "box": [
+            163.89,
+            320.291,
+            176.982,
+            332.288
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "route",
+          "box": [
+            181.17,
+            320.291,
+            212.022,
+            332.288
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6.",
+          "box": [
+            81.0,
+            334.286,
+            91.04,
+            346.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            93.33,
+            334.286,
+            101.071,
+            346.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "blood",
+          "box": [
+            105.3,
+            334.286,
+            136.904,
+            346.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "glucose",
+          "box": [
+            140.715,
+            334.286,
+            183.416,
+            346.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            186.3,
+            334.286,
+            196.136,
+            346.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "less",
+          "box": [
+            198.675,
+            334.286,
+            220.229,
+            346.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            222.75,
+            334.286,
+            248.013,
+            346.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "60",
+          "box": [
+            252.225,
+            334.286,
+            265.6,
+            346.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "mg/dL:",
+          "box": [
+            268.74,
+            334.286,
+            309.705,
+            346.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            97.2,
+            348.236,
+            107.29,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "And",
+          "box": [
+            113.4,
+            348.236,
+            136.27,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            140.04,
+            348.236,
+            179.481,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            183.51,
+            348.236,
+            193.346,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "conscious",
+          "box": [
+            195.885,
+            348.236,
+            252.148,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            254.7,
+            348.236,
+            275.865,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "able",
+          "box": [
+            279.675,
+            348.236,
+            304.182,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            307.035,
+            348.236,
+            317.69,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "swallow,",
+          "box": [
+            321.075,
+            348.236,
+            371.024,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "give",
+          "box": [
+            373.32,
+            348.236,
+            396.872,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "glucose",
+          "box": [
+            399.735,
+            348.236,
+            442.436,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(one",
+          "box": [
+            445.32,
+            348.236,
+            470.81,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tablet",
+          "box": [
+            473.4,
+            348.236,
+            505.218,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            509.4,
+            348.236,
+            520.32,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tube)",
+          "box": [
+            525.15,
+            348.236,
+            554.767,
+            360.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            113.4,
+            362.186,
+            124.748,
+            374.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ally",
+          "box": [
+            127.026,
+            362.186,
+            148.543,
+            374.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ",",
+          "box": [
+            149.49,
+            362.186,
+            152.825,
+            374.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "otherwise,",
+          "box": [
+            155.61,
+            362.186,
+            215.913,
+            374.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b.",
+          "box": [
+            97.2,
+            376.181,
+            107.659,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            113.4,
+            376.181,
+            121.141,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            125.325,
+            376.181,
+            164.766,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            168.795,
+            376.181,
+            178.631,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "40",
+          "box": [
+            181.17,
+            376.181,
+            194.545,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "kg",
+          "box": [
+            197.685,
+            376.181,
+            211.254,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            214.155,
+            376.181,
+            225.075,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "more,",
+          "box": [
+            229.86,
+            376.181,
+            263.53,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "administer",
+          "box": [
+            266.31,
+            376.181,
+            327.114,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dextrose",
+          "box": [
+            331.92,
+            376.181,
+            381.407,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "25",
+          "box": [
+            384.255,
+            376.181,
+            397.63,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "gm",
+          "box": [
+            400.815,
+            376.181,
+            417.261,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            421.74,
+            376.181,
+            434.552,
+            388.178
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(50",
+          "box": [
+            438.03,
+            376.181,
+            455.559,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL",
+          "box": [
+            458.55,
+            376.181,
+            476.556,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            480.6,
+            376.181,
+            490.744,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "50%",
+          "box": [
+            495.0,
+            376.181,
+            519.075,
+            388.178
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "solution",
+          "box": [
+            113.4,
+            390.131,
+            158.732,
+            402.128
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            162.9,
+            390.131,
+            173.821,
+            402.128
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "250",
+          "box": [
+            178.605,
+            390.131,
+            198.685,
+            402.128
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL",
+          "box": [
+            201.825,
+            390.131,
+            219.831,
+            402.128
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            223.785,
+            390.131,
+            233.929,
+            402.128
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "D",
+          "box": [
+            238.14,
+            390.131,
+            246.802,
+            402.128
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10",
+          "box": [
+            246.87,
+            394.966,
+            256.232,
+            403.363
+          ],
+          "font": "Helvetica",
+          "size": 8.397
+        },
+        {
+          "text": "W",
+          "box": [
+            256.23,
+            390.131,
+            267.555,
+            402.128
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "solution),",
+          "box": [
+            271.935,
+            390.131,
+            325.825,
+            402.128
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "c.",
+          "box": [
+            97.2,
+            404.126,
+            106.439,
+            416.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            113.4,
+            404.126,
+            121.141,
+            416.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "under",
+          "box": [
+            125.325,
+            404.126,
+            158.457,
+            416.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "40",
+          "box": [
+            163.26,
+            404.126,
+            176.635,
+            416.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "kg",
+          "box": [
+            179.775,
+            404.126,
+            193.344,
+            416.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "give",
+          "box": [
+            196.245,
+            404.126,
+            219.797,
+            416.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "D",
+          "box": [
+            222.705,
+            404.126,
+            231.367,
+            416.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10",
+          "box": [
+            231.39,
+            408.916,
+            240.752,
+            417.313
+          ],
+          "font": "Helvetica",
+          "size": 8.397
+        },
+        {
+          "text": "W",
+          "box": [
+            240.795,
+            404.126,
+            252.12,
+            416.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            256.5,
+            404.126,
+            269.253,
+            416.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "per",
+          "box": [
+            271.755,
+            404.126,
+            289.533,
+            416.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            294.345,
+            404.126,
+            312.854,
+            416.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "following:",
+          "box": [
+            315.72,
+            404.126,
+            372.914,
+            416.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "d.",
+          "box": [
+            99.675,
+            557.486,
+            110.372,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            113.58,
+            557.486,
+            121.321,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            125.55,
+            557.486,
+            137.958,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "unavailable,",
+          "box": [
+            141.165,
+            557.486,
+            211.399,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "DO",
+          "box": [
+            214.2,
+            557.486,
+            232.255,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NOT",
+          "box": [
+            234.945,
+            557.486,
+            260.338,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PLACE",
+          "box": [
+            263.475,
+            557.486,
+            301.775,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IO.",
+          "box": [
+            304.38,
+            557.486,
+            320.784,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Administer",
+          "box": [
+            327.15,
+            557.486,
+            389.417,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "glucagon",
+          "box": [
+            394.2,
+            557.486,
+            444.578,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            448.785,
+            557.486,
+            458.758,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            462.6,
+            557.486,
+            481.109,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "following",
+          "box": [
+            483.75,
+            557.486,
+            537.826,
+            569.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "doses:",
+          "box": [
+            113.4,
+            571.436,
+            148.271,
+            583.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "i.",
+          "box": [
+            115.245,
+            585.386,
+            122.418,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Adult",
+          "box": [
+            125.64,
+            585.386,
+            157.779,
+            597.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            162.45,
+            585.386,
+            183.615,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pediatr",
+          "box": [
+            187.425,
+            585.386,
+            229.858,
+            597.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ic",
+          "box": [
+            232.136,
+            585.386,
+            242.359,
+            597.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            245.79,
+            585.386,
+            292.119,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "20",
+          "box": [
+            294.66,
+            585.386,
+            308.035,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "kg",
+          "box": [
+            311.22,
+            585.386,
+            324.789,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            327.69,
+            585.386,
+            338.61,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "greater:",
+          "box": [
+            343.395,
+            585.386,
+            388.075,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Glucagon",
+          "box": [
+            391.32,
+            585.386,
+            443.808,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            447.975,
+            585.386,
+            454.645,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg",
+          "box": [
+            457.65,
+            585.386,
+            475.656,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IM",
+          "box": [
+            478.35,
+            585.386,
+            493.154,
+            597.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            494.55,
+            585.386,
+            497.885,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ii.",
+          "box": [
+            113.4,
+            599.336,
+            124.41,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pediatr",
+          "box": [
+            127.62,
+            599.336,
+            170.053,
+            611.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ic",
+          "box": [
+            172.331,
+            599.336,
+            182.554,
+            611.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            185.985,
+            599.336,
+            232.314,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "less",
+          "box": [
+            234.855,
+            599.336,
+            256.409,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            258.93,
+            599.336,
+            284.193,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "20",
+          "box": [
+            288.405,
+            599.336,
+            301.78,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "kg:",
+          "box": [
+            304.965,
+            599.336,
+            321.652,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Glucagon",
+          "box": [
+            324.855,
+            599.336,
+            377.343,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.5",
+          "box": [
+            381.555,
+            599.336,
+            398.364,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg",
+          "box": [
+            401.535,
+            599.336,
+            419.541,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IM",
+          "box": [
+            422.415,
+            599.336,
+            437.219,
+            611.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "7.",
+          "box": [
+            81.0,
+            613.286,
+            91.04,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            94.23,
+            613.286,
+            101.971,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "blood",
+          "box": [
+            106.2,
+            613.286,
+            137.804,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "glucose",
+          "box": [
+            141.615,
+            613.286,
+            184.316,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            187.2,
+            613.286,
+            197.036,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "greater",
+          "box": [
+            199.575,
+            613.286,
+            239.263,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            244.035,
+            613.286,
+            269.298,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "300",
+          "box": [
+            273.465,
+            613.286,
+            293.545,
+            625.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "mg/dL",
+          "box": [
+            296.73,
+            613.286,
+            333.187,
+            625.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ",",
+          "box": [
+            334.35,
+            613.286,
+            337.685,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "give",
+          "box": [
+            340.47,
+            613.286,
+            364.022,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NS",
+          "box": [
+            366.93,
+            613.286,
+            384.09,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fluid",
+          "box": [
+            385.74,
+            613.286,
+            412.012,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bolus",
+          "box": [
+            415.8,
+            613.286,
+            447.421,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "8.",
+          "box": [
+            81.0,
+            627.236,
+            91.04,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Repeat",
+          "box": [
+            94.23,
+            627.236,
+            132.035,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "glucose",
+          "box": [
+            136.035,
+            627.236,
+            178.736,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "measurement",
+          "box": [
+            181.62,
+            627.236,
+            259.831,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "every",
+          "box": [
+            263.88,
+            627.236,
+            295.204,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5",
+          "box": [
+            299.115,
+            627.236,
+            305.785,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes",
+          "box": [
+            308.925,
+            627.236,
+            355.979,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "until",
+          "box": [
+            358.515,
+            627.236,
+            384.477,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hypoglycemia",
+          "box": [
+            388.665,
+            627.236,
+            467.873,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            470.7,
+            627.236,
+            480.536,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "resolved",
+          "box": [
+            483.3,
+            627.236,
+            531.238,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            535.05,
+            627.236,
+            556.215,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            93.465,
+            641.186,
+            108.698,
+            653.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "any",
+          "box": [
+            113.445,
+            641.186,
+            133.821,
+            653.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "concerns",
+          "box": [
+            137.745,
+            641.186,
+            190.03,
+            653.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            192.555,
+            641.186,
+            202.699,
+            653.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "recurrent",
+          "box": [
+            206.91,
+            641.186,
+            261.185,
+            653.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hypoglycemia.",
+          "box": [
+            265.23,
+            641.186,
+            347.857,
+            653.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "9.",
+          "box": [
+            81.0,
+            655.136,
+            91.04,
+            667.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Cardiac",
+          "box": [
+            94.23,
+            655.136,
+            137.951,
+            667.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "monitor",
+          "box": [
+            140.985,
+            655.136,
+            185.728,
+            667.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PARAMEDIC",
+          "box": [
+            81.0,
+            683.486,
+            156.415,
+            695.483
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "10.",
+          "box": [
+            81.0,
+            697.436,
+            97.745,
+            709.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Repeat",
+          "box": [
+            100.935,
+            697.436,
+            138.74,
+            709.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            142.785,
+            697.436,
+            154.133,
+            709.433
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "al",
+          "box": [
+            156.411,
+            697.436,
+            166.261,
+            709.433
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "glucose,",
+          "box": [
+            170.91,
+            697.436,
+            216.697,
+            709.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            219.51,
+            697.436,
+            232.322,
+            709.433
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "dextrose",
+          "box": [
+            235.8,
+            697.436,
+            285.287,
+            709.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            288.18,
+            697.436,
+            299.101,
+            709.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IM",
+          "box": [
+            303.885,
+            697.436,
+            318.689,
+            709.433
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "glucagon,",
+          "box": [
+            323.235,
+            697.436,
+            378.018,
+            709.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            380.79,
+            697.436,
+            387.963,
+            709.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clinically",
+          "box": [
+            392.175,
+            697.436,
+            443.196,
+            709.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "indicated.",
+          "box": [
+            447.12,
+            697.436,
+            503.664,
+            709.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            506.7,
+            697.436,
+            514.441,
+            709.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oral",
+          "box": [
+            518.85,
+            697.436,
+            540.845,
+            709.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "glucose",
+          "box": [
+            99.675,
+            711.386,
+            142.376,
+            723.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            145.26,
+            711.386,
+            155.096,
+            723.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "contraindicated,",
+          "box": [
+            157.635,
+            711.386,
+            251.263,
+            723.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            254.07,
+            711.386,
+            264.99,
+            723.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oral",
+          "box": [
+            269.775,
+            711.386,
+            291.77,
+            723.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "glucose",
+          "box": [
+            295.92,
+            711.386,
+            338.621,
+            723.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            341.505,
+            711.386,
+            362.67,
+            723.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IM",
+          "box": [
+            366.48,
+            711.386,
+            381.284,
+            723.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "glucagon",
+          "box": [
+            385.83,
+            711.386,
+            436.208,
+            723.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            440.415,
+            711.386,
+            459.492,
+            723.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ineffective",
+          "box": [
+            462.15,
+            711.386,
+            522.54,
+            723.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "AND",
+          "box": [
+            525.6,
+            711.386,
+            551.879,
+            723.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            100.305,
+            725.336,
+            113.117,
+            737.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "access",
+          "box": [
+            116.595,
+            725.336,
+            152.991,
+            737.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cannot",
+          "box": [
+            155.52,
+            725.336,
+            193.919,
+            737.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            197.955,
+            725.336,
+            211.987,
+            737.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "established,",
+          "box": [
+            214.875,
+            725.336,
+            282.755,
+            737.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consider",
+          "box": [
+            285.525,
+            725.336,
+            333.124,
+            737.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "placing",
+          "box": [
+            337.905,
+            725.336,
+            379.894,
+            737.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "an",
+          "box": [
+            382.815,
+            725.336,
+            396.24,
+            737.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IO",
+          "box": [
+            400.41,
+            725.336,
+            414.554,
+            737.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            417.78,
+            725.336,
+            433.013,
+            737.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "administration",
+          "box": [
+            437.805,
+            725.336,
+            522.258,
+            737.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            526.05,
+            725.336,
+            536.194,
+            737.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dextrose",
+          "box": [
+            99.675,
+            739.286,
+            149.162,
+            751.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "25",
+          "box": [
+            152.055,
+            739.286,
+            165.43,
+            751.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "gm",
+          "box": [
+            168.57,
+            739.286,
+            185.017,
+            751.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(250",
+          "box": [
+            189.495,
+            739.286,
+            213.729,
+            751.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL",
+          "box": [
+            216.9,
+            739.286,
+            234.906,
+            751.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            238.815,
+            739.286,
+            248.959,
+            751.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "D",
+          "box": [
+            253.17,
+            739.286,
+            261.832,
+            751.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "10",
+          "box": [
+            262.395,
+            743.941,
+            271.757,
+            752.338
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 8.397
+        },
+        {
+          "text": "W",
+          "box": [
+            271.755,
+            739.286,
+            283.08,
+            751.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ")",
+          "box": [
+            284.58,
+            739.286,
+            288.575,
+            751.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Weight",
+          "box": [
+            183.6,
+            426.626,
+            223.101,
+            438.623
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(Kg/Lbs)",
+          "box": [
+            227.115,
+            426.626,
+            273.825,
+            438.623
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Volume",
+          "box": [
+            304.335,
+            426.626,
+            347.976,
+            438.623
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            350.865,
+            426.626,
+            361.52,
+            438.623
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            364.905,
+            426.626,
+            378.937,
+            438.623
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "infused",
+          "box": [
+            381.78,
+            426.626,
+            423.906,
+            438.623
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3/6.6",
+          "box": [
+            181.89,
+            444.086,
+            208.861,
+            456.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(newborn)",
+          "box": [
+            212.04,
+            444.086,
+            272.371,
+            456.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "15",
+          "box": [
+            346.815,
+            444.086,
+            360.19,
+            456.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL",
+          "box": [
+            363.33,
+            444.086,
+            381.336,
+            456.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5/11",
+          "box": [
+            215.415,
+            461.636,
+            238.952,
+            473.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "25",
+          "box": [
+            346.815,
+            461.636,
+            360.19,
+            473.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL",
+          "box": [
+            363.33,
+            461.636,
+            381.336,
+            473.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10/22",
+          "box": [
+            212.085,
+            479.636,
+            242.327,
+            491.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "50",
+          "box": [
+            346.815,
+            479.636,
+            360.19,
+            491.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL",
+          "box": [
+            363.33,
+            479.636,
+            381.336,
+            491.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "20/44",
+          "box": [
+            212.085,
+            497.186,
+            242.327,
+            509.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "100",
+          "box": [
+            343.44,
+            497.186,
+            363.52,
+            509.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL",
+          "box": [
+            366.705,
+            497.186,
+            384.711,
+            509.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "30/66",
+          "box": [
+            212.085,
+            515.186,
+            242.327,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "150",
+          "box": [
+            343.44,
+            515.186,
+            363.52,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL",
+          "box": [
+            366.705,
+            515.186,
+            384.711,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "40/88",
+          "box": [
+            212.085,
+            533.186,
+            242.327,
+            545.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "200",
+          "box": [
+            343.44,
+            533.186,
+            363.52,
+            545.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL",
+          "box": [
+            366.705,
+            533.186,
+            384.711,
+            545.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0080.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 98.46,
+    "output_to_native_length_ratio": 0.976,
+    "native_dosage_tokens": [
+      "0.5mg",
+      "100ml",
+      "150ml",
+      "15ml",
+      "1mg",
+      "200ml",
+      "20kg",
+      "250ml",
+      "25ml",
+      "300mg",
+      "40kg",
+      "50ml",
+      "60mg"
+    ],
+    "output_dosage_tokens": [
+      "0.5mg",
+      "100ml",
+      "150ml",
+      "15ml",
+      "1mg",
+      "200ml",
+      "20kg",
+      "250ml",
+      "25ml",
+      "300mg",
+      "40kg",
+      "50ml",
+      "60mg"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

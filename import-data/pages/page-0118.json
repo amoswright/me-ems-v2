@@ -1,0 +1,2959 @@
+{
+  "id": "page-0118",
+  "pdf_page": 118,
+  "protocol_label": "Green 24",
+  "kind": "protocol",
+  "chapter_id": "green",
+  "topic_id": "green-facial-dental-injury",
+  "title": "Facial / Dental Injury",
+  "markdown": "# Facial / Dental Injury\n\n## EMT/ADVANCED EMT/ PARAMEDIC\n\n1. Administer oxygen, as appropriate, with a target of achieving 94-99% saturation.\n2. **Avulsed tooth:**\n    a. Avoid touching the root of the avulsed tooth. Do not wipe off tooth.\n    b. Pick up at crown end. If dirty, rinse off under cold water for 10 seconds.\n    c. Place tooth in milk or saline as the storage medium. Alternatively, a cooperative patient can hold tooth in mouth using own saliva as storage medium.\n3. **Unstable Mandible Injury:**\n    a. Expect patient cannot spit/swallow effectively and have suction readily available.\n    b. Preferentially transport sitting up with emesis basin/suction available (in the absence of a suspected spinal injury, see Spinal Management Protocol, **Green 3**).\n4. **Epistaxis:**\n    a. Pinch nose continuously for 10 - 15 minutes, below nasal bones while having patient lean forward. May place a nasal clamp for hemorrhage, if so available.\n5. **Nose/Ear Avulsion:**\n    a. Recover tissue if doing so does not delay care.\n    b. Transport with avulsed tissue wrapped in dry sterile gauze in a plastic bag placed on ice.\n    c. Severe ear and nose lacerations can be covered with a moist sterile dressing.\n\n## ADVANCED EMT/PARAMEDIC\n6. IV access, as needed, for fluid or medication administration.\n\n## PARAMEDIC\n7. Pain medication as per Universal Pain Management protocol, **Green 18**.\n",
+  "plain_text": "Facial / Dental Injury EMT/ADVANCED EMT/ PARAMEDIC Administer oxygen, as appropriate, with a target of achieving 94-99% saturation. Avulsed tooth: Avoid touching the root of the avulsed tooth. Do not wipe off tooth. Pick up at crown end. If dirty, rinse off under cold water for 10 seconds. Place tooth in milk or saline as the storage medium. Alternatively, a cooperative patient can hold tooth in mouth using own saliva as storage medium. Unstable Mandible Injury: Expect patient cannot spit/swallow effectively and have suction readily available. Preferentially transport sitting up with emesis basin/suction available (in the absence of a suspected spinal injury, see Spinal Management Protocol, Green 3). Epistaxis: Pinch nose continuously for 10 - 15 minutes, below nasal bones while having patient lean forward. May place a nasal clamp for hemorrhage, if so available. Nose/Ear Avulsion: Recover tissue if doing so does not delay care. Transport with avulsed tissue wrapped in dry sterile gauze in a plastic bag placed on ice. Severe ear and nose lacerations can be covered with a moist sterile dressing. ADVANCED EMT/PARAMEDIC IV access, as needed, for fluid or medication administration. PARAMEDIC Pain medication as per Universal Pain Management protocol, Green 18.",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        360.22,
+        38.39,
+        666.98,
+        63.64
+      ],
+      "text": "Facial/Dental Injur y",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        176.47,
+        81.57,
+        522.57,
+        96.71
+      ],
+      "text": "EMT/ADVANCED EMT/ PARAMEDIC",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        176.47,
+        116.85,
+        847.48,
+        132.0
+      ],
+      "text": "1. Administer oxygen, as appropriate, with a target of achieving 94-99%",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        205.88,
+        134.46,
+        307.58,
+        149.61
+      ],
+      "text": "saturation.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        176.47,
+        169.75,
+        348.1,
+        184.9
+      ],
+      "text": "2. Avulsed tooth:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        205.88,
+        187.42,
+        855.41,
+        202.57
+      ],
+      "text": "a. Avoid touching the root of the avulsed tooth. Do not wipe off tooth.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        205.88,
+        205.03,
+        903.54,
+        220.18
+      ],
+      "text": "b. Pick up at crown end. If dirty, rinse off under cold water for 10 seconds.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        205.88,
+        222.65,
+        863.1,
+        237.79
+      ],
+      "text": "c. Place tooth in milk or saline as the storage medium. Alternatively, a",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        235.29,
+        240.32,
+        903.49,
+        255.46
+      ],
+      "text": "cooperative patient can hold tooth in mouth using own saliva as storage",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        235.29,
+        257.93,
+        319.02,
+        273.08
+      ],
+      "text": "medium.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        176.47,
+        293.21,
+        465.59,
+        308.36
+      ],
+      "text": "3. Unstable Mandible Injur y:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        205.88,
+        310.83,
+        893.43,
+        325.98
+      ],
+      "text": "a. Expect patient cannot spit/swallow effectively and have suction readily",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        235.29,
+        328.5,
+        324.97,
+        343.65
+      ],
+      "text": "available.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        79.04,
+        333.11,
+        157.78,
+        355.84
+      ],
+      "text": "E A P",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        205.88,
+        346.11,
+        913.66,
+        361.26
+      ],
+      "text": "b. Preferentially transport sitting up with emesis basin/suction available (in",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        235.29,
+        363.78,
+        923.69,
+        378.93
+      ],
+      "text": "the absence of a suspected spinal injury, see Spinal Management Protocol,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        235.29,
+        381.4,
+        324.37,
+        396.54
+      ],
+      "text": "Gr een 3 ).",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        176.47,
+        416.68,
+        302.03,
+        431.83
+      ],
+      "text": "4. Epistaxis:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        205.88,
+        434.29,
+        889.9,
+        449.44
+      ],
+      "text": "a. Pinch nose continuously for 10 ? 15 minutes, below nasal bones while",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        235.29,
+        451.96,
+        914.66,
+        467.11
+      ],
+      "text": "having patient lean forward. May place a nasal clamp for hemorrhage, if",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        235.29,
+        469.58,
+        350.19,
+        484.73
+      ],
+      "text": "so available.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        176.47,
+        504.86,
+        392.05,
+        520.01
+      ],
+      "text": "5. Nose/Ear Avulsion:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        205.88,
+        522.48,
+        660.27,
+        537.62
+      ],
+      "text": "a. Recover tissue if doing so does not delay care.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        205.88,
+        540.15,
+        890.38,
+        555.29
+      ],
+      "text": "b. Transport with avulsed tissue wrapped in dry sterile gauze in a plastic",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        235.29,
+        557.31,
+        401.34,
+        572.45
+      ],
+      "text": "bag placed on ice.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        205.88,
+        574.92,
+        865.89,
+        590.07
+      ],
+      "text": "c. Severe ear and nose lacerations can be covered with a moist sterile",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        235.29,
+        592.53,
+        319.65,
+        607.68
+      ],
+      "text": "dressing.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        176.47,
+        628.33,
+        467.54,
+        643.48
+      ],
+      "text": "ADVANCED EMT/PARAMEDIC",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        85.15,
+        642.77,
+        767.99,
+        665.5
+      ],
+      "text": "A P 6. IV access, as needed, for fluid or medication administration.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        176.47,
+        698.78,
+        299.7,
+        713.93
+      ],
+      "text": "PARAMEDIC",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        176.47,
+        716.4,
+        874.57,
+        731.54
+      ],
+      "text": "7. Pain medication as per Universal Pain Management protocol, Gr een 18 .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        108.75,
+        794.48,
+        128.37,
+        817.2
+      ],
+      "text": "P",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        439.93,
+        936.28,
+        932.88,
+        953.7
+      ],
+      "text": "(Back to TOC) Green 24",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "cb568d89f41c920882571de502a6f65b6bbe1a46b527bc3cfa4adc38bed8aa7a",
+    "native": {
+      "text": "Facial/Dental Injur y\nEMT/ADVANCED EMT/ PARAMEDIC\n1. Administer oxygen, as appropriate, with a target of achieving 94-99%\nsaturation.\n2. Avulsed tooth:\na. Avoid touching the root of the avulsed tooth. Do not wipe off tooth.\nb. Pick up at crown end. If dirty, rinse off under cold water for 10 seconds.\nc. Place tooth in milk or saline as the storage medium. Alternatively, a\ncooperative patient can hold tooth in mouth using own saliva as storage\nmedium.\n3. Unstable Mandible Injur y:\na. Expect patient cannot spit/swallow effectively and have suction readily\navailable.\nE A P\nb. Preferentially transport sitting up with emesis basin/suction available (in\nthe absence of a suspected spinal injury, see Spinal Management Protocol,\nGr een 3).\n4. Epistaxis:\na. Pinch nose continuously for 10 ? 15 minutes, below nasal bones while\nhaving patient lean forward. May place a nasal clamp for hemorrhage, if\nso available.\n5. Nose/Ear Avulsion:\na. Recover tissue if doing so does not delay care.\nb. Transport with avulsed tissue wrapped in dry sterile gauze in a plastic\nbag placed on ice.\nc. Severe ear and nose lacerations can be covered with a moist sterile\ndressing.\nADVANCED EMT/PARAMEDIC\nA P 6. IV access, as needed, for fluid or medication administration.\nPARAMEDIC\n7. Pain medication as per Universal Pain Management protocol, Gr een 18.\nP\n(Back to TOC) Green 24",
+      "body_text": "(Back to TOC) Green 24 E A P P 1. Administer oxygen, as appropriate, with a target of achieving 94-99% saturation. 2. Avulsed tooth: a. Avoid touching the root of the avulsed tooth. Do not wipe off tooth. b. Pick up at crown end. If dirty, rinse off under cold water for 10 seconds. c. Place tooth in milk or saline as the storage medium. Alternatively, a cooperative patient can hold tooth in mouth using own saliva as storage medium. 3. Unstable Mandible Injur y: a. Expect patient cannot spit/swallow effectively and have suction readily available. b. Preferentially transport sitting up with emesis basin/suction available (in the absence of a suspected spinal injury, see Spinal Management Protocol, Gr een 3 ). 4. Epistaxis: a. Pinch nose continuously for 10 ? 15 minutes, below nasal bones while having patient lean forward. May place a nasal clamp for hemorrhage, if so available. 5. Nose/Ear Avulsion: a. Recover tissue if doing so does not delay care. b. Transport with avulsed tissue wrapped in dry sterile gauze in a plastic bag placed on ice. c. Severe ear and nose lacerations can be covered with a moist sterile dressing. ADVANCED EMT/PARAMEDIC 6. IV access, as needed, for fluid or medication administration. PARAMEDIC 7. Pain medication as per Universal Pain Management protocol, Gr een 18 . A P",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            269.235,
+            743.336,
+            299.889,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            304.02,
+            743.336,
+            314.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            318.06,
+            743.336,
+            345.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Green",
+          "box": [
+            519.75,
+            741.536,
+            553.479,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "24",
+          "box": [
+            557.55,
+            741.536,
+            570.925,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "E",
+          "box": [
+            48.375,
+            263.826,
+            60.381,
+            281.826
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "A",
+          "box": [
+            65.61,
+            263.826,
+            77.616,
+            281.826
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "P",
+          "box": [
+            84.555,
+            263.826,
+            96.561,
+            281.826
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "P",
+          "box": [
+            66.555,
+            629.226,
+            78.561,
+            647.226
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "Facial/Dental",
+          "box": [
+            220.455,
+            30.402,
+            342.651,
+            50.4
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Injur",
+          "box": [
+            349.65,
+            30.402,
+            395.234,
+            50.4
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "y",
+          "box": [
+            398.192,
+            30.402,
+            408.191,
+            50.4
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "EMT/ADVANCED",
+          "box": [
+            108.0,
+            64.601,
+            207.068,
+            76.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT/",
+          "box": [
+            210.735,
+            64.601,
+            241.156,
+            76.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "PARAMEDIC",
+          "box": [
+            244.395,
+            64.601,
+            319.81,
+            76.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1.",
+          "box": [
+            108.0,
+            92.546,
+            118.04,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Administer",
+          "box": [
+            126.0,
+            92.546,
+            188.267,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oxygen,",
+          "box": [
+            193.05,
+            92.546,
+            236.921,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            239.715,
+            92.546,
+            252.468,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "appropriate,",
+          "box": [
+            254.97,
+            92.546,
+            326.262,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            329.085,
+            92.546,
+            354.159,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            358.2,
+            92.546,
+            364.87,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "target",
+          "box": [
+            368.1,
+            92.546,
+            400.707,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            404.73,
+            92.546,
+            414.874,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "achieving",
+          "box": [
+            419.085,
+            92.546,
+            474.696,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "94-99%",
+          "box": [
+            477.45,
+            92.546,
+            518.656,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "saturation.",
+          "box": [
+            126.0,
+            106.496,
+            188.242,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2.",
+          "box": [
+            108.0,
+            134.441,
+            118.04,
+            146.438
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Avulsed",
+          "box": [
+            126.0,
+            134.441,
+            173.3,
+            146.438
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "tooth:",
+          "box": [
+            177.525,
+            134.441,
+            213.04,
+            146.438
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            126.0,
+            148.436,
+            136.09,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Avoid",
+          "box": [
+            144.0,
+            148.436,
+            176.126,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "touching",
+          "box": [
+            179.91,
+            148.436,
+            230.2,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            233.1,
+            148.436,
+            251.609,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "root",
+          "box": [
+            254.52,
+            148.436,
+            277.241,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            281.25,
+            148.436,
+            291.394,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            295.605,
+            148.436,
+            314.114,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "avulsed",
+          "box": [
+            316.98,
+            148.436,
+            360.162,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tooth.",
+          "box": [
+            363.96,
+            148.436,
+            396.969,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Do",
+          "box": [
+            400.185,
+            148.436,
+            415.576,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            418.95,
+            148.436,
+            436.951,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "wipe",
+          "box": [
+            441.0,
+            148.436,
+            469.211,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "off",
+          "box": [
+            472.05,
+            148.436,
+            486.623,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tooth.",
+          "box": [
+            490.5,
+            148.436,
+            523.509,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b.",
+          "box": [
+            126.0,
+            162.386,
+            136.459,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pick",
+          "box": [
+            144.0,
+            162.386,
+            166.985,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "up",
+          "box": [
+            171.09,
+            162.386,
+            185.374,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            189.225,
+            162.386,
+            199.198,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "crown",
+          "box": [
+            203.175,
+            162.386,
+            238.434,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "end.",
+          "box": [
+            242.64,
+            162.386,
+            267.499,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            270.72,
+            162.386,
+            278.461,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dirty,",
+          "box": [
+            282.69,
+            162.386,
+            313.878,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "rinse",
+          "box": [
+            316.035,
+            162.386,
+            345.348,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "off",
+          "box": [
+            348.255,
+            162.386,
+            362.828,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "under",
+          "box": [
+            367.02,
+            162.386,
+            400.153,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cold",
+          "box": [
+            404.955,
+            162.386,
+            428.175,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "water",
+          "box": [
+            431.955,
+            162.386,
+            463.088,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            467.55,
+            162.386,
+            482.783,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10",
+          "box": [
+            487.8,
+            162.386,
+            501.175,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "seconds.",
+          "box": [
+            504.45,
+            162.386,
+            552.965,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "c.",
+          "box": [
+            126.0,
+            176.336,
+            135.239,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Place",
+          "box": [
+            144.0,
+            176.336,
+            174.294,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tooth",
+          "box": [
+            177.165,
+            176.336,
+            205.895,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            209.925,
+            176.336,
+            220.433,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "milk",
+          "box": [
+            224.64,
+            176.336,
+            249.532,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            253.665,
+            176.336,
+            264.585,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "saline",
+          "box": [
+            269.37,
+            176.336,
+            303.507,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            306.36,
+            176.336,
+            319.113,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            321.66,
+            176.336,
+            340.169,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "storage",
+          "box": [
+            343.035,
+            176.336,
+            384.771,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "medium.",
+          "box": [
+            387.675,
+            176.336,
+            438.916,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Alternatively,",
+          "box": [
+            442.125,
+            176.336,
+            519.653,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            521.55,
+            176.336,
+            528.22,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cooperative",
+          "box": [
+            144.0,
+            190.331,
+            211.151,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            214.02,
+            190.331,
+            253.461,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "can",
+          "box": [
+            257.445,
+            190.331,
+            276.774,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hold",
+          "box": [
+            280.98,
+            190.331,
+            305.91,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tooth",
+          "box": [
+            309.735,
+            190.331,
+            338.465,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            342.54,
+            190.331,
+            353.048,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mouth",
+          "box": [
+            357.21,
+            190.331,
+            393.98,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "using",
+          "box": [
+            398.07,
+            190.331,
+            429.345,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "own",
+          "box": [
+            432.225,
+            190.331,
+            456.045,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "saliva",
+          "box": [
+            459.9,
+            190.331,
+            492.635,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            495.9,
+            190.331,
+            508.653,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "storage",
+          "box": [
+            511.2,
+            190.331,
+            552.936,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "medium.",
+          "box": [
+            144.0,
+            204.281,
+            195.241,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3.",
+          "box": [
+            108.0,
+            232.226,
+            118.04,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Unstable",
+          "box": [
+            126.0,
+            232.226,
+            179.42,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Mandible",
+          "box": [
+            182.7,
+            232.226,
+            240.003,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Injur",
+          "box": [
+            243.315,
+            232.226,
+            272.265,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "y:",
+          "box": [
+            274.66,
+            232.226,
+            284.943,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            126.0,
+            246.176,
+            136.09,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Expect",
+          "box": [
+            144.0,
+            246.176,
+            181.432,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            185.445,
+            246.176,
+            224.886,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cannot",
+          "box": [
+            228.87,
+            246.176,
+            267.269,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "spit/swallow",
+          "box": [
+            271.305,
+            246.176,
+            340.534,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "effectively",
+          "box": [
+            345.33,
+            246.176,
+            403.495,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            407.385,
+            246.176,
+            428.55,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "have",
+          "box": [
+            432.36,
+            246.176,
+            459.87,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suction",
+          "box": [
+            462.6,
+            246.176,
+            503.072,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "readily",
+          "box": [
+            507.15,
+            246.176,
+            546.779,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available.",
+          "box": [
+            144.0,
+            260.171,
+            198.88,
+            272.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b.",
+          "box": [
+            126.0,
+            274.121,
+            136.459,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Preferentially",
+          "box": [
+            144.0,
+            274.121,
+            221.888,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transport",
+          "box": [
+            225.765,
+            274.121,
+            278.824,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "sitting",
+          "box": [
+            282.87,
+            274.121,
+            318.818,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "up",
+          "box": [
+            321.705,
+            274.121,
+            335.989,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            339.795,
+            274.121,
+            364.869,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "emesis",
+          "box": [
+            368.955,
+            274.121,
+            408.383,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "basin/suction",
+          "box": [
+            410.895,
+            274.121,
+            485.932,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available",
+          "box": [
+            490.05,
+            274.121,
+            541.844,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(in",
+          "box": [
+            544.5,
+            274.121,
+            559.162,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            144.0,
+            288.116,
+            162.509,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "absence",
+          "box": [
+            165.375,
+            288.116,
+            211.641,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            214.515,
+            288.116,
+            224.659,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            228.87,
+            288.116,
+            235.54,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suspected",
+          "box": [
+            238.725,
+            288.116,
+            293.935,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "spinal",
+          "box": [
+            297.765,
+            288.116,
+            331.536,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "injury,",
+          "box": [
+            335.7,
+            288.116,
+            374.37,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "see",
+          "box": [
+            376.56,
+            288.116,
+            395.065,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Spinal",
+          "box": [
+            397.935,
+            288.116,
+            432.817,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Management",
+          "box": [
+            436.995,
+            288.116,
+            510.971,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Protocol,",
+          "box": [
+            514.8,
+            288.116,
+            565.301,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            144.0,
+            302.066,
+            157.22,
+            314.063
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            159.498,
+            302.066,
+            179.866,
+            314.063
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "3",
+          "box": [
+            184.32,
+            302.066,
+            190.99,
+            314.063
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ").",
+          "box": [
+            191.025,
+            302.066,
+            198.514,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4.",
+          "box": [
+            108.0,
+            330.011,
+            118.04,
+            342.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Epistaxis:",
+          "box": [
+            126.0,
+            330.011,
+            184.845,
+            342.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            126.0,
+            343.961,
+            136.09,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pinch",
+          "box": [
+            144.0,
+            343.961,
+            175.397,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "nose",
+          "box": [
+            179.46,
+            343.961,
+            206.209,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "continuously",
+          "box": [
+            209.07,
+            343.961,
+            282.493,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            286.38,
+            343.961,
+            301.613,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10",
+          "box": [
+            306.405,
+            343.961,
+            319.78,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "?",
+          "box": [
+            322.92,
+            343.961,
+            329.59,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "15",
+          "box": [
+            332.055,
+            343.961,
+            345.43,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes,",
+          "box": [
+            348.615,
+            343.961,
+            398.419,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "below",
+          "box": [
+            404.325,
+            343.961,
+            437.299,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "nasal",
+          "box": [
+            442.08,
+            343.961,
+            471.406,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bones",
+          "box": [
+            475.2,
+            343.961,
+            509.647,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "while",
+          "box": [
+            512.55,
+            343.961,
+            544.617,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "having",
+          "box": [
+            144.0,
+            357.956,
+            183.204,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            186.075,
+            357.956,
+            225.516,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "lean",
+          "box": [
+            229.545,
+            357.956,
+            253.112,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "forward.",
+          "box": [
+            257.31,
+            357.956,
+            307.393,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "May",
+          "box": [
+            313.74,
+            357.956,
+            337.388,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "place",
+          "box": [
+            341.28,
+            357.956,
+            371.691,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            374.58,
+            357.956,
+            381.25,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "nasal",
+          "box": [
+            384.435,
+            357.956,
+            413.761,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clamp",
+          "box": [
+            417.96,
+            357.956,
+            452.228,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            455.85,
+            357.956,
+            471.083,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hemorrhage,",
+          "box": [
+            475.65,
+            357.956,
+            549.712,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            552.6,
+            357.956,
+            559.773,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "so",
+          "box": [
+            144.0,
+            371.906,
+            156.084,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available.",
+          "box": [
+            159.435,
+            371.906,
+            214.315,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5.",
+          "box": [
+            108.0,
+            399.851,
+            118.04,
+            411.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Nose/Ear",
+          "box": [
+            126.0,
+            399.851,
+            177.858,
+            411.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Avulsion:",
+          "box": [
+            183.24,
+            399.851,
+            239.934,
+            411.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            126.0,
+            413.801,
+            136.09,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Recover",
+          "box": [
+            144.0,
+            413.801,
+            188.009,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tissue",
+          "box": [
+            192.78,
+            413.801,
+            225.837,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            228.69,
+            413.801,
+            235.863,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "doing",
+          "box": [
+            240.075,
+            413.801,
+            272.61,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "so",
+          "box": [
+            275.535,
+            413.801,
+            287.619,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "does",
+          "box": [
+            290.97,
+            413.801,
+            317.677,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            320.22,
+            413.801,
+            338.221,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "delay",
+          "box": [
+            342.225,
+            413.801,
+            372.122,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "care.",
+          "box": [
+            376.02,
+            413.801,
+            404.087,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b.",
+          "box": [
+            126.0,
+            427.796,
+            136.459,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Transport",
+          "box": [
+            144.0,
+            427.796,
+            200.188,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            204.165,
+            427.796,
+            229.239,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "avulsed",
+          "box": [
+            233.325,
+            427.796,
+            276.507,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tissue",
+          "box": [
+            280.305,
+            427.796,
+            313.362,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "wrapped",
+          "box": [
+            316.26,
+            427.796,
+            366.823,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            370.62,
+            427.796,
+            381.128,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dry",
+          "box": [
+            385.335,
+            427.796,
+            404.464,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "sterile",
+          "box": [
+            408.375,
+            427.796,
+            444.198,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "gauze",
+          "box": [
+            447.075,
+            427.796,
+            480.583,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            483.3,
+            427.796,
+            493.808,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            498.15,
+            427.796,
+            504.82,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "plastic",
+          "box": [
+            507.6,
+            427.796,
+            544.911,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bag",
+          "box": [
+            144.0,
+            441.386,
+            164.787,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "placed",
+          "box": [
+            167.67,
+            441.386,
+            204.503,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            208.305,
+            441.386,
+            221.901,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ice.",
+          "box": [
+            226.125,
+            441.386,
+            245.623,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "c.",
+          "box": [
+            126.0,
+            455.336,
+            135.239,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Severe",
+          "box": [
+            144.0,
+            455.336,
+            182.404,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ear",
+          "box": [
+            185.265,
+            455.336,
+            202.436,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            207.225,
+            455.336,
+            228.39,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "nose",
+          "box": [
+            232.2,
+            455.336,
+            258.949,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "lacerations",
+          "box": [
+            261.81,
+            455.336,
+            325.626,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "can",
+          "box": [
+            328.14,
+            455.336,
+            347.469,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            351.675,
+            455.336,
+            365.707,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "covered",
+          "box": [
+            368.595,
+            455.336,
+            413.304,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            417.105,
+            455.336,
+            442.179,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            446.265,
+            455.336,
+            452.935,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "moist",
+          "box": [
+            459.0,
+            455.336,
+            489.847,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "sterile",
+          "box": [
+            494.1,
+            455.336,
+            529.923,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dressing.",
+          "box": [
+            144.0,
+            469.286,
+            195.628,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ADVANCED",
+          "box": [
+            108.0,
+            497.636,
+            176.525,
+            509.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT/PARAMEDIC",
+          "box": [
+            180.18,
+            497.636,
+            286.137,
+            509.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "6.",
+          "box": [
+            108.0,
+            511.586,
+            118.04,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            127.305,
+            511.586,
+            139.713,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "access,",
+          "box": [
+            142.92,
+            511.586,
+            182.066,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            184.86,
+            511.586,
+            197.613,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "needed,",
+          "box": [
+            200.16,
+            511.586,
+            245.224,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            247.995,
+            511.586,
+            263.228,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fluid",
+          "box": [
+            268.02,
+            511.586,
+            294.292,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            298.08,
+            511.586,
+            309.0,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "medication",
+          "box": [
+            313.785,
+            511.586,
+            376.941,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "administration.",
+          "box": [
+            381.15,
+            511.586,
+            470.008,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PARAMEDIC",
+          "box": [
+            108.0,
+            553.436,
+            183.415,
+            565.433
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "7.",
+          "box": [
+            108.0,
+            567.386,
+            118.04,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pain",
+          "box": [
+            127.305,
+            567.386,
+            151.574,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "medication",
+          "box": [
+            155.745,
+            567.386,
+            218.901,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            223.11,
+            567.386,
+            235.863,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "per",
+          "box": [
+            238.41,
+            567.386,
+            256.189,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Universal",
+          "box": [
+            260.955,
+            567.386,
+            314.511,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pain",
+          "box": [
+            318.69,
+            567.386,
+            342.959,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Management",
+          "box": [
+            347.175,
+            567.386,
+            421.151,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            425.16,
+            567.386,
+            475.778,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            478.35,
+            567.386,
+            491.57,
+            579.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            493.848,
+            567.386,
+            514.216,
+            579.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "18",
+          "box": [
+            518.85,
+            567.386,
+            532.225,
+            579.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            531.9,
+            567.386,
+            535.235,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "A",
+          "box": [
+            52.11,
+            509.076,
+            64.116,
+            527.076
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "P",
+          "box": [
+            80.055,
+            509.076,
+            92.061,
+            527.076
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0118.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 98.2,
+    "output_to_native_length_ratio": 0.965,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

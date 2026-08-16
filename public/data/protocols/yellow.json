@@ -1,0 +1,927 @@
+[
+  {
+    "id": "yellow_122_123_124",
+    "title": "Poisoning / Overdose",
+    "category": "yellow",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Call Poison Control (1-800-222-1222) to receive medical guidance on patient care and to ensure that information regarding the toxin can be sent to the receiving ED prior to patient arrival.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<pre><code>                ii. For **pediatric** VS, see **Pink 4**.\n                    Usual dose is 0.03-0.25 mcg/kg/min. Usual MAX dose is 0.6 mcg/kg/min. Absolute MAX dose is 3 mcg/kg/min.\n</code></pre>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>PEARLS</strong>\n* If possible, bring container/bottles, MSDS sheets, placard info, shipping manifest, and/or contents and note the following:\n    * Route, time, quantity and substance(s)\n    * Reason, if known: intentional or accidental\n    * What treatments were provided prior to your arrival\n* Pulse oximetry may NOT be accurate for toxic inhalation patients.</p>\n<p><strong>For management of opioid overdose:</strong>\n* Recall, the patient suffering from opiate overdose requires immediate oxygenation and ventilation. This should be the priority for these patients and is accomplished by airway management. Naloxone may be administered, but only after initiation of airway management practices. Do not give naloxone to a patient who is in cardiac arrest. This practice is not helpful and may be harmful as it distracts from the best performance of tasks that are necessary for the successful resuscitation of cardiac arrest. Refer to the 2019 Naloxone White Paper for more information.\n* Naloxone should be titrated to adequate respiratory drive and airway protection rather than a completely awakened state.\n* Patients receiving naloxone should be transported to the hospital. Contact OLMC for patients refusing transport. Refer to Naloxone Dispensation protocol, <strong>Yellow 4</strong>.</p>\n<p><strong>For tricyclic antidepressant/sodium-channel blocker toxicity:</strong>\n* The most common drugs requiring boluses of sodium bicarbonate are as follows:\n    * For <strong>adults</strong>, TCAs\n    * For <strong>pediatrics</strong>, antihistamines, though it is not common to get to the point of administering sodium bicarbonate for pediatric patients.\n* \\***There are several classes of medications that can cause sodium channel blockade when taken in an overdose, causing QRS prolongation and requiring sodium bicarbonate administration. The classes of these medications (with some examples) are listed below:\n    * Antidepressants (amitriptyline, nortriptyline, imipramine, doxepin)\n    * Antiarrhythmics (quinine/quinidine, propafenone, flecainide)\n    * Anesthetics (cocaine, lidocaine, bupivacaine)\n    * Muscle Relaxants (cyclobenzaprine)\n    * Antihistamines (diphenhydramine)\n* Gather as much detailed information about the drug as possible and monitor the QRS as per protocol.\n* Sodium bicarbonate increases extracellular sodium, thereby overcoming sodium channel blockade of the tricyclic antidepressant and other sodium-channel blocking medications. This effect is transient and may be difficult to notice at first. Some patients may need repeated doses of sodium bicarbonate to fully correct QRS duration (under 120 msec). If no change to the QRS occurs, please repeat immediately. While some patients may require additional doses of sodium bicarbonate, this should not delay transport.\n* Consider the importance of alerting OLMC.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Administer O\u2082 as appropriate."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Manage airway as needed, refer to Airway Algorithm, <strong>Blue 2</strong>."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "<p>If respirations less than 12/minute AND <em>narcotic overdose</em> suspected:</p>\n<p><strong>NEVER GIVE NALOXONE TO A NEONATE</strong></p>\n<p>a. <strong>ADULT</strong> and <strong>PEDIATRIC</strong> patients: naloxone 0.5 mg <strong>IN</strong>. Titrate to effect by providing 0.5 mg in one nostril.\n    i. The desired outcome is effective oxygenation and ventilation with one important parameter being a respiratory rate of greater than 12 breaths/minute. Continue to manage the airway while assessing for effect.\n    ii. If the patient remains apneic or continues to have ineffective oxygenation and ventilation 2 minutes after provision of the first dose of naloxone, provide a second dose of naloxone 0.5 mg in the other nostril.\n    iii. Repeat 0.5 mg of naloxone <strong>IN</strong> every 2 minutes in alternating nostrils.\nb. <strong>EMRs</strong> and <strong>EMTs</strong> may use <strong>IN</strong> or <strong>IM</strong> naloxone via auto-injector at a dose available per commercially packaged product. Repeat dose (in opposite nostril if using <strong>IN</strong> route) if no response in 2 minutes. Lower dose strategies that allow titration of effect are preferred, whenever possible.\nc. <strong>NOTE:</strong> Patients abruptly and fully awakened from narcotic overdose may become combative or suffer acute narcotic withdrawal symptoms. Some drugs are longer acting opioids (or formulated to be so), such as buprenorphine, methadone, and the fentanyl patch, and may require many repeated doses of naloxone which could exceed a total of 4 mg.</p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "<p>For suspected cyanide or CO poisoning, see Cyanide/CO Exposure protocol, <strong>Yellow 8</strong>.</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "For hypoglycemia, see Diabetic/Hypoglycemic Emergencies protocol, <strong>Gold 6</strong>."
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT",
+        "html": "For seizures, see Seizure protocol, <strong>Gold 8</strong>."
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT",
+        "html": "Obtain 12-lead ECG, if available and so trained."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Establish IV access."
+      },
+      {
+        "num": 10,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Alternative naloxone route of administration:\n    a. Naloxone 0.1 - 2 mg <strong>IV/IO/IM</strong>; titrate to improved respiratory drive.\n    b. <strong>Pediatric</strong> patients (excluding neonates): 0.1 mg/kg naloxone if less than 20 kg; 0.1-2 mg <strong>IV/IO/IM</strong> if greater than 20 kg or 5 years or older; titrate to improved respiratory drive.</p>"
+      },
+      {
+        "num": 11,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Cardiac Monitor</p>"
+      },
+      {
+        "num": 12,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "If patient is hypotensive, administer a fluid bolus."
+      },
+      {
+        "num": 13,
+        "providerLevel": "PARAMEDIC",
+        "html": "For absorbed toxins resulting in pain, see Universal Pain Management protocol, <strong>Green 18</strong> and for analgesic for eye pain, see Ophthalmology protocol, <strong>Green 25</strong>."
+      },
+      {
+        "num": 14,
+        "providerLevel": "PARAMEDIC",
+        "html": "Suggested Treatments:\n    a. <strong>Symptomatic bradycardia</strong> (hypotension, altered mental status, syncope/pre-syncope, chest pain, dyspnea, acute heart failure, signs of shock, or cyanosis/pallor) due to beta- or calcium channel blocker overdose:\n        i. <strong>Adult:</strong> Calcium gluconate 3 grams <strong>IV/IO</strong>, diluted in 50 - 100 mL of IVF, over 15 minutes, via IV pump may repeat every 10 min for up to 4 additional doses, as needed.\n        ii. <strong>Pediatric:</strong> Calcium gluconate 60 mg/kg <strong>IV/IO</strong>, diluted in 50 - 100 mL of IVF, over 15 minutes, via IV pump (MAX 3 gm/dose); may repeat every 10 min for up to 4 additional doses, as needed.\n        iii. Refer to Adult Bradycardia, <strong>Red 29</strong> or Pediatric Bradycardia <strong>Red 31</strong>, protocol\n    b. <strong>Dystonic reaction</strong>:\n        i. <strong>Adult:</strong> Diphenhydramine 25-50 mg <strong>IV/IM</strong>\n        ii. <strong>Pediatric:</strong> Diphenhydramine 1-2 mg/kg <strong>IV/IM</strong> (MAX dose 50 mg)\n    c. <strong>Organophosphates</strong>: Nerve Agent/Organophosphate/Carbamate Poisoning protocol, <strong>Yellow 7</strong>\n    d. <strong>Severe agitation</strong>: Hyperactive Delirium with Severe Agitation protocol, <strong>Orange 5</strong>\n    e. <strong>Tricyclic Antidepressant (TCA)/sodium-channel blocker</strong>*** overdose with either hemodynamic instability or widened QRS complex on initial 12-lead ECG defined as:\n        i. Tachycardia (Adult: heart rate greater than 100 bpm; Pediatric as defined by age, see <strong>Pink 4</strong>) <strong>AND</strong>,\n            1. QRS greater than 120 msec, <strong>OR</strong>\n            2. An increase in QRS of 10 msec over serial 12-lead ECGs (repeat every 10 min, if feasible).\n        ii. Repeat 12-lead ECG after treatment and every 10 minutes (if feasible) if QRS is less than 120 msec, and every 5 minutes (if feasible) if QRS is greater than 120 msec. Treat as follows:\n            1. Sodium bicarbonate:\n                a. <strong>Adult:</strong> 1 mEq/kg with a MAX of 100 mEq <strong>IV push</strong> over 1 minute. May repeat as needed with goal of QRS complex less than 120 msec. MAX of three doses.\n                b. <strong>Pediatric:</strong> 1 mEq/kg with a Max of 100 mEq <strong>IV push</strong> over 1 minute. May repeat as needed with goal of QRS complex less than 120 msec. MAX of three doses. (8.4% sodium bicarbonate must be diluted 1:1 with D5W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age)\n            2. Fluid bolus for hypotension\n            3. NOREPInephrine <strong>IV infusion</strong>. NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump.\n                a. <strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS [32 mcg/mL]\n                b. <strong>Dosing</strong> - Usual starting dose of NOREPInephrine is 0.03 mcg/kg/min. Clinical circumstances may require a slightly higher starting dose of 0.06 - 0.09 mcg/kg/min. <strong>Titrate</strong> by 0.03 mcg/kg/min every 3 minutes to meet desired clinical effect, which may include appropriate SBP:\n                    i. <strong>Adult</strong> systolic greater than 90 mmHg and/or MAP greater than 65."
+      },
+      {
+        "num": 15,
+        "providerLevel": "PARAMEDIC",
+        "html": "Refer to Seizure protocol, <strong>Gold 8</strong>, for TCA-induced seizure activity"
+      },
+      {
+        "num": 16,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Consider magnesium sulfate for arrhythmia that does not respond to sodium bicarbonate.\n    a. <strong>Adult:</strong> 2 grams of magnesium sulfate <strong>IV/IO</strong>, diluted in 50 - 100 mL of IVF (D\u2085W preferred), over 15 minutes, via IV pump.\n    b. <strong>Pediatric:</strong> 50 mg/kg <strong>IV/IO</strong>, diluted in 50 - 100 mL of IVF (D\u2085W preferred), infusion over 15 minutes, via IV pump (MAX dose 2 grams).</p>"
+      },
+      {
+        "num": 17,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Contact OLMC if further direction needed for conditions such as arrhythmia</p>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "yellow_122",
+        "pageNumber": "Yellow 1",
+        "jpgReference": "/assets/pages_webp/0122.webp"
+      },
+      {
+        "pageId": "yellow_123",
+        "pageNumber": "Yellow 2",
+        "jpgReference": "/assets/pages_webp/0123.webp"
+      },
+      {
+        "pageId": "yellow_124",
+        "pageNumber": "Yellow 3",
+        "jpgReference": "/assets/pages_webp/0124.webp"
+      }
+    ]
+  },
+  {
+    "id": "yellow_125",
+    "title": "Naloxone Dispensation",
+    "category": "yellow",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Amendments to Maine Law in 2021 allow EMS clinicians in the state of Maine to distribute naloxone to patients who are treated for opioid overdose, but refuse transport to the hospital. This protocol establishes the conditions for naloxone distribution (i.e., Naloxone \"Leave Behind\" Program).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>If a patient treated for opioid overdose refuses transport to the hospital, and the patient has decision making capacity (defined by Maine EMS Transport protocol, <strong>Grey 22</strong>):</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>PEARLS</strong>\n* Maine has disproportionately been affected by the national opioid epidemic. In an effort to address opioid overdoses, Maine EMS has worked with the legislation to create pathways for distribution of naloxone in the instance a patient is treated for opioid overdose in the pre-hospital environment AND refuses transport.\n* Please recognize, this protocol is specific to opiate use disorder AND the patient MUST meet the criteria for decision making capacity as described in the Maine EMS <strong>Transport Protocol, Grey 22</strong>. For patients WITHOUT decision making capacity, please follow the steps in <strong>Grey 22</strong>.\n* The 130th Maine Legislature passed LD 1333, \"An Act Concerning the Controlled Substances Prescription Monitoring Program and the Dispensing of Naloxone Hydrochloride by Emergency Medical Services Providers\" which authorizes the practice of EMS clinicians leaving a medication with a non-transported patient for future use. Please recognize, this practice is authorized for naloxone ONLY.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Distribute one (1) Maine EMS approved naloxone kit for future use to either the patient, for the patient, their family or friends to use in the case of suspected opioid overdose, document per training."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Perform point of care training for use of the kit as described in Maine EMS naloxone distribution training."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "In addition to the naloxone kit and point of care training, please also provide a list of local substance use disorder resources (e.g., OPTIONS program)."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Document refusal of transport."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "yellow_125",
+        "pageNumber": "Yellow 4",
+        "jpgReference": "/assets/pages_webp/0125.webp"
+      }
+    ]
+  },
+  {
+    "id": "yellow_126_127",
+    "title": "Alcohol Intoxication / Severe Alcohol Withdrawal",
+    "category": "yellow",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>PEARLS</strong></p>\n<p>Intoxicated patients with any of the following <strong>MUST</strong> be transported to the Emergency Department:</p>\n<p><strong>1) Incapacitating Intoxication:</strong> inability to maintain airway; inability to stand from seated position and ambulate with minimal assistance; at immediate risk of environmental exposure or trauma due to unsafe location.</p>\n<p><strong>2) Acute Illness/Injury:</strong> abnormal vital signs, physical complaint that may indicate underlying illness/trauma, seizure, hypoglycemia, trauma, head injury.</p>\n<p>Delirium tremens (DTs) is a severe form of alcohol withdrawal that can be life-threatening if not treated properly. DTs usually begin 48 hours after last alcohol consumption and is most severe 4-5 days after last alcohol consumption. Typical duration of DTs is 2-3 days but can last up to 8 days. Untreated DTs has a mortality rate of 37%. In contrast, hospitalized patients with DTs have a mortality rate of 1-4%.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Assess ABCs."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Obtain vital signs."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Assess level of consciousness. Consider alternative diagnosis. Refer to Altered Level of Consciousness protocol, <strong>Gold 5</strong>."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "<p>If trained, perform finger stick blood glucose.\n    a. If blood glucose less than <strong>60 mg/dL</strong> or clinical condition suggests hypoglycemia, request ALS and refer to Diabetic/Hypoglycemic protocol, <strong>Gold 6</strong></p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "<p><strong>In Acute Alcohol Intoxication</strong> - If the patient has evidence of incapacitating intoxication or acute illness/injury, request ALS.</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "<strong>With any concern for withdrawal</strong> - Question the patient about past withdrawal symptoms. Any patient with a history of hospitalization for alcohol withdrawal, withdrawal seizures, or delirium tremens (DTs) should be transported to the Emergency Department."
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT",
+        "html": "<strong>In either Acute Alcohol Intoxication or concern for Alcohol Withdrawal</strong>, ask the patient about the time and amount of their most recent alcohol ingestion, frequency and amount of routine alcohol use, and any co-ingestion such as ethylene glycol (found in antifreeze), ethyl alcohol (ethanol, grain alcohol), methanol (wood alcohol), or other substances."
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT",
+        "html": "If the patient refuses transport, refer to the Transport protocol, <strong>Grey 22</strong>."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "In either <strong>Acute Alcohol Intoxication</strong> or concern for <strong>Alcohol Withdrawal</strong> - for patients requiring transport, consider IV access and fluid bolus if clinically indicated."
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>For <strong>Severe Alcohol Withdrawal</strong> symptoms, contact OLMC for the option of midazolam 2.5 mg <strong>IV</strong> or 5 mg <strong>IM</strong>. May repeat x 1 with MAX cumulative dose of 5 mg <strong>IV</strong> or 10 mg <strong>IM</strong>.\n    a. <strong>Severe Alcohol Withdrawal</strong> symptoms include hypertension/tachycardia AND <strong>two or more</strong> of the following:\n        i. <em>Severe tremors</em>, test by \"arms extended and fingers spread apart\" or if tremors are noted continuously while at rest\n        ii. <em>Drenching sweats</em>\n        iii. <em>Continuous tactile disturbances</em> - ask \"Have you had any itching, pins and needles sensation, any burning, any numbness, or do you feel bugs crawling on or under your skin?\"\n        iv. <em>Continuous auditory disturbances</em> - ask \"Are you more aware of sounds around you? Are they harsh? Do they frighten you? Are you hearing anything that is disturbing to you? Are you hearing things you know are not there?\"\n        v. <em>Continuous visual disturbances</em> - ask \"Does the light appear to be too bright? Is its color different? Does it hurt your eyes? Are you seeing anything that is disturbing to you? Are you seeing things you know are not there?\"</p>"
+      },
+      {
+        "num": 11,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If seizure, refer to Seizure protocol, <strong>Gold 8</strong>.</p>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "yellow_126",
+        "pageNumber": "Yellow 5",
+        "jpgReference": "/assets/pages_webp/0126.webp"
+      },
+      {
+        "pageId": "yellow_127",
+        "pageNumber": "Yellow 6",
+        "jpgReference": "/assets/pages_webp/0127.webp"
+      }
+    ]
+  },
+  {
+    "id": "yellow_128",
+    "title": "Nerve Agent / Organophosphate / Carbamate Poisoning",
+    "category": "yellow",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>PEARLS :</strong></p>\n<p><strong>WARNING: CONTACT WITH THESE TOXINS CAN BE FATAL TO RESCUERS. CONSIDER SCENE SAFETY AND DECONTAMINATION</strong>\n* Assess for <strong>SLUDGEM</strong> symptoms (<strong>S</strong>alivation, <strong>L</strong>acrimation, <strong>U</strong>rinating, <strong>D</strong>efecation, <strong>GI</strong> Distress, <strong>E</strong>mesis, <strong>M</strong>uscle twitching/<strong>M</strong>iosis [constricted pupils]) and the <strong>Killer-Bs</strong> (<strong>B</strong>radycardia, <strong>B</strong>ronchorrhea, <strong>B</strong>ronchospasm).\n* If you suspect a bioterrorism/WMD threat, see <strong>Grey 34</strong>.\n* Transport patients with all windows of ambulance open.\n* Decontaminate entire ambulance after patient transport.\n* All responders who contacted the patient require decontamination.</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>In unstable patients with known nerve agent/organophosphate/carbamate poisoning:</p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "PARAMEDIC",
+        "html": "<table>\n<thead>\n<tr>\n<th>Symptoms</th>\n<th>Dyspnea, twitching, nausea, vomiting, sweating, confusion, or pinpoint pupils</th>\n<th>Apnea, seizure, unconsciousness, or flaccid paralysis</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Pediatric &lt; 1 year old</td>\n<td><strong>EMR/EMT/AEMT/Paramedic</strong> - 1 <strong>pediatric</strong> atropine auto-injector <strong>IM</strong> or<br/><strong>Paramedic</strong> - atropine 0.2 mg <strong>IV/IO***, </strong>AND<strong> midazolam 0.2 mg/kg </strong>IM<strong> (MAX dose 10 mg) or 0.1 mg/kg </strong>IV/IO** (MAX dose 5 mg) **</td>\n<td></td>\n</tr>\n<tr>\n<td>Pediatric 1 year or older</td>\n<td><strong>EMR/EMT/AEMT/Paramedic</strong> - 1 <strong>adult</strong> atropine auto-injector <strong>IM</strong> or<br/><strong>Paramedic</strong> - atropine 2 mg <strong>IV/IO***, </strong>AND<strong> midazolam 0.2 mg/kg </strong>IM<strong> (MAX dose 10 mg) or 0.1 mg/kg </strong>IV/IO** (MAX dose 5 mg) **</td>\n<td></td>\n</tr>\n<tr>\n<td>Adult</td>\n<td><strong>EMR/EMT/AEMT/Paramedic</strong> - 1 atropine auto-injector <strong>IM</strong> or<br/><strong>Paramedic</strong> - atropine 2 mg <strong>IV/IO*** </strong>AND<strong> midazolam 10 mg </strong>IM<strong> or 5 mg </strong>IV/IO** **</td>\n<td><strong>EMR/EMT/AEMT/Paramedic</strong> - 3 atropine auto-injectors <strong>IM</strong> or<br/><strong>Paramedic</strong> - atropine 5 mg <strong>IV/IO*** </strong>AND<strong> midazolam 10 mg </strong>IM<strong> or 5 mg </strong>IV/IO** **</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>* Monitor and repeat dose every 5 minutes if patient remains symptomatic; if atropine is drawn up from a vial to administer (<strong>Paramedic</strong>), the concentration may require more than one injection site to achieve the full dose without exceeding the recommended 3-5 mL max IM volume in adults and 0.5-2 mL max IM volume in peds.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>** Repeat midazolam every 5 minutes until total of 3 doses have been provided.</p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Remove patient from contaminated area and consider decontamination as needed based on scene/call circumstances."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "O\u2082 as appropriate."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "<p>Manage airway as appropriate, see Airway Algorithm, <strong>Blue 2</strong>.\n    <em>Ventilatory support may be critical in these poisonings</em></p>"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "<p>Vigorous suctioning may be necessary.</p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "Administer Mark 1 kit (noted as <strong>auto-injector</strong> in table below)."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "IV en route"
+      },
+      {
+        "num": 8,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Cardiac monitor"
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "In all cases, continue to monitor closely for worsening symptoms."
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "If seizures are present, refer to Seizure protocol, <strong>Gold 8</strong>."
+      },
+      {
+        "num": 11,
+        "providerLevel": "PARAMEDIC",
+        "html": "Contact OLMC for:\n    a. Doses of medications beyond those listed in the chart below.\n    b. Administration of other selected antidotes."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "yellow_128",
+        "pageNumber": "Yellow 7",
+        "jpgReference": "/assets/pages_webp/0128.webp"
+      }
+    ]
+  },
+  {
+    "id": "yellow_129_130",
+    "title": "Cyanide / CO Exposure",
+    "category": "yellow",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Don PPE if necessary, assess patient after evacuation\n<strong>Remove patient from source of smoke/inhalation</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Assessment</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Vital signs</li>\n<li>Evidence of major trauma</li>\n<li>Major burns, inhalation injury</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>-&gt; Proceed to appropriate trauma or airway management protocol</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Severity of Exposure Definitions (CO, CN, or Combined)</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li><strong>Mild Exposure</strong></li>\n<li>Transient neuro changes</li>\n<li>GCS 14 or 15</li>\n<li>No cardiovascular symptoms</li>\n<li>\n<p><strong>Do Step 1</strong></p>\n</li>\n<li>\n<p><strong>Moderate Exposure</strong></p>\n</li>\n<li>Ongoing neuro changes</li>\n<li>Confusion</li>\n<li>GCS 8-13</li>\n<li>+/- Chest Pain/SOB</li>\n<li><strong>Do Step 1 and 2</strong></li>\n<li>\n<p><em>Paramedic: If antidote considered, contact OLMC</em></p>\n</li>\n<li>\n<p><strong>Severe Exposure</strong></p>\n</li>\n<li>Severe confusion/Coma</li>\n<li>GCS &lt; 8</li>\n<li>+Hypotension (&lt;90 mmHg)</li>\n<li>Apnea/Cardiac Arrest</li>\n<li><strong>Do Step 1, 2,and 3</strong></li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Treatments</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h4>Step 1</h4>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>EMT/AEMT/Paramedic</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>AEMT/P</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h4>Step 2</h4>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>EMT/AEMT/Paramedic</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>AEMT/Paramedic</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h4>Step 3</h4>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Paramedic</strong>\nIn case of CN toxicity, either alone or in combination with CO exposure:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p>PEARLS</p>\n<ul>\n<li>Finger CO monitors may not accurately detect CO level and should not be relied upon to guide treatment or alter transport decision.</li>\n<li>There is no correlation between COHb (carboxyhemoglobin) level and EtCO\u2082 (waveform capnography).</li>\n<li>Carbon monoxide (CO) and Hydrogen cyanide (CN) gases are chemical asphyxiants that can kill rapidly. Carbon monoxide is odorless. Only 40% are able to detect the almond smell of CN. Cyanide is generated by combustion of synthetic materials present in many structural fires.</li>\n<li>Appropriate PPE includes self-provided air/oxygen source (i.e. SCBA). Scene safety is the top priority. No patient decontamination is required for victims evacuated from CN gas exposure.</li>\n<li>It is rare for viable CO-exposed patients to have persistent unconsciousness requiring intubation.</li>\n<li>Sources of CN: Structural fire (CN), industrial cyanide salts*, unripe cassava, apricot pits, laetrile, etc.</li>\n<li>If injuries incompatible with life, DO NOT GIVE ANTIDOTE.</li>\n</ul>\n<p>*may persist on skin, however water decontamination may liberate CN gas.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Administer high flow O\u2082"
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Pulse Ox may be inaccurate in exposure to CO/CN or methemoglobinemia"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "Monitor rhythm"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "Manage Airway as appropriate, see <strong>Blue 2</strong>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "12-lead ECG, if trained"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Collect rainbow blood sample tubes per local protocol"
+      },
+      {
+        "num": 7,
+        "providerLevel": "ALL",
+        "html": "If hypotensive, administer IV bolus, may repeat x 1"
+      },
+      {
+        "num": 8,
+        "providerLevel": "ALL",
+        "html": "<strong>Adult:</strong> Hydroxocobalamin (Cyanokit) - 5 g <strong>IV</strong>. May repeat x 1 for partial response"
+      },
+      {
+        "num": 9,
+        "providerLevel": "ALL",
+        "html": "<strong>Peds:</strong> Hydroxocobalamin (Cyanokit) - 70 mg/kg <strong>IV</strong>, 2.5 g for weight less than 30 kg"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "yellow_129",
+        "pageNumber": "Yellow 8",
+        "jpgReference": "/assets/pages_webp/0129.webp"
+      },
+      {
+        "pageId": "yellow_130",
+        "pageNumber": "Yellow 9",
+        "jpgReference": "/assets/pages_webp/0130.webp"
+      }
+    ]
+  },
+  {
+    "id": "yellow_131",
+    "title": "Radiation Injuries",
+    "category": "yellow",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p>PEARLS\n* In general, patients exposed or contaminated by radiation should be triaged and treated according to the severity of their conventional injuries.\n* Patients contaminated with radioactive material (flecks embedded in clothing or skin), generally pose minimal exposure risk to medical personnel who use appropriate PPE.\n* Irradiated patients pose no threat to medical clinicians.\n* Time to nausea and vomiting is a reliable indicator of receiving a significant dose of ionizing radiation. The more rapid the onset of vomiting, the higher the whole-body dose of radiation.\n* Tissue burns are a late finding (weeks following exposure) of ionizing radiation injury. If burns are present acutely, they are from a thermal or chemical mechanism.\n* Seizures may suggest acute radiation syndrome if accompanied by early vomiting. If other clinical indicators do not suggest a whole-body dose of greater than 20 Gy, consider other causes of seizure.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Ensure the scene is safe."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Don standard PPE capable of preventing skin exposure to liquids and solids (gown and gloves), mucous membrane exposure to liquids and particles (face mask and eye protection), and inhalational exposure to particles (N95 face mask or respirator)."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Hazmat Trained Personnel to determine need for decontamination"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "<p>For Mass Casualty Incidents (MCI), if vomiting occurs:\n    a. Within 1 hour of exposure, survival is unlikely. If providing care to patient will compromise other patients, tag patient \"Black\".\n    b. Less than 4 hours after exposure, patient requires immediate decontamination and medical evaluation, tag patient \"Red\".\n    c. Four hours after exposure, re-evaluation can be delayed 24-72 hours, tag patient \"Yellow\".</p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "<p>Treat traumatic injuries per appropriate protocol (Green Section).</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "Consider pain management per Universal Pain Management protocol, <strong>Green 18</strong>."
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT",
+        "html": "Use water-repellent dressings to cover wounds to prevent cross contamination."
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT",
+        "html": "Consider transport only after appropriate decontamination"
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Consider anti-emetic per Nausea and Vomiting protocol, <strong>Gold 18</strong>."
+      },
+      {
+        "num": 10,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Document the time the GI symptoms started."
+      },
+      {
+        "num": 11,
+        "providerLevel": "PARAMEDIC",
+        "html": "Treat seizures per Seizure protocol, <strong>Gold 8</strong>. *Consider a primary medical cause or exposure to possible chemical agents unless indicators for a large whole body radiation dose (> 20 Gy), such as rapid onset of vomiting, are present."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "yellow_131",
+        "pageNumber": "Yellow 10",
+        "jpgReference": "/assets/pages_webp/0131.webp"
+      }
+    ]
+  },
+  {
+    "id": "yellow_132",
+    "title": "Severe Hypothermia WITH Signs of Life",
+    "category": "yellow",
+    "intro": [
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Classification</th>\n<th style=\"text-align: left;\">Core Temp</th>\n<th style=\"text-align: left;\">Clinical Presentation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Normal</td>\n<td style=\"text-align: left;\">&gt;95\u00b0 F / 35\u00b0 C</td>\n<td style=\"text-align: left;\"><strong>Cold sensation/shivering</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Mild</td>\n<td style=\"text-align: left;\">90 - 95\u00b0 F<br/>32 - 35\u00b0 C</td>\n<td style=\"text-align: left;\">Loss of fine or gross motor skills inability to complete simple thoughts</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Moderate</td>\n<td style=\"text-align: left;\">82 - 90\u00b0 F<br/>28 - 32\u00b0 C</td>\n<td style=\"text-align: left;\"><strong>&lt;/= 90\u00b0 F/32\u00b0 C: Shivering stops</strong><br/><strong>&lt;/= 86\u00b0 F/30\u00b0 C: AMS</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Severe</td>\n<td style=\"text-align: left;\">\u2264 82\u00b0 F<br/>\u2264 28\u00b0 C<br/><br/>\u2264 77\u00b0 F<br/>\u2264 24\u00b0 C</td>\n<td style=\"text-align: left;\">Rigidity, vital signs reduced/absent. Severe risk of V-fib with mechanical stimulation (rough handling)<br/><br/>Spontaneous V-fib cardiac arrest</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Bold</strong> indicates major thresholds between stages.<br/>\nAdapted from \"State of Alaska Cold Injuries Guidelines\" 2014</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Treatment</h3>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Prevent further heat loss by insulating from the ground and shielding from wind and water. Move to a warm environment, when possible. <strong>Gently</strong> remove wet clothing. Cover with warm blankets."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Pack thorax with wrapped heat packs (heat packs cannot exceed 113\u00b0F); if available, may use hospital-grade electric forced air re-warmers."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Consider warmed AND humidified 100% O\u2082."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "High sugar oral fluids, if tolerated, and only in mild hypothermia."
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "Handle gently; avoid rough movement and excess activity."
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "Maintain supine position in moderate or severe hypothermia."
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT",
+        "html": "Apply clean dressing to frostbitten extremities and between involved fingers and toes."
+      },
+      {
+        "num": 8,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Consider 1000 mL (20 mL/kg for <strong>pediatrics</strong>) bolus of NS heated to 104 - 108\u00b0 F (40 - 42\u00b0 C)."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Contact OLMC for additional boluses."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "yellow_132",
+        "pageNumber": "Yellow 11",
+        "jpgReference": "/assets/pages_webp/0132.webp"
+      }
+    ]
+  },
+  {
+    "id": "yellow_133",
+    "title": "Severe Hypothermia WITHOUT Signs of Life",
+    "category": "yellow",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>Note:</strong> Assess for pulse and respirations for 1 minute.</p>\n<p><strong>Note:</strong> Definitive treatment for severe hypothermia without signs of life is rewarming with cardiopulmonary bypass. Do not delay transport of these patients. Do not initiate CPR if it will delay transport.</p>\n<p>Do not initiate resuscitation if the patient meets any of the criteria in <strong>Grey 3</strong> Section II.A <strong>OR</strong> Rescuers are exhausted or in a dangerous situation. These patients are deceased.</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<blockquote>\n<p>PEARL</p>\n<ul>\n<li>Do not massage extremities in attempt to actively re-warm the patient; massaging the extremities will not significantly increase body temperature and it may worsen the damage caused by frostbite.</li>\n<li>Moderate-to-severe frostbite is defined as:</li>\n<li>Frostbite involving hands, feet, face, or genitals,</li>\n<li>Frostbite associated with cyanotic tissue, blisters (clear or hemorrhagic) or skin necrosis,</li>\n<li>Frostbite associated with loss of sensation or weakness in the involved area.</li>\n<li>Follow your local trauma system transport destination protocols in cases of moderate-to-severe frostbite.</li>\n<li>Circum-rescue hemodynamic collapse can occur in these patients. The drop in catecholamines and mental relaxation that occurs just before, during, or after rescue may lead to life-threatening hypotension or arrhythmia (i.e. ventricular fibrillation).</li>\n</ul>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Initiate CPR after 1 minute pulse/respiration assessment."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Attach AED and follow prompts."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Rewarm using techniques as listed under Treatment: Not in Cardiac Arrest (above)."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "If no ROSC after 20 minutes of CPR/rewarming, consider termination of resuscitation. Contact OLMC, if possible."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Consider 1000 mL (20 mL/kg for <strong>pediatrics</strong>) bolus of NS heated to 104 - 108\u00b0 F (40 - 42\u00b0 C)."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Contact OLMC for additional boluses."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Otherwise, treat as per normothermic cardiac arrest management for the patient's dysrhythmia, refer to Adult (<strong>Red 9</strong>) or Pediatric (<strong>Red 18</strong>) Cardiac Arrest protocol."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "yellow_133",
+        "pageNumber": "Yellow 12",
+        "jpgReference": "/assets/pages_webp/0133.webp"
+      }
+    ]
+  },
+  {
+    "id": "yellow_134_135",
+    "title": "Hyperthermia - Heat Exhaustion / Heat Stroke",
+    "category": "yellow",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>HEAT EXHAUSTION</strong> \u2014 Volume depletion due to sweat loss.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>ASSESSMENT:</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>If core temperature is obtained, it will be variable but always below 105\u00b0 F (40.6\u00b0 C).\nClinical pattern is essentially that of compensated hypovolemic shock:</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Weakness and vomiting,</li>\n<li>Skin condition/color is variable. Core-shell shunt to increase heat loss competes with shell-core shunt to protect volume. Skin is usually pale and moist with variable skin temperature,</li>\n<li>Sweating,</li>\n<li>Normal consciousness and CNS function.</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>TREATMENT:</strong> Goal is to reduce sweating and to restore volume.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<p><strong>HEAT STROKE</strong> \u2014 A true medical emergency that requires radical field treatment, usually, but not always, associated with heat exhaustion. Heat stroke is characterized by multisystem organ injury and failure. CNS dysfunction characterized by alterations in mental status is a hallmark distinguishing between heat exhaustion and heat stroke.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>ASSESSMENT:</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>If core temperature is obtained, it is 105\u00b0 F (40.6\u00b0 C) or greater. Abnormal consciousness and/or CNS function; seizures are common. Any acute change in consciousness/CNS function in the context of a significant heat challenge should be managed as heat stroke without delay. Skin condition/color and sweating are variable, depending on volume status. Note that red, dry skin is not a dependable sign of heat stroke.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<p><strong>TREATMENT:</strong>\nImmediate radical cooling is the urgent priority, followed by volume replacement.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<blockquote>\n<p>PEARL</p>\n<p>If at a sporting or athletic event, it is important to discuss the cooling plan with other on-scene clinicians, i.e. sports medicine clinicians or athletic trainers prior to the start of the event to ensure that necessary equipment is available.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Protect the patient from heat challenge. Stop exercise and put patient at rest in a cool, shady place."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Use evaporation techniques and remove/loosen as much clothing as practical."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Oral fluids can be effective if the patient is not vomiting. Use dilute (less than 5% sugar) fluids given in small sips. Appropriate fluids to use include the World Health Organization's Oral Rehydration Solution OR a \"homemade\" solution using 1 teaspoon of salt and 8 teaspoons of sugar per 1 liter of water."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Establish IV."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Perform fluid bolus."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "<p>Cool the patient immediately by any means practical, such as:\n    a. Initiate Radical Cooling when available (especially beneficial for exertional hyperthermia, e.g., athletes, laborers):\n        i. Immerse patient up to their neck in ice water tub, if available.\n        ii. TACO Method (Tarp-Assisted Cooling with Oscillation), if available, with 4-5 people holding the patient in a tarp, add ice water at foot and up to the neck and continuously oscillate the tarp to avoid warming of water in contact with the patient.\n    b. Also consider non-radical cooling which includes: ice packs applied to neck, axillae, groin, back; wet patient, apply cold wet sheets to patient, and air conditioning en route.\n    c. Consider moistening the skin and fan vigorously. This method is effective only at low ambient humidity and a large electric fan is more beneficial than manual fanning.</p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "<p>Discontinue radical cooling if:\n    a. Shivering begins,\n    b. Core temperature falls to or below 102\u00b0 F (38.8\u00b0 C).</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Establish IV."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Cardiac Monitor"
+      },
+      {
+        "num": 8,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Perform fluid bolus."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "yellow_134",
+        "pageNumber": "Yellow 13",
+        "jpgReference": "/assets/pages_webp/0134.webp"
+      },
+      {
+        "pageId": "yellow_135",
+        "pageNumber": "Yellow 14",
+        "jpgReference": "/assets/pages_webp/0135.webp"
+      }
+    ]
+  },
+  {
+    "id": "yellow_136",
+    "title": "Drowning/Submersion Injuries",
+    "category": "yellow",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<blockquote>\n<p>PEARLS for Drowning:</p>\n<ul>\n<li>Fresh and salt water drowning are treated the same in the field; treatment must be directed toward correcting severe hypoxia.</li>\n<li>Factors affecting survival include the patient's age, length of time submerged, general health of the victim, type and cleanliness of liquid medium and water temperature that may contribute to the effectiveness of the mammalian diving reflex (decreased respirations, decreased heart rate, and vasoconstriction, with maintenance of blood flow to the brain, heart and kidneys).</li>\n<li>Circum-rescue hemodynamic collapse can occur in these patients. The drop in catecholamines and mental relaxation that occurs just before, during, or after rescue may lead to life-threatening hypotension or arrhythmia (i.e. ventricular fibrillation).</li>\n<li>All drowning/near-drowning victims with suspected barotrauma/decompression sickness should be transported in the left lateral Trendelenburg position to prevent any emboli in the ventricles from migrating to the arterial system.</li>\n<li>Even patients that are conscious and appear well after a submersion event require hospital-level evaluation and observation as they may develop delayed symptoms.</li>\n</ul>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Reference - Michael J. Tipton, Frank St. C. Golden, November 2010.A proposed decision- making guide for the search, rescue and resuscitation of submersion (head under) victims based on expert opinion. <em>Resuscitation</em>. (2011) 82; 819\u2013 824.</p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "If C-spine injury suspected, manage C-spine per Spine Assessment & Management protocol, <strong>Green 3</strong>."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Obtain specific history including time, temperature, associated injury, etc."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Begin resuscitation efforts while removing patient from the water (e.g., rescue breaths) - follow ABC (rather than CAB) flow of resuscitation."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "Consider hypothermia, refer to Severe Hypothermia protocols, <strong>Yellow 11 &amp; 12</strong>."
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "Remove wet clothes and warm the patient."
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "Conscious patients with submersion injuries should be transported to the hospital for further evaluation."
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT",
+        "html": "<p>If water temperature is estimated to be less than 43\u00b0 F and submerged:\n    a. Less than 90 minutes - initiate full resuscitation.\n    b. Greater than 90 minutes - consider not initiating resuscitation or termination of resuscitation.</p>"
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT",
+        "html": "<p>If water temperature is estimated to be greater than 43\u00b0 F and submerged:\n    a. Less than 30 minutes - initiate full resuscitation.\n    b. Greater than 30 minutes - consider not initiating resuscitation or termination of resuscitation.</p>"
+      },
+      {
+        "num": 9,
+        "providerLevel": "EMT",
+        "html": "<p>Consider CPAP to supplement the patient's own respiratory effort.</p>"
+      },
+      {
+        "num": 10,
+        "providerLevel": "EMT",
+        "html": "If needed, refer to Anxiolysis in CPAP protocol, <strong>Blue 9</strong>."
+      },
+      {
+        "num": 11,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "If near-drowning incident involves scuba diver, suggesting barotrauma, contact OLMC and consider hyperbaric treatment facility."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "yellow_136",
+        "pageNumber": "Yellow 15",
+        "jpgReference": "/assets/pages_webp/0136.webp"
+      }
+    ]
+  }
+]

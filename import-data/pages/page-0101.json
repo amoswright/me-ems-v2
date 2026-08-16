@@ -1,0 +1,4721 @@
+{
+  "id": "page-0101",
+  "pdf_page": 101,
+  "protocol_label": "Green 7",
+  "kind": "protocol",
+  "chapter_id": "green",
+  "topic_id": "green-chest-trauma",
+  "title": "Chest Trauma",
+  "markdown": "# Chest Trauma\n\n## EMT\n\n1. Administer O₂ or assist ventilations (PPV) as appropriate, refer to Airway Algorithm, **Blue 2**.\n2. Request ALS, if available.\n3. Impaled Objects:\n    a. Secure in place with bulky dressings.\n4. Open chest wound:\n    a. Cover with thick, bulky dressing (e.g., abd pad or bulky trauma dressing) and secure in place.\n        i. Monitor for persistent air leak and add additional dressings or consider occlusive dressing and one-way valve, if needed.\n5. Flail segment with paradoxical movement and respiratory distress:\n    a. Consider PPV,\n    b. Consider applying non-circumferential splint.\n6. If available, and so trained, consider 12-lead ECG.\n\n## ADVANCED EMT\n\n7. Establish IV en route.\n8. If shock present, perform fluid bolus. If hemorrhagic shock is suspected, refer to Hemorrhagic Shock protocol, **Green 13**.\n9. Cardiac monitor and consider 12-lead ECG.\n10. Request Paramedic, if available.\n\n## PARAMEDIC\n\n11. For presumed TENSION pneumothorax ONLY, perform chest decompression. Assume tension pneumothorax in a) ALL traumatic arrests, b) chest trauma with increasing respiratory distress/hypoxia, and c) chest trauma with otherwise unexplained shock or hypotension.\n\n**NOTE:** Chest decompression will be performed on the involved side using a Maine EMS-approved device. Chest decompression should be preferentially performed at the fourth or fifth intercostal space on the anterior axillary line. The second or third intercostal space on the mid-clavicular line may be used, if necessary.\n\n> ### PEARLS for Chest Trauma\n> * The fourth to fifth intercostal space on the anterior axillary line is preferred to the second or third intercostal space on the mid-clavicular line because of significant failure rates of the mid-clavicular approach (24-54% failure rate at the mid-clavicular line vs. 8-22% of the time for anterior axillary approach). This is, in part, due to a larger average depth to the thoracic cavity at the mid-clavicular line vs the anterior axillary line.\n> * All needle decompressions are at risk of kinking/clotting or not reaching the thoracic cavity. Patients undergoing needle decompression should be monitored for change in symptoms after the procedure. If concern for needle decompression failure arises, **DO NOT** remove previous catheter(s), repeat the procedure and continue monitoring. If the initial procedure site was the mid-clavicular line, consider repeating at the anterior axillary line.\n",
+  "plain_text": "Chest Trauma EMT Administer O₂ or assist ventilations (PPV) as appropriate, refer to Airway Algorithm, Blue 2. Request ALS, if available. Impaled Objects: Secure in place with bulky dressings. Open chest wound: Cover with thick, bulky dressing (e.g., abd pad or bulky trauma dressing) and secure in place. Monitor for persistent air leak and add additional dressings or consider occlusive dressing and one-way valve, if needed. Flail segment with paradoxical movement and respiratory distress: Consider PPV, Consider applying non-circumferential splint. If available, and so trained, consider 12-lead ECG. ADVANCED EMT Establish IV en route. If shock present, perform fluid bolus. If hemorrhagic shock is suspected, refer to Hemorrhagic Shock protocol, Green 13. Cardiac monitor and consider 12-lead ECG. Request Paramedic, if available. PARAMEDIC For presumed TENSION pneumothorax ONLY, perform chest decompression. Assume tension pneumothorax in a) ALL traumatic arrests, b) chest trauma with increasing respiratory distress/hypoxia, and c) chest trauma with otherwise unexplained shock or hypotension. NOTE: Chest decompression will be performed on the involved side using a Maine EMS-approved device. Chest decompression should be preferentially performed at the fourth or fifth intercostal space on the anterior axillary line. The second or third intercostal space on the mid-clavicular line may be used, if necessary. ### PEARLS for Chest Trauma The fourth to fifth intercostal space on the anterior axillary line is preferred to the second or third intercostal space on the mid-clavicular line because of significant failure rates of the mid-clavicular approach (24-54% failure rate at the mid-clavicular line vs. 8-22% of the time for anterior axillary approach). This is, in part, due to a larger average depth to the thoracic cavity at the mid-clavicular line vs the anterior axillary line. All needle decompressions are at risk of kinking/clotting or not reaching the thoracic cavity. Patients undergoing needle decompression should be monitored for change in symptoms after the procedure. If concern for needle decompression failure arises, DO NOT remove previous catheter(s), repeat the procedure and continue monitoring. If the initial procedure site was the mid-clavicular line, consider repeating at the anterior axillary line.",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        406.4,
+        28.49,
+        622.69,
+        53.74
+      ],
+      "text": "Chest Tr aum a",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        81.57,
+        190.5,
+        96.71
+      ],
+      "text": "EMT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        99.18,
+        841.07,
+        114.33
+      ],
+      "text": "1. Administer O or assist ventilations (PPV) as appropriate, refer to Airway",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        291.32,
+        105.29,
+        298.95,
+        115.89
+      ],
+      "text": "2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        167.43,
+        116.85,
+        338.24,
+        132.0
+      ],
+      "text": "Algorithm, Blue 2 .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        134.46,
+        400.78,
+        149.61
+      ],
+      "text": "2. Request ALS, if available.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        152.14,
+        323.36,
+        167.28
+      ],
+      "text": "3. Impaled Objects:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        173.53,
+        169.75,
+        545.49,
+        184.9
+      ],
+      "text": "a. Secure in place with bulky dressings.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        187.42,
+        352.65,
+        202.57
+      ],
+      "text": "4. Open chest wound:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        93.75,
+        196.12,
+        876.61,
+        220.18
+      ],
+      "text": "E a. Cover with thick, bulky dressing (e.g., abd pad or bulky trauma dressing)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        198.53,
+        222.65,
+        384.29,
+        237.79
+      ],
+      "text": "and secure in place.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        198.53,
+        240.32,
+        879.98,
+        255.46
+      ],
+      "text": "i. Monitor for persistent air leak and add additional dressings or consider",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        218.9,
+        257.93,
+        669.96,
+        273.08
+      ],
+      "text": "occlusive dressing and one-way valve, if needed.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        275.6,
+        794.49,
+        290.75
+      ],
+      "text": "5. Flail segment with paradoxical movement and respiratory distress:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        173.53,
+        293.21,
+        325.15,
+        308.36
+      ],
+      "text": "a. Consider PPV,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        173.53,
+        310.83,
+        622.3,
+        325.98
+      ],
+      "text": "b. Consider applying non-circumferential splint.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        328.5,
+        629.01,
+        343.65
+      ],
+      "text": "6. If available, and so trained, consider 12-lead ECG.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        363.78,
+        308.44,
+        378.93
+      ],
+      "text": "ADVANCED EMT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        92.5,
+        380.16,
+        367.66,
+        402.89
+      ],
+      "text": "A 7. Establish IV en route.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        399.07,
+        915.94,
+        414.21
+      ],
+      "text": "8. If shock present, perform fluid bolus. If hemorrhagic shock is suspected, refer to",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        173.53,
+        416.68,
+        544.05,
+        431.83
+      ],
+      "text": "Hemorrhagic Shock protocol, Gr een 13.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        434.29,
+        568.64,
+        449.44
+      ],
+      "text": "9. Cardiac monitor and consider 12-lead ECG.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        451.96,
+        476.44,
+        467.11
+      ],
+      "text": "10. Request Paramedic, if available.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        487.25,
+        270.29,
+        502.4
+      ],
+      "text": "PARAMEDIC",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        504.86,
+        897.68,
+        520.01
+      ],
+      "text": "11. For presumed TENSION pneumothorax ONLY, perform chest decompression.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        173.53,
+        522.48,
+        924.06,
+        537.62
+      ],
+      "text": "Assume tension pneumothorax in a) ALL traumatic arrests, b) chest trauma with",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        94.04,
+        534.76,
+        879.52,
+        557.49
+      ],
+      "text": "P increasing respiratory distress/hypoxia, and c) chest trauma with otherwise",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        173.53,
+        557.31,
+        501.44,
+        572.45
+      ],
+      "text": "unexplained shock or hypotension.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        574.92,
+        849.87,
+        590.07
+      ],
+      "text": "NOTE: Chest decompression will be performed on the involved side using a",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        592.53,
+        849.74,
+        607.68
+      ],
+      "text": "Maine EMS-approved device. Chest decompression should be preferentially",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        610.71,
+        911.09,
+        625.86
+      ],
+      "text": "performed at the fourth or fifth intercostal space on the anterior axillary line. The",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        628.33,
+        839.66,
+        643.48
+      ],
+      "text": "second or third intercostal space on the mid-clavicular line may be used, if",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        147.06,
+        645.94,
+        244.04,
+        661.09
+      ],
+      "text": "necessary.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        378.68,
+        674.92,
+        635.02,
+        690.07
+      ],
+      "text": "PEARLS for Chest Tr auma",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        89.93,
+        710.15,
+        875.83,
+        725.29
+      ],
+      "text": "- The fourth to fifth intercostal space on the anterior axillary line is preferred to the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        727.76,
+        933.79,
+        742.91
+      ],
+      "text": "second or third intercostal space on the mid-clavicular line because of significant failure",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        745.37,
+        907.81,
+        760.52
+      ],
+      "text": "rates of the mid-clavicular approach (24-54% failure rate at the mid-clavicular line vs.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        762.99,
+        931.72,
+        778.14
+      ],
+      "text": "8-22% of the time for anterior axillary approach). This is, in part, due to a larger average",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        781.17,
+        868.15,
+        796.32
+      ],
+      "text": "depth to the thoracic cavity at the mid-clavicular line vs the anterior axillary line.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        89.93,
+        798.78,
+        899.45,
+        813.93
+      ],
+      "text": "- All needle decompressions are at risk of kinking/clotting or not reaching the thoracic",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0041",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        816.4,
+        901.73,
+        831.54
+      ],
+      "text": "cavity. Patients undergoing needle decompression should be monitored for change in",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0042",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        834.01,
+        911.12,
+        849.16
+      ],
+      "text": "symptoms after the procedure. If concern for needle decompression failure arises, DO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0043",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        851.62,
+        924.36,
+        866.77
+      ],
+      "text": "NOT remove previous catheter(s), repeat the procedure and continue monitoring. If the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0044",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        869.24,
+        883.6,
+        884.39
+      ],
+      "text": "initial procedure site was the mid-clavicular line, consider repeating at the anterior",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0045",
+      "type": "text_line",
+      "box_1000": [
+        109.85,
+        886.85,
+        228.22,
+        902.0
+      ],
+      "text": "axillary line.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0046",
+      "type": "text_line",
+      "box_1000": [
+        439.93,
+        936.28,
+        927.08,
+        953.7
+      ],
+      "text": "(Back to TOC) Green 7",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "ed08d7957f13c8f59b397f3f5e36516f619fbf8e18d2c80082d72dd32347ec46",
+    "native": {
+      "text": "Chest Tr aum a\nEMT\n1. Administer O or assist ventilations (PPV) as appropriate, refer to Airway\n2\nAlgorithm, Blue 2.\n2. Request ALS, if available.\n3. Impaled Objects:\na. Secure in place with bulky dressings.\n4. Open chest wound:\nE\na. Cover with thick, bulky dressing (e.g., abd pad or bulky trauma dressing)\nand secure in place.\ni. Monitor for persistent air leak and add additional dressings or consider\nocclusive dressing and one-way valve, if needed.\n5. Flail segment with paradoxical movement and respiratory distress:\na. Consider PPV,\nb. Consider applying non-circumferential splint.\n6. If available, and so trained, consider 12-lead ECG.\nADVANCED EMT\nA 7. Establish IV en route.\n8. If shock present, perform fluid bolus. If hemorrhagic shock is suspected, refer to\nHemorrhagic Shock protocol, Gr een 13.\n9. Cardiac monitor and consider 12-lead ECG.\n10. Request Paramedic, if available.\nPARAMEDIC\n11. For presumed TENSION pneumothorax ONLY, perform chest decompression.\nAssume tension pneumothorax in a) ALL traumatic arrests, b) chest trauma with\nP\nincreasing respiratory distress/hypoxia, and c) chest trauma with otherwise\nunexplained shock or hypotension.\nNOTE: Chest decompression will be performed on the involved side using a\nMaine EMS-approved device. Chest decompression should be preferentially\nperformed at the fourth or fifth intercostal space on the anterior axillary line. The\nsecond or third intercostal space on the mid-clavicular line may be used, if\nnecessary.\nPEARLS for Chest Tr auma\n- The fourth to fifth intercostal space on the anterior axillary line is preferred to the\nsecond or third intercostal space on the mid-clavicular line because of significant failure\nrates of the mid-clavicular approach (24-54% failure rate at the mid-clavicular line vs.\n8-22% of the time for anterior axillary approach). This is, in part, due to a larger average\ndepth to the thoracic cavity at the mid-clavicular line vs the anterior axillary line.\n- All needle decompressions are at risk of kinking/clotting or not reaching the thoracic\ncavity. Patients undergoing needle decompression should be monitored for change in\nsymptoms after the procedure. If concern for needle decompression failure arises, DO\nNOT remove previous catheter(s), repeat the procedure and continue monitoring. If the\ninitial procedure site was the mid-clavicular line, consider repeating at the anterior\naxillary line.\n(Back to TOC) Green 7",
+      "body_text": "(Back to TOC) Green 7 1. Administer O 2 or assist ventilations (PPV) as appropriate, refer to Airway Algorithm, Blue 2 . 2. Request ALS, if available. 3. Impaled Objects: a. Secure in place with bulky dressings. 4. Open chest wound: a. Cover with thick, bulky dressing (e.g., abd pad or bulky trauma dressing) and secure in place. i. Monitor for persistent air leak and add additional dressings or consider occlusive dressing and one-way valve, if needed. 5. Flail segment with paradoxical movement and respiratory distress: a. Consider PPV, b. Consider applying non-circumferential splint. 6. If available, and so trained, consider 12-lead ECG. ADVANCED EMT 7. Establish IV en route. 8. If shock present, perform fluid bolus. If hemorrhagic shock is suspected, refer to Hemorrhagic Shock protocol, Gr een 13. 9. Cardiac monitor and consider 12-lead ECG. 10. Request Paramedic, if available. PARAMEDIC 11. For presumed TENSION pneumothorax ONLY, perform chest decompression. Assume tension pneumothorax in a) ALL traumatic arrests, b) chest trauma with increasing respiratory distress/hypoxia, and c) chest trauma with otherwise unexplained shock or hypotension. NOTE: Chest decompression will be performed on the involved side using a Maine EMS-approved device. Chest decompression should be preferentially performed at the fourth or fifth intercostal space on the anterior axillary line. The second or third intercostal space on the mid-clavicular line may be used, if necessary. E A P PEARLS for Chest Tr auma - The fourth to fifth intercostal space on the anterior axillary line is preferred to the second or third intercostal space on the mid-clavicular line because of significant failure rates of the mid-clavicular approach (24-54% failure rate at the mid-clavicular line vs. 8-22% of the time for anterior axillary approach). This is, in part, due to a larger average depth to the thoracic cavity at the mid-clavicular line vs the anterior axillary line. - All needle decompressions are at risk of kinking/clotting or not reaching the thoracic cavity. Patients undergoing needle decompression should be monitored for change in symptoms after the procedure. If concern for needle decompression failure arises, DO NOT remove previous catheter(s), repeat the procedure and continue monitoring. If the initial procedure site was the mid-clavicular line, consider repeating at the anterior axillary line.",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            269.235,
+            743.336,
+            299.889,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            304.02,
+            743.336,
+            314.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            318.06,
+            743.336,
+            345.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Green",
+          "box": [
+            522.9,
+            741.536,
+            556.629,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "7",
+          "box": [
+            560.7,
+            741.536,
+            567.37,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Chest",
+          "box": [
+            248.715,
+            22.563,
+            298.964,
+            42.561
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Tr",
+          "box": [
+            305.64,
+            22.563,
+            324.553,
+            42.561
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "aum",
+          "box": [
+            327.316,
+            22.563,
+            367.73,
+            42.561
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "a",
+          "box": [
+            369.967,
+            22.563,
+            381.086,
+            42.561
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "EMT",
+          "box": [
+            90.0,
+            64.601,
+            116.586,
+            76.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1.",
+          "box": [
+            90.0,
+            78.551,
+            100.04,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Administer",
+          "box": [
+            102.33,
+            78.551,
+            164.597,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "O",
+          "box": [
+            169.425,
+            78.551,
+            178.759,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            178.29,
+            83.386,
+            182.959,
+            91.783
+          ],
+          "font": "Helvetica",
+          "size": 8.397
+        },
+        {
+          "text": "or",
+          "box": [
+            185.175,
+            78.551,
+            196.095,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "assist",
+          "box": [
+            200.88,
+            78.551,
+            231.048,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ventilations",
+          "box": [
+            235.08,
+            78.551,
+            303.102,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(PPV)",
+          "box": [
+            305.64,
+            78.551,
+            336.374,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            339.66,
+            78.551,
+            352.413,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "appropriate,",
+          "box": [
+            354.915,
+            78.551,
+            426.207,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            429.03,
+            78.551,
+            455.832,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            460.35,
+            78.551,
+            471.005,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Airway",
+          "box": [
+            474.3,
+            78.551,
+            514.732,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Algorithm,",
+          "box": [
+            102.465,
+            92.546,
+            163.906,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Blue",
+          "box": [
+            166.68,
+            92.546,
+            193.635,
+            104.543
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            196.92,
+            92.546,
+            203.59,
+            104.543
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            203.67,
+            92.546,
+            207.005,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2.",
+          "box": [
+            90.0,
+            106.496,
+            100.04,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Request",
+          "box": [
+            102.33,
+            106.496,
+            146.525,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ALS,",
+          "box": [
+            150.57,
+            106.496,
+            176.365,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            179.01,
+            106.496,
+            186.183,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available.",
+          "box": [
+            190.395,
+            106.496,
+            245.275,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3.",
+          "box": [
+            90.0,
+            120.491,
+            100.04,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Impaled",
+          "box": [
+            102.33,
+            120.491,
+            148.883,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Objects:",
+          "box": [
+            152.73,
+            120.491,
+            197.894,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            106.2,
+            134.441,
+            116.29,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Secure",
+          "box": [
+            122.4,
+            134.441,
+            161.187,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            164.025,
+            134.441,
+            174.533,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "place",
+          "box": [
+            178.74,
+            134.441,
+            209.151,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            212.04,
+            134.441,
+            237.114,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bulky",
+          "box": [
+            241.155,
+            134.441,
+            272.866,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dressings.",
+          "box": [
+            276.795,
+            134.441,
+            333.837,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4.",
+          "box": [
+            90.0,
+            148.436,
+            100.04,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Open",
+          "box": [
+            106.335,
+            148.436,
+            135.694,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "chest",
+          "box": [
+            139.905,
+            148.436,
+            168.593,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "wound:",
+          "box": [
+            172.62,
+            148.436,
+            215.821,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            105.75,
+            162.386,
+            115.84,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Cover",
+          "box": [
+            121.5,
+            162.386,
+            152.679,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            157.455,
+            162.386,
+            182.529,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "thick,",
+          "box": [
+            186.57,
+            162.386,
+            218.501,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bulky",
+          "box": [
+            221.535,
+            162.386,
+            253.246,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dressing",
+          "box": [
+            257.175,
+            162.386,
+            305.685,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(e.g.,",
+          "box": [
+            308.565,
+            162.386,
+            335.796,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "abd",
+          "box": [
+            338.58,
+            162.386,
+            359.367,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pad",
+          "box": [
+            363.195,
+            162.386,
+            383.982,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            387.81,
+            162.386,
+            398.73,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bulky",
+          "box": [
+            403.515,
+            162.386,
+            435.226,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trauma",
+          "box": [
+            439.11,
+            162.386,
+            481.244,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dressing)",
+          "box": [
+            484.2,
+            162.386,
+            536.488,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            121.5,
+            176.336,
+            142.665,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "secure",
+          "box": [
+            146.475,
+            176.336,
+            184.15,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            187.02,
+            176.336,
+            197.528,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "place.",
+          "box": [
+            201.69,
+            176.336,
+            235.188,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "i.",
+          "box": [
+            121.5,
+            190.331,
+            128.673,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Monitor",
+          "box": [
+            131.85,
+            190.331,
+            176.512,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            181.305,
+            190.331,
+            196.538,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "persistent",
+          "box": [
+            201.33,
+            190.331,
+            256.917,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "air",
+          "box": [
+            260.91,
+            190.331,
+            275.497,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "leak",
+          "box": [
+            280.305,
+            190.331,
+            303.2,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            307.305,
+            190.331,
+            328.47,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "add",
+          "box": [
+            332.28,
+            190.331,
+            353.067,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "additional",
+          "box": [
+            356.895,
+            190.331,
+            414.357,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dressings",
+          "box": [
+            418.545,
+            190.331,
+            472.837,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            475.2,
+            190.331,
+            486.121,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consider",
+          "box": [
+            490.95,
+            190.331,
+            538.549,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "occlusive",
+          "box": [
+            133.965,
+            204.281,
+            186.545,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dressing",
+          "box": [
+            189.405,
+            204.281,
+            237.915,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            240.84,
+            204.281,
+            262.005,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "one-way",
+          "box": [
+            265.815,
+            204.281,
+            313.343,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "valve,",
+          "box": [
+            317.25,
+            204.281,
+            350.774,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            353.565,
+            204.281,
+            360.738,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "needed.",
+          "box": [
+            364.95,
+            204.281,
+            410.014,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5.",
+          "box": [
+            90.0,
+            218.276,
+            100.04,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Flail",
+          "box": [
+            103.23,
+            218.276,
+            127.28,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "segment",
+          "box": [
+            131.49,
+            218.276,
+            178.493,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            182.475,
+            218.276,
+            207.549,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "paradoxical",
+          "box": [
+            211.635,
+            218.276,
+            278.296,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "movement",
+          "box": [
+            282.465,
+            218.276,
+            342.577,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            346.59,
+            218.276,
+            367.755,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "respiratory",
+          "box": [
+            371.565,
+            218.276,
+            435.218,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "distress:",
+          "box": [
+            439.155,
+            218.276,
+            486.228,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            106.2,
+            232.226,
+            116.29,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Consider",
+          "box": [
+            119.475,
+            232.226,
+            168.294,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PPV,",
+          "box": [
+            173.07,
+            232.226,
+            198.991,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b.",
+          "box": [
+            106.2,
+            246.176,
+            116.659,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Consider",
+          "box": [
+            119.88,
+            246.176,
+            168.699,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "applying",
+          "box": [
+            173.475,
+            246.176,
+            223.582,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "non-circumferential",
+          "box": [
+            226.485,
+            246.176,
+            341.126,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "splint.",
+          "box": [
+            345.33,
+            246.176,
+            380.846,
+            258.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6.",
+          "box": [
+            90.0,
+            260.171,
+            100.04,
+            272.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            103.23,
+            260.171,
+            110.971,
+            272.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available,",
+          "box": [
+            115.2,
+            260.171,
+            170.08,
+            272.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            172.845,
+            260.171,
+            194.01,
+            272.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "so",
+          "box": [
+            197.865,
+            260.171,
+            209.949,
+            272.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trained,",
+          "box": [
+            213.3,
+            260.171,
+            258.627,
+            272.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consider",
+          "box": [
+            261.405,
+            260.171,
+            309.004,
+            272.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12-lead",
+          "box": [
+            313.785,
+            260.171,
+            354.483,
+            272.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ECG.",
+          "box": [
+            358.335,
+            260.171,
+            384.953,
+            272.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ADVANCED",
+          "box": [
+            90.0,
+            288.116,
+            158.525,
+            300.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT",
+          "box": [
+            162.18,
+            288.116,
+            188.766,
+            300.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "7.",
+          "box": [
+            90.0,
+            302.066,
+            100.04,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Establish",
+          "box": [
+            103.23,
+            302.066,
+            154.101,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            158.175,
+            302.066,
+            170.583,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "en",
+          "box": [
+            173.79,
+            302.066,
+            186.882,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "route.",
+          "box": [
+            191.07,
+            302.066,
+            225.008,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "8.",
+          "box": [
+            90.0,
+            316.061,
+            100.04,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            103.23,
+            316.061,
+            110.971,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock",
+          "box": [
+            115.2,
+            316.061,
+            147.056,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "present,",
+          "box": [
+            151.2,
+            316.061,
+            197.653,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "perform",
+          "box": [
+            200.43,
+            316.061,
+            246.749,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fluid",
+          "box": [
+            251.235,
+            316.061,
+            277.507,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bolus.",
+          "box": [
+            281.295,
+            316.061,
+            315.666,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            318.915,
+            316.061,
+            326.656,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hemorrhagic",
+          "box": [
+            330.84,
+            316.061,
+            405.098,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock",
+          "box": [
+            408.15,
+            316.061,
+            440.006,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            444.15,
+            316.061,
+            453.986,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suspected,",
+          "box": [
+            456.3,
+            316.061,
+            515.537,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            518.4,
+            316.061,
+            545.202,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            549.9,
+            316.061,
+            560.555,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Hemorrhagic",
+          "box": [
+            106.2,
+            330.011,
+            182.357,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Shock",
+          "box": [
+            185.4,
+            330.011,
+            218.367,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            222.48,
+            330.011,
+            273.098,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            275.895,
+            330.011,
+            289.115,
+            342.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            291.393,
+            330.011,
+            311.761,
+            342.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "13.",
+          "box": [
+            316.215,
+            330.011,
+            332.96,
+            342.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "9.",
+          "box": [
+            90.0,
+            343.961,
+            100.04,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Cardiac",
+          "box": [
+            103.23,
+            343.961,
+            146.951,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "monitor",
+          "box": [
+            149.985,
+            343.961,
+            194.728,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            199.53,
+            343.961,
+            220.695,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consider",
+          "box": [
+            224.505,
+            343.961,
+            272.104,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12-lead",
+          "box": [
+            276.885,
+            343.961,
+            317.583,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ECG.",
+          "box": [
+            321.39,
+            343.961,
+            348.008,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10.",
+          "box": [
+            90.0,
+            357.956,
+            106.745,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Request",
+          "box": [
+            109.935,
+            357.956,
+            154.13,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Paramedic,",
+          "box": [
+            158.175,
+            357.956,
+            222.538,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            225.315,
+            357.956,
+            232.488,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available.",
+          "box": [
+            236.7,
+            357.956,
+            291.58,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PARAMEDIC",
+          "box": [
+            90.0,
+            385.901,
+            165.415,
+            397.898
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "11.",
+          "box": [
+            90.0,
+            399.851,
+            106.745,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "For",
+          "box": [
+            109.935,
+            399.851,
+            127.453,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "presumed",
+          "box": [
+            132.255,
+            399.851,
+            189.028,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TENSION",
+          "box": [
+            192.825,
+            399.851,
+            245.308,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pneumothorax",
+          "box": [
+            248.94,
+            399.851,
+            333.508,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ONLY,",
+          "box": [
+            337.59,
+            399.851,
+            373.96,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "perform",
+          "box": [
+            376.155,
+            399.851,
+            422.474,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "chest",
+          "box": [
+            426.915,
+            399.851,
+            455.603,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "decompression.",
+          "box": [
+            459.45,
+            399.851,
+            549.382,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Assume",
+          "box": [
+            106.2,
+            413.801,
+            150.99,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tension",
+          "box": [
+            153.855,
+            413.801,
+            194.971,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pneumothorax",
+          "box": [
+            199.17,
+            413.801,
+            283.738,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            287.775,
+            413.801,
+            298.283,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a)",
+          "box": [
+            302.49,
+            413.801,
+            313.239,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ALL",
+          "box": [
+            316.53,
+            413.801,
+            339.135,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "traumatic",
+          "box": [
+            343.035,
+            413.801,
+            399.197,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "arrests,",
+          "box": [
+            402.255,
+            413.801,
+            445.122,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b)",
+          "box": [
+            447.885,
+            413.801,
+            459.242,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "chest",
+          "box": [
+            462.15,
+            413.801,
+            490.838,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trauma",
+          "box": [
+            495.0,
+            413.801,
+            537.134,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            540.45,
+            413.801,
+            565.523,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "increasing",
+          "box": [
+            106.2,
+            427.796,
+            166.171,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "respiratory",
+          "box": [
+            169.065,
+            427.796,
+            232.718,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "distress/hypoxia,",
+          "box": [
+            236.61,
+            427.796,
+            332.864,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            335.7,
+            427.796,
+            356.865,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "c)",
+          "box": [
+            360.675,
+            427.796,
+            370.574,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "chest",
+          "box": [
+            373.86,
+            427.796,
+            402.548,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trauma",
+          "box": [
+            406.53,
+            427.796,
+            448.664,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            451.8,
+            427.796,
+            476.873,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "otherwise",
+          "box": [
+            481.05,
+            427.796,
+            538.267,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "unexplained",
+          "box": [
+            106.2,
+            441.386,
+            177.417,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock",
+          "box": [
+            181.215,
+            441.386,
+            213.071,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            217.215,
+            441.386,
+            228.135,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hypotension.",
+          "box": [
+            232.92,
+            441.386,
+            306.88,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NOTE:",
+          "box": [
+            90.0,
+            455.336,
+            127.891,
+            467.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Chest",
+          "box": [
+            131.31,
+            455.336,
+            161.456,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "decompression",
+          "box": [
+            165.465,
+            455.336,
+            250.992,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "will",
+          "box": [
+            255.195,
+            455.336,
+            275.758,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            279.945,
+            455.336,
+            293.977,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "performed",
+          "box": [
+            296.865,
+            455.336,
+            357.618,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            361.44,
+            455.336,
+            375.036,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            379.215,
+            455.336,
+            397.724,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "involved",
+          "box": [
+            400.59,
+            455.336,
+            449.333,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "side",
+          "box": [
+            453.15,
+            455.336,
+            476.433,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "using",
+          "box": [
+            479.25,
+            455.336,
+            510.525,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            513.45,
+            455.336,
+            520.12,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Maine",
+          "box": [
+            90.0,
+            469.286,
+            126.257,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EMS-approved",
+          "box": [
+            129.105,
+            469.286,
+            212.303,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "device.",
+          "box": [
+            216.135,
+            469.286,
+            256.248,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Chest",
+          "box": [
+            259.47,
+            469.286,
+            289.616,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "decompression",
+          "box": [
+            293.625,
+            469.286,
+            379.152,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "should",
+          "box": [
+            383.355,
+            469.286,
+            421.313,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            425.16,
+            469.286,
+            439.192,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "preferentially",
+          "box": [
+            442.035,
+            469.286,
+            520.04,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "performed",
+          "box": [
+            90.0,
+            483.686,
+            150.753,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            154.575,
+            483.686,
+            164.548,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            168.525,
+            483.686,
+            187.034,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fourth",
+          "box": [
+            189.9,
+            483.686,
+            225.299,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            229.365,
+            483.686,
+            240.285,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fifth",
+          "box": [
+            245.07,
+            483.686,
+            268.661,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "intercostal",
+          "box": [
+            272.745,
+            483.686,
+            332.272,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "space",
+          "box": [
+            336.465,
+            483.686,
+            368.569,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            371.43,
+            483.686,
+            385.026,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            389.205,
+            483.686,
+            407.714,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "anterior",
+          "box": [
+            410.58,
+            483.686,
+            455.896,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "axillary",
+          "box": [
+            460.35,
+            483.686,
+            503.84,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "line.",
+          "box": [
+            508.05,
+            483.686,
+            533.105,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "The",
+          "box": [
+            535.95,
+            483.686,
+            557.587,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "second",
+          "box": [
+            90.0,
+            497.636,
+            129.075,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            132.885,
+            497.636,
+            143.806,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "third",
+          "box": [
+            148.545,
+            497.636,
+            176.544,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "intercostal",
+          "box": [
+            180.36,
+            497.636,
+            239.887,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "space",
+          "box": [
+            244.08,
+            497.636,
+            276.184,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            279.09,
+            497.636,
+            292.686,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            296.865,
+            497.636,
+            315.374,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mid-clavicular",
+          "box": [
+            318.24,
+            497.636,
+            399.646,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "line",
+          "box": [
+            404.46,
+            497.636,
+            426.428,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            429.255,
+            497.636,
+            452.983,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            456.75,
+            497.636,
+            470.782,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "used,",
+          "box": [
+            473.4,
+            497.636,
+            503.546,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            506.7,
+            497.636,
+            513.873,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "necessary.",
+          "box": [
+            90.0,
+            511.586,
+            149.351,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "E",
+          "box": [
+            57.375,
+            155.331,
+            69.381,
+            173.331
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "A",
+          "box": [
+            56.61,
+            301.086,
+            68.616,
+            319.086
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "P",
+          "box": [
+            57.555,
+            423.531,
+            69.561,
+            441.531
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "PEARLS",
+          "box": [
+            231.75,
+            534.536,
+            280.594,
+            546.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            282.78,
+            534.536,
+            298.893,
+            546.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Chest",
+          "box": [
+            304.29,
+            534.536,
+            336.34,
+            546.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Tr",
+          "box": [
+            340.965,
+            534.536,
+            352.79,
+            546.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "auma",
+          "box": [
+            355.068,
+            534.536,
+            388.635,
+            546.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.035,
+            562.436,
+            59.03,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "The",
+          "box": [
+            67.23,
+            562.436,
+            88.867,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fourth",
+          "box": [
+            91.755,
+            562.436,
+            127.154,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            131.22,
+            562.436,
+            141.875,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fifth",
+          "box": [
+            145.215,
+            562.436,
+            168.806,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "intercostal",
+          "box": [
+            172.89,
+            562.436,
+            232.417,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "space",
+          "box": [
+            236.61,
+            562.436,
+            268.714,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            271.575,
+            562.436,
+            285.171,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            289.35,
+            562.436,
+            307.859,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "anterior",
+          "box": [
+            310.725,
+            562.436,
+            356.041,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "axillary",
+          "box": [
+            360.855,
+            562.436,
+            404.345,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "line",
+          "box": [
+            408.24,
+            562.436,
+            430.209,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            433.08,
+            562.436,
+            442.916,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "preferred",
+          "box": [
+            445.455,
+            562.436,
+            500.02,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            503.55,
+            562.436,
+            514.205,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            517.5,
+            562.436,
+            536.009,
+            574.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "second",
+          "box": [
+            67.23,
+            576.386,
+            106.305,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            110.115,
+            576.386,
+            121.036,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "third",
+          "box": [
+            125.82,
+            576.386,
+            153.819,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "intercostal",
+          "box": [
+            157.635,
+            576.386,
+            217.162,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "space",
+          "box": [
+            221.355,
+            576.386,
+            253.459,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            256.32,
+            576.386,
+            269.916,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            274.095,
+            576.386,
+            292.604,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mid-clavicular",
+          "box": [
+            295.47,
+            576.386,
+            376.876,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "line",
+          "box": [
+            381.69,
+            576.386,
+            403.658,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "because",
+          "box": [
+            406.53,
+            576.386,
+            452.553,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            455.4,
+            576.386,
+            465.544,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "significant",
+          "box": [
+            469.8,
+            576.386,
+            528.965,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "failure",
+          "box": [
+            532.8,
+            576.386,
+            571.478,
+            588.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "rates",
+          "box": [
+            67.23,
+            590.336,
+            96.047,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            98.595,
+            590.336,
+            108.739,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            112.95,
+            590.336,
+            131.459,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mid-clavicular",
+          "box": [
+            134.325,
+            590.336,
+            215.731,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "approach",
+          "box": [
+            220.5,
+            590.336,
+            273.768,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(24-54%",
+          "box": [
+            277.875,
+            590.336,
+            323.235,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "failure",
+          "box": [
+            326.43,
+            590.336,
+            365.108,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "rate",
+          "box": [
+            368.01,
+            590.336,
+            391.077,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            393.93,
+            590.336,
+            403.903,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            407.925,
+            590.336,
+            426.434,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mid-clavicular",
+          "box": [
+            429.3,
+            590.336,
+            510.706,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "line",
+          "box": [
+            515.25,
+            590.336,
+            537.218,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "vs.",
+          "box": [
+            540.0,
+            590.336,
+            555.58,
+            602.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "8-22%",
+          "box": [
+            67.23,
+            604.286,
+            101.731,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            104.94,
+            604.286,
+            115.084,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            119.295,
+            604.286,
+            137.804,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "time",
+          "box": [
+            140.67,
+            604.286,
+            166.738,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            169.605,
+            604.286,
+            184.838,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "anterior",
+          "box": [
+            189.63,
+            604.286,
+            234.946,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "axillary",
+          "box": [
+            239.715,
+            604.286,
+            283.205,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "approach).",
+          "box": [
+            287.145,
+            604.286,
+            348.846,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "This",
+          "box": [
+            352.08,
+            604.286,
+            376.883,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is,",
+          "box": [
+            379.395,
+            604.286,
+            391.981,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            394.785,
+            604.286,
+            405.293,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "part,",
+          "box": [
+            409.455,
+            604.286,
+            436.783,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "due",
+          "box": [
+            439.56,
+            604.286,
+            461.206,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            463.95,
+            604.286,
+            474.605,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            477.9,
+            604.286,
+            484.57,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "larger",
+          "box": [
+            487.8,
+            604.286,
+            520.563,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "average",
+          "box": [
+            525.15,
+            604.286,
+            570.21,
+            616.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "depth",
+          "box": [
+            67.23,
+            618.686,
+            99.27,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            103.32,
+            618.686,
+            113.975,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            117.36,
+            618.686,
+            135.869,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "thoracic",
+          "box": [
+            138.735,
+            618.686,
+            185.646,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cavity",
+          "box": [
+            188.685,
+            618.686,
+            221.992,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            225.9,
+            618.686,
+            235.873,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            239.895,
+            618.686,
+            258.404,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mid-clavicular",
+          "box": [
+            261.27,
+            618.686,
+            342.676,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "line",
+          "box": [
+            347.49,
+            618.686,
+            369.458,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "vs",
+          "box": [
+            372.33,
+            618.686,
+            385.159,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            387.675,
+            618.686,
+            406.184,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "anterior",
+          "box": [
+            409.05,
+            618.686,
+            454.366,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "axillary",
+          "box": [
+            459.0,
+            618.686,
+            502.49,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "line.",
+          "box": [
+            506.25,
+            618.686,
+            531.305,
+            630.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.035,
+            632.636,
+            59.03,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "All",
+          "box": [
+            67.23,
+            632.636,
+            82.074,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "needle",
+          "box": [
+            86.265,
+            632.636,
+            124.601,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "decompressions",
+          "box": [
+            127.44,
+            632.636,
+            220.036,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            222.615,
+            632.636,
+            241.692,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            244.53,
+            632.636,
+            254.503,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "risk",
+          "box": [
+            258.525,
+            632.636,
+            279.427,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            283.59,
+            632.636,
+            293.734,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "kinking/clotting",
+          "box": [
+            297.945,
+            632.636,
+            388.288,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            391.185,
+            632.636,
+            402.106,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            406.89,
+            632.636,
+            424.891,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reaching",
+          "box": [
+            428.895,
+            632.636,
+            479.489,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            482.4,
+            632.636,
+            500.909,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "thoracic",
+          "box": [
+            503.55,
+            632.636,
+            550.461,
+            644.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cavity.",
+          "box": [
+            67.23,
+            646.586,
+            104.052,
+            658.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Patients",
+          "box": [
+            107.28,
+            646.586,
+            153.254,
+            658.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "undergoing",
+          "box": [
+            155.79,
+            646.586,
+            221.972,
+            658.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "needle",
+          "box": [
+            224.865,
+            646.586,
+            263.201,
+            658.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "decompression",
+          "box": [
+            266.085,
+            646.586,
+            351.612,
+            658.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "should",
+          "box": [
+            355.815,
+            646.586,
+            393.773,
+            658.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            397.62,
+            646.586,
+            411.652,
+            658.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "monitored",
+          "box": [
+            414.495,
+            646.586,
+            473.987,
+            658.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            477.45,
+            646.586,
+            492.683,
+            658.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "change",
+          "box": [
+            497.7,
+            646.586,
+            538.719,
+            658.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            541.35,
+            646.586,
+            551.858,
+            658.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "symptoms",
+          "box": [
+            67.23,
+            660.536,
+            126.128,
+            672.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "after",
+          "box": [
+            128.655,
+            660.536,
+            154.362,
+            672.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            159.165,
+            660.536,
+            177.674,
+            672.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "procedure.",
+          "box": [
+            180.54,
+            660.536,
+            243.073,
+            672.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            246.285,
+            660.536,
+            254.026,
+            672.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "concern",
+          "box": [
+            258.255,
+            660.536,
+            303.472,
+            672.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            307.665,
+            660.536,
+            322.898,
+            672.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "needle",
+          "box": [
+            327.69,
+            660.536,
+            366.026,
+            672.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "decompression",
+          "box": [
+            368.865,
+            660.536,
+            454.392,
+            672.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "failure",
+          "box": [
+            458.55,
+            660.536,
+            497.228,
+            672.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "arises,",
+          "box": [
+            499.95,
+            660.536,
+            536.778,
+            672.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "DO",
+          "box": [
+            539.55,
+            660.536,
+            557.605,
+            672.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NOT",
+          "box": [
+            67.23,
+            674.486,
+            92.623,
+            686.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "remove",
+          "box": [
+            95.76,
+            674.486,
+            139.479,
+            686.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "previous",
+          "box": [
+            142.335,
+            674.486,
+            192.977,
+            686.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "catheter(s),",
+          "box": [
+            195.525,
+            674.486,
+            259.564,
+            686.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "repeat",
+          "box": [
+            262.395,
+            674.486,
+            298.225,
+            686.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            302.22,
+            674.486,
+            320.729,
+            686.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "procedure",
+          "box": [
+            323.595,
+            674.486,
+            383.041,
+            686.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            385.92,
+            674.486,
+            407.085,
+            686.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "continue",
+          "box": [
+            410.895,
+            674.486,
+            461.434,
+            686.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "monitoring.",
+          "box": [
+            463.95,
+            674.486,
+            531.716,
+            686.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            535.05,
+            674.486,
+            542.791,
+            686.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            547.2,
+            674.486,
+            565.709,
+            686.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "initial",
+          "box": [
+            67.23,
+            688.436,
+            100.125,
+            700.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "procedure",
+          "box": [
+            104.31,
+            688.436,
+            163.756,
+            700.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "site",
+          "box": [
+            166.635,
+            688.436,
+            186.664,
+            700.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "was",
+          "box": [
+            189.54,
+            688.436,
+            212.265,
+            700.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            214.785,
+            688.436,
+            233.294,
+            700.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mid-clavicular",
+          "box": [
+            236.16,
+            688.436,
+            317.566,
+            700.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "line,",
+          "box": [
+            322.38,
+            688.436,
+            347.435,
+            700.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consider",
+          "box": [
+            350.19,
+            688.436,
+            397.789,
+            700.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "repeating",
+          "box": [
+            402.615,
+            688.436,
+            457.582,
+            700.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            460.35,
+            688.436,
+            470.323,
+            700.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            474.3,
+            688.436,
+            492.809,
+            700.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "anterior",
+          "box": [
+            495.45,
+            688.436,
+            540.766,
+            700.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "axillary",
+          "box": [
+            67.23,
+            702.386,
+            110.72,
+            714.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "line.",
+          "box": [
+            114.615,
+            702.386,
+            139.67,
+            714.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0101.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 99.02,
+    "output_to_native_length_ratio": 0.982,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

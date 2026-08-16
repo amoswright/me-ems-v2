@@ -1,0 +1,402 @@
+[
+  {
+    "id": "pink_137",
+    "title": "Brief Resolved Unexplained Event",
+    "category": "pink",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>PEARLS</strong>\n<strong>Definition of Brief Resolved Unexplained Event (BRUE):</strong>\nThese are sudden, brief (less than 1 minute), now resolved (returned to baseline) episodes of at least one of the following in a child less than 1 years old:\n1. Cyanosis or pallor\n2. Absent, decreased, or irregular breathing\n3. Marked change in tone (hyper- or hypotonia)\n4. Altered level of responsiveness\n<strong>NOTE:</strong> Most children who experience a BRUE have a normal physical exam, however, almost 50% will have an underlying condition requiring comprehensive medical care.</p>\n<p>In many cases, details from the child's home may be important to downstream health care clinicians. Please include details, such as the following, when providing report to the hospital:\n1. Make note of the home environment: Medications, condition, caregiver's condition, possibility of toxic exposure, etc.\n2. Are there any concerns for non-accidental trauma?</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Obtain medical history.\n    a. Determine the severity, nature, and duration of the episode.\n    b. Was the patient awake or sleeping at the time of the episode?\n    c. Include details of the resuscitation, if applicable.</p>"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Keep the child warm and transport to the emergency department.</p>"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Contact OLMC for assistance if the parent/guardian refuses medical care and/or transport."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "pink_137",
+        "pageNumber": "Pink 1",
+        "jpgReference": "/assets/pages_webp/0137.webp"
+      }
+    ]
+  },
+  {
+    "id": "pink_138",
+    "title": "Pediatric Respiratory Distress with Inspiratory Stridor",
+    "category": "pink",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Inspiratory stridor may be due to many causes in the pediatric population, including croup, foreign body aspiration, or epiglottitis.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Stridor refers to upper airway obstruction as in laryngotracheitis/croup and is often accompanied by hoarseness and/or a barking cough (seal-like cough).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>As stridor worsens in severity, the following may also be observed: tachypnea, retractions, accessory muscle use, nasal flaring, fatigue from respiratory effort, and cyanosis.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>* Nebulized EPINEPHrine/racemic EPINEPHrine may be contraindicated in children with a history of congenital heart disease.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>PEARLS</strong>\nA common challenge when working with the pediatric population is the administration of medication. If commercial products are unavailable, alternative measures are often undertaken, such as crushing and dissolving portions of a tablet, or extemporaneous compounding of oral products. In some cases, an extemporaneous liquid cannot be prepared easily from tablets or capsules and off-label oral use of an intravenous (IV) or intramuscular (IM) preparation is considered. An example of this is administering the <em>injectable</em> formulation of dexamethasone <em>orally</em>. This practice is followed in emergency departments around the country.</p>\n<p><strong>Please note that at this time, the only IV medication on the MEMS formulary that has been approved to be given orally is single-dose/one-time use dexamethasone.</strong></p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Humidified O2, if available and as appropriate, with upright posture"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "If needed, assist ventilations with PPV using 100% O2."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Request ALS, if available."
+      },
+      {
+        "num": 4,
+        "providerLevel": "PARAMEDIC",
+        "html": "Dexamethasone 0.6 mg/kg PO/IV/IM/IO x 1 (MAX dose 16 mg)"
+      },
+      {
+        "num": 5,
+        "providerLevel": "PARAMEDIC",
+        "html": "For signs of moderate to severe croup, administer inhalation of <strong>nebulized</strong> solution of 1 mL 1mg/mL EPINEPHrine OR 0.5 mL racemic epinephrine mixed with 2.5 mL normal saline solution*. Signs of moderate/severe croup include stridor at rest AND one of the following: tachypnea, moderate intercostal retractions (including suprasternal retractions), agitation/restlessness/tired appearing, difficulty talking or feeding."
+      },
+      {
+        "num": 6,
+        "providerLevel": "PARAMEDIC",
+        "html": "Contact OLMC for the second dose of nebulized EPINEPHrine if symptoms do not improve, and consider alternate diagnosis such as aspiration of foreign body, bacterial tracheitis, or epiglottitis."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "pink_138",
+        "pageNumber": "Pink 2",
+        "jpgReference": "/assets/pages_webp/0138.webp"
+      }
+    ]
+  },
+  {
+    "id": "pink_139",
+    "title": "Neonatal and Young Infant Fever",
+    "category": "pink",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>PEARLS</strong>\nNeonates and young infants have immature immune systems and are at high risk for serious bacterial infection despite appearing well. The rate of serious bacterial infection (SBI) is up to 20% in neonates. Often, fever may be the only sign of critical illness in these children. All febrile neonates and young infants should be transported to the emergency department for further evaluation.</p>\n<p>Definitions:\n* Neonates are children 0-28 days old.\n* Young infants are less than 60 days old.\n* Fever is a temperature of greater than or equal to 38.0 \u00b0C or 100.4 \u00b0F measured by any method by either caregivers or EMS.\n* Serious Bacterial Infections (SBI) in neonates and young infants may also present with hypothermia (temperature less than 36.0\u00b0C or 96.8 \u00b0F).</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Obtain medical history:\n    a. What was the highest temperature? How was it recorded?\n    b. Is the child still feeding normally? If not, are there signs of dehydration?\n    c. Birth history: was the baby full-term or premature? Was the baby admitted to the NICU?\n    d. Were there complications from the pregnancy/delivery?</p>"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Evaluate the neonate or young infant for the following:\n    a. Appearance (tone, inter-activeness, consolability, gaze, cry)\n    b. Work of breathing (abnormal noises or position, retractions, flaring)\n    c. Circulation (pallor, mottling, cyanosis)\n    d. Evidence of dehydration</p>"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Evaluate for shock due to severe sepsis. If present, treat per Medical Shock protocol, <strong>Gold 14</strong> and notify receiving hospital.</p>"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Transport to the emergency department for further evaluation."
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Contact OLMC for assistance if the caregiver/guardian refuses medical care and/or transport."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "pink_139",
+        "pageNumber": "Pink 3",
+        "jpgReference": "/assets/pages_webp/0139.webp"
+      }
+    ]
+  },
+  {
+    "id": "pink_140_141",
+    "title": "Normal Pediatric Vital Signs",
+    "category": "pink",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Normal Pediatric Vital Signs\" src=\"/assets/figures/page-0140-visual.webp\"/></p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th>Age</th>\n<th>Approximate Weight (kg)</th>\n<th>Pulse/Min</th>\n<th>Resp/Min</th>\n<th>Minimum Systolic BP</th>\n<th>Glucose (mg/dl)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Newborn</td>\n<td>3</td>\n<td>100-160</td>\n<td>30-60</td>\n<td>60</td>\n<td>45-120</td>\n</tr>\n<tr>\n<td>6 months</td>\n<td>7</td>\n<td>100-160</td>\n<td>30-60</td>\n<td>70</td>\n<td>100-180</td>\n</tr>\n<tr>\n<td>1 year</td>\n<td>10</td>\n<td>100-140</td>\n<td>24-40</td>\n<td>70</td>\n<td>100-180</td>\n</tr>\n<tr>\n<td>2 years</td>\n<td>12</td>\n<td>80-130</td>\n<td>24-40</td>\n<td>70</td>\n<td>100-180</td>\n</tr>\n<tr>\n<td>3</td>\n<td>15</td>\n<td>80-130</td>\n<td>24-40</td>\n<td>Multiply age x 2 and add 70</td>\n<td>100-180</td>\n</tr>\n<tr>\n<td>4</td>\n<td>16</td>\n<td>80-120</td>\n<td>22-34</td>\n<td>Multiply age x 2 and add 70</td>\n<td>100-180</td>\n</tr>\n<tr>\n<td>5</td>\n<td>18</td>\n<td>80-120</td>\n<td>22-34</td>\n<td>Multiply age x 2 and add 70</td>\n<td>100-180</td>\n</tr>\n<tr>\n<td>6-7</td>\n<td>20</td>\n<td>70-110</td>\n<td>18-30</td>\n<td>Multiply age x 2 and add 70</td>\n<td>80-140</td>\n</tr>\n<tr>\n<td>8-9</td>\n<td>25</td>\n<td>70-110</td>\n<td>18-30</td>\n<td>Multiply age x 2 and add 70</td>\n<td>80-140</td>\n</tr>\n<tr>\n<td>10-11</td>\n<td>35</td>\n<td>60-100</td>\n<td>16-24</td>\n<td>Multiply age x 2 and add 70</td>\n<td>70-120</td>\n</tr>\n<tr>\n<td>12-13</td>\n<td>40</td>\n<td>60-100</td>\n<td>16-24</td>\n<td>Multiply age x 2 and add 70</td>\n<td>70-120</td>\n</tr>\n<tr>\n<td>14</td>\n<td>50</td>\n<td>60-100</td>\n<td>16-24</td>\n<td>Multiply age x 2 and add 70</td>\n<td>70-120</td>\n</tr>\n<tr>\n<td>15</td>\n<td>55+</td>\n<td>60-100</td>\n<td>14-20</td>\n<td>Multiply age x 2 and add 70</td>\n<td>70-120</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p>Note: Estimated weight in kilograms: [2 x (age in years)] + 8\n* Typical Systolic BP in children 1-10 years of age: 90 + (age in years x 2)\n* Lower Limits of Systolic BP for a child age 3-15 years: 70 + (age in years x 2)</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Normal Pediatric Vital Signs\" src=\"/assets/figures/page-0141-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Modified GCS for Infants and Children</h3>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\">Child</th>\n<th style=\"text-align: left;\">Infant</th>\n<th style=\"text-align: center;\">Score</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\"><strong>EYE OPENING</strong></td>\n<td style=\"text-align: left;\">Spontaneous</td>\n<td style=\"text-align: left;\">Spontaneous</td>\n<td style=\"text-align: center;\">4</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">To speech</td>\n<td style=\"text-align: left;\">To speech</td>\n<td style=\"text-align: center;\">3</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">To pain only</td>\n<td style=\"text-align: left;\">To pain only</td>\n<td style=\"text-align: center;\">2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">No response</td>\n<td style=\"text-align: left;\">No response</td>\n<td style=\"text-align: center;\">1</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>BEST VERBAL RESPONSE</strong></td>\n<td style=\"text-align: left;\">Oriented/Appropriate</td>\n<td style=\"text-align: left;\">Coos and babbles</td>\n<td style=\"text-align: center;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">Confused</td>\n<td style=\"text-align: left;\">Irritable, cries</td>\n<td style=\"text-align: center;\">4</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">Inappropriate words</td>\n<td style=\"text-align: left;\">Cries to pain</td>\n<td style=\"text-align: center;\">3</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">Incomprehensible sounds</td>\n<td style=\"text-align: left;\">Moans to pain</td>\n<td style=\"text-align: center;\">2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">No response</td>\n<td style=\"text-align: left;\">No response</td>\n<td style=\"text-align: center;\">1</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>BEST MOTOR RESPONSE</strong></td>\n<td style=\"text-align: left;\">Obeys commands</td>\n<td style=\"text-align: left;\">Moves spontaneously/ purposefully</td>\n<td style=\"text-align: center;\">6</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">Localizes painful stimuli</td>\n<td style=\"text-align: left;\">Withdraws to touch</td>\n<td style=\"text-align: center;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">Withdraws in response to pain</td>\n<td style=\"text-align: left;\">Withdraws in response to pain</td>\n<td style=\"text-align: center;\">4</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">Flexion in response to pain</td>\n<td style=\"text-align: left;\">Abnormal flexion in response to pain</td>\n<td style=\"text-align: center;\">3</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">Extension in response to pain</td>\n<td style=\"text-align: left;\">Abnormal extension in response to pain</td>\n<td style=\"text-align: center;\">2</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">No response</td>\n<td style=\"text-align: left;\">No response</td>\n<td style=\"text-align: center;\">1</td>\n</tr>\n</tbody>\n</table>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "pink_140",
+        "pageNumber": "Pink 4",
+        "jpgReference": "/assets/pages_webp/0140.webp"
+      },
+      {
+        "pageId": "pink_141",
+        "pageNumber": "Pink 5",
+        "jpgReference": "/assets/pages_webp/0141.webp"
+      }
+    ]
+  },
+  {
+    "id": "pink_142",
+    "title": "Pediatric Specific Equipment Sizes",
+    "category": "pink",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Pediatric Specific Equipment Sizes\" src=\"/assets/figures/page-0142-visual.webp\"/></p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Equipment</th>\n<th style=\"text-align: left;\">GREY<br/>3-5 kg</th>\n<th style=\"text-align: left;\">PINK<br/>Small Infant<br/>6-7 kg</th>\n<th style=\"text-align: left;\">RED<br/>Infant<br/>8-9 kg</th>\n<th style=\"text-align: left;\">PURPLE<br/>Toddler<br/>10-11 kg</th>\n<th style=\"text-align: left;\">YELLOW<br/>Small Child<br/>12-14 kg</th>\n<th style=\"text-align: left;\">WHITE<br/>Child<br/>15-18 kg</th>\n<th style=\"text-align: left;\">BLUE<br/>Child<br/>19-23 kg</th>\n<th style=\"text-align: left;\">ORANGE<br/>Large Child<br/>24-29 kg</th>\n<th style=\"text-align: left;\">GREEN<br/>Adult<br/>30-36 kg</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">BVM</td>\n<td style=\"text-align: left;\">Infant or child</td>\n<td style=\"text-align: left;\">Infant or child</td>\n<td style=\"text-align: left;\">Infant or child</td>\n<td style=\"text-align: left;\">Child</td>\n<td style=\"text-align: left;\">Child</td>\n<td style=\"text-align: left;\">Child</td>\n<td style=\"text-align: left;\">Child</td>\n<td style=\"text-align: left;\">Child</td>\n<td style=\"text-align: left;\">Adult</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Oral Airway (mm)</td>\n<td style=\"text-align: left;\">50</td>\n<td style=\"text-align: left;\">50</td>\n<td style=\"text-align: left;\">50</td>\n<td style=\"text-align: left;\">60</td>\n<td style=\"text-align: left;\">60</td>\n<td style=\"text-align: left;\">60</td>\n<td style=\"text-align: left;\">70</td>\n<td style=\"text-align: left;\">80</td>\n<td style=\"text-align: left;\">80</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Laryngoscope Blade (size)</td>\n<td style=\"text-align: left;\">1 straight</td>\n<td style=\"text-align: left;\">1 straight</td>\n<td style=\"text-align: left;\">1 straight</td>\n<td style=\"text-align: left;\">1 straight</td>\n<td style=\"text-align: left;\">2 straight</td>\n<td style=\"text-align: left;\">2 straight</td>\n<td style=\"text-align: left;\">2 straight or curved</td>\n<td style=\"text-align: left;\">2 straight or curved</td>\n<td style=\"text-align: left;\">3 straight or curved</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">ET Tube</td>\n<td style=\"text-align: left;\">3.0 cuffed</td>\n<td style=\"text-align: left;\">3.0 cuffed</td>\n<td style=\"text-align: left;\">3.0 cuffed</td>\n<td style=\"text-align: left;\">3.5 cuffed</td>\n<td style=\"text-align: left;\">4.0 cuffed</td>\n<td style=\"text-align: left;\">4.5 cuffed</td>\n<td style=\"text-align: left;\">5.0 cuffed</td>\n<td style=\"text-align: left;\">6.0 cuffed</td>\n<td style=\"text-align: left;\">6.5 cuffed</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">ET Tube Insertion length (cm)</td>\n<td style=\"text-align: left;\">3 kg 9-9.5<br/>4 kg 9.5-10<br/>5 kg 10-10.5</td>\n<td style=\"text-align: left;\">10.5-11</td>\n<td style=\"text-align: left;\">10.5-11</td>\n<td style=\"text-align: left;\">11-12</td>\n<td style=\"text-align: left;\">13.5</td>\n<td style=\"text-align: left;\">14-15</td>\n<td style=\"text-align: left;\">16.5</td>\n<td style=\"text-align: left;\">17-18</td>\n<td style=\"text-align: left;\">18.5-19.5</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Stylet</td>\n<td style=\"text-align: left;\">Pedi</td>\n<td style=\"text-align: left;\">Pedi</td>\n<td style=\"text-align: left;\">Pedi</td>\n<td style=\"text-align: left;\">Pedi</td>\n<td style=\"text-align: left;\">Pedi</td>\n<td style=\"text-align: left;\">Pedi</td>\n<td style=\"text-align: left;\">Adult</td>\n<td style=\"text-align: left;\">Bougie</td>\n<td style=\"text-align: left;\">Bougie</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Suction Catheter (F)</td>\n<td style=\"text-align: left;\">8</td>\n<td style=\"text-align: left;\">8</td>\n<td style=\"text-align: left;\">8</td>\n<td style=\"text-align: left;\">10</td>\n<td style=\"text-align: left;\">10</td>\n<td style=\"text-align: left;\">10</td>\n<td style=\"text-align: left;\">10</td>\n<td style=\"text-align: left;\">10</td>\n<td style=\"text-align: left;\">10-12</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">BP Cuff</td>\n<td style=\"text-align: left;\">Neonate</td>\n<td style=\"text-align: left;\">Infant or child</td>\n<td style=\"text-align: left;\">Infant or child</td>\n<td style=\"text-align: left;\">Child</td>\n<td style=\"text-align: left;\">Child</td>\n<td style=\"text-align: left;\">Child</td>\n<td style=\"text-align: left;\">Child</td>\n<td style=\"text-align: left;\">Child</td>\n<td style=\"text-align: left;\">Small adult</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">IO (Ga)</td>\n<td style=\"text-align: left;\">18/15</td>\n<td style=\"text-align: left;\">18/15</td>\n<td style=\"text-align: left;\">18/15</td>\n<td style=\"text-align: left;\">15</td>\n<td style=\"text-align: left;\">15</td>\n<td style=\"text-align: left;\">15</td>\n<td style=\"text-align: left;\">15</td>\n<td style=\"text-align: left;\">15</td>\n<td style=\"text-align: left;\">15</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">NG Tube (F)</td>\n<td style=\"text-align: left;\">5-8</td>\n<td style=\"text-align: left;\">5-8</td>\n<td style=\"text-align: left;\">5-8</td>\n<td style=\"text-align: left;\">8-10</td>\n<td style=\"text-align: left;\">10</td>\n<td style=\"text-align: left;\">10</td>\n<td style=\"text-align: left;\">12-14</td>\n<td style=\"text-align: left;\">14-18</td>\n<td style=\"text-align: left;\">16-18</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">LMA</td>\n<td style=\"text-align: left;\">1</td>\n<td style=\"text-align: left;\">1.5</td>\n<td style=\"text-align: left;\">1.5</td>\n<td style=\"text-align: left;\">2</td>\n<td style=\"text-align: left;\">2</td>\n<td style=\"text-align: left;\">2</td>\n<td style=\"text-align: left;\">2.5</td>\n<td style=\"text-align: left;\">2.5</td>\n<td style=\"text-align: left;\">3</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">KING</td>\n<td style=\"text-align: left;\">0</td>\n<td style=\"text-align: left;\">1</td>\n<td style=\"text-align: left;\">1</td>\n<td style=\"text-align: left;\">1</td>\n<td style=\"text-align: left;\">2</td>\n<td style=\"text-align: left;\">2</td>\n<td style=\"text-align: left;\">2</td>\n<td style=\"text-align: left;\">2.5</td>\n<td style=\"text-align: left;\">2.5</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>For ET size, pinky finger diameter in a child affords an acceptable approximate of ET tube outer diameter. The formula for tube size is as follows: \"Age (in years)/4 + 3.5 (cuffed)\" and the length-based tape may be used for internal diameter determination. Using a tube one size larger or smaller than this guideline is also acceptable.</p>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "pink_142",
+        "pageNumber": "Pink 6",
+        "jpgReference": "/assets/pages_webp/0142.webp"
+      }
+    ]
+  },
+  {
+    "id": "pink_143_144",
+    "title": "Pediatric Transportation",
+    "category": "pink",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Pediatric Transportation\" src=\"/assets/figures/page-0143-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>PEARLS</strong>\nThese guidelines apply to transporting pediatric patients who are of an age/weight that require a child safety seat. Pediatric patients that don't require a child safety seat should be transported following adult guidelines.</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Maine Statute 29-A M.R.S.\u00a72081(2) &amp; (3) requires all children weighing less than 80 pounds, less than 57 inches in height and less than 8 years old to be properly restrained in a child safety seat when riding in a vehicle. Children between 40 and 80 pounds AND less than 8 years of age must be properly secured in a child restraint system in accordance with the child restraint system manufacturer's recommendations. An ill or injured child must be restrained in a manner that minimizes injury in an ambulance crash. The best location for transporting a pediatric patient is secured directly to the ambulance cot. Never allow anyone to hold an infant or child during transport.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>TYPES OF RESTRAINTS:</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Note:</strong> Non-convertible safety seats cannot be secured safely to cot. If child's personal safety seat is not a convertible seat, it cannot be used on the cot.</p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Examples</th>\n<th style=\"text-align: left;\">Weight Range</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Ferno Pedi-Mate</td>\n<td style=\"text-align: left;\">10-40 pounds</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Ferno Pedi-Mate Plus</td>\n<td style=\"text-align: left;\">10-100 pounds</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">EMS Solutions ECR</td>\n<td style=\"text-align: left;\">4-110 pounds</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Pediatric Transportation\" src=\"/assets/figures/page-0144-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>NON-PATIENT TRANSPORT</h2>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Best practice is to transport well children in a vehicle other than the ambulance, whenever possible, for safety.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>If no other vehicle is available and circumstances dictate that the ambulance must transport a well child, he/she may be transported in the following locations:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>USE OF PATIENT'S CHILD SAFETY SEAT AFTER INVOLVEMENT IN MOTOR VEHICLE CRASH</h2>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>The patient's safety seat may be used to transport child to the hospital after involvement in a minor crash if ALL of the following apply:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>ADULT AND NEWBORN TRANSPORT</h2>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Convertible (traditional) car seat with two belt paths (front and back) with four points for belt attachment to the cot is considered best practice for pediatric patients who can tolerate a semi-upright position.\n    a. Position safety seat on cot facing foot-end with backrest elevated to meet back of child safety seat.\n    b. Secure safety seat with 2 pairs of belts at both forward and rear points of seat.\n    c. Place shoulder straps of the harness through slots just below child's shoulders and fasten snugly to child.\n    d. Follow manufacturer's guidelines regarding child's weight."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Stretcher harness device with 5-point harness (examples: Ferno Pedi-Mate, SafeGuard Transport, EMS Solutions)\n    a. Attach securely to cot following the manufacturer's instructions.\n    b. 5-point harness must rest snugly against child. Secure belt at child's shoulder level so no gaps exists above shoulders.\n    c. Adjust head portion of cot according to manufacturer's recommendation.\n    d. Follow manufacturer guidelines for weight ratings."
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "Car bed with both a front and rear belt path (example: Dream Ride Infant Car Bed)\n    a. For infants who cannot tolerate a semi-upright position or who must lie flat.\n    b. Position car bed so infant lies perpendicular to cot, keeping infant's head toward center of patient compartment.\n    c. Fully raise backrest and anchor car bed to cot with 2 belts, utilizing the 4 attachment sites supplied with car bed.\n    d. Only appropriate for infants from 5 \u2013 20 lbs."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "Isolette/Incubator must be secured to ambulance according to manufacturer's guidelines.\n    a. Secure infant using manufacturer's restraint. (Five-point harness restraint is preferred).\n    b. Blankets or towels may be used for additional stabilization"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "Captain's chair in patient compartment using a size appropriate integrated seat or a convertible safety seat."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Passenger seat of the driver's compartment if child is large enough (according to manufacturer's guidelines) to ride forward-facing in a child safety seat or booster seat. Airbag should be turned off. If the air bag can be deactivated, an infant, restrained in a rear-facing infant seat, may be placed in the passenger seat of the driver's compartment."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ALL",
+        "html": "It is a convertible seat with both front and rear belt paths."
+      },
+      {
+        "num": 8,
+        "providerLevel": "ALL",
+        "html": "Visual inspection, including under movable seat padding, does not reveal cracks or deformation."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ALL",
+        "html": "Vehicle in which safety seat was installed was capable of being driven from the scene of the crash."
+      },
+      {
+        "num": 10,
+        "providerLevel": "ALL",
+        "html": "Vehicle door nearest the child safety seat was undamaged."
+      },
+      {
+        "num": 11,
+        "providerLevel": "ALL",
+        "html": "The air bags (if any) did not deploy."
+      },
+      {
+        "num": 12,
+        "providerLevel": "ALL",
+        "html": "If adult and/or newborn are critical, consider transporting adult and newborn in separate ambulances to properly secure each patient to a cot."
+      },
+      {
+        "num": 13,
+        "providerLevel": "ALL",
+        "html": "<p>If adult and newborn are stable, secure adult to cot with cot's 5-point harness. Then utilize a commercial harness restraint system with 5-point harness to secure newborn to adult (e.g., Ferno KangooFix)\n    a. It is NEVER appropriate to transport a child held in the parent/guardian/caregiver's arms or lap.</p>"
+      },
+      {
+        "num": 14,
+        "providerLevel": "ALL",
+        "html": "<p>If available, may use a size-appropriate child restraint system secured to the stretcher or rear-facing clinician seat/captain's chair following manufacturer's instructions. This may be either a convertible safety seat with a forward-facing belt path or an integrated child restraint system certified by the manufacturer to meet FMVSS No. 213.</p>"
+      },
+      {
+        "num": 15,
+        "providerLevel": "ALL",
+        "html": "Do NOT use a rear-facing only safety seat in the rear-facing clinician seat / captain's chair as this is dangerous and may lead to significant injuries."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "pink_143",
+        "pageNumber": "Pink 7",
+        "jpgReference": "/assets/pages_webp/0143.webp"
+      },
+      {
+        "pageId": "pink_144",
+        "pageNumber": "Pink 8",
+        "jpgReference": "/assets/pages_webp/0144.webp"
+      }
+    ]
+  }
+]

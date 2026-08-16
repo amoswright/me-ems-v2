@@ -1,0 +1,2231 @@
+{
+  "id": "page-0041",
+  "pdf_page": 41,
+  "protocol_label": "Red 4",
+  "kind": "protocol",
+  "chapter_id": "red",
+  "topic_id": "red-chest-pain-suspected-cardiac-origin-stemi-criteria",
+  "title": "Chest Pain - Suspected Cardiac Origin / STEMI Criteria",
+  "markdown": "# Chest Pain - Suspected Cardiac Origin / STEMI Criteria\n\n> Inferior MIs and right-sided MIs are commonly associated with bradycardia and blocks.\n>\n> Hypotension may occur in any MI, not just inferior MIs with right ventricular involvement.\n\n## STEMI Criteria\n\n1. Septal (V1, V2), Anterior (V3, V4), Inferior (II, III, aVF) or Lateral MI (I, aVL, V5, V6): ST elevation greater than 1 mm in two or more anatomically contiguous leads with reciprocal changes.\n2. For leads V2-V3, the criteria for STEMI are:\n    * 2 mm - Males 40 yo and older\n    * 2.5 mm - Males younger than 40 yo\n    * 1.5 mm for Women independent of age\n3. Posterior MI: ST depression greater than 1 mm in V1, V2 (and possibly V3) with an R/S ratio of greater than or equal to 1, place posterior leads to evaluate for ST segment elevation in leads V7/V8/V9\n\nNew LBBB is no longer a criteria for STEMI\n(Presence of any LBBB makes the diagnosis of STEMI difficult)\n",
+  "plain_text": "Chest Pain - Suspected Cardiac Origin / STEMI Criteria Inferior MIs and right-sided MIs are commonly associated with bradycardia and blocks. Hypotension may occur in any MI, not just inferior MIs with right ventricular involvement. STEMI Criteria Septal (V1, V2), Anterior (V3, V4), Inferior (II, III, aVF) or Lateral MI (I, aVL, V5, V6): ST elevation greater than 1 mm in two or more anatomically contiguous leads with reciprocal changes. For leads V2-V3, the criteria for STEMI are: 2 mm - Males 40 yo and older 2.5 mm - Males younger than 40 yo 1.5 mm for Women independent of age Posterior MI: ST depression greater than 1 mm in V1, V2 (and possibly V3) with an R/S ratio of greater than or equal to 1, place posterior leads to evaluate for ST segment elevation in leads V7/V8/V9 New LBBB is no longer a criteria for STEMI (Presence of any LBBB makes the diagnosis of STEMI difficult)",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        167.35,
+        26.14,
+        791.58,
+        51.39
+      ],
+      "text": "Chest Pain - Suspected Car diac Or igin #3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        353.75,
+        55.49,
+        613.73,
+        80.74
+      ],
+      "text": "& STEM I Cr iter ia",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        125.88,
+        135.37,
+        872.82,
+        150.52
+      ],
+      "text": "Inferior MIs and right-sided MIs are commonly associated with bradycardia and",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        467.43,
+        152.99,
+        532.26,
+        168.14
+      ],
+      "text": "blocks.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        139.34,
+        188.27,
+        857.4,
+        203.42
+      ],
+      "text": "Hypotension may occur in any MI, not just inferior MIs with right ventricular",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        438.6,
+        205.89,
+        561.17,
+        221.03
+      ],
+      "text": "involvement.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        416.62,
+        289.7,
+        611.56,
+        310.0
+      ],
+      "text": "STEMI Cr i ter i a",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        333.19,
+        914.23,
+        350.59
+      ],
+      "text": "1. Septal (V1, V2), Anterior (V3, V4) , Inferior (II, III, aVF) or Lateral MI (I,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        165.44,
+        353.42,
+        813.27,
+        370.82
+      ],
+      "text": "aVL, V5, V6): ST elevation greater than 1 mm in two or more",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        165.44,
+        373.65,
+        757.1,
+        391.04
+      ],
+      "text": "anatomically contiguous leads with reciprocal changes.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        414.16,
+        620.99,
+        431.56
+      ],
+      "text": "2. For leads V2-V3, the criteria for STEMI are:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        165.44,
+        434.44,
+        476.49,
+        451.84
+      ],
+      "text": "2 mm - Males 40 yo and older",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        165.44,
+        454.67,
+        538.99,
+        472.07
+      ],
+      "text": "2.5 mm - Males younger than 40 yo",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        165.44,
+        474.95,
+        583.69,
+        492.35
+      ],
+      "text": "1.5 mm for Women independent of age",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        515.46,
+        917.77,
+        532.86
+      ],
+      "text": "3. Posterior MI: ST depression greater than 1 mm in V1, V2 (and possibly",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        165.44,
+        535.69,
+        858.98,
+        553.09
+      ],
+      "text": "V3) with an R/S ratio of greater than or equal to 1, place posterior",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        165.44,
+        555.52,
+        803.65,
+        572.92
+      ],
+      "text": "leads to evaluate for ST segment elevation in leads V7/V8/V9",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        250.96,
+        596.43,
+        775.85,
+        613.83
+      ],
+      "text": "***New LBBB is no longer a criteria for STEMI***",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        183.31,
+        616.32,
+        845.55,
+        633.71
+      ],
+      "text": "(Presence of any LBBB makes the diagnosis of STEMI difficult)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        452.06,
+        939.12,
+        921.93,
+        954.27
+      ],
+      "text": "(Back to TOC) Red 4",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "2a261faf94e7c1105bf5cbbc3c97eea5516df940fa3662426d5e3b82394c2743",
+    "native": {
+      "text": "Chest Pain - Suspected Car diac Or igin #3\n& STEM I Cr iter ia\nInferior MIs and right-sided MIs are commonly associated with bradycardia and\nblocks.\nHypotension may occur in any MI, not just inferior MIs with right ventricular\ninvolvement.\nSTEMI Cr i ter i a\n1. Septal (V1, V2), Anterior (V3, V4) , Inferior (II, III, aVF) or Lateral MI (I,\naVL, V5, V6): ST elevation greater than 1 mm in two or more\nanatomically contiguous leads with reciprocal changes.\n2. For leads V2-V3, the criteria for STEMI are:\n2 mm - Males 40 yo and older\n2.5 mm - Males younger than 40 yo\n1.5 mm for Women independent of age\n3. Posterior MI: ST depression greater than 1 mm in V1, V2 (and possibly\nV3) with an R/S ratio of greater than or equal to 1, place posterior\nleads to evaluate for ST segment elevation in leads V7/V8/V9\n***New LBBB is no longer a criteria for STEMI***\n(Presence of any LBBB makes the diagnosis of STEMI difficult)\n(Back to TOC) Red 4",
+      "body_text": "(Back to TOC) Red 4 STEMI Cr i ter i a 1. Septal (V1, V2), Anterior (V3, V4) , Inferior (II, III, aVF) or Lateral MI (I, aVL, V5, V6): ST elevation greater than 1 mm in two or more anatomically contiguous leads with reciprocal changes. 2. For leads V2-V3, the criteria for STEMI are: 2 mm - Males 40 yo and older 2.5 mm - Males younger than 40 yo 1.5 mm for Women independent of age 3. Posterior MI: ST depression greater than 1 mm in V1, V2 (and possibly V3) with an R/S ratio of greater than or equal to 1, place posterior leads to evaluate for ST segment elevation in leads V7/V8/V9 ***New LBBB is no longer a criteria for STEMI*** (Presence of any LBBB makes the diagnosis of STEMI difficult) Inferior MIs and right-sided MIs are commonly associated with bradycardia and blocks. Hypotension may occur in any MI, not just inferior MIs with right ventricular involvement.",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            276.66,
+            743.786,
+            307.314,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.49,
+            743.786,
+            322.145,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            325.485,
+            743.786,
+            353.101,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Red",
+          "box": [
+            533.25,
+            743.786,
+            553.969,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4",
+          "box": [
+            557.55,
+            743.786,
+            564.22,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Chest",
+          "box": [
+            102.42,
+            20.704,
+            152.669,
+            40.702
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Pain",
+          "box": [
+            159.345,
+            20.704,
+            199.795,
+            40.702
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "-",
+          "box": [
+            206.775,
+            20.704,
+            213.434,
+            40.702
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Suspected",
+          "box": [
+            218.16,
+            20.704,
+            312.038,
+            40.702
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Car",
+          "box": [
+            318.42,
+            20.704,
+            348.61,
+            40.702
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "diac",
+          "box": [
+            351.374,
+            20.704,
+            391.298,
+            40.702
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Or",
+          "box": [
+            396.36,
+            20.704,
+            417.86,
+            40.702
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "igin",
+          "box": [
+            420.624,
+            20.704,
+            455.291,
+            40.702
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#3",
+          "box": [
+            462.15,
+            20.704,
+            484.447,
+            40.702
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "&",
+          "box": [
+            216.495,
+            43.947,
+            229.834,
+            63.945
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "STEM",
+          "box": [
+            236.52,
+            43.947,
+            288.368,
+            63.945
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "I",
+          "box": [
+            290.466,
+            43.947,
+            296.025,
+            63.945
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Cr",
+          "box": [
+            303.03,
+            43.947,
+            321.961,
+            63.945
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "iter",
+          "box": [
+            324.725,
+            43.947,
+            355.324,
+            63.945
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ia",
+          "box": [
+            358.088,
+            43.947,
+            375.601,
+            63.945
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "STEMI",
+          "box": [
+            254.97,
+            229.443,
+            304.826,
+            245.517
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 16.074
+        },
+        {
+          "text": "Cr",
+          "box": [
+            310.95,
+            229.443,
+            327.04,
+            245.517
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 16.074
+        },
+        {
+          "text": "i",
+          "box": [
+            330.093,
+            229.443,
+            333.661,
+            245.517
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 16.074
+        },
+        {
+          "text": "ter",
+          "box": [
+            335.75,
+            229.443,
+            356.627,
+            245.517
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 16.074
+        },
+        {
+          "text": "i",
+          "box": [
+            359.68,
+            229.443,
+            363.249,
+            245.517
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 16.074
+        },
+        {
+          "text": "a",
+          "box": [
+            365.337,
+            229.443,
+            374.274,
+            245.517
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 16.074
+        },
+        {
+          "text": "1.",
+          "box": [
+            65.25,
+            263.888,
+            76.78,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "Septal",
+          "box": [
+            101.25,
+            263.888,
+            140.232,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "(V1,",
+          "box": [
+            145.035,
+            263.888,
+            170.632,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "V2),",
+          "box": [
+            173.79,
+            263.888,
+            199.387,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "Anterior",
+          "box": [
+            202.59,
+            263.888,
+            256.581,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "(V3,",
+          "box": [
+            262.08,
+            263.888,
+            287.677,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "V4)",
+          "box": [
+            290.88,
+            263.888,
+            312.465,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": ",",
+          "box": [
+            316.26,
+            263.888,
+            320.091,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "Inferior",
+          "box": [
+            323.28,
+            263.888,
+            372.982,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "(II,",
+          "box": [
+            378.45,
+            263.888,
+            397.167,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "III,",
+          "box": [
+            400.365,
+            263.888,
+            419.37,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "aVF)",
+          "box": [
+            422.595,
+            263.888,
+            452.361,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "or",
+          "box": [
+            455.85,
+            263.888,
+            468.39,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "Lateral",
+          "box": [
+            473.85,
+            263.888,
+            519.443,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "MI",
+          "box": [
+            524.25,
+            263.888,
+            541.005,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "(I,",
+          "box": [
+            545.85,
+            263.888,
+            559.509,
+            277.667
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "aVL,",
+          "box": [
+            101.25,
+            279.908,
+            130.713,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "V5,",
+          "box": [
+            133.875,
+            279.908,
+            154.702,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "V6):",
+          "box": [
+            157.905,
+            279.908,
+            183.502,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "ST",
+          "box": [
+            190.8,
+            279.908,
+            206.437,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "elevation",
+          "box": [
+            210.06,
+            279.908,
+            268.988,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "greater",
+          "box": [
+            273.78,
+            279.908,
+            319.35,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "than",
+          "box": [
+            324.855,
+            279.908,
+            353.864,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "1",
+          "box": [
+            358.695,
+            279.908,
+            366.356,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "mm",
+          "box": [
+            369.99,
+            279.908,
+            394.486,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "in",
+          "box": [
+            399.6,
+            279.908,
+            411.668,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "two",
+          "box": [
+            416.475,
+            279.908,
+            440.728,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "or",
+          "box": [
+            444.6,
+            279.908,
+            457.14,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "more",
+          "box": [
+            462.6,
+            279.908,
+            497.72,
+            293.687
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "anatomically",
+          "box": [
+            101.25,
+            295.928,
+            185.297,
+            309.707
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "contiguous",
+          "box": [
+            189.765,
+            295.928,
+            262.248,
+            309.707
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "leads",
+          "box": [
+            265.185,
+            295.928,
+            299.927,
+            309.707
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "with",
+          "box": [
+            302.805,
+            295.928,
+            331.595,
+            309.707
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "reciprocal",
+          "box": [
+            336.285,
+            295.928,
+            401.688,
+            309.707
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "changes.",
+          "box": [
+            406.485,
+            295.928,
+            463.344,
+            309.707
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "2.",
+          "box": [
+            65.25,
+            328.013,
+            76.78,
+            341.792
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "For",
+          "box": [
+            101.25,
+            328.013,
+            121.363,
+            341.792
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "leads",
+          "box": [
+            126.81,
+            328.013,
+            161.552,
+            341.792
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "V2-V3,",
+          "box": [
+            164.475,
+            328.013,
+            206.019,
+            341.792
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "the",
+          "box": [
+            209.25,
+            328.013,
+            230.506,
+            341.792
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "criteria",
+          "box": [
+            233.775,
+            328.013,
+            282.096,
+            341.792
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "for",
+          "box": [
+            285.795,
+            328.013,
+            303.285,
+            341.792
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "STEMI",
+          "box": [
+            308.79,
+            328.013,
+            349.786,
+            341.792
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "are:",
+          "box": [
+            354.6,
+            328.013,
+            380.044,
+            341.792
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "2",
+          "box": [
+            101.25,
+            344.078,
+            108.911,
+            357.857
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "mm",
+          "box": [
+            112.5,
+            344.078,
+            136.996,
+            357.857
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "-",
+          "box": [
+            142.11,
+            344.078,
+            146.698,
+            357.857
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "Males",
+          "box": [
+            149.985,
+            344.078,
+            189.195,
+            357.857
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "40",
+          "box": [
+            192.105,
+            344.078,
+            207.466,
+            357.857
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "yo",
+          "box": [
+            211.095,
+            344.078,
+            226.406,
+            357.857
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "and",
+          "box": [
+            230.265,
+            344.078,
+            254.567,
+            357.857
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "older",
+          "box": [
+            258.975,
+            344.078,
+            291.614,
+            357.857
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "2.5",
+          "box": [
+            101.25,
+            360.098,
+            120.553,
+            373.877
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "mm",
+          "box": [
+            124.155,
+            360.098,
+            148.651,
+            373.877
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "-",
+          "box": [
+            153.765,
+            360.098,
+            158.353,
+            373.877
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "Males",
+          "box": [
+            161.64,
+            360.098,
+            200.85,
+            373.877
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "younger",
+          "box": [
+            203.76,
+            360.098,
+            256.228,
+            373.877
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "than",
+          "box": [
+            261.72,
+            360.098,
+            290.729,
+            373.877
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "40",
+          "box": [
+            295.56,
+            360.098,
+            310.921,
+            373.877
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "yo",
+          "box": [
+            314.55,
+            360.098,
+            329.861,
+            373.877
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "1.5",
+          "box": [
+            101.25,
+            376.163,
+            120.553,
+            389.942
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "mm",
+          "box": [
+            124.155,
+            376.163,
+            148.651,
+            389.942
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "for",
+          "box": [
+            153.765,
+            376.163,
+            171.255,
+            389.942
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "Women",
+          "box": [
+            176.76,
+            376.163,
+            226.357,
+            389.942
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "independent",
+          "box": [
+            231.165,
+            376.163,
+            313.409,
+            389.942
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "of",
+          "box": [
+            318.015,
+            376.163,
+            329.662,
+            389.942
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "age",
+          "box": [
+            334.53,
+            376.163,
+            357.221,
+            389.942
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "3.",
+          "box": [
+            65.25,
+            408.248,
+            76.78,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "Posterior",
+          "box": [
+            101.25,
+            408.248,
+            159.259,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "MI:",
+          "box": [
+            164.745,
+            408.248,
+            186.558,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "ST",
+          "box": [
+            193.815,
+            408.248,
+            209.452,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "depression",
+          "box": [
+            213.075,
+            408.248,
+            283.665,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "greater",
+          "box": [
+            288.495,
+            408.248,
+            334.065,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "than",
+          "box": [
+            339.57,
+            408.248,
+            368.579,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "1",
+          "box": [
+            373.365,
+            408.248,
+            381.026,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "mm",
+          "box": [
+            384.66,
+            408.248,
+            409.156,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "in",
+          "box": [
+            414.27,
+            408.248,
+            426.338,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "V1,",
+          "box": [
+            431.145,
+            408.248,
+            451.972,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "V2",
+          "box": [
+            454.95,
+            408.248,
+            471.908,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "(and",
+          "box": [
+            475.65,
+            408.248,
+            504.722,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "possibly",
+          "box": [
+            508.95,
+            408.248,
+            561.676,
+            422.027
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "V3)",
+          "box": [
+            101.25,
+            424.268,
+            122.835,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "with",
+          "box": [
+            126.585,
+            424.268,
+            155.375,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "an",
+          "box": [
+            160.02,
+            424.268,
+            175.435,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "R/S",
+          "box": [
+            180.27,
+            424.268,
+            202.466,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "ratio",
+          "box": [
+            204.345,
+            424.268,
+            235.376,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "of",
+          "box": [
+            239.265,
+            424.268,
+            250.912,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "greater",
+          "box": [
+            255.735,
+            424.268,
+            301.305,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "than",
+          "box": [
+            306.81,
+            424.268,
+            335.819,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "or",
+          "box": [
+            340.605,
+            424.268,
+            353.145,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "equal",
+          "box": [
+            358.65,
+            424.268,
+            394.032,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "to",
+          "box": [
+            398.835,
+            424.268,
+            411.068,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "1,",
+          "box": [
+            414.945,
+            424.268,
+            426.475,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "place",
+          "box": [
+            429.66,
+            424.268,
+            464.584,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "posterior",
+          "box": [
+            467.55,
+            424.268,
+            525.694,
+            438.047
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "leads",
+          "box": [
+            101.25,
+            439.973,
+            135.992,
+            453.752
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "to",
+          "box": [
+            138.87,
+            439.973,
+            151.103,
+            453.752
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "evaluate",
+          "box": [
+            154.98,
+            439.973,
+            210.541,
+            453.752
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "for",
+          "box": [
+            213.84,
+            439.973,
+            231.33,
+            453.752
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "ST",
+          "box": [
+            236.835,
+            439.973,
+            252.472,
+            453.752
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "segment",
+          "box": [
+            256.095,
+            439.973,
+            310.065,
+            453.752
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "elevation",
+          "box": [
+            314.64,
+            439.973,
+            373.568,
+            453.752
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "in",
+          "box": [
+            378.405,
+            439.973,
+            390.473,
+            453.752
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "leads",
+          "box": [
+            395.28,
+            439.973,
+            430.022,
+            453.752
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "V7/V8/V9",
+          "box": [
+            432.945,
+            439.973,
+            491.835,
+            453.752
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "***New",
+          "box": [
+            153.585,
+            472.373,
+            201.954,
+            486.152
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "LBBB",
+          "box": [
+            207.495,
+            472.373,
+            243.285,
+            486.152
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "is",
+          "box": [
+            246.69,
+            472.373,
+            257.986,
+            486.152
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "no",
+          "box": [
+            260.865,
+            472.373,
+            277.414,
+            486.152
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "longer",
+          "box": [
+            281.295,
+            472.373,
+            321.642,
+            486.152
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "a",
+          "box": [
+            327.15,
+            472.373,
+            334.811,
+            486.152
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "criteria",
+          "box": [
+            338.49,
+            472.373,
+            386.811,
+            486.152
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "for",
+          "box": [
+            390.465,
+            472.373,
+            407.955,
+            486.152
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "STEMI***",
+          "box": [
+            413.46,
+            472.373,
+            474.823,
+            486.152
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "(Presence",
+          "box": [
+            112.185,
+            488.123,
+            176.051,
+            501.902
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "of",
+          "box": [
+            179.325,
+            488.123,
+            190.972,
+            501.902
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "any",
+          "box": [
+            195.84,
+            488.123,
+            219.236,
+            501.902
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "LBBB",
+          "box": [
+            223.695,
+            488.123,
+            259.485,
+            501.902
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "makes",
+          "box": [
+            262.89,
+            488.123,
+            305.847,
+            501.902
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "the",
+          "box": [
+            308.79,
+            488.123,
+            330.046,
+            501.902
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "diagnosis",
+          "box": [
+            333.315,
+            488.123,
+            395.692,
+            501.902
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "of",
+          "box": [
+            398.61,
+            488.123,
+            410.257,
+            501.902
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "STEMI",
+          "box": [
+            415.125,
+            488.123,
+            456.121,
+            501.902
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "difficult)",
+          "box": [
+            460.8,
+            488.123,
+            517.476,
+            501.902
+          ],
+          "font": "Helvetica",
+          "size": 13.779
+        },
+        {
+          "text": "Inferior",
+          "box": [
+            77.04,
+            107.216,
+            120.33,
+            119.213
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "MIs",
+          "box": [
+            125.145,
+            107.216,
+            146.804,
+            119.213
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            149.31,
+            107.216,
+            170.475,
+            119.213
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "right-sided",
+          "box": [
+            174.285,
+            107.216,
+            235.251,
+            119.213
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "MIs",
+          "box": [
+            239.085,
+            107.216,
+            260.744,
+            119.213
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            263.295,
+            107.216,
+            282.372,
+            119.213
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "commonly",
+          "box": [
+            285.255,
+            107.216,
+            345.023,
+            119.213
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "associated",
+          "box": [
+            348.93,
+            107.216,
+            407.015,
+            119.213
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            410.805,
+            107.216,
+            435.879,
+            119.213
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bradycardia",
+          "box": [
+            439.965,
+            107.216,
+            509.819,
+            119.213
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            513.0,
+            107.216,
+            534.165,
+            119.213
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "blocks.",
+          "box": [
+            286.065,
+            121.166,
+            325.741,
+            133.163
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Hypotension",
+          "box": [
+            85.275,
+            149.111,
+            156.968,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            161.19,
+            149.111,
+            184.918,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "occur",
+          "box": [
+            188.82,
+            149.111,
+            219.163,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            223.965,
+            149.111,
+            234.473,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "any",
+          "box": [
+            238.635,
+            149.111,
+            259.011,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "MI,",
+          "box": [
+            262.935,
+            149.111,
+            281.931,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            284.715,
+            149.111,
+            302.716,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "just",
+          "box": [
+            306.72,
+            149.111,
+            326.68,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "inferior",
+          "box": [
+            330.66,
+            149.111,
+            373.382,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "MIs",
+          "box": [
+            378.18,
+            149.111,
+            399.839,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            402.345,
+            149.111,
+            427.419,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "right",
+          "box": [
+            431.505,
+            149.111,
+            458.397,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ventricular",
+          "box": [
+            462.15,
+            149.111,
+            524.728,
+            161.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "involvement.",
+          "box": [
+            268.425,
+            163.061,
+            343.438,
+            175.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0041.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 98.78,
+    "output_to_native_length_ratio": 0.976,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

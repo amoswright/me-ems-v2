@@ -1,0 +1,256 @@
+{
+  "id": "page-0220",
+  "pdf_page": 220,
+  "protocol_label": "OD Green 26",
+  "kind": "protocol",
+  "chapter_id": "od-green",
+  "topic_id": "od-green-operational-k9-casualty-card",
+  "title": "Operational K9 Casualty Card",
+  "markdown": "# Operational K9 Casualty Card\n\n![Visual reference from Operational K9 Casualty Card](../../assets/figures/page-0220-visual.webp)\n\n### CANINE-TACTICAL COMBAT CASUALTY CARE CARD (cTCCC)\n\n**EVAC CAT:** [ ] Urgent [ ] Priority [ ] Routine\n\n**EVAC TYPE:** [ ] Fixed [ ] Rotary [ ] Ground [ ] MEDEVAC [ ] CASEVAC\n\n**UNIT:** _______________ **NAME:** ____________________ **TATTOO:** ________________\n\n**DATE:** (DD-MM-YY) _______________ **TIME:** ___________ **GENDER:** [ ] M [ ] F\n\n**Mechanism of Injury:** (Mark X all that apply\n[ ] IED [ ] GSW [ ] MINE [ ] BURN [ ] GRENADE [ ] ARTILLERY [ ] FALL\n[ ] OTHER: ____________________________________________________________________\n\n**Injury:** (Mark all injuries that apply with an X)\n\n[Left and Right Lateral Canine Outlines for marking injury locations]\n\n**Signs and Symptoms:** (fill in the blank)\n\n| | *Time* | | | | |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| **Pain Score (0-10)** | | | | | |\n| **Temperature (99-102.5)** | | | | | |\n| **Pulse Rate/Location (60-80)** | | | | | |\n| **Respirations (16-30)** | | | | | |\n| **Blood Pressure (120/80)** | | | | | |\n| **Pulse Ox% (> 95%)** | | | | | |\n| **Capillary Refill (< 2 sec)** | | | | | |\n\n**NOTES:** ___________________________________________________________________________\n_______________________________________________________________________________\n_______________________________________________________________________________\n\n---\n\nDD FORM 3073 OCTOBER 2019 &nbsp;&nbsp;&nbsp;&nbsp; (Send card to dog.consult@us.af.mil) &nbsp;&nbsp;&nbsp;&nbsp; Page ___ of ___\n\nhttps://jts.amed.army.mil/assets/docs/forms/DD 3073 Canine Tactical Combat Casualty Care Card.pdf\n",
+  "plain_text": "Operational K9 Casualty Card CANINE-TACTICAL COMBAT CASUALTY CARE CARD (cTCCC) EVAC CAT: [ ] Urgent [ ] Priority [ ] Routine EVAC TYPE: [ ] Fixed [ ] Rotary [ ] Ground [ ] MEDEVAC [ ] CASEVAC UNIT: _ NAME: TATTOO: DATE: (DD-MM-YY) _ TIME: _ GENDER: [ ] M [ ] F Mechanism of Injury: (Mark X all that apply [ ] IED [ ] GSW [ ] MINE [ ] BURN [ ] GRENADE [ ] ARTILLERY [ ] FALL [ ] OTHER: Injury: (Mark all injuries that apply with an X) [Left and Right Lateral Canine Outlines for marking injury locations] Signs and Symptoms: (fill in the blank) Time Pain Score (0-10) Temperature (99-102.5) Pulse Rate/Location (60-80) Respirations (16-30) Blood Pressure (120/80) Pulse Ox% (> 95%) Capillary Refill (< 2 sec) NOTES: _ _ _ --- DD FORM 3073 OCTOBER 2019 &nbsp;&nbsp;&nbsp;&nbsp; (Send card to dog.consult@us.af.mil) &nbsp;&nbsp;&nbsp;&nbsp; Page _ of _ https://jts.amed.army.mil/assets/docs/forms/DD 3073 Canine Tactical Combat Casualty Care Card.pdf",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        270.81,
+        37.53,
+        727.23,
+        62.78
+      ],
+      "text": "Oper ational K9 Casualty Car d",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        136.03,
+        922.24,
+        856.43,
+        933.6
+      ],
+      "text": "https://jts.amed.army.mil/assets/docs/forms/DD_3073_Canine_Tactical_Combat_Casualty_Care_Card.pdf.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        452.06,
+        936.85,
+        911.56,
+        954.84
+      ],
+      "text": "(Back to TOC) OD Green 26",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0220-visual",
+      "type": "diagram",
+      "path": "assets/figures/page-0220-visual.webp",
+      "alt": "Visual reference from Operational K9 Casualty Card",
+      "source_box_points": [
+        54.0,
+        43.2,
+        561.6,
+        745.2
+      ],
+      "reasons": [
+        "title",
+        "embedded_images"
+      ],
+      "sha256": "dc174a72e954048ab3d66797b120bf41e8c92737bbd7fe382c1a0cdf11657199"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "4a78ac31bb683ddfe912f782333940fdbec2abd2d86c23b9b37196e797a4ca16",
+    "native": {
+      "text": "Oper ational K9 Casualty Car d\nhttps://jts.amed.army.mil/assets/docs/forms/DD_3073_Canine_Tactical_Combat_Casualty_Care_Card.pdf.\n(Back to TOC) OD Green 26",
+      "body_text": "(Back to TOC) OD Green 26 https://jts.amed.army.mil/assets/docs/forms/DD_3073_Canine_Tactical_Combat_Casualty_Care_Card.pdf.",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            276.66,
+            741.986,
+            307.314,
+            753.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.49,
+            741.986,
+            322.145,
+            753.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            325.485,
+            741.986,
+            353.101,
+            753.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "OD",
+          "box": [
+            485.55,
+            744.236,
+            503.117,
+            756.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Green",
+          "box": [
+            506.7,
+            744.236,
+            540.429,
+            756.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "26",
+          "box": [
+            544.5,
+            744.236,
+            557.875,
+            756.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Oper",
+          "box": [
+            165.735,
+            29.727,
+            210.208,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ational",
+          "box": [
+            212.972,
+            29.727,
+            277.603,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "K9",
+          "box": [
+            284.58,
+            29.727,
+            309.698,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Casualty",
+          "box": [
+            314.955,
+            29.727,
+            394.502,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Car",
+          "box": [
+            400.995,
+            29.727,
+            431.185,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "d",
+          "box": [
+            433.949,
+            29.727,
+            445.067,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "https://jts.amed.army.mil/assets/docs/forms/DD_3073_Canine_Tactical_Combat_Casualty_Care_Card.pdf.",
+          "box": [
+            83.25,
+            730.413,
+            524.138,
+            739.413
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0220.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "glm_ocr",
+    "canonical_override_reason": "GLM preserved casualty-card checkboxes and labels; the card remains an inline image",
+    "glm_ocr": "raw/glm_ocr/page-0220.json"
+  },
+  "qa": {
+    "native_similarity": 26.84,
+    "output_to_native_length_ratio": 5.352,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "pre_refinement_warnings": [
+      "low_native_similarity",
+      "suspicious_output_expansion"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

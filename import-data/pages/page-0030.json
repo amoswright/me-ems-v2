@@ -1,0 +1,3281 @@
+{
+  "id": "page-0030",
+  "pdf_page": 30,
+  "protocol_label": "Blue 8",
+  "kind": "protocol",
+  "chapter_id": "blue",
+  "topic_id": "blue-respiratory-distress-with-bronchospasm",
+  "title": "Respiratory Distress with Bronchospasm",
+  "markdown": "# Respiratory Distress with Bronchospasm\n\n> ### Pediatric Considerations:\n>\n> Wheezing in the child less than 2 years old is very commonly due to bronchiolitis. Bronchiolitis is a self-limited viral illness of the bronchioles, marked by edema but not smooth muscle contraction. Bronchiolitis is the most common cause of wheezing in children under the age of 2. The treatment goals are to maintain oxygenation and hydration and to monitor for apnea and respiratory distress. Because the etiology is different than asthma, the treatment options are also very different. Patients suffering from bronchiolitis **do not always benefit from inhaled albuterol, though a trial is appropriate. They also do not benefit from steroids.** Instead, provide oxygen to ensure O2 sats greater than or equal to 90% and nasal suctioning with bulb syringe. In patients who fail these measures, consider alternate diagnosis, including stridor/croup and refer to the Pediatric Respiratory Distress with Inspiratory Stridor protocol, **Pink 2**. Monitor for apnea or respiratory distress and, if encountered, manage the patient's airway as indicated per Airway Algorithm, **Blue 2**.\n>\n> Prehospital clinicians should consider patient age, diagnosis, transport time, clinician experience, and effectiveness of ongoing bag-valve-mask ventilation in considering whether to continue with bag-valve-mask ventilation versus proceeding to further airway management procedures. Bag-valve-mask ventilation has been shown to be equivalent to endotracheal ventilation in pediatric patients in most situations with short transport times. If suspected opiate overdose, refer to the Poisoning/Overdose protocol, **Yellow 1**.\n",
+  "plain_text": "Respiratory Distress with Bronchospasm ### Pediatric Considerations: Wheezing in the child less than 2 years old is very commonly due to bronchiolitis. Bronchiolitis is a self-limited viral illness of the bronchioles, marked by edema but not smooth muscle contraction. Bronchiolitis is the most common cause of wheezing in children under the age of 2. The treatment goals are to maintain oxygenation and hydration and to monitor for apnea and respiratory distress. Because the etiology is different than asthma, the treatment options are also very different. Patients suffering from bronchiolitis do not always benefit from inhaled albuterol, though a trial is appropriate. They also do not benefit from steroids. Instead, provide oxygen to ensure O2 sats greater than or equal to 90% and nasal suctioning with bulb syringe. In patients who fail these measures, consider alternate diagnosis, including stridor/croup and refer to the Pediatric Respiratory Distress with Inspiratory Stridor protocol, Pink 2. Monitor for apnea or respiratory distress and, if encountered, manage the patient's airway as indicated per Airway Algorithm, Blue 2. Prehospital clinicians should consider patient age, diagnosis, transport time, clinician experience, and effectiveness of ongoing bag-valve-mask ventilation in considering whether to continue with bag-valve-mask ventilation versus proceeding to further airway management procedures. Bag-valve-mask ventilation has been shown to be equivalent to endotracheal ventilation in pediatric patients in most situations with short transport times. If suspected opiate overdose, refer to the Poisoning/Overdose protocol, Yellow 1.",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        185.51,
+        29.52,
+        860.7,
+        54.77
+      ],
+      "text": "Respir ator y Distr ess w ith Br onchospasm #3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        219.19,
+        58.19,
+        827.36,
+        78.39
+      ],
+      "text": "(COPD, Emphysema, Chr onic Br onchitis, Asthma)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        136.45,
+        343.65,
+        151.6
+      ],
+      "text": "Pediatr ic Consider ations:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        207.02,
+        855.12,
+        222.17
+      ],
+      "text": "Wheezing in the child less than 2 years old is very commonly due to bronchiolitis.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        224.64,
+        859.33,
+        239.78
+      ],
+      "text": "Bronchiolitis is a self-limited viral illness of the bronchioles, marked by edema but",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        242.31,
+        881.15,
+        257.45
+      ],
+      "text": "not smooth muscle contraction. Bronchiolitis is the most common cause of wheezing",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        259.92,
+        873.55,
+        275.07
+      ],
+      "text": "in children under the age of 2. The treatment goals are to maintain oxygenation and",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        277.53,
+        874.16,
+        292.68
+      ],
+      "text": "hydration and to monitor for apnea and respiratory distress. Because the etiology is",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        295.2,
+        808.28,
+        310.35
+      ],
+      "text": "different than asthma, the treatment options are also very different. Patients",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        312.82,
+        880.47,
+        327.96
+      ],
+      "text": "suffering from bronchiolitis do not always benefit fr om inhaled albuter ol, though",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        330.49,
+        849.96,
+        345.64
+      ],
+      "text": "a tr ial is appr opr iate. They also do not benefit fr om ster oids . Instead, provide",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        348.1,
+        882.63,
+        363.25
+      ],
+      "text": "oxygen to ensure O sats greater than or equal to 90% and nasal suctioning with bulb",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        271.25,
+        354.15,
+        278.88,
+        364.75
+      ],
+      "text": "2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        365.71,
+        874.23,
+        380.86
+      ],
+      "text": "syringe. In patients who fail these measures, consider alternate diagnosis, including",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        383.39,
+        874.52,
+        398.53
+      ],
+      "text": "stridor/croup and refer to the Pediatric Respiratory Distress with Inspiratory Stridor",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        401.0,
+        828.56,
+        416.15
+      ],
+      "text": "protocol, Pink 2 . Monitor for apnea or respiratory distress and, if encountered,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        418.67,
+        758.39,
+        433.82
+      ],
+      "text": "manage the patient?s airway as indicated per Airway Algorithm, Blue 2 .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        453.95,
+        804.25,
+        469.1
+      ],
+      "text": "Prehospital clinicians should consider patient age, diagnosis, transport time,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        470.71,
+        835.55,
+        485.86
+      ],
+      "text": "clinician experience, and effectiveness of ongoing bag-valve-mask ventilation in",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        487.53,
+        877.66,
+        502.68
+      ],
+      "text": "considering whether to continue with bag-valve-mask ventilation versus proceeding",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        504.29,
+        841.71,
+        519.44
+      ],
+      "text": "to further airway management procedures. Bag-valve-mask ventilation has been",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        521.11,
+        833.1,
+        536.26
+      ],
+      "text": "shown to be equivalent to endotracheal ventilation in pediatric patients in most",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        537.93,
+        824.36,
+        553.08
+      ],
+      "text": "situations with short transport times. If suspected opiate overdose, refer to the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        93.38,
+        554.69,
+        458.54,
+        569.84
+      ],
+      "text": "Poisoning/Overdose protocol, Yellow 1 .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        446.18,
+        941.96,
+        882.96,
+        958.25
+      ],
+      "text": "(Back to TOC) Blue 8",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "b8d88378b9516bb89ecc9ef2afbfb4a56caccf36df37d129c7ab5549f1a2d5db",
+    "native": {
+      "text": "Respir ator y Distr ess w ith Br onchospasm #3\n(COPD, Emphysema, Chr onic Br onchitis, Asthma)\nPediatr ic Consider ations:\nWheezing in the child less than 2 years old is very commonly due to bronchiolitis.\nBronchiolitis is a self-limited viral illness of the bronchioles, marked by edema but\nnot smooth muscle contraction. Bronchiolitis is the most common cause of wheezing\nin children under the age of 2. The treatment goals are to maintain oxygenation and\nhydration and to monitor for apnea and respiratory distress. Because the etiology is\ndifferent than asthma, the treatment options are also very different. Patients\nsuffering from bronchiolitis do not always benefit fr om inhaled albuter ol, though\na tr ial is appr opr iate. They also do not benefit fr om ster oids. Instead, provide\noxygen to ensure O sats greater than or equal to 90% and nasal suctioning with bulb\n2\nsyringe. In patients who fail these measures, consider alternate diagnosis, including\nstridor/croup and refer to the Pediatric Respiratory Distress with Inspiratory Stridor\nprotocol, Pink 2. Monitor for apnea or respiratory distress and, if encountered,\nmanage the patient?s airway as indicated per Airway Algorithm, Blue 2.\nPrehospital clinicians should consider patient age, diagnosis, transport time,\nclinician experience, and effectiveness of ongoing bag-valve-mask ventilation in\nconsidering whether to continue with bag-valve-mask ventilation versus proceeding\nto further airway management procedures. Bag-valve-mask ventilation has been\nshown to be equivalent to endotracheal ventilation in pediatric patients in most\nsituations with short transport times. If suspected opiate overdose, refer to the\nPoisoning/Overdose protocol, Yellow 1.\n(Back to TOC) Blue 8",
+      "body_text": "(Back to TOC) Blue 8 Pediatr ic Consider ations: Wheezing in the child less than 2 years old is very commonly due to bronchiolitis. Bronchiolitis is a self-limited viral illness of the bronchioles, marked by edema but not smooth muscle contraction. Bronchiolitis is the most common cause of wheezing in children under the age of 2. The treatment goals are to maintain oxygenation and hydration and to monitor for apnea and respiratory distress. Because the etiology is different than asthma, the treatment options are also very different. Patients suffering from bronchiolitis do not always benefit fr om inhaled albuter ol, though a tr ial is appr opr iate. They also do not benefit fr om ster oids . Instead, provide oxygen to ensure O 2 sats greater than or equal to 90% and nasal suctioning with bulb syringe. In patients who fail these measures, consider alternate diagnosis, including stridor/croup and refer to the Pediatric Respiratory Distress with Inspiratory Stridor protocol, Pink 2 . Monitor for apnea or respiratory distress and, if encountered, manage the patient?s airway as indicated per Airway Algorithm, Blue 2 . Prehospital clinicians should consider patient age, diagnosis, transport time, clinician experience, and effectiveness of ongoing bag-valve-mask ventilation in considering whether to continue with bag-valve-mask ventilation versus proceeding to further airway management procedures. Bag-valve-mask ventilation has been shown to be equivalent to endotracheal ventilation in pediatric patients in most situations with short transport times. If suspected opiate overdose, refer to the Poisoning/Overdose protocol, Yellow 1 .",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            273.06,
+            746.936,
+            303.714,
+            758.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            307.89,
+            746.936,
+            318.545,
+            758.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            321.885,
+            746.936,
+            349.5,
+            758.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Blue",
+          "box": [
+            504.9,
+            746.036,
+            530.748,
+            758.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "8",
+          "box": [
+            533.7,
+            746.036,
+            540.37,
+            758.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Respir",
+          "box": [
+            113.535,
+            23.377,
+            171.296,
+            43.375
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ator",
+          "box": [
+            174.06,
+            23.377,
+            209.96,
+            43.375
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "y",
+          "box": [
+            212.917,
+            23.377,
+            222.916,
+            43.375
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Distr",
+          "box": [
+            229.41,
+            23.377,
+            273.064,
+            43.375
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ess",
+          "box": [
+            275.827,
+            23.377,
+            305.55,
+            43.375
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "w",
+          "box": [
+            309.78,
+            23.377,
+            324.219,
+            43.375
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ith",
+          "box": [
+            327.015,
+            23.377,
+            351.566,
+            43.375
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Br",
+          "box": [
+            358.38,
+            23.377,
+            378.112,
+            43.375
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "onchospasm",
+          "box": [
+            380.677,
+            23.377,
+            497.429,
+            43.375
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#3",
+          "box": [
+            504.45,
+            23.377,
+            526.747,
+            43.375
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "(COPD,",
+          "box": [
+            134.145,
+            46.084,
+            186.954,
+            62.081
+          ],
+          "font": "Helvetica",
+          "size": 15.998
+        },
+        {
+          "text": "Emphysema,",
+          "box": [
+            190.395,
+            46.084,
+            288.195,
+            62.081
+          ],
+          "font": "Helvetica",
+          "size": 15.998
+        },
+        {
+          "text": "Chr",
+          "box": [
+            291.915,
+            46.084,
+            317.213,
+            62.081
+          ],
+          "font": "Helvetica",
+          "size": 15.998
+        },
+        {
+          "text": "onic",
+          "box": [
+            319.266,
+            46.084,
+            351.934,
+            62.081
+          ],
+          "font": "Helvetica",
+          "size": 15.998
+        },
+        {
+          "text": "Br",
+          "box": [
+            355.95,
+            46.084,
+            371.735,
+            62.081
+          ],
+          "font": "Helvetica",
+          "size": 15.998
+        },
+        {
+          "text": "onchitis,",
+          "box": [
+            373.788,
+            46.084,
+            438.895,
+            62.081
+          ],
+          "font": "Helvetica",
+          "size": 15.998
+        },
+        {
+          "text": "Asthma)",
+          "box": [
+            442.62,
+            46.084,
+            506.344,
+            62.081
+          ],
+          "font": "Helvetica",
+          "size": 15.998
+        },
+        {
+          "text": "Pediatr",
+          "box": [
+            57.15,
+            108.071,
+            99.583,
+            120.068
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ic",
+          "box": [
+            101.861,
+            108.071,
+            112.084,
+            120.068
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Consider",
+          "box": [
+            115.515,
+            108.071,
+            167.344,
+            120.068
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ations:",
+          "box": [
+            169.622,
+            108.071,
+            210.311,
+            120.068
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Wheezing",
+          "box": [
+            57.15,
+            163.961,
+            114.548,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            117.45,
+            163.961,
+            127.958,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            132.12,
+            163.961,
+            150.629,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "child",
+          "box": [
+            153.495,
+            163.961,
+            181.242,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "less",
+          "box": [
+            185.085,
+            163.961,
+            206.639,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            209.16,
+            163.961,
+            234.423,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            238.635,
+            163.961,
+            245.305,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "years",
+          "box": [
+            248.445,
+            163.961,
+            279.931,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "old",
+          "box": [
+            282.465,
+            163.961,
+            299.781,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            303.615,
+            163.961,
+            313.451,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "very",
+          "box": [
+            315.99,
+            163.961,
+            341.01,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "commonly",
+          "box": [
+            344.88,
+            163.961,
+            404.648,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "due",
+          "box": [
+            408.555,
+            163.961,
+            430.201,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            433.08,
+            163.961,
+            443.735,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bronchiolitis.",
+          "box": [
+            447.12,
+            163.961,
+            523.333,
+            175.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Bronchiolitis",
+          "box": [
+            57.15,
+            177.911,
+            131.094,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            133.605,
+            177.911,
+            143.441,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            145.98,
+            177.911,
+            152.65,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "self-limited",
+          "box": [
+            155.88,
+            177.911,
+            219.276,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "viral",
+          "box": [
+            223.065,
+            177.911,
+            248.92,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "illness",
+          "box": [
+            253.125,
+            177.911,
+            289.977,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            292.5,
+            177.911,
+            302.644,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            306.855,
+            177.911,
+            325.364,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bronchioles,",
+          "box": [
+            328.23,
+            177.911,
+            398.964,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "marked",
+          "box": [
+            401.76,
+            177.911,
+            445.375,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "by",
+          "box": [
+            449.19,
+            177.911,
+            462.433,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "edema",
+          "box": [
+            466.2,
+            177.911,
+            504.411,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "but",
+          "box": [
+            507.6,
+            177.911,
+            525.911,
+            189.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            57.15,
+            191.906,
+            75.151,
+            203.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "smooth",
+          "box": [
+            79.155,
+            191.906,
+            120.65,
+            203.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "muscle",
+          "box": [
+            124.695,
+            191.906,
+            165.236,
+            203.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "contraction.",
+          "box": [
+            168.12,
+            191.906,
+            237.17,
+            203.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Bronchiolitis",
+          "box": [
+            240.39,
+            191.906,
+            314.334,
+            203.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            316.89,
+            191.906,
+            326.726,
+            203.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            329.265,
+            191.906,
+            347.774,
+            203.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "most",
+          "box": [
+            350.64,
+            191.906,
+            377.65,
+            203.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "common",
+          "box": [
+            381.645,
+            191.906,
+            430.741,
+            203.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cause",
+          "box": [
+            434.925,
+            191.906,
+            467.164,
+            203.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            469.8,
+            191.906,
+            479.944,
+            203.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "wheezing",
+          "box": [
+            484.2,
+            191.906,
+            539.262,
+            203.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            57.15,
+            205.856,
+            67.658,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "children",
+          "box": [
+            71.82,
+            205.856,
+            119.002,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "under",
+          "box": [
+            123.21,
+            205.856,
+            156.343,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            161.1,
+            205.856,
+            179.609,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "age",
+          "box": [
+            182.52,
+            205.856,
+            202.281,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            205.155,
+            205.856,
+            215.299,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2.",
+          "box": [
+            219.51,
+            205.856,
+            229.55,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "The",
+          "box": [
+            232.74,
+            205.856,
+            254.377,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "treatment",
+          "box": [
+            257.265,
+            205.856,
+            313.14,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "goals",
+          "box": [
+            317.16,
+            205.856,
+            346.895,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            349.425,
+            205.856,
+            368.502,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            371.385,
+            205.856,
+            382.04,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "maintain",
+          "box": [
+            385.38,
+            205.856,
+            436.418,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oxygenation",
+          "box": [
+            440.64,
+            205.856,
+            509.471,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            513.45,
+            205.856,
+            534.615,
+            217.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hydration",
+          "box": [
+            57.15,
+            219.806,
+            112.495,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            116.685,
+            219.806,
+            137.85,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            141.66,
+            219.806,
+            152.315,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "monitor",
+          "box": [
+            155.655,
+            219.806,
+            200.398,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            205.2,
+            219.806,
+            220.433,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "apnea",
+          "box": [
+            225.225,
+            219.806,
+            260.173,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            263.385,
+            219.806,
+            284.55,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "respiratory",
+          "box": [
+            288.36,
+            219.806,
+            352.013,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "distress.",
+          "box": [
+            355.905,
+            219.806,
+            402.978,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Because",
+          "box": [
+            406.215,
+            219.806,
+            452.719,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            455.4,
+            219.806,
+            473.909,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "etiology",
+          "box": [
+            476.55,
+            219.806,
+            520.94,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            525.15,
+            219.806,
+            534.986,
+            231.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "different",
+          "box": [
+            57.15,
+            233.801,
+            106.544,
+            245.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            110.52,
+            233.801,
+            135.783,
+            245.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "asthma,",
+          "box": [
+            139.995,
+            233.801,
+            185.427,
+            245.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            188.235,
+            233.801,
+            206.744,
+            245.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "treatment",
+          "box": [
+            209.61,
+            233.801,
+            265.485,
+            245.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "options",
+          "box": [
+            269.505,
+            233.801,
+            312.519,
+            245.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            315.045,
+            233.801,
+            334.122,
+            245.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "also",
+          "box": [
+            337.005,
+            233.801,
+            359.564,
+            245.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "very",
+          "box": [
+            362.925,
+            233.801,
+            387.945,
+            245.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "different.",
+          "box": [
+            391.86,
+            233.801,
+            445.479,
+            245.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Patients",
+          "box": [
+            448.695,
+            233.801,
+            494.669,
+            245.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suffering",
+          "box": [
+            57.15,
+            247.751,
+            109.124,
+            259.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "from",
+          "box": [
+            112.005,
+            247.751,
+            138.888,
+            259.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bronchiolitis",
+          "box": [
+            143.37,
+            247.751,
+            216.833,
+            259.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "do",
+          "box": [
+            219.375,
+            247.751,
+            233.83,
+            259.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            237.645,
+            247.751,
+            256.334,
+            259.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "always",
+          "box": [
+            260.955,
+            247.751,
+            301.809,
+            259.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "benefit",
+          "box": [
+            304.785,
+            247.751,
+            346.711,
+            259.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "fr",
+          "box": [
+            351.36,
+            247.751,
+            360.237,
+            259.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "om",
+          "box": [
+            362.398,
+            247.751,
+            379.745,
+            259.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "inhaled",
+          "box": [
+            384.705,
+            247.751,
+            429.862,
+            259.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "albuter",
+          "box": [
+            434.115,
+            247.751,
+            476.895,
+            259.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ol,",
+          "box": [
+            479.056,
+            247.751,
+            493.968,
+            259.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "though",
+          "box": [
+            497.25,
+            247.751,
+            538.849,
+            259.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            57.15,
+            261.746,
+            63.82,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "tr",
+          "box": [
+            67.455,
+            261.746,
+            76.306,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ial",
+          "box": [
+            78.583,
+            261.746,
+            92.658,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            97.335,
+            261.746,
+            107.558,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "appr",
+          "box": [
+            110.52,
+            261.746,
+            137.181,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "opr",
+          "box": [
+            139.342,
+            261.746,
+            158.43,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "iate.",
+          "box": [
+            160.708,
+            261.746,
+            186.925,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "They",
+          "box": [
+            190.35,
+            261.746,
+            218.912,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "also",
+          "box": [
+            223.02,
+            261.746,
+            246.951,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "do",
+          "box": [
+            250.74,
+            261.746,
+            265.195,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            269.01,
+            261.746,
+            287.699,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "benefit",
+          "box": [
+            292.32,
+            261.746,
+            334.246,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "fr",
+          "box": [
+            338.895,
+            261.746,
+            347.773,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "om",
+          "box": [
+            349.933,
+            261.746,
+            367.28,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ster",
+          "box": [
+            372.24,
+            261.746,
+            393.672,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "oids",
+          "box": [
+            395.833,
+            261.746,
+            421.195,
+            273.743
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            421.065,
+            261.746,
+            424.4,
+            273.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Instead,",
+          "box": [
+            427.635,
+            261.746,
+            473.175,
+            273.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "provide",
+          "box": [
+            475.65,
+            261.746,
+            520.173,
+            273.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oxygen",
+          "box": [
+            57.15,
+            275.696,
+            96.616,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            100.8,
+            275.696,
+            111.455,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ensure",
+          "box": [
+            114.84,
+            275.696,
+            154.234,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "O",
+          "box": [
+            157.095,
+            275.696,
+            166.429,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            166.005,
+            280.486,
+            170.674,
+            288.883
+          ],
+          "font": "Helvetica",
+          "size": 8.397
+        },
+        {
+          "text": "sats",
+          "box": [
+            173.79,
+            275.696,
+            196.064,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "greater",
+          "box": [
+            198.63,
+            275.696,
+            238.318,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            243.09,
+            275.696,
+            268.353,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            272.565,
+            275.696,
+            283.485,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "equal",
+          "box": [
+            288.225,
+            275.696,
+            319.04,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            323.235,
+            275.696,
+            333.89,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "90%",
+          "box": [
+            337.275,
+            275.696,
+            361.35,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            364.545,
+            275.696,
+            385.71,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "nasal",
+          "box": [
+            389.52,
+            275.696,
+            418.846,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suctioning",
+          "box": [
+            423.045,
+            275.696,
+            482.835,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            485.55,
+            275.696,
+            510.623,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bulb",
+          "box": [
+            514.8,
+            275.696,
+            540.167,
+            287.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "syringe.",
+          "box": [
+            57.15,
+            289.646,
+            102.546,
+            301.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "In",
+          "box": [
+            105.75,
+            289.646,
+            116.826,
+            301.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            121.005,
+            289.646,
+            167.334,
+            301.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "who",
+          "box": [
+            169.875,
+            289.646,
+            194.383,
+            301.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fail",
+          "box": [
+            197.775,
+            289.646,
+            215.46,
+            301.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "these",
+          "box": [
+            219.645,
+            289.646,
+            249.989,
+            301.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "measures,",
+          "box": [
+            252.855,
+            289.646,
+            311.099,
+            301.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consider",
+          "box": [
+            313.875,
+            289.646,
+            361.474,
+            301.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "alternate",
+          "box": [
+            366.255,
+            289.646,
+            418.066,
+            301.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "diagnosis,",
+          "box": [
+            420.93,
+            289.646,
+            478.002,
+            301.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "including",
+          "box": [
+            480.6,
+            289.646,
+            535.026,
+            301.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "stridor/croup",
+          "box": [
+            57.15,
+            303.641,
+            132.323,
+            315.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            136.125,
+            303.641,
+            157.29,
+            315.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            161.1,
+            303.641,
+            187.902,
+            315.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            192.69,
+            303.641,
+            203.345,
+            315.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            206.73,
+            303.641,
+            225.239,
+            315.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pediatric",
+          "box": [
+            228.105,
+            303.641,
+            279.321,
+            315.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Respiratory",
+          "box": [
+            282.33,
+            303.641,
+            347.959,
+            315.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Distress",
+          "box": [
+            351.9,
+            303.641,
+            397.582,
+            315.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            400.095,
+            303.641,
+            425.169,
+            315.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Inspiratory",
+          "box": [
+            429.255,
+            303.641,
+            492.981,
+            315.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Stridor",
+          "box": [
+            496.8,
+            303.641,
+            535.205,
+            315.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            57.15,
+            317.591,
+            107.768,
+            329.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pink",
+          "box": [
+            110.52,
+            317.591,
+            136.399,
+            329.588
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            141.165,
+            317.591,
+            147.835,
+            329.588
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            147.87,
+            317.591,
+            151.205,
+            329.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Monitor",
+          "box": [
+            154.44,
+            317.591,
+            199.102,
+            329.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            203.895,
+            317.591,
+            219.128,
+            329.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "apnea",
+          "box": [
+            223.875,
+            317.591,
+            258.823,
+            329.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            262.035,
+            317.591,
+            272.955,
+            329.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "respiratory",
+          "box": [
+            277.74,
+            317.591,
+            341.393,
+            329.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "distress",
+          "box": [
+            345.285,
+            317.591,
+            389.608,
+            329.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and,",
+          "box": [
+            392.175,
+            317.591,
+            417.367,
+            329.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            420.165,
+            317.591,
+            427.338,
+            329.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "encountered,",
+          "box": [
+            431.55,
+            317.591,
+            507.077,
+            329.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "manage",
+          "box": [
+            57.15,
+            331.586,
+            102.741,
+            343.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            105.615,
+            331.586,
+            124.124,
+            343.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient?s",
+          "box": [
+            126.99,
+            331.586,
+            176.319,
+            343.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "airway",
+          "box": [
+            178.83,
+            331.586,
+            217.556,
+            343.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            221.49,
+            331.586,
+            234.243,
+            343.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "indicated",
+          "box": [
+            236.745,
+            331.586,
+            289.263,
+            343.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "per",
+          "box": [
+            293.085,
+            331.586,
+            310.863,
+            343.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Airway",
+          "box": [
+            315.675,
+            331.586,
+            356.107,
+            343.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Algorithm,",
+          "box": [
+            360.0,
+            331.586,
+            421.441,
+            343.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Blue",
+          "box": [
+            424.215,
+            331.586,
+            451.17,
+            343.583
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            454.5,
+            331.586,
+            461.17,
+            343.583
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            460.8,
+            331.586,
+            464.135,
+            343.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Prehospital",
+          "box": [
+            57.15,
+            359.531,
+            121.264,
+            371.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clinicians",
+          "box": [
+            125.415,
+            359.531,
+            180.689,
+            371.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "should",
+          "box": [
+            183.24,
+            359.531,
+            221.198,
+            371.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consider",
+          "box": [
+            225.0,
+            359.531,
+            272.599,
+            371.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            277.425,
+            359.531,
+            316.866,
+            371.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "age,",
+          "box": [
+            320.85,
+            359.531,
+            343.697,
+            371.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "diagnosis,",
+          "box": [
+            346.5,
+            359.531,
+            403.572,
+            371.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transport",
+          "box": [
+            406.35,
+            359.531,
+            459.409,
+            371.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "time,",
+          "box": [
+            463.05,
+            359.531,
+            492.204,
+            371.528
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clinician",
+          "box": [
+            57.15,
+            372.806,
+            105.356,
+            384.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "experience,",
+          "box": [
+            109.53,
+            372.806,
+            175.981,
+            384.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            178.785,
+            372.806,
+            199.95,
+            384.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "effectiveness",
+          "box": [
+            203.76,
+            372.806,
+            277.897,
+            384.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            280.44,
+            372.806,
+            290.584,
+            384.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ongoing",
+          "box": [
+            294.795,
+            372.806,
+            340.97,
+            384.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bag-valve-mask",
+          "box": [
+            343.89,
+            372.806,
+            431.947,
+            384.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ventilation",
+          "box": [
+            436.095,
+            372.806,
+            497.049,
+            384.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            500.85,
+            372.806,
+            511.358,
+            384.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "considering",
+          "box": [
+            57.15,
+            386.126,
+            124.654,
+            398.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "whether",
+          "box": [
+            127.53,
+            386.126,
+            174.045,
+            398.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            178.83,
+            386.126,
+            189.485,
+            398.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "continue",
+          "box": [
+            192.87,
+            386.126,
+            243.409,
+            398.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            246.285,
+            386.126,
+            271.359,
+            398.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bag-valve-mask",
+          "box": [
+            275.445,
+            386.126,
+            363.502,
+            398.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ventilation",
+          "box": [
+            367.65,
+            386.126,
+            428.604,
+            398.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "versus",
+          "box": [
+            432.765,
+            386.126,
+            470.578,
+            398.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "proceeding",
+          "box": [
+            472.95,
+            386.126,
+            537.129,
+            398.123
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            57.15,
+            399.401,
+            67.805,
+            411.398
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "further",
+          "box": [
+            71.145,
+            399.401,
+            111.095,
+            411.398
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "airway",
+          "box": [
+            115.875,
+            399.401,
+            154.601,
+            411.398
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "management",
+          "box": [
+            158.535,
+            399.401,
+            232.592,
+            411.398
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "procedures.",
+          "box": [
+            236.61,
+            399.401,
+            304.556,
+            411.398
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Bag-valve-mask",
+          "box": [
+            307.8,
+            399.401,
+            396.339,
+            411.398
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ventilation",
+          "box": [
+            400.455,
+            399.401,
+            461.409,
+            411.398
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "has",
+          "box": [
+            465.3,
+            399.401,
+            485.667,
+            411.398
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "been",
+          "box": [
+            488.25,
+            399.401,
+            515.125,
+            411.398
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shown",
+          "box": [
+            57.15,
+            412.721,
+            93.997,
+            424.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            98.145,
+            412.721,
+            108.8,
+            424.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            112.185,
+            412.721,
+            126.217,
+            424.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "equivalent",
+          "box": [
+            129.105,
+            412.721,
+            188.534,
+            424.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            192.555,
+            412.721,
+            203.21,
+            424.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "endotracheal",
+          "box": [
+            206.55,
+            412.721,
+            280.987,
+            424.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ventilation",
+          "box": [
+            285.21,
+            412.721,
+            346.164,
+            424.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            350.325,
+            412.721,
+            360.833,
+            424.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pediatric",
+          "box": [
+            365.04,
+            412.721,
+            416.373,
+            424.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            419.4,
+            412.721,
+            465.729,
+            424.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            468.0,
+            412.721,
+            478.508,
+            424.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "most",
+          "box": [
+            482.85,
+            412.721,
+            509.86,
+            424.718
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "situations",
+          "box": [
+            57.15,
+            426.041,
+            113.603,
+            438.038
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            116.1,
+            426.041,
+            141.174,
+            438.038
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "short",
+          "box": [
+            145.26,
+            426.041,
+            174.2,
+            438.038
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transport",
+          "box": [
+            178.2,
+            426.041,
+            231.259,
+            438.038
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "times.",
+          "box": [
+            235.305,
+            426.041,
+            269.873,
+            438.038
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            273.06,
+            426.041,
+            280.801,
+            438.038
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suspected",
+          "box": [
+            285.03,
+            426.041,
+            340.24,
+            438.038
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "opiate",
+          "box": [
+            344.07,
+            426.041,
+            379.61,
+            438.038
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "overdose,",
+          "box": [
+            382.455,
+            426.041,
+            437.626,
+            438.038
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            440.415,
+            426.041,
+            467.217,
+            438.038
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            471.6,
+            426.041,
+            482.255,
+            438.038
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            486.0,
+            426.041,
+            504.509,
+            438.038
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Poisoning/Overdose",
+          "box": [
+            57.15,
+            439.316,
+            170.906,
+            451.313
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            173.79,
+            439.316,
+            224.408,
+            451.313
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Yellow",
+          "box": [
+            227.16,
+            439.316,
+            265.831,
+            451.313
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            270.585,
+            439.316,
+            277.255,
+            451.313
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            277.29,
+            439.316,
+            280.625,
+            451.313
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0030.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 98.12,
+    "output_to_native_length_ratio": 0.964,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

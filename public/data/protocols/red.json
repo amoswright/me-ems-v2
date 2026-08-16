@@ -1,0 +1,2050 @@
+[
+  {
+    "id": "red_038",
+    "title": "Chest Pain - General",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>For all patients with chest pain, evaluation for acute coronary syndrome should occur. Commonly, it is difficult with the tools available to EMS clinicians to completely rule out a cardiac cause of chest pain. Therefore, all patients should be transported for emergency medical evaluation. Cardiac disease is but one of the many causes of chest pain and the EMS clinician should consider various causes such as esophageal, chest wall, pulmonary embolism, aortic dissection, spontaneous pneumothorax, etc. Patients commonly fall into one of three categories: suspected cardiac, traumatic, or uncertain cause of chest pain.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>The cardiac monitor/defibrillator should be brought to the patient's side during the initial assessment.</strong></p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li><strong>Chest Pain</strong><ul>\n<li>Suspected Cardiac Origin, follow <strong>Red 2</strong></li>\n<li>Traumatic, follow Chest Trauma protocol, <strong>Green 7</strong></li>\n<li>Uncertain Etiology, follow <strong>Red 7</strong></li>\n</ul>\n</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p>Consider cardiac origin chest pain in the following:\n* Chest pain or discomfort in other areas of the body (e.g., arm, jaw, epigastrium), shortness of breath, sweating, nausea, vomiting and dizziness.\n* Atypical or unusual symptoms are more common in women, the elderly and patients with diabetes. May also present with CHF, syncope and/or shock.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_038",
+        "pageNumber": "Red 1",
+        "jpgReference": "/assets/pages_webp/0038.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_039_040_041",
+    "title": "Chest Pain - Suspected Cardiac Origin / STEMI Criteria",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<ul>\n<li>Avoid nitroglycerin in any patient who has used a phosphodiesterase inhibitor within the past 48 hours. Examples are:<ul>\n<li>sildenafil (Viagra, Revatio), vardenafil (Levitra, Staxyn), tadalafil (Cialis, Adcirca) which are used for erectile dysfunction and pulmonary hypertension.</li>\n<li>epoprostenol (Flolan) or treprostinil (Remodulin) which are used for pulmonary hypertension.</li>\n</ul>\n</li>\n<li>Administer nitrates with caution as hypotension can occur in <em>any</em> patient having an MI.</li>\n</ul>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p><strong>Apply defib pads and be prepared to defibrillate as these patients are high risk for VF/VT</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p>The management of STEMI patients is commonly guided by 2 possible time goals:\n1. 90 minutes from first medical contact to device deployment in the coronary artery, and\n2. 30 minutes from the hospital arrival to treatment with thrombolytics</p>\n<p>In most settings, these goal establish cascading treatment possibilities. For instance, if both a catheterization strategy and a thrombolytic strategy can be accomplished within the above goals, catheterization is preferred. If catheterization cannot be accomplished with the above goals, but a thrombolytic strategy can be accomplished, a thrombolytic strategy may be preferred. If neither goal can be accomplished within the established goals, consider the strategy that is most likely to open the artery as soon as possible.*</p>\n<p>*Destination guidance considers availability of local resources, geography, clinician licensure-level, patient stability, comorbidities and many other factors. EMS clinicians are encouraged to work closely with their service medical director as well as their regional medical director and leadership from the local STEMI system of care to determine the best treatment strategy.</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p>Inferior MIs and right-sided MIs are commonly associated with bradycardia and blocks.</p>\n<p>Hypotension may occur in any MI, not just inferior MIs with right ventricular involvement.</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<h2>STEMI Criteria</h2>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>New LBBB is no longer a criteria for STEMI\n(Presence of any LBBB makes the diagnosis of STEMI difficult)</p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Administer O2 to keep O2 sats greater than or equal to 94% and less than 99% (avoid hypo/hyperoxia)."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Treat for shock if indicated."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "If patient has not taken an aspirin, administer chewable aspirin 324 mg <strong>PO</strong>, if not contraindicated by allergy."
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "If available and so trained, perform 12-lead ECG. EMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the EMT in obtaining the 12-lead ECG is to present it to the Paramedic and/or receiving facility."
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "Contact OLMC for the <strong>OPTION</strong> of assisting with the administration of patient's own nitroglycerin."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Establish IV en route."
+      },
+      {
+        "num": 8,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Cardiac monitor and 12-lead ECG within the <em>first</em> 10 minutes of patient contact, if so trained. AEMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the AEMT in obtaining the ECG is to present it to the Paramedic and/or receiving facility."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Contact OLMC for administration of nitroglycerin 0.4 mg tab or 0.4 mg spray <strong>SL</strong> every 5 minutes up to 3 doses, if needed, for symptoms <strong>AND</strong> systolic BP remains above 100 mmHg. If the patient has had nitroglycerin before and no IV is established, and systolic BP is greater than 100 mmHg, then it is OK to give nitroglycerin."
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "Paramedic may perform all treatments above without medical control."
+      },
+      {
+        "num": 11,
+        "providerLevel": "PARAMEDIC",
+        "html": "Obtain 12-lead ECG within <em>first</em> 10 minutes of patient contact. If patient meets <strong>STEMI</strong> criteria, refer to local or regional cardiac systems of care for destination decision support.* Alert the destination hospital as soon as possible to allow the hospital to prepare while addressing any questions regarding appropriateness of destination, dynamic patient presentations or treatment modalities."
+      },
+      {
+        "num": 12,
+        "providerLevel": "PARAMEDIC",
+        "html": "Patients who present with inferior MI, clear lung sounds, and BP less than 90 mmHg, give fluid bolus."
+      },
+      {
+        "num": 13,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Consider\n    a. Additional nitroglycerin\n    b. Fentanyl 1 mcg/kg <strong>IV/IM</strong>, or <strong>IN</strong> to a MAX dose of 100 mcgs\n    c. Additional fluid bolus in patients with inferior MI</p>"
+      },
+      {
+        "num": 14,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If patient develops a dysrhythmia, refer to appropriate protocol.</p>"
+      },
+      {
+        "num": 15,
+        "providerLevel": "PARAMEDIC",
+        "html": "Septal (V1, V2), Anterior (V3, V4), Inferior (II, III, aVF) or Lateral MI (I, aVL, V5, V6): ST elevation greater than 1 mm in two or more anatomically contiguous leads with reciprocal changes."
+      },
+      {
+        "num": 16,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>For leads V2-V3, the criteria for STEMI are:</p>\n<ul>\n<li>2 mm - Males 40 yo and older</li>\n<li>2.5 mm - Males younger than 40 yo</li>\n<li>1.5 mm for Women independent of age</li>\n</ul>"
+      },
+      {
+        "num": 17,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Posterior MI: ST depression greater than 1 mm in V1, V2 (and possibly V3) with an R/S ratio of greater than or equal to 1, place posterior leads to evaluate for ST segment elevation in leads V7/V8/V9</p>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_039",
+        "pageNumber": "Red 2",
+        "jpgReference": "/assets/pages_webp/0039.webp"
+      },
+      {
+        "pageId": "red_040",
+        "pageNumber": "Red 3",
+        "jpgReference": "/assets/pages_webp/0040.webp"
+      },
+      {
+        "pageId": "red_041",
+        "pageNumber": "Red 4",
+        "jpgReference": "/assets/pages_webp/0041.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_042",
+    "title": "Guidelines to the Prehospital Use of 12-Lead ECGs by the ALS Clinician",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Guidelines to the Prehospital Use of 12-Lead ECGs by the ALS Clinician\" src=\"/assets/figures/page-0042-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>EMT &amp; Advanced EMT and the Use of 12-lead ECGs</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>EMTs and AEMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining the 12-lead ECG. The purpose of the EMT or AEMT in obtaining the 12-lead ECG is to present it to the Paramedic and/or receiving facility.</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>\n<p><strong>Limb Lead Placement:</strong></p>\n<ul>\n<li>RA = Right Arm</li>\n<li>LA = Left Arm</li>\n<li>RL = Right Leg</li>\n<li>LL = Left Leg</li>\n<li>RA - White</li>\n<li>LA - Black</li>\n<li>RL - Green</li>\n<li>LL - Red</li>\n</ul>\n</li>\n<li>\n<p><strong>Precordial &amp; Right-Sided Lead Placement:</strong></p>\n<ul>\n<li>Landmarks:<ul>\n<li>Mid Clavicular Line</li>\n<li>Angle of Louis</li>\n<li>Anterior Axillary Line</li>\n<li>Mid Axillary Line</li>\n</ul>\n</li>\n<li>Leads:<ul>\n<li>V1, V2, V3, V4, V5, V6</li>\n<li>V3R, V4R</li>\n<li>\u25cb = R-sided leads</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p><strong>Posterior Leads:</strong></p>\n<ul>\n<li>ECG strips: V1, V2, V3, V7, V8, V9</li>\n<li>Placement (Back):<ul>\n<li>Scapula</li>\n<li>V7, V8, V9</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Consider Posterior Leads for suspected posterior MI</strong></p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Prehospital 12-lead ECG is now a standard of care for increasing diagnostic information regarding the chest pain/cardiac arrest patient"
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Acquisition of a 12-lead ECG should be done in all patients with chest pain or a potential cardiac complaint/diagnosis such as syncope or shortness of breath. Given the frequency of atypical presentation in the elderly, responders must have a high index of suspicion in the elderly patient"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "Transmission of 12-lead ECG or presentation of prehospital 12-lead ECG to treating clinicians at the receiving ED is intended to augment patient triage and facilitate rapid identification of a potential thrombolytic or emergent catheterization candidate"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "In the case of STEMI, notify the receiving ED immediately"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_042",
+        "pageNumber": "Red 5",
+        "jpgReference": "/assets/pages_webp/0042.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_043",
+    "title": "Chest Pain - Fibrinolytic Checklist",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Chest Pain - Fibrinolytic Checklist\" src=\"/assets/figures/page-0043-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>For chest pain of suspected cardiac origin, initiate therapy per protocol, including the early use of aspirin and nitroglycerin, if not contraindicated.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Use this checklist, or local equivalent, if available.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Report the information as soon as practical to the receiving ED.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>You may copy and use this page as your checklist, or you may use a checklist recommended by your usual receiving hospital which contains at least these questions.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Please follow your destination institution's STEMI Checklist</p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: center;\"></th>\n<th style=\"text-align: center;\"></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Has pain persisted for more than 12 hours?</td>\n<td style=\"text-align: center;\">YES</td>\n<td style=\"text-align: center;\"><strong>NO</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Is systolic BP greater than 180 mmHg?</td>\n<td style=\"text-align: center;\">YES</td>\n<td style=\"text-align: center;\"><strong>NO</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Is diastolic BP greater than 100 mmHg?</td>\n<td style=\"text-align: center;\">YES</td>\n<td style=\"text-align: center;\"><strong>NO</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">History of structural CNS disease (i.e. AV malformation)</td>\n<td style=\"text-align: center;\">YES</td>\n<td style=\"text-align: center;\"><strong>NO</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Significant closed head/facial trauma within previous 3 months?</td>\n<td style=\"text-align: center;\">YES</td>\n<td style=\"text-align: center;\"><strong>NO</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Surgery or major trauma, GI/GU bleed in previous 2 weeks?</td>\n<td style=\"text-align: center;\">YES</td>\n<td style=\"text-align: center;\"><strong>NO</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Any history of intracranial hemorrhage?</td>\n<td style=\"text-align: center;\">YES</td>\n<td style=\"text-align: center;\"><strong>NO</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Any bleeding, clotting problem, or blood thinners?</td>\n<td style=\"text-align: center;\">YES</td>\n<td style=\"text-align: center;\"><strong>NO</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Pregnant?</td>\n<td style=\"text-align: center;\">YES</td>\n<td style=\"text-align: center;\"><strong>NO</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Serious systemic disease (i.e. advanced cancer, severe liver or kidney disease?)</td>\n<td style=\"text-align: center;\">YES</td>\n<td style=\"text-align: center;\"><strong>NO</strong></td>\n</tr>\n</tbody>\n</table>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_043",
+        "pageNumber": "Red 6",
+        "jpgReference": "/assets/pages_webp/0043.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_044",
+    "title": "Chest Pain - Uncertain Etiology",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>For ALL patients with chest pain, consider the possibility of cardiac disease no matter what the history and physical exam suggest. However, there are other sources of non-cardiac chest pain to consider such as pulmonary embolism, spontaneous pneumothorax, aortic dissection/aneurysm, esophageal, chest wall, etc.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>If trauma suspected, refer to the Chest Trauma protocol, Green 7.</p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Administer O2 only to patients with dyspnea, hypoxia (SpO2 less than 94%), or signs of heart failure at a rate to keep O2 sats greater than or equal to 94% and less than 99% (avoid hyperoxia)."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Transport in position of comfort."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "If available and so trained, perform 12-lead ECG. EMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the EMT in obtaining the 12-lead ECG is to present it to the Paramedic and/or receiving facility."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Establish IV at TKO."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Cardiac monitor and 12-lead ECG. AEMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the AEMT in obtaining the 12-lead ECG is to present it to the Paramedic and/or receiving facility."
+      },
+      {
+        "num": 8,
+        "providerLevel": "PARAMEDIC",
+        "html": "If 12-lead ECG indicates STEMI, refer to Chest Pain-Suspected Cardiac Origin protocol, Red 2."
+      },
+      {
+        "num": 9,
+        "providerLevel": "PARAMEDIC",
+        "html": "For chest pain in a stable patient with normal level of consciousness, refer to the Universal Pain Management protocol, Green 18 for analgesia options."
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "For nausea and vomiting, refer to the Nausea and Vomiting protocol, Gold 18."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_044",
+        "pageNumber": "Red 7",
+        "jpgReference": "/assets/pages_webp/0044.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_045",
+    "title": "Cardiac Arrest Overview",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Cardiac Arrest Overview\" src=\"/assets/figures/page-0045-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>START</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>\n<p>Initiate or assume chest compressions</p>\n<ul>\n<li>Effective bystander chest compressions<ul>\n<li>Analyze rhythm and defibrillate if appropriate</li>\n</ul>\n</li>\n<li>Ineffective or no bystander chest compressions<ul>\n<li>Consider 2 Minutes of chest compressions<ul>\n<li>Analyze rhythm and defibrillate if appropriate</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>\n<p>Analyze rhythm and defibrillate if appropriate</p>\n<ul>\n<li>Immediately resume 2 minutes of chest compressions and provide EPINEPHrine every 3-5 minutes; consider amiodarone<ul>\n<li>ROSC: refer to post-resuscitation care protocol: Adult, Red 16; Pediatric, Red 21</li>\n<li>Consider Cause of Arrest:<ul>\n<li>-Hypothermia? Refer to Yellow 12</li>\n<li>-Shock? Fluid bolus</li>\n<li>-Acidosis or overdose? Bicarb and Fluid Bolus</li>\n<li>-Hyperkalemic? Calcium, Bicarb, Fluid Bolus</li>\n<li>-Trauma? Chest decompression</li>\n<li>-Hypoxia? Airway/Ventilation</li>\n</ul>\n</li>\n<li>Refer to TOR protocol, Red 14-15</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p>Manage airway as appropriate. Consider basic measures first OR advanced airway without interruption of chest compressions.</p>\n</blockquote>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">CARDIAC ARREST CHECKLIST</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Code leader and roles identified (pre-arrival)</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Continuous chest compressions with minimal interruption (compress while defib charging) and full recoil</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Turn on CPR feedback device/metronome with goal of 100-120 compressions/minute</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Rotate compressors at least every 2 minutes</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">AED/Defib applied and monitored</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">O\u2082 flowing and attached to NR/BVM</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">EtCO\u2082 waveform present &amp; monitored</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">IV/IO established</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Possible causes considered</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Consult OLMC <strong>early</strong> to discuss complex cases [H]</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Gastric insufflation limited and gastric decompression considered</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Family present and ongoing communication/support provided</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p>Evaluate for all potential causes of cardiac arrest, including the 5 <strong>Hs</strong> (<strong>H</strong>ypothermia, <strong>H</strong>ypovolemia, <strong>H</strong>ypoxia, <strong>H</strong>ypo/<strong>H</strong>yperkalemia, <strong>H+</strong> ion or acidosis) and the 5 <strong>Ts</strong> (Cardiac <strong>T</strong>amponade, <strong>T</strong>ension Pneumothorax, <strong>T</strong>hromboembolic disease x 2 (i.e. pulmonary embolism/MI) and <strong>T</strong>oxins). Prior to termination of cardiac arrest, address potential causes of arrest, including effective management of patient airway, provision of fluid bolus, and consideration of sodium bicarb in possible toxic or acidotic patients. Also, consider sodium bicarb and calcium in suspected hyperkalemic patients. Please note, patients on dialysis are at risk for electrolyte abnormalities. Finally, consider needle decompression for tension pneumothorax if appropriate.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_045",
+        "pageNumber": "Red 8",
+        "jpgReference": "/assets/pages_webp/0045.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_046_047_048_049",
+    "title": "Adult Cardiac Arrest",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<h3>PEA</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<h4>Narrow/Fast QRS Complex</h4>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Treatment:\n1) IV fluid bolus\n2) Consider bilateral needle decompression for suspected tension pneumothorax.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Potential causes include:\nhypovolemia or mechanical obstruction of blood flow (tension pneumothorax, pericardial tamponade, pulmonary embolism).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<h4>Wide/Slow QRS Complex</h4>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Treatment:\n1) Sodium bicarbonate\n2) Consider Calcium gluconate for suspected hyperkalemia.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Potential causes include:\nmetabolic/toxicologic etiologies such as hyperkalemia (e.g., dialysis patients) or overdose (e.g., TCA, sodium channel blocker, etc.).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<h3>Pearls for Cardiac Arrest:</h3>\n<p>Effective chest compressions and defibrillation are the most important therapies for the patient in cardiac arrest. Effective chest compressions are defined as:\na. A rate of 100 - 120 compressions/minute\nb. Depth of between 2 - 2.5 inches\nc. Allow for complete chest recoil\nd. Minimize interruptions in compressions\ne. Rotate rescuers every 2 minutes\nf. Avoid respiratory rate greater than 10/min\ng. Quantitative end-tidal CO2 should be used to monitor effectiveness of chest compressions. If EtCO2 is &lt; 10 mmHg, attempt to improve chest compression quality\nh. Consider additional monitoring with biometric feedback</p>\n<p>Resuscitate on scene as the effectiveness of chest compressions decreases during any patient movement. Resuscitation on scene should be the goal, with the only exceptions being safety concerns for the responding crew OR inability to effectively resuscitate in the patient's current location.</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<h3>Pearls for Cardiac Arrest, continued:</h3>\n<p>All services MUST have an organized and structured response to the care of patients in cardiac arrest. This approach must be pre-arranged and may be modeled on the Maine EMS ICS for OHCA Program or other well-accepted structured approach to patient care. Also, EMS services are encouraged to train clinicians to these systems of care and to regularly train clinicians in high-performance CPR.</p>\n<p>Use capnography during resuscitation for\n1. confirmation and monitoring of advanced airways and prolonged use of BVM by the AEMT/Paramedic\n2. monitoring effectiveness of chest compressions and change in circulation (ROSC vs. loss of spontaneous circulation.</p>\n<p>Note: The algorithms for cardiac arrest or arrhythmias reflect the MEMS Medical Direction and Practices Board's interpretation of ACLS guidelines, as they should be used in the prehospital setting.</p>\n<p><strong>IO:</strong> In OHCA patients, consider humeral head placement preferentially due to proximity to central circulation.</p>\n<p>Classes of common sodium channel blockers include the following:\n* Antidepressants (amitriptyline, nortriptyline, imipramine, doxepin)\n* Antiarrhythmics (quinine/quinidine, propafenone, flecainide)\n* Anesthetics (cocaine, lidocaine, bupivacaine)\n* Muscle Relaxants (cyclobenzaprine)\n* Antihistamines (diphenhydramine)</p>\n<p>Consider metabolic acidosis as the cause of cardiac arrest in the following clinical settings: aspirin overdose, severe diabetic ketoacidosis, severe sepsis, and hyperactive delirium with severe agitation.</p>\n<p>In the case of peripartum cardiac arrest, provision of high-quality CPR remains a priority. If a patient's fundus height is at or above the level of the umbilicus, manual uterine displacement to either the left or right is the preferred method of relieving aortocaval compression during chest compressions. Additionally, local hospital resources for advanced care should be activated immediately upon recognition of peripartum cardiac arrest. Contact OLMC to discuss the potential of additional therapies.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Initiate CPR until AED arrives unless valid DNR or signs incompatible with life (refer to Do Not Resuscitate Guidelines, Grey 3) are present; refer to Termination of Resuscitation protocol, Red 14."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Attach AED as soon as available with minimal interruptions in chest compressions and follow AED prompts."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Place oral and/or nasal airway(s)."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "High-flow O2 with BVM ventilation at a ratio of 30:2 or 1 breath every 10 chest compressions during recoil and without interrupting compressions."
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "Continue 2-minute cycles of chest compressions and AED checks."
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT",
+        "html": "If ROSC occurs, refer to Adult Post-Resuscitation Care protocol, Red 16."
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT",
+        "html": "Consider termination of resuscitation; refer to Termination of Resuscitation protocol, Red 14; if cardiac arrest is due to trauma, refer to Termination of Resuscitation for Traumatic Cardiac Arrest protocol, Green 22."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Ensure that high-performance CPR is being provided."
+      },
+      {
+        "num": 10,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Defibrillate ventricular fibrillation (VF) and pulseless ventricular tachycardia. For refractory VF/VT, refer to Red 13."
+      },
+      {
+        "num": 11,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Establish IV/IO without interrupting chest compressions."
+      },
+      {
+        "num": 12,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "EPINEPHRine 1 mg of 1mg/10mL IV/IO push (within 30 seconds) every 3-5 minutes, if so trained and equipped."
+      },
+      {
+        "num": 13,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Manage the airway per Airway Algorithm, Blue 2. Avoid respiratory rate greater than 10/minute in cardiac arrest."
+      },
+      {
+        "num": 14,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 15,
+        "providerLevel": "PARAMEDIC",
+        "html": "One medication intervention at each 2-minute reassessment per ACLS protocol:\n    a. VF/VT: amiodarone 300 mg IV/IO; may consider additional 150 mg IV/IO one time (mix in D5W).\n    b. Torsades: 2 grams of magnesium sulfate IV/IO, diluted in 10 mL of IVF (D5W preferred), over 1-2 minutes.\n    c. For refractory VF/VT, refer to Refractory VF/VT protocol, Red 13.\n    d. For PEA, in addition to standard therapies, consider treatment based on QRS complex width and rate: narrow/fast vs wide/slow"
+      },
+      {
+        "num": 16,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Consider causes of OHCA. Consult OLMC early for questions/advice.\n    a. Is patient on dialysis, have known renal disease or suspicion for hyperkalemia?\n        i. Calcium gluconate 3 gram bolus IV/IO, diluted in a minimum of 10 mL of IVF, over 1 minute\n        ii. Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2\n        iii. IV fluid bolus\n    b. Is patient suspected TCA or other suspected sodium channel blocker overdose? (See Pearls)\n        i. Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2\n        ii. IV fluid bolus\n    c. Is there a suspected pre-existing metabolic acidosis? (See Pearls)\n        i. Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2\n        ii. IV fluid bolus\n    d. Is hypovolemia suspected? If yes, give fluid bolus.\n    e. Is hypoxia suspected? If yes, administer high-flow oxygen and manage airway per Airway Algorithm, Blue 2.\n    f. Do you suspect a pneumothorax? If yes, perform needle decompression.\n    g. Is patient's core temperature less than 30\u00b0C (86\u00b0F) and circumstances consistent with hypothermia? If yes, see Severe Hypothermia WITHOUT signs of Life protocol, Yellow 12.</p>"
+      },
+      {
+        "num": 17,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Upon ROSC:\n    a. Refer to Adult Post-Resuscitation Care protocol, Red 16.\n    b. Contact OLMC for options of:\n        i. Post-resuscitation amiodarone bolus (mix in D5W)</p>"
+      },
+      {
+        "num": 18,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Mechanical CPR (mCPR) devices are not mandatory devices, but may play a role in three prehospital cardiac arrest settings, including:\n    a. Resuscitation events with few numbers of rescuers,\n    b. Resuscitation events that are prolonged,\n    c. Resuscitation events occurring during transport.</p>"
+      },
+      {
+        "num": 19,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Manual CPR MUST remain the FIRST strategy for chest compressions as manual CPR is the most readily available and effective compression strategy in the vast majority of cases.</p>"
+      },
+      {
+        "num": 20,
+        "providerLevel": "PARAMEDIC",
+        "html": "If applied, a mCPR device should be placed in a manner which minimizes interruptions, keeping all breaks in CPR to less than 10 seconds."
+      },
+      {
+        "num": 21,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Application Process -- Upon encountering a patient in cardiac arrest:\n    a. Initiate manual CPR.\n    b. Continue manual CPR for a minimum of 2 two-minute cycles. Placement or implementation of mechanical CPR may not begin until AFTER the 2nd cycle of CPR.\n    c. If the responding EMS service chooses to implement mechanical CPR, placement may begin AFTER the second cycle of CPR and must be applied in a manner that coordinates with pulse/rhythm checks AND keeps all breaks in CPR to less than 10 seconds.\n    d. Apply the device in accordance to manufacturer's instructions.\n    e. It is possible that application of the device, in a manner that is coordinated with pulse/rhythm checks and maintains interruptions in CPR less than 10 seconds, may take an additional 2 or more cycles of CPR, leading to initiation of mechanical CPR after the 4th round of manual CPR.</p>"
+      },
+      {
+        "num": 22,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Contraindications to Mechanical CPR\n    a. Age less than 18.\n    b. Patients who are unable to fit into the device due to body habitus.</p>"
+      },
+      {
+        "num": 23,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>In addition to the above, mechanical CPR devices may be placed prior to transport in patients that have recently achieved ROSC in the event of rearrest. The device should be in \"stand-by\" mode and activated if patient re-arrests en route to the hospital.</p>"
+      },
+      {
+        "num": 24,
+        "providerLevel": "PARAMEDIC",
+        "html": "All Maine EMS clinicians should be trained in High Performance CPR and Incident Command for Cardiac Arrest."
+      },
+      {
+        "num": 25,
+        "providerLevel": "PARAMEDIC",
+        "html": "Mechanical CPR devices should ONLY be used by clinicians who have been trained to use the devices and can apply the devices while maintaining all breaks in CPR to 10 seconds or less."
+      },
+      {
+        "num": 26,
+        "providerLevel": "PARAMEDIC",
+        "html": "Additionally, Maine EMS clinicians should routinely practice High Performance CPR, Incident Command for Cardiac Arrest and, if the service chooses, placement and use of mechanical CPR devices. The frequency of such training is difficult for the MDPB to determine for each individual service. Ultimately, this number will be determined by multiple factors, including the size of the service and the service's annual number of resuscitation attempts. As a guide, some of the EMS services with the highest survival from witnessed VF arrest perform resuscitation training (including high performance CPR and ICS for cardiac arrest) 2-4 times a year. Please consult with your service medical director and QI program to assist in determining the proper frequency of trainings for your service."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_046",
+        "pageNumber": "Red 9",
+        "jpgReference": "/assets/pages_webp/0046.webp"
+      },
+      {
+        "pageId": "red_047",
+        "pageNumber": "Red 10",
+        "jpgReference": "/assets/pages_webp/0047.webp"
+      },
+      {
+        "pageId": "red_048",
+        "pageNumber": "Red 11",
+        "jpgReference": "/assets/pages_webp/0048.webp"
+      },
+      {
+        "pageId": "red_049",
+        "pageNumber": "Red 12",
+        "jpgReference": "/assets/pages_webp/0049.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_050",
+    "title": "Refractory VF / VT",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Refractory VF / VT\" src=\"/assets/figures/page-0050-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<ul>\n<li><strong>Recurrent VF/VT</strong> is defined as SUCCESSFULLY CONVERTED by standard defibrillation techniques but subsequently returns. It should NOT be treated by dual sequential defibrillation (DSD). It is managed by treatment of correctable causes and use of anti-arrhythmic medications in addition to standard defibrillation.</li>\n<li><strong>Refractory VF/VT</strong> is defined as NOT CONVERTED by standard defibrillation. It is initially managed by treating correctable causes with anti-arrhythmic medications. If these methods fail to produce a response, the below therapies may be beneficial.</li>\n</ul>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Refractory VF/VT after 3 unsuccessful attempts at defibrillation (and CPR cycles with medications appropriate for the responding EMS clinician's scope of practice), consider the following steps:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>Check with the manufacturers of your manual defibrillators re: the warranty if used in dual-sequential external defibrillation</strong></p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<pre><code>b. Assure that controls for the second manual defibrillator are accessible to the team leader.\nc. Verify that both cardiac manual defibrillators are attached to the patient, that all pads are well-adhered, and simultaneously charge both manual defibrillators.\nd. When both defibrillators are charged to maximum energy settings and all persons are clear, push one shock button followed by the other immediately after the first shock is delivered.\ne. May repeat procedure every 2 minutes as indicated if refractory VF/VT persists, or consider vector change as noted below.\n</code></pre>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>http://emssolutionsint.blogspot.com/2015/02/double-sequential-external.html</p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Consider dual-sequential external defibrillation, if 2 defibrillators are available.\n    a. This can only be performed with MANUAL defibrillators."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "<strong>Vector Change:</strong> apply a second set of pads. If first set was in the anterior-apex position (blue pads in figure), place a second set in the anterior-posterior position (red pads). Do not allow the pads to touch one another."
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "<strong>Ensure adequate pad contact:</strong> i.e. pressure on pads with a barrier such as a stack of folded towels. Reassess for adequate pad contact before each defibrillation."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_050",
+        "pageNumber": "Red 13",
+        "jpgReference": "/assets/pages_webp/0050.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_051_052",
+    "title": "Termination of Resuscitation",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Resuscitation should be withheld under the following circumstances:</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>When it is found that the patient has a DNR order or other actionable medical order (e.g., POLST/MOLST form, etc.), refer to the DNR Guidelines, <strong>Grey 3</strong>.</li>\n<li>Scene Safety: the physical environment is not safe for the clinician(s).</li>\n<li>When irreversible signs of death, such as rigor mortis, dependent lividity, decapitation, decomposition, incineration, other obvious lethal injuries are present.</li>\n<li>When down time has been unknown or greater than 20 minutes with no bystander CPR performed and the patient is cool to touch (not from exposure), no audible heart sounds, and fixed/dilated pupils.</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Resuscitation may be <strong>terminated</strong>:</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>When the patient regains pulse/respirations.</li>\n<li>When the rescuers are physically exhausted or when equally or more highly trained health care personnel take over.</li>\n<li>In the absence of ALS, when the same Maine EMS licensed crew member has determined the absence of vital signs for 20 minutes, in spite of BLS, except in the case of hypothermia, see Severe Hypothermia WITHOUT Signs of Life protocol, <strong>Yellow 12</strong>.</li>\n<li>When it is found that the patient has a DNR order or other actionable medical order (e.g., POLST/MOLST form, etc.), refer to the DNR Guidelines, <strong>Grey 3</strong>.</li>\n<li>\n<p>When the following time frames have been met for ALS clinicians alone:</p>\n<ul>\n<li>Persistent asystole x 20 minutes</li>\n<li>Slow and/or wide complex PEA x 20 minutes</li>\n<li>Fast/narrow PEA x 45 minutes</li>\n<li>VF/Pulseless VT x 60 minutes</li>\n</ul>\n</li>\n<li>\n<p>If ALS clinicians arrive on scene of a patient managed by BLS clinicians, consider TOR if:</p>\n<ul>\n<li>After a total (BLS + ALS) resuscitation time of 20 minutes, the AED has never advised shock AND the first rhythm noted by ALS clinicians is asystole or slow/wide PEA.</li>\n<li>If patient is found in fast/narrow PEA does not achieve ROSC after 45 minutes of ALS + BLS care.</li>\n<li>If the patient is found in VF/Pulseless VT does not achieve ROSC after 60 minutes of ALS+BLS care.</li>\n<li>In the case of fast/narrow PEA and VF/Pulseless VT, the ALS clinician must complete the ALS algorithm as dictated in these protocols prior to consideration of TOR, regardless of time frame.</li>\n</ul>\n</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p>*Survival and functional neurologic outcomes are unlikely if ROSC is not obtained by EMS. It is dangerous to the crew, pedestrians and other motorists to attempt to resuscitate a patient during ambulance transport. If circumstances do not allow TOR for safety or other reasons, notify OLMC.</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>If Resuscitative Efforts are terminated:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Termination of Resuscitation\" src=\"/assets/figures/page-0052-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Termination of resuscitation is an important aspect of the medical care of the cardiac arrest patient. When resuscitative efforts have failed to be successful, compassionately transferring attention to the patient's surviving loved ones and ensuring proper final care of the deceased are essential. Please recall from the 2011 Maine EMS Protocol Update that those final steps in care for the deceased include the following:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>1) Notification of the family \u2013 May have already occurred. However, if the patient passes away without family or friends present, contingencies for family notification must be made.\n2) Disposition of Patient Remains \u2013 There are multiple options for disposition of patient remains which include local funeral homes, the local ED, the local hospital's morgue, the Medical Examiner's office, etc. It is essential that your service partners with local hospitals, local police, and local funeral homes to facilitate this process. Please refer to the Maine EMS 2011 EMS Protocol FAQ sheet.\n3) Notification of the patient's PCP (if the patient has one) and the Medical Examiner.\n4) Signing the patient's death certificate \u2013 Only a physician with a relationship to the patient (PCP or treating physician \u2013 includes an emergency physician resuscitating the patient) or the Medical Examiner can sign the death certificate.\n5) Notify the New England Donor Services at 1-800-446-6362 with the following information; patient's name, date of birth, location of arrest, your contact phone number, and time of death.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<hr/>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>NEW ENGLAND Donor Services</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>DONATE LIFE</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>800.446.6362</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h4>ABSOLUTE RULE-OUTS</h4>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<hr/>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>NEW ENGLAND Donor Services</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>DONATE LIFE</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>800.446.6362</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h4>REFERRAL INFORMATION</h4>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Focus attention on the family or bystanders. Explain the rationale for termination."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Consider accessing support for family: other family, friends, or social support such as clergy."
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "If termination of resuscitation occurs, one must consider management of the patient's remains. No one option is correct for all circumstances; factors on scene will likely dictate the best option. Refer to the DNR Guidelines #4, <strong>Grey 6</strong>. If questions remain regarding disposition of the patient's remains, contact OLMC. In the event that a patient arrests or re-arrests after leaving the scene and resuscitative efforts are unsuccessful, continue non-emergent transport to the hospital for disposition of the patient remains and family notification. This pathway should also be considered when termination of resuscitation occurs in unsafe or undesirable locations. Please discuss and pre-plan with local hospitals to ensure that all local systems are involved."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "Obvious signs of decomposition"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "Last known alive \u2265 18 hours"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Evidence of IV drug abuse"
+      },
+      {
+        "num": 7,
+        "providerLevel": "ALL",
+        "html": "Known HIV or Hepatitis"
+      },
+      {
+        "num": 8,
+        "providerLevel": "ALL",
+        "html": "Name & DOB of Patient"
+      },
+      {
+        "num": 9,
+        "providerLevel": "ALL",
+        "html": "Date & Time Last Known Alive or Pronounced Dead"
+      },
+      {
+        "num": 10,
+        "providerLevel": "ALL",
+        "html": "Cause of Death/Evidence of Drug Use at Scene"
+      },
+      {
+        "num": 11,
+        "providerLevel": "ALL",
+        "html": "Any known Medical History/ Regular Medications"
+      },
+      {
+        "num": 12,
+        "providerLevel": "ALL",
+        "html": "<h1>of IVs Attempted, Established &amp; Amount of Fluids Infused</h1>"
+      },
+      {
+        "num": 13,
+        "providerLevel": "ALL",
+        "html": "Which Police Dept. Involved & Phone Number?"
+      },
+      {
+        "num": 14,
+        "providerLevel": "ALL",
+        "html": "MEO contacted? Accepted?"
+      },
+      {
+        "num": 15,
+        "providerLevel": "ALL",
+        "html": "Where is body going? (MEO/ Funeral Home)"
+      },
+      {
+        "num": 16,
+        "providerLevel": "ALL",
+        "html": "NOK contact info (name, relation, best # to call)"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_051",
+        "pageNumber": "Red 14",
+        "jpgReference": "/assets/pages_webp/0051.webp"
+      },
+      {
+        "pageId": "red_052",
+        "pageNumber": "Red 15",
+        "jpgReference": "/assets/pages_webp/0052.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_053_054",
+    "title": "Adult Post-Resuscitation Care & Checklist",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p><strong>Goal #1 - Aggressive management of hypotension</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p><strong>Goal #2 - Identify STEMI</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p><img alt=\"Visual reference from Adult Post-Resuscitation Care &amp; Checklist\" src=\"/assets/figures/page-0054-visual.webp\"/></p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "PARAMEDIC",
+        "html": "<table>\n<thead>\n<tr>\n<th></th>\n<th>SAVE A LIFE</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>S</td>\n<td><strong>S</strong>tabilize - Stay on scene vs. rapid departure</td>\n</tr>\n<tr>\n<td>A</td>\n<td><strong>A</strong>irway - if still unresponsive, establish a definitive airway (SGA, ETT)</td>\n</tr>\n<tr>\n<td>V</td>\n<td><strong>V</strong>itals - change frequency to every 3 minutes<br/><strong>V</strong>asopressors (NOREPInephrine) - focus on cerebral perfusion pressure, goal is MAP greater than 80 mmHg</td>\n</tr>\n<tr>\n<td>E</td>\n<td><strong>E</strong>tCO2 - monitor airway and for re-arrest</td>\n</tr>\n<tr>\n<td>A</td>\n<td><strong>A</strong>lert/activate hospital</td>\n</tr>\n<tr>\n<td>L</td>\n<td><strong>L</strong>eave/<strong>L</strong>oad in ambulance with mechanical CPR device in place, if available in case patient rearrests en route to hospital</td>\n</tr>\n<tr>\n<td>I</td>\n<td><strong>I</strong>V - if only an IO has been placed</td>\n</tr>\n<tr>\n<td>F</td>\n<td><strong>F</strong>ollow-up vital signs to ensure stability before departure</td>\n</tr>\n<tr>\n<td>E</td>\n<td><strong>E</strong>CG - may affect destination, delayed ECG increases accuracy</td>\n</tr>\n</tbody>\n</table>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Manage airway. Administer O\u2082 only to keep O\u2082 sats greater than or equal to 94% and less than 99% (avoid hypo/hyperoxia). Maintain ventilation rate between 10-12 breaths per minute."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Perform 12-lead ECG, if so trained."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Provide advanced airway management if indicated and initiate capnography. Avoid excessive ventilation. Aim for ventilation rate between 10-12 breaths per minute."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Obtain IV access and treat hypotension with fluid boluses. Goal systolic BP after ROSC is greater than or equal to 100 mmHg. For post-resuscitation hypotension, administer fluid boluses. Total volume should not exceed 2000 mL."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Perform 12-lead ECG."
+      },
+      {
+        "num": 7,
+        "providerLevel": "PARAMEDIC",
+        "html": "Goal systolic BP after ROSC is greater than or equal to 100 mmHg. For post-resuscitation hypotension, administer IV fluid boluses. Total volume should not exceed 2000 mL."
+      },
+      {
+        "num": 8,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If evidence of STEMI on 12-lead ECG, refer to Chest Pain-Suspected Cardiac Origin protocol, <strong>Red 2</strong> and follow local STEMI referral patterns.</p>"
+      },
+      {
+        "num": 9,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If hypotension persists:\n    a. NOREPInephrine IV infusion. NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump.\n        i. <strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS.\n        ii. <strong>Dosing</strong> - Starting dose of NOREPInephrine is 0.03 mcg/kg/min. Titrate by 0.03 mcg/kg/min every 3-5 minutes. Usual dose is 0.03-0.25 mcg/kg/min. Usual MAX dose is 0.6 mcg/kg/min. Absolute MAX dose is 3 mcg/kg/min.\n        iii. <strong>Titrate</strong> to maintain SBP greater than 100 mmHg.</p>"
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If seizure develops, refer to Seizure protocol, <strong>Gold 8</strong>.</p>"
+      },
+      {
+        "num": 11,
+        "providerLevel": "PARAMEDIC",
+        "html": "If patient suffers loss of spontaneous circulation and re-arrests, refer to appropriate protocol."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_053",
+        "pageNumber": "Red 16",
+        "jpgReference": "/assets/pages_webp/0053.webp"
+      },
+      {
+        "pageId": "red_054",
+        "pageNumber": "Red 17",
+        "jpgReference": "/assets/pages_webp/0054.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_055_056_057",
+    "title": "Pediatric Cardiac Arrest",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>This protocol is for infants and children. For Newborns, refer to Newborn Resuscitation protocol, <strong>Lavender 5</strong>.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<h3>Pearls for Pediatric Cardiac Arrest</h3>\n<ul>\n<li>Pediatric cardiac dysfunction is usually due to a respiratory cause and is thus more likely to initially respond to effective oxygenation and ventilation followed by fluid administration and then medications. Defibrillation alone is rarely successful.</li>\n<li>Consider foreign body airway obstruction given history and age of the patient.</li>\n<li>Do not use mechanical CPR devices in patients under 18 years old.</li>\n</ul>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<ul>\n<li>Despite excellent efforts, survival rates from pediatric cardiac arrest remains very low. Unsuccessful resuscitation of a pediatric patient suffering OHCA is traumatic to surviving family members and loved ones. Please consider establishing on-scene support for survivors. If no on-scene support is available, consider discussing with OLMC to determine if the local hospital may have additional resources for the family. In addition, these events are acutely traumatic to responding EMS clinicians. Please ensure all responding personnel are provided necessary resources to maintain resilience in the face of an unsuccessful resuscitation.</li>\n</ul>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Initiate immediate CPR with minimal interruptions, continue CPR until AED arrives or signs incompatible with life are present, refer to Do Not Resuscitate Guidelines, <strong>Grey 3</strong>; refer to Termination of Resuscitation protocol, <strong>Red 14</strong>."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Attach AED as soon as available with minimal interruptions in chest compressions and follow AED prompts. From birth to 8 years, use pediatric AED pads. If pediatric pads are unavailable, use adult AED pads, do not allow pads to overlap."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Place oral and/or nasal airway(s)."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "High-flow O\u2082 with BVM ventilation at a ratio of 30:2 or 15:2 if multiple rescuers."
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "Continue 2-minute cycles of chest compressions and AED checks."
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT",
+        "html": "If ROSC occurs, refer to Pediatric Post-Resuscitation Care protocol, <strong>Red 21</strong>."
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT",
+        "html": "Consider termination of resuscitation after discussion with OLMC ; refer to Termination of Resuscitation protocol, <strong>Red 14</strong>."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Establish IV/IO without interrupting chest compressions."
+      },
+      {
+        "num": 10,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Manage the airway per Airway Algorithm, <strong>Blue 2</strong>."
+      },
+      {
+        "num": 11,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Establish weight in kg using length-based tape, see Pediatric Specific Equipment Sizes protocol, <strong>Pink 6</strong> for suggested equipment size, if needed."
+      },
+      {
+        "num": 12,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Continue 2-minute cycles of chest compressions."
+      },
+      {
+        "num": 13,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "<p>For Ventricular Fibrillation (VF)/Pulseless Ventricular Tachycardia (VT):\n    a. Initial defibrillation at 2 J/kg; perform CPR for 2 minutes and recheck rhythm; if still a shockable rhythm, defibrillation at 4 J/kg; perform CPR and reassess every 2 minutes. Continue 2 minute cycles of CPR with defibrillation as indicated. Third defibrillation at 6 J/kg, fourth at 8 J/kg, fifth and subsequent defibrillations at a MAX of 10 J/kg.</p>"
+      },
+      {
+        "num": 14,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "<p>Administer NS 20 mL/kg fluid bolus IV/IO. May repeat x 1 at 5 minutes after initial bolus. If pre-existing cardiac history, consider reducing to 10 mL/kg for each bolus.</p>"
+      },
+      {
+        "num": 15,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Check blood glucose if resources are adequate and doing so would not interfere with CPR. If blood glucose is < 60 mg/dL, treat with 5 mL/kg of D\u2081\u2080W."
+      },
+      {
+        "num": 16,
+        "providerLevel": "PARAMEDIC",
+        "html": "If BVM ventilation is inadequate, consider placement of advanced airway. In most cases, BIADs are preferable due to their ease of placement. See Pediatric Specific Equipment Sizes protocol, <strong>Pink 6</strong> for suggested equipment size."
+      },
+      {
+        "num": 17,
+        "providerLevel": "PARAMEDIC",
+        "html": "One medication intervention at each 2-minute reassessment per PALS guidelines."
+      },
+      {
+        "num": 18,
+        "providerLevel": "PARAMEDIC",
+        "html": "For pulseless VT/VF, defibrillate as indicated.\n    a. If no response after first defibrillation, administer 0.01 mg/kg (0.1 mL/kg) EPINEPHRine of 1mg/10mL IV/IO rapid push. MAX single dose 1 mg.\n        i. Repeat every 3-5 minutes\n    b. If no response after second defibrillation, consider:\n        i. Amiodarone 5 mg/kg bolus IV/IO. MAX single dose of 300 mg. Can repeat in 3-5 minutes up to a total dose of 15 mg/kg (mix in D\u2085W).\n        ii. Torsades: Magnesium sulfate 25-50 mg/kg IV/IO, diluted in 10 mL IVF (D\u2085W preferred), over 1-2 minutes. MAX single dose 2 grams."
+      },
+      {
+        "num": 19,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>For Asystole or Pulseless Electrical Activity:\n    a. Administer 0.01 mg/kg (0.1 mL/kg) EPINEPHRine (1mg/10mL) IV/IO rapid push. MAX single dose 1 mg.\n        i. Repeat every 3-5 minutes.\n    b. Perform 2 minutes of CPR, then check rhythm. If asystole/PEA, continue EPINEPHRine and 2 minutes of CPR until:\n        i. Pulse obtained, OR\n        ii. Shockable rhythm obtained, OR\n        iii. Decision made to discontinue further efforts, refer to Termination of Resuscitation protocol, <strong>Red 14</strong>.</p>"
+      },
+      {
+        "num": 20,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Consider causes of OHCA. Consult OLMC early for questions/advice.\n    a. For hypoxia, administer high-flow oxygen and manage airway per Airway Algorithm, <strong>Blue 2</strong>.\n    b. If hypovolemia is suspected, give fluid bolus of 20 mL/kg IV/IO. May repeat x 1 at 5 minutes after initial bolus. If pre-existing cardiac history, consider reducing to 10 mL/kg for each bolus.\n    c. For suspected pre-arrest metabolic acidosis, suspected or known hyperkalemia (dialysis patient), or known TCA overdose, consider:\n        i. Sodium bicarbonate 1 mEq/kg bolus IV/IO, MAX single dose 50 mEq. Do not mix with any resuscitation drugs. Flush IV tubing with NS before and after drug administration. For TCA overdose, repeat every 5 minutes until QRS duration is less than 120 msec. <strong>Do not use routinely in cardiac arrest.</strong> (8.4% sodium bicarbonate must be diluted 1:1 with D\u2085W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age).\n    d. If patient's core temperature less than 30\u00b0C (86\u00b0F) and circumstances consistent with hypothermia, see Severe Hypothermia WITHOUT Signs of Life protocol, <strong>Yellow 12</strong>.\n    e. For known or suspected hyperkalemia or symptomatic calcium channel blocker/beta-blocker overdose, consider:\n        i. Calcium gluconate 60 mg/kg bolus IV/IO, diluted in a minimum of 10 mL of IVF, over 1 minute; MAX single dose of 3 grams; may repeat in 10 minutes. <strong>Do not use routinely in cardiac arrest.</strong>\n    f. Perform needle decompression if there is a suspected pneumothorax.</p>"
+      },
+      {
+        "num": 21,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Upon ROSC:\n    a. Refer to Pediatric Post-Resuscitation Care protocol, <strong>Red 21</strong>.</p>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_055",
+        "pageNumber": "Red 18",
+        "jpgReference": "/assets/pages_webp/0055.webp"
+      },
+      {
+        "pageId": "red_056",
+        "pageNumber": "Red 19",
+        "jpgReference": "/assets/pages_webp/0056.webp"
+      },
+      {
+        "pageId": "red_057",
+        "pageNumber": "Red 20",
+        "jpgReference": "/assets/pages_webp/0057.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_058",
+    "title": "Pediatric Post-Resuscitation Care",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p><strong>Goal #1 - Aggressive management of hypotension</strong></p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Manage airway per Airway Algorithm, <strong>Blue 2</strong>."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "<p>Optimize ventilation and oxygenation:\n    a. Initial ventilation rate of 12-20 breaths/min.\n    b. Administer oxygen as appropriate with target of achieving 94-99% saturation (avoid hypo-/hyperoxia).</p>"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "<p>Request ALS.</p>"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "Perform 12-lead ECG, if so trained and doing so would not delay transport."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Titrate waveform capnography to 35-45 mmHg."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Obtain IV/IO access and treat hypotension with fluid boluses (20 mL/kg NS) to maintain systolic blood pressure of 70 mmHg + (2 x age); may repeat to a MAX of 60 mL/kg. Consider 10 mL/kg fluid boluses if the patient has pre-existing cardiac disease."
+      },
+      {
+        "num": 7,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If hypotension persists after fluid boluses:\n    a. NOREPInephrine IV infusion:\n        i. <strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS\n        ii. <strong>Dosing</strong> - infusion 0.1 - 2 mcg/kg/min (MAX dose of 30 mcg/min) titrated to effect\n        iii. NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump</p>"
+      },
+      {
+        "num": 8,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If seizure develops, refer to Seizure protocol, <strong>Gold 8</strong>.</p>"
+      },
+      {
+        "num": 9,
+        "providerLevel": "PARAMEDIC",
+        "html": "If patient suffers loss of spontaneous circulation and re-arrests, refer to appropriate protocol."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_058",
+        "pageNumber": "Red 21",
+        "jpgReference": "/assets/pages_webp/0058.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_059",
+    "title": "Pediatric Cardiac Arrest Medications and Dosages",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Prehospital clinicians should consider patient age, diagnosis, transport time, clinician experience, and effectiveness of ongoing bag-valve-mask ventilation in considering whether to continue with bag-valve-mask ventilation versus proceeding to endotracheal intubation. Bag-valve-mask ventilation has been shown to be equivalent to endotracheal ventilation in pediatric patients in most situations with short transport times.</p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Atropine</strong><br/>(Indication: Bradycardia)</td>\n<td><strong>IV/IO</strong>: 0.02 mg/kg<br/>Minimum dose: 0.1 mg<br/>MAX single dose: 0.5 mg (child)<br/>May repeat once</td>\n</tr>\n<tr>\n<td><strong>EPINEPHrine 1mg/10 mL</strong><br/>(Indication: Bradycardia)</td>\n<td><strong>IV/IO</strong>: 0.01 mg/kg (0.1 mL/kg)<br/>MAX single dose: 1 mg</td>\n</tr>\n<tr>\n<td><strong>EPINEPHrine 1mg/10 mL</strong><br/>(Indication: Pulseless Arrest)</td>\n<td><strong>IV/IO</strong>: 0.01 mg/kg (0.1 mL/kg)<br/>MAX single dose: 1 mg<br/>Repeat every 3-5 minutes</td>\n</tr>\n<tr>\n<td><strong>Amiodarone</strong><br/>(Indication: VF/VT)</td>\n<td><strong>IV/IO</strong>: 5 mg/kg bolus<br/>MAX single dose: 300 mg<br/>Can repeat in 3-5 minutes up to total dose of 15 mg/kg (mix in D5W)</td>\n</tr>\n<tr>\n<td><strong>Sodium Bicarbonate</strong><br/>(Indications: wide complex PEA suggesting hyperkalemia or sodium channel blocker overdose)<br/><br/>Common sodium channel blockers include: tegretol, carbamazepine, TCAs, propranolol, and flecanide</td>\n<td><strong>IV/IO</strong>: 1 to 2 mEq/kg bolus<br/>MAX single dose: 50 mEq<br/>Repeat every 5 minutes until QRS duration is less than 120 msec<br/>8.4% sodium bicarbonate must be diluted 1:1 with D5W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age</td>\n</tr>\n<tr>\n<td><strong>Magnesium</strong><br/>Indication: Torsades de Pointes</td>\n<td><strong>IV/IO</strong>: 25-50 mg/kg<br/>MAX single dose: 2 grams<br/><em>With pulse</em>: dilute in 50-100 mL of IVF (D5W preferred) and deliver over 15 minutes via pump.<br/><em>Without pulse</em>: dilute in 10 mL IVF (D5W preferred) and administer over 1-2 minutes</td>\n</tr>\n<tr>\n<td><strong>Calcium gluconate</strong><br/>(Indication: Cardiac Arrest due to suspected due to hyperkalemia; hyperkalemia with a pulse)</td>\n<td><strong>IV/IO</strong>: 60 mg/kg push over 1 minute<br/>MAX single dose: 3 grams<br/>Repeat in 10 minutes<br/><em>Cardiac Arrest</em>: dilute in 10 mL IVF and administer over 1 minute<br/><em>Hyperkalemia with a pulse</em>: dilute in 50 - 100 mL of IVF and administer over 15 minutes via pump.</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Synchronized Cardioversion</strong>: 0.5 - 1.0 J/kg (initial); 2 J/kg (subsequent)\n<strong>Defibrillation</strong>: 2 J/kg (initial); 4 J/kg ; 6 J/kg; 8 J/kg, 10 J/kg (maximum)</p>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_059",
+        "pageNumber": "Red 22",
+        "jpgReference": "/assets/pages_webp/0059.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_060_061_062",
+    "title": "Adult Tachycardia",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p>NOTE: For all cases, attempt to identify and treat the underlying cause of the patient's tachycardia which may include maximizing oxygenation or (for Advanced EMTs/Paramedics) maximizing hemodynamics. If uncertainty exists between sinus tachycardia and SVT, please contact OLMC.</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p><strong>If hemodynamically UNSTABLE, as manifested by any of the following: hypotension, altered mental status, syncope/pre-syncope, chest pain, dyspnea, acute heart failure, signs of shock:</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p><img alt=\"Visual reference from Adult Tachycardia\" src=\"/assets/figures/page-0061-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If hemodynamically STABLE:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p>Position patient seated upright and have patient blow into a 10 mL syringe forcefully, attempting to move the plunger for 15 sec. *</p>\n<p>Then, immediately lay the patient supine and raise legs to 45 degrees. Hold legs for 1 min, then return to seated position.*</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<pre><code>b. Adenosine:\\*\n    i. Adenosine 6 mg IV rapid bolus at centrally located peripheral IV with rapid saline flush\n        1. May repeat adenosine x 2 at 12 mg IV rapid bolus at centrally located peripheral IV with rapid saline flush.\n</code></pre>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Only for REGULAR rhythm with MONOmorphic QRS (see PEARL)</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<pre><code>a. Adenosine 6 mg IV rapid bolus at centrally located peripheral IV with rapid saline flush.\n    i. May repeat adenosine x 2 at 12 mg IV rapid bolus at centrally located peripheral IV with rapid saline flush.\n    ii. Consider amiodarone 150 mg IV/IO in 100 mL D5W over 10 minutes.\n</code></pre>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>* Photos courtesy of Appelboam A et al. Postural Modification to the Standard Valsalva Manoeuvre for Emergency Treatment of Supraventricular Tachycardias (REVERT): A Randomized Controlled Trial. Lancet 2015. [epub ahead of print]PMID: 26314489. Supplemental material accessed on 6-1-2021</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p>Treatment of pre-excitation rhythms (such as WPW) include blocking at the level of the AV node, using adenosine or beta-blockers. Patients with <em>pre-excitation AND A-fib</em> should <strong>NOT</strong> receive any agents that block the AV node, as this could cause VF. WPW with A-fib may be recognized by a very fast rhythm, a predominance of wide QRS complexes with occasional narrow complexes and an irregular rhythm. When WPW with A-fib is suspected, the patient should <strong>NOT</strong> receive any medications that block the AV node because this will force all impulses through the accessory pathway and can cause VF. <em>Instead, these patients should be cardioverted when they become unstable.</em></p>\n<p>Do <strong>NOT</strong> give adenosine to a patient with Polymorphic VT or Torsades.</p>\n<p>Do <strong>NOT</strong> give amiodarone to a patient converted from Polymorphic VT unless QT interval is less than 0.500 sec.</p>\n<p>If QT interval is greater than 0.500 sec, contact OLMC for options.</p>\n<p>*Adenosine: make sure that your monitor is printing prior to administration of adenosine as the effects may be short-lived, but just slowing down the rhythm may help to identify the etiology of the rhythm and therefore guide next steps even in chemical cardioversion does not occur.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Airway management per Airway Algorithm, <strong>Blue 2</strong>."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Perform 12-lead ECG, if available and so trained."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Establish IV/IO."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Cardiac monitor, perform 12-lead ECG."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 7,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Consider <strong>synchronized</strong> cardioversion\n    a. <strong>Regular Narrow</strong> complex (SVT): 50J or monophasic equivalent. With subsequent attempts: 100J, then 120-150J, then 200J, then max available dose.\n    b. <strong>Irregular Narrow</strong> complex (a-fib): 120-200J or monophasic equivalent. Subsequent attempts progress to 200J, then max available dose.\n    c. <strong>Regular Wide</strong> complex (VT): 100J or monophasic equivalent. Subsequent attempts progress to 150J, then 200J then max available dose.\n    d. Consider premedication as follows:\n        i. Midazolam 3 mg <strong>IV/IN/IO</strong> OR fentanyl 1 mcg/kg <strong>IV/IN/IO</strong> to a MAX first dose of 100 mcg.\n    e. If unable to synchronize, or in the case of patient instability or polymorphic VT,\n        i. Defibrillate x 1 at 200J or monophasic equivalent.</p>"
+      },
+      {
+        "num": 8,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Rate control for A-Fib/A-Flutter ONLY, contact OLMC for option of metoprolol 5 mg <strong>IV</strong> over 5 minutes. REMEMBER, <em>metoprolol must not be used in hypotension (SBP less than 100 mmHg).</em> Discuss wheezing, if present, with OLMC before administration.\n    a. May repeat metoprolol 5 mg <strong>IV</strong> over 5 minutes after consultation with OLMC</p>"
+      },
+      {
+        "num": 9,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Contact OLMC for further options, including amiodarone drip (mix in D5W) for wide complex tachycardia.</p>"
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "Narrow complex tachycardia (due to rhythms other than sinus tachycardia):\n    a. Modified Valsalva maneuver - Position patient seated upright and have patient blow into a 10 mL syringe forcefully, attempting to move the plunger for 15 seconds. Then, immediately lay the patient supine and raise legs to 45 degrees. Hold legs for 1 min, then return to seated position. Reassess. May repeat once."
+      },
+      {
+        "num": 11,
+        "providerLevel": "PARAMEDIC",
+        "html": "Wide complex tachycardia"
+      },
+      {
+        "num": 12,
+        "providerLevel": "PARAMEDIC",
+        "html": "<strong>For POLYmorphic wide complex tachycardia (Torsades de Pointes):</strong>\n    a. Magnesium sulfate 1-2 grams <strong>IV/IO</strong>, diluted in 50-100 mL of IVF (D5W preferred) over 15 minutes"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_060",
+        "pageNumber": "Red 23",
+        "jpgReference": "/assets/pages_webp/0060.webp"
+      },
+      {
+        "pageId": "red_061",
+        "pageNumber": "Red 24",
+        "jpgReference": "/assets/pages_webp/0061.webp"
+      },
+      {
+        "pageId": "red_062",
+        "pageNumber": "Red 25",
+        "jpgReference": "/assets/pages_webp/0062.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_063_064_065",
+    "title": "Pediatric Tachycardia",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Pediatric Tachycardia\" src=\"/assets/figures/page-0063-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>NOTE:</strong> For all cases, attempt to identify and treat the underlying cause of the patient's tachycardia which may include maximizing oxygenation or (for Advanced EMTs/Paramedics) maximizing hemodynamics. In the stable patient, a heart rate of less than 180 in children and less than 220 in infants is probable sinus tachycardia if p-waves are present and normal in appearance. If uncertainty exists between sinus tachycardia and SVT, please contact OLMC.</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If hemodynamically <strong>UNSTABLE</strong>, as manifested by any of the following: <strong>hypotension, altered mental status, syncope/pre- syncope, chest pain, dyspnea, acute heart failure, signs of shock:</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p><strong>For NARROW complex/probable SVT</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p><strong>For WIDE complex tachycardia</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p><img alt=\"Visual reference from Pediatric Tachycardia\" src=\"/assets/figures/page-0064-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If hemodynamically STABLE:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p>Position patient seated upright and have patient blow into a 10 mL syringe forcefully, attempting to move the plunger for 15 sec. *</p>\n<p>Then, immediately lay the patient supine and raise legs to 45 degrees. Hold legs for 1 min, then return to seated position.*</p>\n<p>* Photos courtesy of Appelboam A et al. Postural Modification to the Standard Valsalva Manoeuvre for Emergency Treatment of Supraventricular Tachycardias (REVERT): A Randomized Controlled Trial. Lancet 2015. [epub ahead of print]PMID: 26314489. Supplemental material accessed on 6-1-2021</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<pre><code>b. For patients unable to perform the Modified Valsalva maneuver, consider any of the following:\n    i. Place a chilled ice pack (if available) gently on the infant\u2019s eyes and cheeks for 15\u201330 seconds (being careful not to occlude the nose/mouth)\n    ii. Gently press the infant\u2019s knees to the chest for 15-30 seconds\n    iii. Ask the infant to blow forcefully through a straw or into a syringe\nc. Adenosine\\*:\n    i. Adenosine 0.1 mg/kg IV/IO (MAX dose 6 mg) rapid bolus at centrally located peripheral IV with rapid saline flush.\n    ii. May repeat adenosine x 1 at 0.2 mg/kg IV/IO (MAX dose of 12 mg) rapid bolus at centrally located peripheral IV preferred with rapid saline flush.\nd. If no IV/IO access or adenosine ineffective\n    i. Synchronized cardioversion at 0.5-1.0 J/kg.\n    ii. If first attempt unsuccessful, increase to 2.0 J/kg for all subsequent attempts.\n</code></pre>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p>Treatment of pre-excitation rhythms (such as WPW) include blocking at the level of the AV node, using adenosine or beta-blockers. Patients with <em>pre-excitation AND A-fib</em> should <strong>NOT</strong> receive any agents that block the AV node, as this could cause VF. WPW with A-fib may be recognized by a very fast rhythm, a predominance of wide QRS complexes with occasional narrow complexes and an irregular rhythm. When WPW with A-fib is suspected, the patient should <strong>NOT</strong> receive any medications that block the AV node because this will force all impulses through the accessory pathway and can cause VF. <em>Instead, these patients should be cardioverted when they become unstable.</em></p>\n<p>Do <strong>NOT</strong> give adenosine to a patient with Polymorphic VT or Torsades.</p>\n<p>Do <strong>NOT</strong> give amiodarone to a patient converted from Polymorphic VT unless QT interval is less than 0.500 sec.</p>\n<p>If QT interval is greater than 0.500 sec, contact OLMC for options.</p>\n<p>*Adenosine: make sure that your monitor is printing prior to administration of adenosine as the effects may be short-lived, but just slowing down the rhythm may help to identify the etiology of the rhythm and therefore guide next steps even in chemical cardioversion does not occur.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Airway management per Airway Algorithm, <strong>Blue 2</strong>."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Perform 12-lead ECG, if so trained."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Establish <strong>IV/IO</strong>."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Cardiac monitor, perform 12-lead ECG."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 7,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If <strong>IV/IO</strong> access present:\n    a. Adenosine* 0.1 mg/kg <strong>IV/IO</strong> (MAX dose 6 mg) rapid bolus at centrally located peripheral IV preferred with rapid saline flush.\n    b. May repeat adenosine x 1 at 0.2 mg/kg <strong>IV/IO</strong> (MAX dose 12 mg) rapid bolus at centrally located peripheral IV with rapid saline flush.</p>"
+      },
+      {
+        "num": 8,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If no <strong>IV/IO</strong> access or adenosine ineffective:\n    a. Synchronized cardioversion at 0.5 - 1.0 J/kg.\n    b. If first attempt unsuccessful, increase to 2.0 J/kg for all subsequent attempts.</p>"
+      },
+      {
+        "num": 9,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Consider pre-medication, if feasible\n    a. Midazolam 0.05 mg/kg <strong>IV/IO</strong> or 0.1 mg/kg <strong>IN</strong> (MAX dose 3 mg) OR\n    b. Fentanyl 1 mcg/kg <strong>IV/IN/IO</strong> to a MAX first dose of 100 mcg</p>"
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Synchronized cardioversion at 0.5 - 1.0 J/kg.\n    a. If first attempt unsuccessful, increased to 2.0 J/kg for all subsequent attempts.</p>"
+      },
+      {
+        "num": 11,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Contact <strong>OLMC</strong> for consideration of amiodarone 5 mg/kg <strong>IV/IO</strong>\n(MAX dose 300 mg) over 20-60 minutes (mix in D\u2085W).</p>"
+      },
+      {
+        "num": 12,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If unable to synchronize, or in the case of patient instability or polymorphic VT,\ndefibrillate at 2 J/kg with up to a max of 10 J/kg.</p>"
+      },
+      {
+        "num": 13,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If pulseless arrest develops, follow Pediatric Cardiac Arrest protocol, <strong>Red 18</strong>.</p>"
+      },
+      {
+        "num": 14,
+        "providerLevel": "PARAMEDIC",
+        "html": "Narrow complex tachycardia (due to rhythms other than sinus tachycardia):\n    a. Modified Valsalva maneuver (if patient able to follow directions and participate) - Position patient seated upright and have patient blow into a 10 mL syringe forcefully, attempting to move the plunger for 15 seconds. Then, immediately lay the patient supine and raise legs to 45 degrees. Hold legs for 1 min, then return to seated position. Reassess. May repeat once."
+      },
+      {
+        "num": 15,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>MONOmorphic and regular Wide Complex tachycardia\n    a. Adenosine:\n        i. Adenosine 0.1 mg/kg IV/IO (MAX dose 6 mg) rapid bolus at centrally located peripheral IV preferred with rapid saline flush.\n        ii. May repeat adenosine x 1 at 0.2 mg/kg IV/IO (MAX dose of 12 mg) rapid bolus at centrally located peripheral IV preferred with rapid saline flush.\n        iii. Contact OLMC for consideration of amiodarone 5 mg/kg IV/IO (MAX dose 300 mg) over 20-60 minutes via IV pump (mix in D\u2085W).</p>"
+      },
+      {
+        "num": 16,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>POLYmorphic wide complex tachycardia (Torsades de Pointes):\n    a. Magnesium sulfate 25-50 mg/kg IV/IO (MAX single dose 2000 mg) diluted in 50-100 mL IVF (D\u2085W preferred) and administered over 15 minutes via IV pump.\n    b. Contact OLMC for consideration of amiodarone 5 mg/kg IV/IO (MAX dose 300 mg) over 20-60 minutes via IV pump (mix in D\u2085W).</p>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_063",
+        "pageNumber": "Red 26",
+        "jpgReference": "/assets/pages_webp/0063.webp"
+      },
+      {
+        "pageId": "red_064",
+        "pageNumber": "Red 27",
+        "jpgReference": "/assets/pages_webp/0064.webp"
+      },
+      {
+        "pageId": "red_065",
+        "pageNumber": "Red 28",
+        "jpgReference": "/assets/pages_webp/0065.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_066_067",
+    "title": "Adult Bradycardia",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Adults are considered bradycardic if HR is less than 50 beats/minute.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Concerning signs or symptoms: hypotension, altered mental status, syncope/pre-syncope, chest pain, dyspnea, acute heart failure, signs of shock, or cyanosis/pallor:</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><em>If NO concerning signs or symptoms, then all levels (EMT/Advanced EMT/Paramedic) may do the following:</em></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><em>If ANY concerning signs or symptoms, then:</em></p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "O\u2082 as appropriate."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Advanced EMT/Paramedic ONLY - consider fluid bolus."
+      },
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "O\u2082 as appropriate."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Perform 12-lead ECG, if so trained."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "IV en route and fluid bolus as required."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Cardiac monitor, perform 12-lead ECG, if so trained."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 7,
+        "providerLevel": "PARAMEDIC",
+        "html": "Atropine 1 mg IV/IO*; give in repeat doses every 3 - 5 minutes up to a maximum cumulative dose of 3 mg in the adult patient."
+      },
+      {
+        "num": 8,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Apply external pacer. Initiate transcutaneous pacing (TCP) for patients who do not respond to atropine; if serious signs or symptoms, do not delay TCP while awaiting IV/IO access or for atropine to take effect.\n    a. Consider premedicating with:\n        i. Midazolam 3 mg IV/IN/IO OR fentanyl 1 mcg/kg IV/IN/IO to a MAX first dose of 100 mcg.\n    b. Contact OLMC as soon as possible</p>"
+      },
+      {
+        "num": 9,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Check for capture frequently (every 2 minutes) by checking peripheral pulses, ensuring the pulse matches the paced rate.</p>"
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "If continued signs or symptoms, consider:\n    a. Repeat atropine, or\n    b. EPINEPHrine IV infusion, which may typically be dosed the following way:\n        i. <strong>Preparation</strong> - Add 1mL (1mg) of EPINEPHrine [1mg/mL] to 250 mL bag NS. This results in a 1mg/250mL = 4 mcg/mL mix.\n        ii. <strong>Dose</strong> - Start at 0.05 mcg/kg/min. Titrate by 0.05 mcg/kg/min every 5 min. Titrate to desired desired effect which may include resolution of bradycardia, SPB of > 90 mmHg and/or MAP > 65 mmHg. <strong>Usual dose</strong> is 0.05-0.5 mcg/kg/min. Absolute maximum dose is 0.5 mcg/kg/min\n    c. EPINEPHrine infusions must be administered via a Maine EMS-approved medication pump"
+      }
+    ],
+    "pearls": [
+      {
+        "title": null,
+        "html": [
+          "<p>* Transplanted, denervated hearts will not respond to atropine. Proceed to pacing, vasopressor infusion, or both</p>",
+          "<ul>\n<li>Examples of circumstances leading to increased vagal tone include the following: cholinergic medications (phenylephrine, neostigmine), sedatives (morphine) and nasopharyngeal or esophageal stimulation (eg. due to gastric reflux, breath holding, vomiting, coughing, intubation, placement of nasopharyngeal tube, suctioning, etc.)</li>\n<li><strong>Consider causes of bradycardia:</strong> MI, hypoxia, pacemaker failure, hypothermia, sinus bradycardia, sick sinus syndrome, AV blocks, overdose (calcium channel blockers, beta-blockers, digoxin, organophosphates), hyperkalemia (in wide complex).</li>\n<li>\n<p>Application of <strong>TCP</strong> should be considered if deterioration is anticipated because of the following:\n    a. Observed sinus pauses\n    b. Episodes of 2^nd degree Type II, or 3^rd degree AV Block</p>\n</li>\n<li>\n<p>Consider anterior-posterior placement favorable to anterior-apex placement</p>\n</li>\n<li><strong>Pre-medication</strong> for TCP is preferably via the IV route. If unable to obtain IV, may try IN route in the cooperative patient with goal of ultimately obtaining IV/IO access.</li>\n<li><strong>Bradycardia in the Post-Arrest Patient:</strong> Post-ROSC bradycardia is a peri-arrest state. For the patient who has achieved ROSC and becomes bradycardic, be very cautious. Typically, these causes do not respond durably to transcutaneous pacing alone. In addition to transcutaneous pacing, consider early initiation of NOREPInephrine and refer to the post arrest protocol. Check mechanical capture every 2 minutes and restart CPR if no pulse is detected.</li>\n</ul>"
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "pageId": "red_066",
+        "pageNumber": "Red 29",
+        "jpgReference": "/assets/pages_webp/0066.webp"
+      },
+      {
+        "pageId": "red_067",
+        "pageNumber": "Red 30",
+        "jpgReference": "/assets/pages_webp/0067.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_068",
+    "title": "Pediatric Bradycardia",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Pediatric patients are considered bradycardic if HR is less than 60 beats/min despite adequate oxygenation and ventilation. In children, bradycardia almost always reflects hypoxia rather than a primary cardiac problem. It is a pre-arrest rhythm and the prognosis is poor if left untreated. Immediate delivery of oxygen and assisted ventilations are essential. Untreated bradycardia will quickly cause shock, hypotension and death. Consider causes of bradycardia, including hypoxia, hypothermia, hypoglycemia, beta blocker or calcium channel blocker overdose, and hyperkalemia.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>For a <em>newborn</em> with bradycardia, please refer to Newborn Resuscitation protocol, <strong>Lavender 5</strong>.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Concerning signs or symptoms: hypotension, altered mental status, syncope/pre-syncope, chest pain, dyspnea, acute heart failure, signs of shock, or cyanosis/pallor:</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><em>If NO concerning signs or symptoms, then all levels (EMT/Advanced EMT/Paramedic) may do the following:</em></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><em>If ANY concerning signs or symptoms, then:</em></p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "O\u2082 as appropriate."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "<em>Advanced EMT/Paramedic ONLY</em> - consider 20 mL/kg IV/IO fluid bolus."
+      },
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Airway management per Airway Algorithm, <strong>Blue 2</strong>."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Initiate chest compressions for patients with a HR less than 60 beats per minute despite adequate oxygenation and ventilation."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "Perform 12-lead ECG, if so trained."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "IV/IO en route and fluid bolus as required."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Cardiac monitor, perform 12-lead ECG, if so trained."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 8,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If no response to oxygenation, ventilation and chest compressions:\n    a. EPINEPHrine [1 mg/10mL] 0.01 mg/kg (0.1 mL/kg) IV/IO, MAX single dose 1 mg. Repeat every 3-5 minutes.\n    b. In addition, consider Atropine<em> for increased vagal tone or primary AV Block Atropine 0.02 mg/kg IV/IO. May repeat x 1. Minimum dose 0.1 mg and MAX single dose 0.5 mg. (</em>refer to PEARLS, Red 26)</p>"
+      },
+      {
+        "num": 9,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Apply external pacer. Initiate transcutaneous pacing (TCP) for patients who do not respond to pharmacologic interventions.\n    a. Consider premedicating with:\n        i. Midazolam 0.05 mg/kg IV/IO or 0.1 mg/kg IN (MAX dose 3 mg) OR\n        ii. Fentanyl 1 mcg/kg IV/IN/IO to a MAX first dose of 100 mcg.\n    b. Contact OLMC as soon as possible</p>"
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Check for capture frequently (every 2 minutes) by checking peripheral pulses, ensuring the pulse matches the paced rate.</p>"
+      },
+      {
+        "num": 11,
+        "providerLevel": "PARAMEDIC",
+        "html": "If pulseless arrest develops, follow Pediatric Cardiac Arrest protocol, <strong>Red 18</strong>."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_068",
+        "pageNumber": "Red 31",
+        "jpgReference": "/assets/pages_webp/0068.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_069",
+    "title": "Cardiogenic Shock",
+    "category": "red",
+    "intro": [],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "O\u2082 as appropriate."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "If available and so trained, perform 12 lead ECG. EMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the EMT in obtaining the 12-lead ECG is to present it to the Paramedic and/or receiving facility."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Cardiac monitor, obtain 12-lead ECG"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Establish IV en route."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Contact OLMC with following information: Vital signs, lung sounds, cardiac rhythm, pedal edema assessment for OPTION OF:\n    a. Fluid bolus"
+      },
+      {
+        "num": 8,
+        "providerLevel": "PARAMEDIC",
+        "html": "NOREPInephrine IV infusion:\n    a. Preparation - mix NOREPInephrine 8 mg in 250 mL NS.\n    b. Dosing - Starting dose is NOREPInephrine 0.03 mcg/kg/min. Titrate by 0.03 mcg/kg/min every 3-5 minutes. Usual dose is 0.03-0.25 mcg/kg/min. Usual max dose is 0.6 mcg/kg/min. Absolute max dose is 3 mcg/kg/min\n    c. Titrate to maintain systolic BP greater than 100 mmHg\n    d. NOREPInephrine infusions in adults and pediatrics must be administered via a Maine EMS-approved medication pump"
+      }
+    ],
+    "pearls": [
+      {
+        "title": "Cardiogenic Shock",
+        "html": [
+          "<ul>\n<li>Pediatric patients suffering from suspected cardiogenic shock should receive fluid boluses of 10 mL/kg with frequent reassessment for tolerance and need for additional fluids.</li>\n<li>Pediatric patients rarely require vasopressors. If the patient is not responding to or tolerating intravenous fluids, consult OLMC.</li>\n</ul>"
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "pageId": "red_069",
+        "pageNumber": "Red 32",
+        "jpgReference": "/assets/pages_webp/0069.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_070",
+    "title": "Syncope",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>NOTE: At any time, if relevant signs/symptoms found, go to appropriate protocol.</p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Obtain history (seizure, stroke, fluid loss, palpitations, chest pain, dizzy, trauma) and consider spinal immobilization if appropriate."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "O\u2082 as appropriate."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "Perform finger stick to measure blood glucose, if so trained. If blood glucose less than 60 mg/dL, refer to <strong>Diabetic/ Hypoglycemic Emergencies protocol, Gold 6</strong>."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "<p>Treat for shock if appropriate. If the cause of the shock is:\n    a. Anaphylaxis, refer to the <strong>Allergy/Anaphylaxis protocol, Gold 1</strong>.\n    b. Cardiogenic, refer to the <strong>Cardiogenic Shock protocol, Red 32</strong>\n    c. Tension Pneumothorax, refer to the <strong>Chest Trauma protocol, Green 7</strong>.\n    d. Medical Shock, refer to the <strong>Medical Shock protocol, Gold 14</strong>.</p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "<p>Request ALS.</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "Obtain a 12-lead ECG, if so trained."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Establish IV access."
+      },
+      {
+        "num": 8,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Cardiac monitor and 12-lead ECG, if so trained"
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "Fluid bolus if appropriate"
+      },
+      {
+        "num": 10,
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "AEMT to request ALS"
+      }
+    ],
+    "pearls": [
+      {
+        "title": "Syncope",
+        "html": [
+          "<ul>\n<li>Syncope is defined as loss of consciousness accompanied by loss of postural tone.</li>\n<li>All of these patients should be transported for emergency evaluation.</li>\n<li>Up to one third of syncope in adults older than 60 is caused by cardiac disorders.</li>\n<li>12-lead ECGs and cardiac monitoring are important for this patient population. The ECG should be evaluated for potential causes of syncope such as: ischemia, QT prolongation, Brugada Syndrome, pre-excitation, arrhythmia and hypertrophic cardiomyopathy.</li>\n</ul>",
+          "<p><strong>A NORMAL ECG DOES NOT RULE OUT CARDIAC CAUSE OF SYNCOPE.</strong></p>",
+          "<p>* Because of proximity to the event, EMS clinicians may be the only clinicians able to capture cardiac causes of syncope.\n* Consider other causes including GI bleed, ectopic pregnancy, seizure, stroke, hypoglycemia, shock, toxicologic (i.e. alcohol), pulmonary embolism, and medications.</p>"
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "pageId": "red_070",
+        "pageNumber": "Red 33",
+        "jpgReference": "/assets/pages_webp/0070.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_071_072",
+    "title": "Ventricular Assist Devices",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Patient Care Goals</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Rapid identification of, and interventions for, cardiovascular compromise in patients with VADs</li>\n<li>Rapid identification of, and interventions for, VAD-related malfunctions or complications</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Inclusion Criteria</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Any patient with a Ventricular Assist Device</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Patient Management</h3>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "<p>For VAD-related complaints, consider early consult with the patient's VAD support team, including the following individuals in the following order:\n    a. The patient's VAD coordinator,\n    b. The patient's VAD physician,\n    c. Other members of the VAD team, or\n    d. OLMC at the patient's VAD hospital.</p>"
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "<p>Assess for possible pump malfunction:\n    a. Assess for alarms,\n    b. Auscultate for pump \"hum\" sound (best heard in the left chest),\n    c. Assess for signs of hypoperfusion including pallor, diaphoresis, altered mental status.</p>"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "<p>If the VAD pump has malfunctioned:\n    a. Utilize available resources to troubleshoot potential VAD malfunctions and to determine appropriate corrective actions to restore normal VAD function.\n        i. Contact the patient's VAD-trained companion, if available.\n        ii. Contact the patient's VAD-coordinator, using the phone number on the device.\n        iii. Check all connections to the system controller.\n        iv. Change VAD batteries, and/or change the system controller if indicated.\n        v. Have the patient stop all activity and assess for patient tolerance.\n        vi. Follow the appropriate protocol for the patient's presenting complaint.</p>"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "<p>If the patient is experiencing VAD-related complications or cardiovascular problems, expedite transport to the medical facility where the VAD was placed if the patient's clinical condition and operational considerations allow. If direct transport to the patient's VAD center is not possible, take the patient to the most appropriate facility based on their clinical condition, notifying OLMC and the patient's VAD coordinator of destination decision.\n    a. If patient has a functioning VAD and is experiencing a non-cardiovascular-related problem, contact OLMC and transport to a facility that is appropriate for the patient's main presenting problem without manipulating the device.</p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "<p>If the patient is in cardiac arrest\n    a. CPR should <strong>NOT</strong> be performed if there is any evidence the pump is still functioning. The decision whether to perform CPR should be based upon best clinical judgment. Consult OLMC <strong>or</strong> the patient's VAD coordinator for questions.\n    b. CPR is indicated only when:\n        i. The patient's pump has stopped and troubleshooting efforts to restart the pump have failed, <strong>AND</strong>\n        ii. The patient is unresponsive with no detectable signs of life.</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "<p>Manage the patient's airway as indicated by the Airway Algorithm, <strong>Blue 2</strong>.</p>"
+      },
+      {
+        "num": 7,
+        "providerLevel": "ALL",
+        "html": "Establish IV/IO access based on the patient's acuity and clinician judgment."
+      },
+      {
+        "num": 8,
+        "providerLevel": "ALL",
+        "html": "Place the patient on a cardiac monitor."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ALL",
+        "html": "Perform 12-lead ECG."
+      }
+    ],
+    "pearls": [
+      {
+        "title": "VADs",
+        "html": [
+          "<ul>\n<li>You do not need to disconnect the controller or batteries in order to defibrillate or cardiovert.</li>\n<li>You do not need to disconnect the controller or batteries in order to acquire a 12-lead ECG.</li>\n<li>Automatic non-invasive cuff blood pressures may be difficult to obtain due to the narrow pulse pressure created by the continuous flow pump.</li>\n<li>Flow through many VAD devices is not pulsatile and patients may not have a palpable pulse or accurate pulse oximetry. The blood pressure, if measurable, may not be an accurate measure of perfusion. Although automatic non-invasive blood pressure cuffs are often ineffective in measuring systolic and diastolic pressure, if they do obtain a measurement, the MAP is usually accurate. Doppler's may be more accurate at determining both pulse and blood pressure and, if available, should be used.</li>\n<li>Patient may be awake with a functioning pump in VF, VT, PEA or asystole. If the patient is responsive <strong>AND</strong> the encountered rhythm is thought to be new, ACLS therapies, including defibrillation may be attempted, however chest compressions are not necessary if the patient is awake and alert. Evaluate clinical condition and provide care in consultation with VAD coordinator.</li>\n<li>The patient's emergency travel bag should accompany him/her at all times. If feasible, bring the patient's Power Module, cable and Display Module with patient to the hospital.</li>\n<li>The most common cause for VAD alarms are low batteries or battery failures.</li>\n<li>\n<p>Primary pump failure is a very rare occurrence. The most common VAD complications, in descending occurrence, are:</p>\n<ul>\n<li>Infection</li>\n<li>Bleeding</li>\n<li>Arrhythmias</li>\n<li>CHF</li>\n<li>Aortic Insufficiency</li>\n<li>Stroke/TIA</li>\n<li>Cardiac Tamponade</li>\n</ul>\n</li>\n<li>\n<p>Follow the protocol most appropriate, based on the patient's clinical condition.</p>\n</li>\n<li>For questions, contact OLMC and the patient's VAD Coordinator.</li>\n<li>All patients with a VAD are anticoagulated, typically with warfarin (Coumadin).</li>\n</ul>"
+        ]
+      }
+    ],
+    "pages": [
+      {
+        "pageId": "red_071",
+        "pageNumber": "Red 34",
+        "jpgReference": "/assets/pages_webp/0071.webp"
+      },
+      {
+        "pageId": "red_072",
+        "pageNumber": "Red 35",
+        "jpgReference": "/assets/pages_webp/0072.webp"
+      }
+    ]
+  },
+  {
+    "id": "red_073_074",
+    "title": "Hyperkalemia",
+    "category": "red",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Hyperkalemia\" src=\"/assets/figures/page-0073-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p>Hyperkalemia (elevated serum potassium levels) can become a life-threatening electrolyte disturbance which causes changes in the electrical system of the heart potentially leading to fatal arrhythmias. While serum electrolyte values are not routinely available in the prehospital setting, a paramedic can identify the electrical changes on ECG and initiate prompt treatment.</p>\n<p>Patients at highest risk of cardiac consequences of hyperkalemia are those in renal failure: either end stage kidney disease requiring dialysis or with acute decompensations in renal function. The most common at-risk patient is the dialysis dependent patient who has missed one or more scheduled dialysis sessions and thus has accumulated dangerously high levels of electrolytes, including potassium. There are also a number of prescription medications that can alter serum potassium levels such as diuretics, blood pressure medications, chemotherapy agents, and more.</p>\n<p>Electrocardiographic signs of hyperkalemia include the following:</p>\n<ul>\n<li>Peaked T-Wave (tall and symmetric)</li>\n<li>Widened QRS</li>\n<li>Widened QRS and lengthened QT interval</li>\n</ul>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>PEARLS for Hyperkalemia:</strong>\n* Higher serum potassium levels (reported as K+) may not directly correlate with higher risk for cardiac instability, any elevation in serum potassium can increase risk of cardiac instability.\n* Hyperkalemia should <strong>ONLY</strong> be treated if ECG changes are present. Patients presenting with elevated serum potassium levels based on outpatient/hospital lab testing do not warrant treatment unless ECG changes are present. If elevated serum potassium levels are noted on laboratory testing, obtain 12-lead ECG and perform continuous cardiac monitoring to evaluate for electrical changes.\n* These can be dynamic situations. Monitor QRS complexes closely after therapy. If initial improvement, but recurrence of QRS changes, please re-initiate protocol.\n* The treatment of hyperkalemia is based on several mechanisms:\n    * Dilution: dilution of the serum potassium with fluid bolus\n    * Cardiac stabilization: Calcium gluconate stabilizes the electrical conduction system of the heart, making it less susceptible to electrolyte disturbance\n    * Potassium shift: albuterol and sodium bicarbonate can temporarily shift potassium ions from the serum into cells, thus reducing the serum potassium level. The half-life of albuterol is short, but may temporarily improve serum potassium levels while the other treatments take effect.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Obtain 12-lead ECG and evaluate for signs of hyperkalemia, including peaked T waves, widened QRS, lengthened QT interval, loss of P waves."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Perform continuous cardiac monitoring."
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "Establish 2 points of IV/IO access."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "<p>If ECG changes suggestive of hyperkalemia are noted, administer:\n    a. IV/IO fluid bolus: 500 - 1000 mL (NS or LR)\n    b. Calcium gluconate - NOTE: DO NOT administer calcium through same IV/IO as sodium bicarbonate\n        i. Adult: 2 grams diluted in 50-100 mL IVF IV/IO over 15 minutes, via pump\n        ii. Pediatric: 60 mg/kg diluted in 50-100 mL IVF (with MAX dose of 2 grams) IV/IO over 15 minutes, via pump\n    c. Sodium bicarbonate - NOTE: DO NOT administer sodium bicarbonate through same IV/IO as Calcium\n        i. Adult: 50mEq IV/IO\n        ii. Pediatric: 1mEq/kg IV/IO over 5 minutes with MAX dose of 50mEq (8.4% sodium bicarbonate must be diluted with D5W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age.)\n    d. Albuterol\n        i. Adult: 15 mg via nebulizer\n        ii. Pediatric:\n            1. Pediatric less than 25 kg: 2.5 mg via nebulizer\n            2. Pediatric greater than 25 kg: 5 mg via nebulizer</p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "<p>Repeat 12-lead ECG after treatment to evaluate for improvement.</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Consult OLMC with questions or to discuss repeat doses if ECG not improved."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ALL",
+        "html": "Note: If patient progresses to cardiac arrest, give the following early in your resuscitation efforts (Refer to Adult Cardiac Arrest #2 protocol, <strong>Red 10</strong> or Pediatric Cardiac Arrest #2 protocol, <strong>Red 19</strong>):\n    a. Calcium gluconate:\n        i. <strong>Adult:</strong> 3 gram <strong>IV/IO push</strong>, diluted in a minimum of 10 mL of IVF, over 1 minute, may repeat in 10 minutes.\n        ii. <strong>Pediatric:</strong> 60 mg/kg <strong>IV/IO push</strong>, diluted in a minimum of 10 mL of IVF, over 1 minute, max dose 3000 mg, may repeat in 10 minutes.\n    b. Sodium bicarbonate:\n        i. <strong>Adult:</strong> 50 mEq <strong>IV/IO push</strong> over 1-2 minutes, repeat every 5 minutes until QRS duration less than 120 msec.\n        ii. <strong>Pediatric:</strong> 1 to 2 mEq/kg <strong>IV/IO push</strong> over 1-2 minutes, <strong>MAX</strong> single dose: 50 mEq, repeat every 5 minutes until QRS duration less than 120 msec. (8.4% sodium bicarbonate must be diluted 1:1 with D_5_W to 4.2% [0.5 mEq/L] prior to administration in patients less than 2 years of age.)\n    c. Fluid bolus"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "red_073",
+        "pageNumber": "Red 36",
+        "jpgReference": "/assets/pages_webp/0073.webp"
+      },
+      {
+        "pageId": "red_074",
+        "pageNumber": "Red 37",
+        "jpgReference": "/assets/pages_webp/0074.webp"
+      }
+    ]
+  }
+]

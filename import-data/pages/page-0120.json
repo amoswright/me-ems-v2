@@ -1,0 +1,3911 @@
+{
+  "id": "page-0120",
+  "pdf_page": 120,
+  "protocol_label": "Green 26",
+  "kind": "protocol",
+  "chapter_id": "green",
+  "topic_id": "green-open-fractures",
+  "title": "Open Fractures",
+  "markdown": "# Open Fractures\n\n**Definition of Open Fracture:** Suspected fracture with associated extensive tissue damage, wound, and/or visible bone; including partial or completed amputations.\n\n## EMT\n1. Assess for other life-threatening injuries and manage as indicated.\n2. In patients who are otherwise stable, gross contamination (such as leaves or gravel) should be removed if possible.\n3. Cover open fractures with moist, sterile dressing.\n4. Splint the fractured extremity in the anatomic position, if possible, or the position of comfort if not able to splint in the anatomic position.\n5. Consider pain control. Refer to Universal Pain Management protocol, **Green 18**.\n6. Request ALS, if available, for additional pain control and consideration of antibiotics.\n\n## ADVANCED EMT\n7. Establish an IV.\n8. Request ALS, if available, for additional pain control and consideration of antibiotics.\n\n## PARAMEDIC\n9. Ceftriaxone, per dosing recommendations listed below:\n    a. For patients 12 years and older: Ceftriaxone 2 grams IV in 50 -100 ml of NS or D5W over at least 10 minutes.\n    b. For patients less than 12 years old: Ceftriaxone 75 mg/kg IV (max dose 2 grams) in 50 -100 ml of NS or D5W over 10 minutes.\n    c. **NOTE:** ceftriaxone is **CONTRAINDICATED** in patients with history of allergy or anaphylaxis to penicillins or cephalosporins.\n10. Notify receiving hospital if patients received antibiotics.\n    a. If patient **DID** receive antibiotics, notify hospital **WHEN** antibiotics were initiated.\n    b. If patient **DID NOT** receive antibiotics, notify hospital **WHY** antibiotics were withheld.\n\n> **Pearls for Open Fractures**\n> * Examples of Penicillins include: penicillin, amoxicillin, augmentin, piperacillin (Zosyn), ampicillin (Unasyn)\n> * Examples of Cephalosporins include: cefazolin (Ancef), Cefdinir, cefuroxime (Ceftin or Zinacef), cefadroxil (Duricef), cephalexin (Keflex). cefepime (Maxipime), ceftriaxone (Rocephin)\n> * Contact OLMC for questions regarding the patient's allergies\n",
+  "plain_text": "Open Fractures Definition of Open Fracture: Suspected fracture with associated extensive tissue damage, wound, and/or visible bone; including partial or completed amputations. EMT Assess for other life-threatening injuries and manage as indicated. In patients who are otherwise stable, gross contamination (such as leaves or gravel) should be removed if possible. Cover open fractures with moist, sterile dressing. Splint the fractured extremity in the anatomic position, if possible, or the position of comfort if not able to splint in the anatomic position. Consider pain control. Refer to Universal Pain Management protocol, Green 18. Request ALS, if available, for additional pain control and consideration of antibiotics. ADVANCED EMT Establish an IV. Request ALS, if available, for additional pain control and consideration of antibiotics. PARAMEDIC Ceftriaxone, per dosing recommendations listed below: For patients 12 years and older: Ceftriaxone 2 grams IV in 50 -100 ml of NS or D5W over at least 10 minutes. For patients less than 12 years old: Ceftriaxone 75 mg/kg IV (max dose 2 grams) in 50 -100 ml of NS or D5W over 10 minutes. NOTE: ceftriaxone is CONTRAINDICATED in patients with history of allergy or anaphylaxis to penicillins or cephalosporins. Notify receiving hospital if patients received antibiotics. If patient DID receive antibiotics, notify hospital WHEN antibiotics were initiated. If patient DID NOT receive antibiotics, notify hospital WHY antibiotics were withheld. Pearls for Open Fractures Examples of Penicillins include: penicillin, amoxicillin, augmentin, piperacillin (Zosyn), ampicillin (Unasyn) Examples of Cephalosporins include: cefazolin (Ancef), Cefdinir, cefuroxime (Ceftin or Zinacef), cefadroxil (Duricef), cephalexin (Keflex). cefepime (Maxipime), ceftriaxone (Rocephin) Contact OLMC for questions regarding the patient's allergies",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        409.19,
+        33.89,
+        651.12,
+        59.14
+      ],
+      "text": "Open Fr actur es",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        81.57,
+        930.48,
+        96.71
+      ],
+      "text": "Definition of Open Fr actur e: Suspected fracture with associated extensive tissue",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        99.18,
+        929.64,
+        114.33
+      ],
+      "text": "damage, wound, and/or visible bone; including partial or completed amputations.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        134.46,
+        212.56,
+        149.61
+      ],
+      "text": "EMT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        152.14,
+        809.23,
+        167.28
+      ],
+      "text": "1. Assess for other life-threatening injuries and manage as indicated.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        169.75,
+        896.52,
+        184.9
+      ],
+      "text": "2. In patients who are otherwise stable, gross contamination (such as leaves or",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        195.59,
+        187.42,
+        549.45,
+        202.57
+      ],
+      "text": "gravel) should be removed if possible.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        108.09,
+        195.73,
+        127.71,
+        218.45
+      ],
+      "text": "E",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        205.03,
+        648.33,
+        220.18
+      ],
+      "text": "3. Cover open fractures with moist, sterile dressing.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        222.65,
+        871.42,
+        237.79
+      ],
+      "text": "4. Splint the fractured extremity in the anatomic position, if possible, or the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        195.59,
+        240.32,
+        790.61,
+        255.46
+      ],
+      "text": "position of comfort if not able to splint in the anatomic position.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        257.93,
+        928.98,
+        273.08
+      ],
+      "text": "5. Consider pain control. Refer to Universal Pain Management protocol, Gr een 18 .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        275.6,
+        871.72,
+        290.75
+      ],
+      "text": "6. Request ALS, if available, for additional pain control and consideration of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        195.59,
+        293.21,
+        298.99,
+        308.36
+      ],
+      "text": "antibiotics.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        328.5,
+        330.5,
+        343.65
+      ],
+      "text": "ADVANCED EMT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        346.11,
+        334.04,
+        361.26
+      ],
+      "text": "7. Establish an IV.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        106.84,
+        352.03,
+        126.46,
+        374.76
+      ],
+      "text": "A",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        363.78,
+        871.72,
+        378.93
+      ],
+      "text": "8. Request ALS, if available, for additional pain control and consideration of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        195.59,
+        381.4,
+        298.99,
+        396.54
+      ],
+      "text": "antibiotics.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        416.68,
+        292.34,
+        431.83
+      ],
+      "text": "PARAMEDIC",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        434.29,
+        705.01,
+        449.44
+      ],
+      "text": "9. Ceftriaxone, per dosing recommendations listed below:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        195.59,
+        451.96,
+        876.13,
+        467.11
+      ],
+      "text": "a. For patients 12 years and older: Ceftriaxone 2 grams IV in 50 -100 ml of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        222.06,
+        469.58,
+        556.08,
+        484.73
+      ],
+      "text": "NS or D5W over at least 10 minutes.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        195.59,
+        487.25,
+        539.14,
+        502.4
+      ],
+      "text": "b. For patients less than 12 years old:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        222.06,
+        504.86,
+        832.55,
+        520.01
+      ],
+      "text": "Ceftriaxone 75 mg/kg IV (max dose 2 grams) in 50 -100 ml of NS or",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        232.21,
+        522.48,
+        438.58,
+        537.62
+      ],
+      "text": "D5W over 10 minutes.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        195.59,
+        540.15,
+        845.25,
+        555.29
+      ],
+      "text": "c. NOTE : ceftriaxone is CONTRAINDICATED in patients with history of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        108.38,
+        547.26,
+        128.0,
+        569.99
+      ],
+      "text": "P",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        222.06,
+        557.31,
+        734.15,
+        572.45
+      ],
+      "text": "allergy or anaphylaxis to penicillins or cephalosporins.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        169.12,
+        574.92,
+        722.44,
+        590.07
+      ],
+      "text": "10. Notify receiving hospital if patients received antibiotics.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        195.59,
+        592.53,
+        887.77,
+        607.68
+      ],
+      "text": "a. If patient DID receive antibiotics, notify hospital WHEN antibiotics were",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        222.06,
+        610.71,
+        305.95,
+        625.86
+      ],
+      "text": "initiated.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        195.59,
+        628.33,
+        920.13,
+        643.48
+      ],
+      "text": "b. If patient DID NOT receive antibiotics, notify hospital WHY antibiotics were",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        222.06,
+        645.94,
+        311.06,
+        661.09
+      ],
+      "text": "withheld.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        91.91,
+        764.12,
+        348.29,
+        779.27
+      ],
+      "text": "Pear ls for Open Fr actur es",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        107.94,
+        799.35,
+        862.96,
+        814.5
+      ],
+      "text": "- Examples of Penicillins include: penicillin, amoxicillin, augmentin, piperacillin",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        131.1,
+        816.96,
+        392.94,
+        832.11
+      ],
+      "text": "(Zosyn), ampicillin (Unasyn)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        107.94,
+        834.58,
+        928.87,
+        849.73
+      ],
+      "text": "- Examples of Cephalosporins include: cefazolin (Ancef ), Cefdinir, cefuroxime (Ceftin or",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        131.1,
+        852.19,
+        917.66,
+        867.34
+      ],
+      "text": "Zinacef ), cefadroxil (Duricef ), cephalexin (Keflex). cefepime (Maxipime), ceftriaxone",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        131.1,
+        869.81,
+        231.73,
+        884.95
+      ],
+      "text": "(Rocephin)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0041",
+      "type": "text_line",
+      "box_1000": [
+        107.94,
+        887.42,
+        692.05,
+        902.57
+      ],
+      "text": "- Contact OLMC for questions regarding the patient's allergies",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0042",
+      "type": "text_line",
+      "box_1000": [
+        439.93,
+        936.28,
+        932.88,
+        953.7
+      ],
+      "text": "(Back to TOC) Green 26",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "c1921fe79b39d92601e50a2f04332b2585a8297117f6b183c86a6c4915cba7eb",
+    "native": {
+      "text": "Open Fr actur es\nDefinition of Open Fr actur e: Suspected fracture with associated extensive tissue\ndamage, wound, and/or visible bone; including partial or completed amputations.\nEMT\n1. Assess for other life-threatening injuries and manage as indicated.\n2. In patients who are otherwise stable, gross contamination (such as leaves or\ngravel) should be removed if possible.\nE\n3. Cover open fractures with moist, sterile dressing.\n4. Splint the fractured extremity in the anatomic position, if possible, or the\nposition of comfort if not able to splint in the anatomic position.\n5. Consider pain control. Refer to Universal Pain Management protocol, Gr een 18.\n6. Request ALS, if available, for additional pain control and consideration of\nantibiotics.\nADVANCED EMT\n7. Establish an IV.\nA\n8. Request ALS, if available, for additional pain control and consideration of\nantibiotics.\nPARAMEDIC\n9. Ceftriaxone, per dosing recommendations listed below:\na. For patients 12 years and older: Ceftriaxone 2 grams IV in 50 -100 ml of\nNS or D5W over at least 10 minutes.\nb. For patients less than 12 years old:\nCeftriaxone 75 mg/kg IV (max dose 2 grams) in 50 -100 ml of NS or\nD5W over 10 minutes.\nc. NOTE: ceftriaxone is CONTRAINDICATED in patients with history of\nP\nallergy or anaphylaxis to penicillins or cephalosporins.\n10. Notify receiving hospital if patients received antibiotics.\na. If patient DID receive antibiotics, notify hospital WHEN antibiotics were\ninitiated.\nb. If patient DID NOT receive antibiotics, notify hospital WHY antibiotics were\nwithheld.\nPear ls for Open Fr actur es\n- Examples of Penicillins include: penicillin, amoxicillin, augmentin, piperacillin\n(Zosyn), ampicillin (Unasyn)\n- Examples of Cephalosporins include: cefazolin (Ancef ), Cefdinir, cefuroxime (Ceftin or\nZinacef ), cefadroxil (Duricef ), cephalexin (Keflex). cefepime (Maxipime), ceftriaxone\n(Rocephin)\n- Contact OLMC for questions regarding the patient's allergies\n(Back to TOC) Green 26",
+      "body_text": "(Back to TOC) Green 26 damage, wound, and/or visible bone; including partial or completed amputations. EMT 1. Assess for other life-threatening injuries and manage as indicated. 2. In patients who are otherwise stable, gross contamination (such as leaves or gravel) should be removed if possible. 3. Cover open fractures with moist, sterile dressing. 4. Splint the fractured extremity in the anatomic position, if possible, or the position of comfort if not able to splint in the anatomic position. 5. Consider pain control. Refer to Universal Pain Management protocol, Gr een 18 . 6. Request ALS, if available, for additional pain control and consideration of antibiotics. ADVANCED EMT 7. Establish an IV. 8. Request ALS, if available, for additional pain control and consideration of antibiotics. PARAMEDIC 9. Ceftriaxone, per dosing recommendations listed below: a. For patients 12 years and older: Ceftriaxone 2 grams IV in 50 -100 ml of NS or D5W over at least 10 minutes. b. For patients less than 12 years old: Ceftriaxone 75 mg/kg IV (max dose 2 grams) in 50 -100 ml of NS or D5W over 10 minutes. c. NOTE : ceftriaxone is CONTRAINDICATED in patients with history of allergy or anaphylaxis to penicillins or cephalosporins. 10. Notify receiving hospital if patients received antibiotics. a. If patient DID receive antibiotics, notify hospital WHEN antibiotics were initiated. b. If patient DID NOT receive antibiotics, notify hospital WHY antibiotics were withheld. P E A Pear ls for Open Fr actur es - Examples of Penicillins include: penicillin, amoxicillin, augmentin, piperacillin (Zosyn), ampicillin (Unasyn) - Examples of Cephalosporins include: cefazolin (Ancef ), Cefdinir, cefuroxime (Ceftin or Zinacef ), cefadroxil (Duricef ), cephalexin (Keflex). cefepime (Maxipime), ceftriaxone (Rocephin) - Contact OLMC for questions regarding the patient's allergies",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            269.235,
+            743.336,
+            299.889,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            304.02,
+            743.336,
+            314.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            318.06,
+            743.336,
+            345.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Green",
+          "box": [
+            519.75,
+            741.536,
+            553.479,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "26",
+          "box": [
+            557.55,
+            741.536,
+            570.925,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Definition",
+          "box": [
+            103.5,
+            64.601,
+            163.988,
+            76.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            168.435,
+            64.601,
+            179.006,
+            76.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Open",
+          "box": [
+            183.69,
+            64.601,
+            214.39,
+            76.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Fr",
+          "box": [
+            218.835,
+            64.601,
+            230.282,
+            76.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "actur",
+          "box": [
+            232.56,
+            64.601,
+            262.916,
+            76.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "e:",
+          "box": [
+            265.194,
+            64.601,
+            275.378,
+            76.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Suspected",
+          "box": [
+            278.82,
+            64.601,
+            335.142,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fracture",
+          "box": [
+            338.985,
+            64.601,
+            385.886,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            388.755,
+            64.601,
+            413.829,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "associated",
+          "box": [
+            417.87,
+            64.601,
+            475.955,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "extensive",
+          "box": [
+            479.7,
+            64.601,
+            533.837,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tissue",
+          "box": [
+            536.4,
+            64.601,
+            569.456,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "damage,",
+          "box": [
+            103.5,
+            78.551,
+            151.799,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "wound,",
+          "box": [
+            154.575,
+            78.551,
+            197.776,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and/or",
+          "box": [
+            200.565,
+            78.551,
+            236.799,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "visible",
+          "box": [
+            241.56,
+            78.551,
+            279.35,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bone;",
+          "box": [
+            282.24,
+            78.551,
+            314.024,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "including",
+          "box": [
+            316.8,
+            78.551,
+            371.226,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "partial",
+          "box": [
+            374.13,
+            78.551,
+            411.379,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            415.575,
+            78.551,
+            426.495,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "completed",
+          "box": [
+            431.28,
+            78.551,
+            490.031,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "amputations.",
+          "box": [
+            493.65,
+            78.551,
+            568.937,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EMT",
+          "box": [
+            103.5,
+            106.496,
+            130.086,
+            118.493
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1.",
+          "box": [
+            103.5,
+            120.491,
+            113.54,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Assess",
+          "box": [
+            116.73,
+            120.491,
+            153.851,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            156.375,
+            120.491,
+            171.608,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "other",
+          "box": [
+            176.4,
+            120.491,
+            205.581,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "life-threatening",
+          "box": [
+            210.375,
+            120.491,
+            299.809,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "injuries",
+          "box": [
+            302.715,
+            120.491,
+            347.414,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            349.965,
+            120.491,
+            371.13,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "manage",
+          "box": [
+            374.94,
+            120.491,
+            420.531,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            423.405,
+            120.491,
+            436.158,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "indicated.",
+          "box": [
+            438.705,
+            120.491,
+            495.25,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2.",
+          "box": [
+            103.5,
+            134.441,
+            113.54,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "In",
+          "box": [
+            116.73,
+            134.441,
+            127.806,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            131.985,
+            134.441,
+            178.314,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "who",
+          "box": [
+            180.855,
+            134.441,
+            205.363,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            208.755,
+            134.441,
+            227.832,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "otherwise",
+          "box": [
+            230.715,
+            134.441,
+            287.932,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "stable,",
+          "box": [
+            290.79,
+            134.441,
+            328.022,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "gross",
+          "box": [
+            330.795,
+            134.441,
+            361.12,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "contamination",
+          "box": [
+            363.69,
+            134.441,
+            446.33,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(such",
+          "box": [
+            450.45,
+            134.441,
+            480.089,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            484.2,
+            134.441,
+            496.953,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "leaves",
+          "box": [
+            499.5,
+            134.441,
+            535.288,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            537.75,
+            134.441,
+            548.67,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "gravel)",
+          "box": [
+            119.7,
+            148.436,
+            159.168,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "should",
+          "box": [
+            162.45,
+            148.436,
+            200.408,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            204.21,
+            148.436,
+            218.242,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "removed",
+          "box": [
+            221.13,
+            148.436,
+            271.27,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            275.085,
+            148.436,
+            282.258,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "possible.",
+          "box": [
+            286.47,
+            148.436,
+            336.261,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3.",
+          "box": [
+            103.5,
+            162.386,
+            113.54,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Cover",
+          "box": [
+            116.73,
+            162.386,
+            147.909,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "open",
+          "box": [
+            152.685,
+            162.386,
+            180.064,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fractures",
+          "box": [
+            184.275,
+            162.386,
+            236.925,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            239.445,
+            162.386,
+            264.518,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "moist,",
+          "box": [
+            268.605,
+            162.386,
+            303.677,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "sterile",
+          "box": [
+            306.45,
+            162.386,
+            342.273,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dressing.",
+          "box": [
+            345.15,
+            162.386,
+            396.778,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4.",
+          "box": [
+            103.5,
+            176.336,
+            113.54,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Splint",
+          "box": [
+            116.73,
+            176.336,
+            149.133,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            153.135,
+            176.336,
+            171.644,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fractured",
+          "box": [
+            174.555,
+            176.336,
+            227.877,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "extremity",
+          "box": [
+            231.66,
+            176.336,
+            286.71,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            290.655,
+            176.336,
+            301.163,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            305.325,
+            176.336,
+            323.834,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "anatomic",
+          "box": [
+            326.7,
+            176.336,
+            379.913,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "position,",
+          "box": [
+            382.95,
+            176.336,
+            432.551,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            435.33,
+            176.336,
+            442.503,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "possible,",
+          "box": [
+            446.715,
+            176.336,
+            496.506,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            499.05,
+            176.336,
+            509.97,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            514.8,
+            176.336,
+            533.309,
+            188.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "position",
+          "box": [
+            119.7,
+            190.331,
+            164.897,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            169.065,
+            190.331,
+            179.209,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "comfort",
+          "box": [
+            183.42,
+            190.331,
+            227.81,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            231.84,
+            190.331,
+            239.013,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            243.225,
+            190.331,
+            261.226,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "able",
+          "box": [
+            265.23,
+            190.331,
+            289.737,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            292.59,
+            190.331,
+            303.245,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "splint",
+          "box": [
+            306.63,
+            190.331,
+            337.922,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            341.955,
+            190.331,
+            352.463,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            356.625,
+            190.331,
+            375.134,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "anatomic",
+          "box": [
+            378.0,
+            190.331,
+            431.213,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "position.",
+          "box": [
+            434.25,
+            190.331,
+            483.851,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5.",
+          "box": [
+            103.5,
+            204.281,
+            113.54,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Consider",
+          "box": [
+            116.73,
+            204.281,
+            165.549,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pain",
+          "box": [
+            170.325,
+            204.281,
+            194.949,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "control.",
+          "box": [
+            199.17,
+            204.281,
+            243.363,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Refer",
+          "box": [
+            246.555,
+            204.281,
+            275.333,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            280.125,
+            204.281,
+            290.78,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Universal",
+          "box": [
+            294.165,
+            204.281,
+            347.721,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pain",
+          "box": [
+            351.9,
+            204.281,
+            376.169,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Management",
+          "box": [
+            380.34,
+            204.281,
+            454.316,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            458.1,
+            204.281,
+            508.718,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            511.65,
+            204.281,
+            524.87,
+            216.278
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            527.148,
+            204.281,
+            547.516,
+            216.278
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "18",
+          "box": [
+            551.7,
+            204.281,
+            565.075,
+            216.278
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            565.2,
+            204.281,
+            568.535,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6.",
+          "box": [
+            103.5,
+            218.276,
+            113.54,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Request",
+          "box": [
+            116.73,
+            218.276,
+            160.925,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ALS,",
+          "box": [
+            164.97,
+            218.276,
+            190.765,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            193.41,
+            218.276,
+            200.583,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available,",
+          "box": [
+            204.795,
+            218.276,
+            259.675,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            262.485,
+            218.276,
+            277.718,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "additional",
+          "box": [
+            282.465,
+            218.276,
+            339.927,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pain",
+          "box": [
+            344.115,
+            218.276,
+            368.739,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "control",
+          "box": [
+            372.96,
+            218.276,
+            412.761,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            416.925,
+            218.276,
+            438.09,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consideration",
+          "box": [
+            441.9,
+            218.276,
+            519.452,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            523.35,
+            218.276,
+            533.494,
+            230.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "antibiotics.",
+          "box": [
+            119.7,
+            232.226,
+            182.98,
+            244.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ADVANCED",
+          "box": [
+            103.5,
+            260.171,
+            172.025,
+            272.168
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT",
+          "box": [
+            175.68,
+            260.171,
+            202.266,
+            272.168
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "7.",
+          "box": [
+            103.5,
+            274.121,
+            113.54,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Establish",
+          "box": [
+            116.73,
+            274.121,
+            167.601,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "an",
+          "box": [
+            171.675,
+            274.121,
+            185.1,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV.",
+          "box": [
+            189.315,
+            274.121,
+            204.432,
+            286.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "8.",
+          "box": [
+            103.5,
+            288.116,
+            113.54,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Request",
+          "box": [
+            116.73,
+            288.116,
+            160.925,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ALS,",
+          "box": [
+            164.97,
+            288.116,
+            190.765,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            193.41,
+            288.116,
+            200.583,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available,",
+          "box": [
+            204.795,
+            288.116,
+            259.675,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            262.485,
+            288.116,
+            277.718,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "additional",
+          "box": [
+            282.465,
+            288.116,
+            339.927,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pain",
+          "box": [
+            344.115,
+            288.116,
+            368.739,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "control",
+          "box": [
+            372.96,
+            288.116,
+            412.761,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            416.925,
+            288.116,
+            438.09,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consideration",
+          "box": [
+            441.9,
+            288.116,
+            519.452,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            523.35,
+            288.116,
+            533.494,
+            300.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "antibiotics.",
+          "box": [
+            119.7,
+            302.066,
+            182.98,
+            314.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PARAMEDIC",
+          "box": [
+            103.5,
+            330.011,
+            178.915,
+            342.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "9.",
+          "box": [
+            103.5,
+            343.961,
+            113.54,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Ceftriaxone,",
+          "box": [
+            116.73,
+            343.961,
+            186.291,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "per",
+          "box": [
+            189.09,
+            343.961,
+            206.869,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dosing",
+          "box": [
+            211.635,
+            343.961,
+            249.584,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "recommendations",
+          "box": [
+            252.495,
+            343.961,
+            356.956,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "listed",
+          "box": [
+            359.505,
+            343.961,
+            389.676,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "below:",
+          "box": [
+            393.48,
+            343.961,
+            431.469,
+            355.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            119.7,
+            357.956,
+            129.79,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "For",
+          "box": [
+            132.975,
+            357.956,
+            150.492,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            155.295,
+            357.956,
+            201.624,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12",
+          "box": [
+            204.165,
+            357.956,
+            217.54,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "years",
+          "box": [
+            220.68,
+            357.956,
+            252.167,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            254.7,
+            357.956,
+            275.865,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "older:",
+          "box": [
+            279.675,
+            357.956,
+            313.092,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Ceftriaxone",
+          "box": [
+            316.35,
+            357.956,
+            382.825,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            385.695,
+            357.956,
+            392.365,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "grams",
+          "box": [
+            395.505,
+            357.956,
+            431.698,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            434.25,
+            357.956,
+            446.658,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            449.865,
+            357.956,
+            460.373,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "50",
+          "box": [
+            464.4,
+            357.956,
+            477.775,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-100",
+          "box": [
+            481.05,
+            357.956,
+            504.851,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ml",
+          "box": [
+            508.05,
+            357.956,
+            522.049,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            526.05,
+            357.956,
+            536.194,
+            369.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NS",
+          "box": [
+            135.9,
+            371.906,
+            153.06,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            154.665,
+            371.906,
+            165.585,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "D5W",
+          "box": [
+            170.37,
+            371.906,
+            197.121,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "over",
+          "box": [
+            201.51,
+            371.906,
+            225.566,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            230.31,
+            371.906,
+            240.283,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "least",
+          "box": [
+            244.305,
+            371.906,
+            269.95,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10",
+          "box": [
+            273.96,
+            371.906,
+            287.335,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes.",
+          "box": [
+            290.52,
+            371.906,
+            340.324,
+            383.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b.",
+          "box": [
+            119.7,
+            385.901,
+            130.159,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "For",
+          "box": [
+            133.38,
+            385.901,
+            150.898,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            155.655,
+            385.901,
+            201.984,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "less",
+          "box": [
+            204.525,
+            385.901,
+            226.079,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            228.6,
+            385.901,
+            253.863,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12",
+          "box": [
+            258.075,
+            385.901,
+            271.45,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "years",
+          "box": [
+            274.59,
+            385.901,
+            306.076,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "old:",
+          "box": [
+            308.61,
+            385.901,
+            329.953,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Ceftriaxone",
+          "box": [
+            135.9,
+            399.851,
+            202.375,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "75",
+          "box": [
+            205.245,
+            399.851,
+            218.62,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg/kg",
+          "box": [
+            221.76,
+            399.851,
+            256.574,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            259.515,
+            399.851,
+            271.923,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(max",
+          "box": [
+            275.13,
+            399.851,
+            303.372,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dose",
+          "box": [
+            307.44,
+            399.851,
+            333.811,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            336.645,
+            399.851,
+            343.315,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "grams)",
+          "box": [
+            346.5,
+            399.851,
+            386.103,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            389.385,
+            399.851,
+            399.893,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "50",
+          "box": [
+            404.055,
+            399.851,
+            417.43,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-100",
+          "box": [
+            420.615,
+            399.851,
+            444.416,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ml",
+          "box": [
+            447.57,
+            399.851,
+            461.569,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            465.75,
+            399.851,
+            475.894,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NS",
+          "box": [
+            479.7,
+            399.851,
+            496.859,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            498.6,
+            399.851,
+            509.52,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "D5W",
+          "box": [
+            142.11,
+            413.801,
+            168.861,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "over",
+          "box": [
+            173.25,
+            413.801,
+            197.306,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10",
+          "box": [
+            202.05,
+            413.801,
+            215.425,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes.",
+          "box": [
+            218.61,
+            413.801,
+            268.414,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "c.",
+          "box": [
+            119.7,
+            427.796,
+            128.939,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NOTE",
+          "box": [
+            132.12,
+            427.796,
+            166.847,
+            439.793
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ":",
+          "box": [
+            166.725,
+            427.796,
+            170.06,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ceftriaxone",
+          "box": [
+            173.25,
+            427.796,
+            238.505,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            241.425,
+            427.796,
+            251.261,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "CONTRAINDICATED",
+          "box": [
+            253.755,
+            427.796,
+            367.785,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            370.98,
+            427.796,
+            381.488,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            385.695,
+            427.796,
+            432.024,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            434.565,
+            427.796,
+            459.639,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "history",
+          "box": [
+            463.5,
+            427.796,
+            503.042,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            507.15,
+            427.796,
+            517.294,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "allergy",
+          "box": [
+            135.9,
+            441.386,
+            174.504,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            178.38,
+            441.386,
+            189.301,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "anaphylaxis",
+          "box": [
+            194.085,
+            441.386,
+            263.977,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            266.535,
+            441.386,
+            277.19,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "penicillins",
+          "box": [
+            280.575,
+            441.386,
+            340.695,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            343.215,
+            441.386,
+            354.136,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cephalosporins.",
+          "box": [
+            358.92,
+            441.386,
+            449.301,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10.",
+          "box": [
+            103.5,
+            455.336,
+            120.245,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Notify",
+          "box": [
+            123.435,
+            455.336,
+            157.891,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "receiving",
+          "box": [
+            161.82,
+            455.336,
+            215.012,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital",
+          "box": [
+            217.89,
+            455.336,
+            262.685,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            266.895,
+            455.336,
+            274.068,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            278.28,
+            455.336,
+            324.609,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "received",
+          "box": [
+            327.15,
+            455.336,
+            375.069,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "antibiotics.",
+          "box": [
+            378.855,
+            455.336,
+            442.135,
+            467.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            119.7,
+            469.286,
+            129.79,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            132.975,
+            469.286,
+            140.716,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            144.945,
+            469.286,
+            184.386,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "DID",
+          "box": [
+            188.415,
+            469.286,
+            210.204,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "receive",
+          "box": [
+            213.39,
+            469.286,
+            254.888,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "antibiotics,",
+          "box": [
+            257.76,
+            469.286,
+            321.04,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "notify",
+          "box": [
+            323.82,
+            469.286,
+            356.976,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital",
+          "box": [
+            360.855,
+            469.286,
+            405.65,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "WHEN",
+          "box": [
+            409.86,
+            469.286,
+            448.069,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "antibiotics",
+          "box": [
+            451.35,
+            469.286,
+            511.879,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "were",
+          "box": [
+            514.35,
+            469.286,
+            543.318,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "initiated.",
+          "box": [
+            135.9,
+            483.686,
+            187.241,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b.",
+          "box": [
+            119.7,
+            497.636,
+            130.159,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            133.38,
+            497.636,
+            141.121,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            145.305,
+            497.636,
+            184.746,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "DID",
+          "box": [
+            188.775,
+            497.636,
+            210.564,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NOT",
+          "box": [
+            213.75,
+            497.636,
+            239.143,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "receive",
+          "box": [
+            242.28,
+            497.636,
+            283.778,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "antibiotics,",
+          "box": [
+            286.65,
+            497.636,
+            349.93,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "notify",
+          "box": [
+            352.71,
+            497.636,
+            385.866,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital",
+          "box": [
+            389.79,
+            497.636,
+            434.585,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "WHY",
+          "box": [
+            438.75,
+            497.636,
+            468.824,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "antibiotics",
+          "box": [
+            471.15,
+            497.636,
+            531.679,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "were",
+          "box": [
+            534.15,
+            497.636,
+            563.118,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "withheld.",
+          "box": [
+            135.9,
+            511.586,
+            190.37,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "P",
+          "box": [
+            66.33,
+            433.431,
+            78.336,
+            451.431
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "Open",
+          "box": [
+            250.425,
+            26.838,
+            299.357,
+            46.836
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Fr",
+          "box": [
+            306.315,
+            26.838,
+            324.769,
+            46.836
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "actur",
+          "box": [
+            327.533,
+            26.838,
+            375.025,
+            46.836
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "es",
+          "box": [
+            377.788,
+            26.838,
+            398.488,
+            46.836
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "E",
+          "box": [
+            66.15,
+            155.016,
+            78.156,
+            173.016
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "A",
+          "box": [
+            65.385,
+            278.811,
+            77.391,
+            296.811
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "Pear",
+          "box": [
+            56.25,
+            605.186,
+            81.935,
+            617.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ls",
+          "box": [
+            84.096,
+            605.186,
+            94.319,
+            617.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            97.29,
+            605.186,
+            113.403,
+            617.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Open",
+          "box": [
+            118.8,
+            605.186,
+            149.5,
+            617.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Fr",
+          "box": [
+            153.945,
+            605.186,
+            165.392,
+            617.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "actur",
+          "box": [
+            167.67,
+            605.186,
+            198.026,
+            617.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "es",
+          "box": [
+            200.304,
+            605.186,
+            213.151,
+            617.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            66.06,
+            633.086,
+            70.055,
+            645.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Examples",
+          "box": [
+            80.235,
+            633.086,
+            135.751,
+            645.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            138.285,
+            633.086,
+            148.429,
+            645.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Penicillins",
+          "box": [
+            152.64,
+            633.086,
+            212.643,
+            645.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "include:",
+          "box": [
+            215.19,
+            633.086,
+            261.125,
+            645.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "penicillin,",
+          "box": [
+            264.375,
+            633.086,
+            321.832,
+            645.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "amoxicillin,",
+          "box": [
+            324.585,
+            633.086,
+            392.225,
+            645.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "augmentin,",
+          "box": [
+            395.055,
+            633.086,
+            460.277,
+            645.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "piperacillin",
+          "box": [
+            463.05,
+            633.086,
+            528.13,
+            645.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(Zosyn),",
+          "box": [
+            80.235,
+            647.036,
+            125.718,
+            659.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ampicillin",
+          "box": [
+            128.475,
+            647.036,
+            185.338,
+            659.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(Unasyn)",
+          "box": [
+            189.54,
+            647.036,
+            240.479,
+            659.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            66.06,
+            660.986,
+            70.055,
+            672.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Examples",
+          "box": [
+            80.235,
+            660.986,
+            135.751,
+            672.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            138.285,
+            660.986,
+            148.429,
+            672.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Cephalosporins",
+          "box": [
+            152.64,
+            660.986,
+            241.491,
+            672.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "include:",
+          "box": [
+            244.035,
+            660.986,
+            289.97,
+            672.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cefazolin",
+          "box": [
+            293.22,
+            660.986,
+            344.017,
+            672.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(Ancef",
+          "box": [
+            348.21,
+            660.986,
+            384.225,
+            672.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "),",
+          "box": [
+            386.276,
+            660.986,
+            393.765,
+            672.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Cefdinir,",
+          "box": [
+            396.54,
+            660.986,
+            446.162,
+            672.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cefuroxime",
+          "box": [
+            448.38,
+            660.986,
+            513.744,
+            672.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(Ceftin",
+          "box": [
+            516.6,
+            660.986,
+            553.461,
+            672.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            557.55,
+            660.986,
+            568.47,
+            672.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Zinacef",
+          "box": [
+            80.235,
+            674.936,
+            121.329,
+            686.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "),",
+          "box": [
+            123.38,
+            674.936,
+            130.869,
+            686.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cefadroxil",
+          "box": [
+            133.65,
+            674.936,
+            190.174,
+            686.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(Duricef",
+          "box": [
+            194.355,
+            674.936,
+            239.994,
+            686.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "),",
+          "box": [
+            242.046,
+            674.936,
+            249.535,
+            686.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cephalexin",
+          "box": [
+            252.36,
+            674.936,
+            314.001,
+            686.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(Keflex).",
+          "box": [
+            318.195,
+            674.936,
+            365.924,
+            686.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cefepime",
+          "box": [
+            369.135,
+            674.936,
+            421.4,
+            686.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(Maxipime),",
+          "box": [
+            424.305,
+            674.936,
+            493.686,
+            686.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ceftriaxone",
+          "box": [
+            496.35,
+            674.936,
+            561.605,
+            686.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(Rocephin)",
+          "box": [
+            80.235,
+            688.886,
+            141.816,
+            700.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            66.06,
+            702.836,
+            70.055,
+            714.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Contact",
+          "box": [
+            80.235,
+            702.836,
+            122.125,
+            714.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "OLMC",
+          "box": [
+            126.135,
+            702.836,
+            162.431,
+            714.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            164.25,
+            702.836,
+            179.483,
+            714.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "questions",
+          "box": [
+            184.275,
+            702.836,
+            239.812,
+            714.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "regarding",
+          "box": [
+            242.325,
+            702.836,
+            298.868,
+            714.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            301.815,
+            702.836,
+            320.324,
+            714.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient's",
+          "box": [
+            323.19,
+            702.836,
+            372.162,
+            714.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "allergies",
+          "box": [
+            374.67,
+            702.836,
+            423.533,
+            714.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0120.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 98.88,
+    "output_to_native_length_ratio": 0.978,
+    "native_dosage_tokens": [
+      "100ml",
+      "2grams",
+      "75mg/kg"
+    ],
+    "output_dosage_tokens": [
+      "100ml",
+      "2grams",
+      "75mg/kg"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

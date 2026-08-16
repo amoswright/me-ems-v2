@@ -1,0 +1,2537 @@
+{
+  "id": "page-0159",
+  "pdf_page": 159,
+  "protocol_label": "Grey 2",
+  "kind": "protocol",
+  "chapter_id": "grey",
+  "topic_id": "grey-minimum-landing-zone",
+  "title": "Minimum Landing Zone",
+  "markdown": "# Minimum Landing Zone\n\n![Visual reference from Minimum Landing Zone](../../assets/figures/page-0159-visual.webp)\n\n### Terrain:\n- Flat, firm, free of debris\n- Consider dust and snow\n- Free of vehicles and people\n- Any markers must be able to withstand 60 mph winds\n- Approach path only from down slope of aircraft\n\n### Vertical Obstructions:\n- Mark towers, antennas, poles, tall trees with vehicle\n- Ideal = clear approach and departure angle 8:1 (200' to 25' vertical obstruction)\n\n### Wires:\n- Electrical and utility wires are greatest single hazard to helicopters\n- Search LZ area for wires\n- Mark all wires, high-tension lines, guide wires with vehicles\n- Notify pilot of all wires in proximity to landing zone\n\n### Lighting:\n- Never shine light directly at aircraft\n- All emergency lights on until aircraft overhead\n- Shut down vehicle strobes and white lights when aircraft on approach\n- Keep working lights on minimum\n\n### Aircraft Departure\n- Keep LZ clear for at least 5 minutes after helicopter departure\n- In case of emergency the helicopter may have to return to LZ\n- Keep communications open with pilot\n\n**REMEMBER - EVERYONE IS RESPONSIBLE FOR SAFETY**\n",
+  "plain_text": "Minimum Landing Zone Terrain: Flat, firm, free of debris Consider dust and snow Free of vehicles and people Any markers must be able to withstand 60 mph winds Approach path only from down slope of aircraft Vertical Obstructions: Mark towers, antennas, poles, tall trees with vehicle Ideal = clear approach and departure angle 8:1 (200' to 25' vertical obstruction) Wires: Electrical and utility wires are greatest single hazard to helicopters Search LZ area for wires Mark all wires, high-tension lines, guide wires with vehicles Notify pilot of all wires in proximity to landing zone Lighting: Never shine light directly at aircraft All emergency lights on until aircraft overhead Shut down vehicle strobes and white lights when aircraft on approach Keep working lights on minimum Aircraft Departure Keep LZ clear for at least 5 minutes after helicopter departure In case of emergency the helicopter may have to return to LZ Keep communications open with pilot REMEMBER - EVERYONE IS RESPONSIBLE FOR SAFETY",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        219.19,
+        45.49,
+        795.26,
+        70.74
+      ],
+      "text": "M inim um Landing Zone (LZ) Ar ea #2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        118.5,
+        720.76,
+        133.65
+      ],
+      "text": "Ter r ain: Ver tical Obstr uctions:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        90.88,
+        136.11,
+        907.22,
+        151.26
+      ],
+      "text": "- Flat, firm, free of debris - Mark towers, antennas, poles, tall trees",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        90.88,
+        153.78,
+        657.43,
+        168.93
+      ],
+      "text": "- Consider dust and snow with vehicle",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        90.88,
+        171.4,
+        890.63,
+        186.54
+      ],
+      "text": "- Free of vehicles and people - Ideal = clear approach and departure",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        90.88,
+        189.07,
+        803.88,
+        204.21
+      ],
+      "text": "- Any markers must be able to withstand angle 8:1 (200' to 25' vertical",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        116.4,
+        206.68,
+        656.95,
+        221.83
+      ],
+      "text": "60 mph winds obstruction)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        90.88,
+        224.35,
+        485.33,
+        239.5
+      ],
+      "text": "- Approach path only from down slope of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        116.4,
+        241.96,
+        185.55,
+        257.11
+      ],
+      "text": "aircraft",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        300.32,
+        591.78,
+        315.46
+      ],
+      "text": "Wir es: Lighting:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        90.88,
+        317.93,
+        875.03,
+        333.08
+      ],
+      "text": "- Electrical and utility wires are greatest - Never shine light directly at aircraft",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        116.4,
+        335.6,
+        885.33,
+        350.75
+      ],
+      "text": "single hazard to helicopters - All emergency lights on until aircraft",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        90.88,
+        353.21,
+        629.75,
+        368.36
+      ],
+      "text": "- Search LZ area for wires overhead",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        90.88,
+        370.89,
+        886.12,
+        386.03
+      ],
+      "text": "- Mark all wires, high-tension lines, guide - Shut down vehicle strobes and white",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        116.4,
+        388.5,
+        848.07,
+        403.65
+      ],
+      "text": "wires with vehicles lights when aircraft on approach",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        90.88,
+        406.17,
+        853.31,
+        421.32
+      ],
+      "text": "- Notify pilot of all wires in proximity to - Keep working lights on minimum",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        116.4,
+        423.78,
+        237.6,
+        438.93
+      ],
+      "text": "landing zone",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        527.59,
+        265.45,
+        542.74
+      ],
+      "text": "Air cr aft Depar tur e",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        90.88,
+        545.2,
+        693.35,
+        560.35
+      ],
+      "text": "- Keep LZ clear for at least 5 minutes after helicopter departure",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        90.88,
+        562.42,
+        683.46,
+        577.57
+      ],
+      "text": "- In case of emergency the helicopter may have to return to LZ",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        90.88,
+        580.03,
+        468.94,
+        595.18
+      ],
+      "text": "- Keep communications open with pilot",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        77.21,
+        615.26,
+        617.11,
+        630.41
+      ],
+      "text": "REMEMBER - EVERYONE IS RESPONSIBLE FOR SAFETY",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        437.35,
+        950.49,
+        890.31,
+        965.64
+      ],
+      "text": "(Back to TOC) Grey 2",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0159-visual",
+      "type": "diagram",
+      "path": "assets/figures/page-0159-visual.webp",
+      "alt": "Visual reference from Minimum Landing Zone",
+      "source_box_points": [
+        42,
+        72,
+        570.0,
+        744.0
+      ],
+      "reasons": [
+        "title"
+      ],
+      "sha256": "83248dd27da0f71fb02ef151ab0e728632830ef2d28f54ade8987d8ff88949ec"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "2101b310a896f9f72b9c267c33f4435b97942bfc09ee36a0525767b3be24741d",
+    "native": {
+      "text": "M inim um Landing Zone (LZ) Ar ea #2\nTer r ain: Ver tical Obstr uctions:\n- Flat, firm, free of debris - Mark towers, antennas, poles, tall trees\n- Consider dust and snow with vehicle\n- Free of vehicles and people - Ideal = clear approach and departure\n- Any markers must be able to withstand angle 8:1 (200' to 25' vertical\n60 mph winds obstruction)\n- Approach path only from down slope of\naircraft\nWir es: Lighting:\n- Electrical and utility wires are greatest - Never shine light directly at aircraft\nsingle hazard to helicopters - All emergency lights on until aircraft\n- Search LZ area for wires overhead\n- Mark all wires, high-tension lines, guide - Shut down vehicle strobes and white\nwires with vehicles lights when aircraft on approach\n- Notify pilot of all wires in proximity to - Keep working lights on minimum\nlanding zone\nAir cr aft Depar tur e\n- Keep LZ clear for at least 5 minutes after helicopter departure\n- In case of emergency the helicopter may have to return to LZ\n- Keep communications open with pilot\nREMEMBER - EVERYONE IS RESPONSIBLE FOR SAFETY\n(Back to TOC) Grey 2",
+      "body_text": "Ter r ain: - Flat, firm, free of debris - Consider dust and snow - Free of vehicles and people - Any markers must be able to withstand 60 mph winds - Approach path only from down slope of aircraft Ver tical Obstr uctions: - Mark towers, antennas, poles, tall trees with vehicle - Ideal = clear approach and departure angle 8:1 (200' to 25' vertical obstruction) Lighting: - Never shine light directly at aircraft - All emergency lights on until aircraft overhead - Shut down vehicle strobes and white lights when aircraft on approach - Keep working lights on minimum Wir es: - Electrical and utility wires are greatest single hazard to helicopters - Search LZ area for wires - Mark all wires, high-tension lines, guide wires with vehicles - Notify pilot of all wires in proximity to landing zone Air cr aft Depar tur e - Keep LZ clear for at least 5 minutes after helicopter departure - In case of emergency the helicopter may have to return to LZ - Keep communications open with pilot REMEMBER - EVERYONE IS RESPONSIBLE FOR SAFETY",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            267.66,
+            752.786,
+            298.314,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            302.49,
+            752.786,
+            313.145,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            316.485,
+            752.786,
+            344.1,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Grey",
+          "box": [
+            507.6,
+            752.786,
+            534.119,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            538.2,
+            752.786,
+            544.87,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Ter",
+          "box": [
+            47.25,
+            93.851,
+            65.447,
+            105.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "r",
+          "box": [
+            67.725,
+            93.851,
+            71.72,
+            105.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ain:",
+          "box": [
+            73.998,
+            93.851,
+            96.745,
+            105.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.62,
+            107.801,
+            59.615,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Flat,",
+          "box": [
+            71.235,
+            107.801,
+            96.227,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "firm,",
+          "box": [
+            99.0,
+            107.801,
+            127.59,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "free",
+          "box": [
+            130.365,
+            107.801,
+            153.538,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            156.42,
+            107.801,
+            166.564,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "debris",
+          "box": [
+            170.775,
+            107.801,
+            207.409,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.62,
+            121.796,
+            59.615,
+            133.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Consider",
+          "box": [
+            71.235,
+            121.796,
+            120.054,
+            133.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dust",
+          "box": [
+            124.83,
+            121.796,
+            148.555,
+            133.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            152.55,
+            121.796,
+            173.715,
+            133.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "snow",
+          "box": [
+            177.525,
+            121.796,
+            206.149,
+            133.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.62,
+            135.746,
+            59.615,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Free",
+          "box": [
+            71.235,
+            135.746,
+            97.053,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            99.9,
+            135.746,
+            110.044,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "vehicles",
+          "box": [
+            114.255,
+            135.746,
+            161.004,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            163.575,
+            135.746,
+            184.74,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "people",
+          "box": [
+            188.55,
+            135.746,
+            227.012,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.62,
+            149.741,
+            59.615,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Any",
+          "box": [
+            71.235,
+            149.741,
+            93.316,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "markers",
+          "box": [
+            97.2,
+            149.741,
+            145.796,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "must",
+          "box": [
+            148.365,
+            149.741,
+            175.946,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            179.955,
+            149.741,
+            193.987,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "able",
+          "box": [
+            196.83,
+            149.741,
+            221.337,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            224.235,
+            149.741,
+            234.89,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "withstand",
+          "box": [
+            238.275,
+            149.741,
+            295.095,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "60",
+          "box": [
+            71.235,
+            163.691,
+            84.61,
+            175.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mph",
+          "box": [
+            87.75,
+            163.691,
+            113.001,
+            175.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "winds",
+          "box": [
+            117.09,
+            163.691,
+            152.369,
+            175.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.62,
+            177.686,
+            59.615,
+            189.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Approach",
+          "box": [
+            71.235,
+            177.686,
+            125.965,
+            189.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "path",
+          "box": [
+            130.05,
+            177.686,
+            154.944,
+            189.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "only",
+          "box": [
+            158.985,
+            177.686,
+            183.252,
+            189.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "from",
+          "box": [
+            187.155,
+            177.686,
+            214.038,
+            189.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "down",
+          "box": [
+            218.52,
+            177.686,
+            249.702,
+            189.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "slope",
+          "box": [
+            253.89,
+            177.686,
+            283.982,
+            189.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            286.875,
+            177.686,
+            297.019,
+            189.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "aircraft",
+          "box": [
+            71.235,
+            191.636,
+            113.554,
+            203.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Ver",
+          "box": [
+            308.25,
+            93.851,
+            326.748,
+            105.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "tical",
+          "box": [
+            329.026,
+            93.851,
+            354.274,
+            105.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Obstr",
+          "box": [
+            358.965,
+            93.851,
+            390.891,
+            105.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "uctions:",
+          "box": [
+            393.17,
+            93.851,
+            441.108,
+            105.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            316.62,
+            107.801,
+            320.615,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Mark",
+          "box": [
+            332.235,
+            107.801,
+            361.778,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "towers,",
+          "box": [
+            365.895,
+            107.801,
+            407.734,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "antennas,",
+          "box": [
+            410.535,
+            107.801,
+            466.424,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "poles,",
+          "box": [
+            468.9,
+            107.801,
+            502.078,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tall",
+          "box": [
+            504.9,
+            107.801,
+            522.263,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trees",
+          "box": [
+            526.5,
+            107.801,
+            555.218,
+            119.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            332.235,
+            121.796,
+            357.309,
+            133.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "vehicle",
+          "box": [
+            361.35,
+            121.796,
+            402.349,
+            133.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            316.62,
+            135.746,
+            320.615,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Ideal",
+          "box": [
+            332.235,
+            135.746,
+            359.842,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "=",
+          "box": [
+            364.005,
+            135.746,
+            371.011,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clear",
+          "box": [
+            373.86,
+            135.746,
+            400.656,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "approach",
+          "box": [
+            405.405,
+            135.746,
+            458.673,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            462.6,
+            135.746,
+            483.765,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "departure",
+          "box": [
+            487.35,
+            135.746,
+            545.063,
+            147.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "angle",
+          "box": [
+            332.235,
+            149.741,
+            363.573,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "8:1",
+          "box": [
+            366.435,
+            149.741,
+            383.256,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(200'",
+          "box": [
+            386.415,
+            149.741,
+            412.975,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            416.475,
+            149.741,
+            427.13,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "25'",
+          "box": [
+            430.47,
+            149.741,
+            446.171,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "vertical",
+          "box": [
+            449.685,
+            149.741,
+            491.973,
+            161.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "obstruction)",
+          "box": [
+            332.235,
+            163.691,
+            402.053,
+            175.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Lighting:",
+          "box": [
+            308.25,
+            237.851,
+            362.172,
+            249.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            316.62,
+            251.801,
+            320.615,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Never",
+          "box": [
+            332.235,
+            251.801,
+            364.827,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shine",
+          "box": [
+            369.585,
+            251.801,
+            400.86,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "light",
+          "box": [
+            403.74,
+            251.801,
+            428.7,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "directly",
+          "box": [
+            432.72,
+            251.801,
+            475.723,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            479.25,
+            251.801,
+            489.223,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "aircraft",
+          "box": [
+            493.2,
+            251.801,
+            535.519,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            316.62,
+            265.796,
+            320.615,
+            277.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "All",
+          "box": [
+            332.235,
+            265.796,
+            347.079,
+            277.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "emergency",
+          "box": [
+            351.225,
+            265.796,
+            413.338,
+            277.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "lights",
+          "box": [
+            417.285,
+            265.796,
+            449.133,
+            277.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            451.35,
+            265.796,
+            464.946,
+            277.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "until",
+          "box": [
+            469.351,
+            265.796,
+            495.313,
+            277.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "aircraft",
+          "box": [
+            499.501,
+            265.796,
+            541.82,
+            277.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "overhead",
+          "box": [
+            332.235,
+            279.746,
+            385.408,
+            291.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            316.62,
+            293.741,
+            320.615,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Shut",
+          "box": [
+            332.235,
+            293.741,
+            357.323,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "down",
+          "box": [
+            361.35,
+            293.741,
+            392.532,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "vehicle",
+          "box": [
+            396.72,
+            293.741,
+            437.719,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "strobes",
+          "box": [
+            440.595,
+            293.741,
+            482.476,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            484.65,
+            293.741,
+            505.815,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "white",
+          "box": [
+            509.85,
+            293.741,
+            542.303,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "lights",
+          "box": [
+            332.235,
+            307.691,
+            364.083,
+            319.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "when",
+          "box": [
+            366.615,
+            307.691,
+            397.545,
+            319.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "aircraft",
+          "box": [
+            401.715,
+            307.691,
+            444.034,
+            319.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            448.065,
+            307.691,
+            461.661,
+            319.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "approach",
+          "box": [
+            465.75,
+            307.691,
+            519.018,
+            319.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            316.62,
+            321.686,
+            320.615,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Keep",
+          "box": [
+            332.235,
+            321.686,
+            359.907,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "working",
+          "box": [
+            363.735,
+            321.686,
+            411.683,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "lights",
+          "box": [
+            414.585,
+            321.686,
+            446.433,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            448.965,
+            321.686,
+            462.561,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minimum",
+          "box": [
+            466.65,
+            321.686,
+            522.227,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Wir",
+          "box": [
+            47.25,
+            237.851,
+            68.272,
+            249.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "es:",
+          "box": [
+            70.55,
+            237.851,
+            86.584,
+            249.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.62,
+            251.801,
+            59.615,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Electrical",
+          "box": [
+            71.235,
+            251.801,
+            123.792,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            127.98,
+            251.801,
+            149.145,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "utility",
+          "box": [
+            152.955,
+            251.801,
+            186.412,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "wires",
+          "box": [
+            190.305,
+            251.801,
+            222.556,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            225.09,
+            251.801,
+            244.167,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "greatest",
+          "box": [
+            247.05,
+            251.801,
+            291.491,
+            263.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "single",
+          "box": [
+            71.235,
+            265.796,
+            105.07,
+            277.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hazard",
+          "box": [
+            107.955,
+            265.796,
+            147.534,
+            277.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            151.335,
+            265.796,
+            161.99,
+            277.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "helicopters",
+          "box": [
+            165.375,
+            265.796,
+            229.339,
+            277.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.62,
+            279.746,
+            59.615,
+            291.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Search",
+          "box": [
+            71.235,
+            279.746,
+            109.162,
+            291.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "LZ",
+          "box": [
+            113.22,
+            279.746,
+            128.025,
+            291.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "area",
+          "box": [
+            130.905,
+            279.746,
+            156.403,
+            291.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            159.615,
+            279.746,
+            174.848,
+            291.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "wires",
+          "box": [
+            179.64,
+            279.746,
+            211.891,
+            291.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.62,
+            293.741,
+            59.615,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Mark",
+          "box": [
+            71.235,
+            293.741,
+            100.778,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "all",
+          "box": [
+            104.895,
+            293.741,
+            118.033,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "wires,",
+          "box": [
+            122.22,
+            293.741,
+            157.221,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "high-tension",
+          "box": [
+            160.02,
+            293.741,
+            230.375,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "lines,",
+          "box": [
+            234.585,
+            293.741,
+            265.053,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "guide",
+          "box": [
+            267.84,
+            293.741,
+            299.777,
+            305.738
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "wires",
+          "box": [
+            71.235,
+            307.691,
+            103.486,
+            319.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            106.02,
+            307.691,
+            131.094,
+            319.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "vehicles",
+          "box": [
+            135.135,
+            307.691,
+            181.884,
+            319.688
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.62,
+            321.686,
+            59.615,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Notify",
+          "box": [
+            71.235,
+            321.686,
+            105.691,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pilot",
+          "box": [
+            109.575,
+            321.686,
+            134.756,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            138.78,
+            321.686,
+            148.924,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "all",
+          "box": [
+            153.135,
+            321.686,
+            166.273,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "wires",
+          "box": [
+            170.46,
+            321.686,
+            202.711,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            205.245,
+            321.686,
+            215.753,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "proximity",
+          "box": [
+            219.915,
+            321.686,
+            275.663,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            279.585,
+            321.686,
+            290.24,
+            333.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "landing",
+          "box": [
+            71.235,
+            335.636,
+            115.06,
+            347.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "zone",
+          "box": [
+            117.945,
+            335.636,
+            145.414,
+            347.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Air",
+          "box": [
+            47.25,
+            417.851,
+            64.501,
+            429.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "cr",
+          "box": [
+            66.779,
+            417.851,
+            77.092,
+            429.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "aft",
+          "box": [
+            79.37,
+            417.851,
+            94.774,
+            429.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Depar",
+          "box": [
+            99.405,
+            417.851,
+            134.378,
+            429.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "tur",
+          "box": [
+            136.656,
+            417.851,
+            153.508,
+            429.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "e",
+          "box": [
+            155.786,
+            417.851,
+            162.456,
+            429.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.62,
+            431.801,
+            59.615,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Keep",
+          "box": [
+            71.235,
+            431.801,
+            98.907,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "LZ",
+          "box": [
+            102.735,
+            431.801,
+            117.54,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clear",
+          "box": [
+            120.42,
+            431.801,
+            147.216,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            151.965,
+            431.801,
+            167.198,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            171.99,
+            431.801,
+            181.963,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "least",
+          "box": [
+            185.985,
+            431.801,
+            211.63,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5",
+          "box": [
+            215.64,
+            431.801,
+            222.31,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes",
+          "box": [
+            225.45,
+            431.801,
+            272.504,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "after",
+          "box": [
+            275.04,
+            431.801,
+            300.747,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "helicopter",
+          "box": [
+            305.55,
+            431.801,
+            361.859,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "departure",
+          "box": [
+            366.615,
+            431.801,
+            424.328,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.62,
+            445.436,
+            59.615,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "In",
+          "box": [
+            71.235,
+            445.436,
+            82.311,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "case",
+          "box": [
+            86.49,
+            445.436,
+            111.232,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            114.12,
+            445.436,
+            124.264,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "emergency",
+          "box": [
+            128.475,
+            445.436,
+            190.589,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            194.49,
+            445.436,
+            212.999,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "helicopter",
+          "box": [
+            215.865,
+            445.436,
+            272.174,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            276.975,
+            445.436,
+            300.703,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "have",
+          "box": [
+            304.605,
+            445.436,
+            332.115,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            334.98,
+            445.436,
+            345.635,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "return",
+          "box": [
+            349.02,
+            445.436,
+            385.254,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            389.43,
+            445.436,
+            400.085,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "LZ",
+          "box": [
+            403.47,
+            445.436,
+            418.275,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            55.62,
+            459.386,
+            59.615,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Keep",
+          "box": [
+            71.235,
+            459.386,
+            98.907,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "communications",
+          "box": [
+            102.735,
+            459.386,
+            198.578,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "open",
+          "box": [
+            201.105,
+            459.386,
+            228.484,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            232.695,
+            459.386,
+            257.769,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pilot",
+          "box": [
+            261.81,
+            459.386,
+            286.991,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "REMEMBER",
+          "box": [
+            47.25,
+            487.286,
+            118.795,
+            499.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            121.725,
+            487.286,
+            125.72,
+            499.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EVERYONE",
+          "box": [
+            128.565,
+            487.286,
+            195.575,
+            499.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "IS",
+          "box": [
+            198.54,
+            487.286,
+            211.352,
+            499.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "RESPONSIBLE",
+          "box": [
+            213.525,
+            487.286,
+            299.161,
+            499.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "FOR",
+          "box": [
+            302.13,
+            487.286,
+            327.685,
+            499.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "SAFETY",
+          "box": [
+            330.615,
+            487.286,
+            377.672,
+            499.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "M",
+          "box": [
+            134.145,
+            36.027,
+            150.803,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "inim",
+          "box": [
+            152.901,
+            36.027,
+            195.245,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "um",
+          "box": [
+            197.285,
+            36.027,
+            226.637,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Landing",
+          "box": [
+            234.09,
+            36.027,
+            313.388,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Zone",
+          "box": [
+            318.24,
+            36.027,
+            365.633,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "(LZ)",
+          "box": [
+            370.44,
+            36.027,
+            408.316,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Ar",
+          "box": [
+            413.775,
+            36.027,
+            434.533,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ea",
+          "box": [
+            437.296,
+            36.027,
+            459.116,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#2",
+          "box": [
+            464.4,
+            36.027,
+            486.697,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0159.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 65.71,
+    "output_to_native_length_ratio": 0.975,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

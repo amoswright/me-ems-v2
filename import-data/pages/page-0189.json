@@ -1,0 +1,2637 @@
+{
+  "id": "page-0189",
+  "pdf_page": 189,
+  "protocol_label": "Grey 32",
+  "kind": "protocol",
+  "chapter_id": "grey",
+  "topic_id": "grey-maine-ems-medication-list",
+  "title": "Maine EMS Medication List",
+  "markdown": "# Maine EMS Medication List\n\nThe following are medications currently approved for use by Maine EMS licensees - as authorized by the Maine EMS Protocols. This list may be altered through protocol revision.\n\n### Prehospital Medications:\n\n* Acetaminophen chewable tablets\n* Acetaminophen IV\n* Adenosine\n* Albuterol\n* Amiodarone\n* Aspirin\n* Atropine\n* Calcium gluconate\n* Ceftriaxone\n* Cyanide poisoning kit contents\n* Dexamethasone\n* Dextrose (D10, D50)\n* Diphenhydramine\n* EPINEPHrine 1 mg/mL & 1 mg/10mL\n* EPINEPHrine Auto-injector\n* Fentanyl\n* Glucagon\n* Hemostatic Agents\n* Heparin Solution (for use in maintaining IV access in a heparin lock only; otherwise this is not considered a prehospital medication. Approved at Advanced EMT level).\n* Ipratropium Bromide (Combivent)\n* Ketamine\n* Lidocaine 2% (preservation free)\n* Magnesium Sulfate\n* Metoprolol (Lopressor)\n* Midazolam\n* Naloxone (Narcan)\n* Nitroglycerin (Non-parenteral)\n* Nitrous Oxide\n* NOREPInephrine\n* Oxygen\n* Oxytocin\n* Ondansetron IV and ODT\n* Racemic EPINEPHrine nebulized\n* Tetracaine ophthalmologic Drops\n* Tranexamic Acid (TXA)\n* Sodium bicarbonate\n",
+  "plain_text": "Maine EMS Medication List The following are medications currently approved for use by Maine EMS licensees - as authorized by the Maine EMS Protocols. This list may be altered through protocol revision. Prehospital Medications: Acetaminophen chewable tablets Acetaminophen IV Adenosine Albuterol Amiodarone Aspirin Atropine Calcium gluconate Ceftriaxone Cyanide poisoning kit contents Dexamethasone Dextrose (D10, D50) Diphenhydramine EPINEPHrine 1 mg/mL & 1 mg/10mL EPINEPHrine Auto-injector Fentanyl Glucagon Hemostatic Agents Heparin Solution (for use in maintaining IV access in a heparin lock only; otherwise this is not considered a prehospital medication. Approved at Advanced EMT level). Ipratropium Bromide (Combivent) Ketamine Lidocaine 2% (preservation free) Magnesium Sulfate Metoprolol (Lopressor) Midazolam Naloxone (Narcan) Nitroglycerin (Non-parenteral) Nitrous Oxide NOREPInephrine Oxygen Oxytocin Ondansetron IV and ODT Racemic EPINEPHrine nebulized Tetracaine ophthalmologic Drops Tranexamic Acid (TXA) Sodium bicarbonate",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        295.29,
+        45.49,
+        716.92,
+        70.74
+      ],
+      "text": "M aine EM S M edication List",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        73.53,
+        92.93,
+        923.01,
+        108.08
+      ],
+      "text": "The following ar e medications cur r ently appr oved for use by Maine EMS licensees - as",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        73.53,
+        110.54,
+        875.09,
+        125.69
+      ],
+      "text": "author ized by the Maine EMS Pr otocols. This list may be alter ed thr ough pr otocol",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        73.53,
+        128.21,
+        160.56,
+        143.36
+      ],
+      "text": "r evision.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        73.53,
+        181.11,
+        319.6,
+        196.26
+      ],
+      "text": "Pr ehospital Medications:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        216.4,
+        415.36,
+        231.54
+      ],
+      "text": "Acetaminophen chewable tablets",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        234.01,
+        269.68,
+        249.16
+      ],
+      "text": "Acetaminophen IV",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        251.68,
+        190.57,
+        266.83
+      ],
+      "text": "Adenosine",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        269.29,
+        179.58,
+        284.44
+      ],
+      "text": "Albuter ol",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        286.96,
+        210.27,
+        302.11
+      ],
+      "text": "Amiodar one",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        304.58,
+        158.68,
+        319.73
+      ],
+      "text": "Aspir in",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        322.19,
+        174.66,
+        337.34
+      ],
+      "text": "Atr opine",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        339.86,
+        269.79,
+        355.01
+      ],
+      "text": "Calcium gluconate",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        357.48,
+        203.72,
+        372.62
+      ],
+      "text": "Ceftr iaxone",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        375.15,
+        390.8,
+        390.29
+      ],
+      "text": "Cyanide poisoning kit contents",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        392.76,
+        245.6,
+        407.91
+      ],
+      "text": "Dexamethasone",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        410.43,
+        267.48,
+        425.58
+      ],
+      "text": "Dextr ose (D , D )",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        204.41,
+        416.48,
+        260.89,
+        427.08
+      ],
+      "text": "10 50",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        428.04,
+        267.45,
+        443.19
+      ],
+      "text": "Diphenhydr amine",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        445.66,
+        437.42,
+        460.81
+      ],
+      "text": "EPINEPHr ine 1 mg/mL & 1 mg/10mL",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        463.33,
+        351.24,
+        478.48
+      ],
+      "text": "EPINEPHr ine Auto-injector",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        480.94,
+        170.3,
+        496.09
+      ],
+      "text": "Fentanyl",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        498.61,
+        177.58,
+        513.76
+      ],
+      "text": "Glucagon",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        516.23,
+        271.99,
+        531.37
+      ],
+      "text": "Hemostatic Agents",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        533.84,
+        878.79,
+        548.99
+      ],
+      "text": "Hepar in Solution (for use in maintaining IV access in a heparin lock only; otherwise",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        551.51,
+        854.15,
+        566.66
+      ],
+      "text": "this is not considered a prehospital medication. Approved at Advanced EMT level).",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        568.67,
+        427.94,
+        583.82
+      ],
+      "text": "Ipr atr opium Br omide (Combivent)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        586.28,
+        181.82,
+        601.43
+      ],
+      "text": "Ketamine",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        603.9,
+        411.48,
+        619.04
+      ],
+      "text": "Lidocaine 2% (pr eser vation fr ee)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        622.08,
+        275.84,
+        637.23
+      ],
+      "text": "Magnesium Sulfate",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        639.69,
+        316.43,
+        654.84
+      ],
+      "text": "Metopr olol (Lopr essor )",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        657.31,
+        194.16,
+        672.45
+      ],
+      "text": "Midazolam",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        674.92,
+        272.64,
+        690.07
+      ],
+      "text": "Naloxone (Nar can)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        692.53,
+        391.97,
+        707.68
+      ],
+      "text": "Nitr oglycer in (Non-par enter al)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        710.15,
+        225.45,
+        725.29
+      ],
+      "text": "Nitr ous Oxide",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        727.76,
+        255.77,
+        742.91
+      ],
+      "text": "NOREPInephr ine",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        745.37,
+        158.5,
+        760.52
+      ],
+      "text": "Oxygen",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        762.99,
+        173.7,
+        778.14
+      ],
+      "text": "Oxytocin",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        780.6,
+        333.08,
+        795.75
+      ],
+      "text": "Ondansetr on IV and ODT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        798.21,
+        408.38,
+        813.36
+      ],
+      "text": "Racemic EPINEPHr ine nebulized",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0041",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        815.83,
+        418.53,
+        830.98
+      ],
+      "text": "Tetr acaine ophthalmologic Dr ops",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0042",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        833.44,
+        316.92,
+        848.59
+      ],
+      "text": "Tr anexamic Acid (TXA)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0043",
+      "type": "text_line",
+      "box_1000": [
+        86.76,
+        851.06,
+        287.29,
+        866.2
+      ],
+      "text": "Sodium bicar bonate",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0044",
+      "type": "text_line",
+      "box_1000": [
+        437.35,
+        950.49,
+        895.38,
+        965.64
+      ],
+      "text": "(Back to TOC) Grey 32",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "c465629fae91c313371d4b4d9fb45cb063aedd1d566bdbcb60efddc7c737aebb",
+    "native": {
+      "text": "M aine EM S M edication List\nThe following ar e medications cur r ently appr oved for use by Maine EMS licensees - as\nauthor ized by the Maine EMS Pr otocols. This list may be alter ed thr ough pr otocol\nr evision.\nPr ehospital Medications:\nAcetaminophen chewable tablets\nAcetaminophen IV\nAdenosine\nAlbuter ol\nAmiodar one\nAspir in\nAtr opine\nCalcium gluconate\nCeftr iaxone\nCyanide poisoning kit contents\nDexamethasone\nDextr ose (D , D )\n10 50\nDiphenhydr amine\nEPINEPHr ine 1 mg/mL & 1 mg/10mL\nEPINEPHr ine Auto-injector\nFentanyl\nGlucagon\nHemostatic Agents\nHepar in Solution (for use in maintaining IV access in a heparin lock only; otherwise\nthis is not considered a prehospital medication. Approved at Advanced EMT level).\nIpr atr opium Br omide (Combivent)\nKetamine\nLidocaine 2% (pr eser vation fr ee)\nMagnesium Sulfate\nMetopr olol (Lopr essor )\nMidazolam\nNaloxone (Nar can)\nNitr oglycer in (Non-par enter al)\nNitr ous Oxide\nNOREPInephr ine\nOxygen\nOxytocin\nOndansetr on IV and ODT\nRacemic EPINEPHr ine nebulized\nTetr acaine ophthalmologic Dr ops\nTr anexamic Acid (TXA)\nSodium bicar bonate\n(Back to TOC) Grey 32",
+      "body_text": "author ized by the Maine EMS Pr otocols. This list may be alter ed thr ough pr otocol r evision. Pr ehospital Medications: Acetaminophen chewable tablets Acetaminophen IV Adenosine Albuter ol Amiodar one Aspir in Atr opine Calcium gluconate Ceftr iaxone Cyanide poisoning kit contents Dexamethasone Dextr ose (D 10 , D 50 ) Diphenhydr amine EPINEPHr ine 1 mg/mL & 1 mg/10mL EPINEPHr ine Auto-injector Fentanyl Glucagon Hemostatic Agents Hepar in Solution (for use in maintaining IV access in a heparin lock only; otherwise this is not considered a prehospital medication. Approved at Advanced EMT level). Ipr atr opium Br omide (Combivent) Ketamine Lidocaine 2% (pr eser vation fr ee) Magnesium Sulfate Metopr olol (Lopr essor ) Midazolam Naloxone (Nar can) Nitr oglycer in (Non-par enter al) Nitr ous Oxide NOREPInephr ine Oxygen Oxytocin Ondansetr on IV and ODT Racemic EPINEPHr ine nebulized Tetr acaine ophthalmologic Dr ops Tr anexamic Acid (TXA) Sodium bicar bonate",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            267.66,
+            752.786,
+            298.314,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            302.49,
+            752.786,
+            313.145,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            316.485,
+            752.786,
+            344.1,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Grey",
+          "box": [
+            504.45,
+            752.786,
+            530.969,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "32",
+          "box": [
+            534.6,
+            752.786,
+            547.975,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "M",
+          "box": [
+            180.72,
+            36.027,
+            197.378,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "aine",
+          "box": [
+            199.476,
+            36.027,
+            241.145,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "EM",
+          "box": [
+            245.925,
+            36.027,
+            275.044,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "S",
+          "box": [
+            277.141,
+            36.027,
+            290.48,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "M",
+          "box": [
+            293.22,
+            36.027,
+            309.878,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "edication",
+          "box": [
+            311.976,
+            36.027,
+            398.339,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "List",
+          "box": [
+            405.315,
+            36.027,
+            438.752,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "The",
+          "box": [
+            45.0,
+            73.601,
+            67.501,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "following",
+          "box": [
+            70.785,
+            73.601,
+            127.754,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ar",
+          "box": [
+            130.95,
+            73.601,
+            142.132,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "e",
+          "box": [
+            144.41,
+            73.601,
+            151.08,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "medications",
+          "box": [
+            154.35,
+            73.601,
+            228.855,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "cur",
+          "box": [
+            231.84,
+            73.601,
+            250.154,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "r",
+          "box": [
+            252.432,
+            73.601,
+            256.427,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ently",
+          "box": [
+            258.705,
+            73.601,
+            288.399,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "appr",
+          "box": [
+            292.5,
+            73.601,
+            319.161,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "oved",
+          "box": [
+            321.322,
+            73.601,
+            349.228,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            353.475,
+            73.601,
+            369.588,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "use",
+          "box": [
+            374.985,
+            73.601,
+            395.506,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "by",
+          "box": [
+            398.835,
+            73.601,
+            412.501,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Maine",
+          "box": [
+            416.565,
+            73.601,
+            454.073,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMS",
+          "box": [
+            457.2,
+            73.601,
+            484.457,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "licensees",
+          "box": [
+            486.45,
+            73.601,
+            541.614,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            544.5,
+            73.601,
+            548.495,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            551.7,
+            73.601,
+            564.885,
+            85.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "author",
+          "box": [
+            45.0,
+            87.551,
+            84.275,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ized",
+          "box": [
+            86.553,
+            87.551,
+            110.642,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "by",
+          "box": [
+            114.885,
+            87.551,
+            128.551,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            132.615,
+            87.551,
+            152.142,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Maine",
+          "box": [
+            155.43,
+            87.551,
+            192.938,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMS",
+          "box": [
+            196.245,
+            87.551,
+            223.502,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Pr",
+          "box": [
+            225.63,
+            87.551,
+            237.279,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "otocols.",
+          "box": [
+            239.44,
+            87.551,
+            285.844,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "This",
+          "box": [
+            289.305,
+            87.551,
+            315.359,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "list",
+          "box": [
+            318.33,
+            87.551,
+            335.964,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            340.605,
+            87.551,
+            365.26,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            369.36,
+            87.551,
+            383.815,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "alter",
+          "box": [
+            387.09,
+            87.551,
+            414.084,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ed",
+          "box": [
+            416.362,
+            87.551,
+            429.881,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "thr",
+          "box": [
+            434.16,
+            87.551,
+            451.011,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ough",
+          "box": [
+            453.172,
+            87.551,
+            481.915,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "pr",
+          "box": [
+            486.0,
+            87.551,
+            497.735,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "otocol",
+          "box": [
+            499.896,
+            87.551,
+            535.553,
+            99.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "r",
+          "box": [
+            45.0,
+            101.546,
+            48.995,
+            113.543
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "evision.",
+          "box": [
+            51.273,
+            101.546,
+            98.261,
+            113.543
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Pr",
+          "box": [
+            45.0,
+            143.441,
+            56.65,
+            155.438
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ehospital",
+          "box": [
+            58.927,
+            143.441,
+            113.65,
+            155.438
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Medications:",
+          "box": [
+            118.305,
+            143.441,
+            195.596,
+            155.438
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Acetaminophen",
+          "box": [
+            53.1,
+            171.386,
+            147.767,
+            183.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "chewable",
+          "box": [
+            152.235,
+            171.386,
+            209.169,
+            183.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "tablets",
+          "box": [
+            212.445,
+            171.386,
+            254.2,
+            183.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Acetaminophen",
+          "box": [
+            53.1,
+            185.336,
+            147.767,
+            197.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            152.235,
+            185.336,
+            165.047,
+            197.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Adenosine",
+          "box": [
+            53.1,
+            199.331,
+            116.627,
+            211.328
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Albuter",
+          "box": [
+            53.1,
+            213.281,
+            97.725,
+            225.278
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ol",
+          "box": [
+            99.886,
+            213.281,
+            109.902,
+            225.278
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Amiodar",
+          "box": [
+            53.1,
+            227.276,
+            104.502,
+            239.273
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "one",
+          "box": [
+            106.663,
+            227.276,
+            128.687,
+            239.273
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Aspir",
+          "box": [
+            53.1,
+            241.226,
+            83.941,
+            253.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            86.219,
+            241.226,
+            97.114,
+            253.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Atr",
+          "box": [
+            53.1,
+            255.176,
+            70.743,
+            267.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "opine",
+          "box": [
+            72.904,
+            255.176,
+            106.893,
+            267.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Calcium",
+          "box": [
+            53.1,
+            269.171,
+            101.063,
+            281.168
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "gluconate",
+          "box": [
+            106.02,
+            269.171,
+            165.114,
+            281.168
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Ceftr",
+          "box": [
+            53.1,
+            283.121,
+            81.454,
+            295.118
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "iaxone",
+          "box": [
+            83.732,
+            283.121,
+            124.677,
+            295.118
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Cyanide",
+          "box": [
+            53.1,
+            297.116,
+            101.561,
+            309.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "poisoning",
+          "box": [
+            104.85,
+            297.116,
+            164.268,
+            309.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "kit",
+          "box": [
+            167.445,
+            297.116,
+            182.637,
+            309.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "contents",
+          "box": [
+            187.29,
+            297.116,
+            239.17,
+            309.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Dexamethasone",
+          "box": [
+            53.1,
+            311.066,
+            150.31,
+            323.063
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Dextr",
+          "box": [
+            53.1,
+            325.061,
+            85.751,
+            337.058
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ose",
+          "box": [
+            87.912,
+            325.061,
+            107.785,
+            337.058
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(D",
+          "box": [
+            111.06,
+            325.061,
+            124.519,
+            337.058
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "10",
+          "box": [
+            125.1,
+            329.851,
+            134.462,
+            338.248
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 8.397
+        },
+        {
+          "text": ",",
+          "box": [
+            134.46,
+            325.061,
+            137.795,
+            337.058
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "D",
+          "box": [
+            141.12,
+            325.061,
+            149.782,
+            337.058
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "50",
+          "box": [
+            150.3,
+            329.851,
+            159.662,
+            338.248
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 8.397
+        },
+        {
+          "text": ")",
+          "box": [
+            159.705,
+            325.061,
+            163.7,
+            337.058
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Diphenhydr",
+          "box": [
+            53.1,
+            339.011,
+            123.492,
+            351.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "amine",
+          "box": [
+            125.77,
+            339.011,
+            163.678,
+            351.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EPINEPHr",
+          "box": [
+            53.1,
+            352.961,
+            112.152,
+            364.958
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ine",
+          "box": [
+            114.43,
+            352.961,
+            133.326,
+            364.958
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            136.62,
+            352.961,
+            143.29,
+            364.958
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "mg/mL",
+          "box": [
+            146.475,
+            352.961,
+            186.973,
+            364.958
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "&",
+          "box": [
+            191.25,
+            352.961,
+            199.252,
+            364.958
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            203.985,
+            352.961,
+            210.655,
+            364.958
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "mg/10mL",
+          "box": [
+            213.795,
+            352.961,
+            267.703,
+            364.958
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EPINEPHr",
+          "box": [
+            53.1,
+            366.956,
+            112.152,
+            378.953
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ine",
+          "box": [
+            114.43,
+            366.956,
+            133.326,
+            378.953
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Auto-injector",
+          "box": [
+            136.62,
+            366.956,
+            214.96,
+            378.953
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Fentanyl",
+          "box": [
+            53.1,
+            380.906,
+            104.224,
+            392.903
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Glucagon",
+          "box": [
+            53.1,
+            394.901,
+            108.68,
+            406.898
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Hemostatic",
+          "box": [
+            53.1,
+            408.851,
+            121.805,
+            420.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Agents",
+          "box": [
+            125.235,
+            408.851,
+            166.455,
+            420.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Hepar",
+          "box": [
+            53.1,
+            422.801,
+            88.694,
+            434.798
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            90.972,
+            422.801,
+            101.867,
+            434.798
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Solution",
+          "box": [
+            106.29,
+            422.801,
+            156.001,
+            434.798
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(for",
+          "box": [
+            160.47,
+            422.801,
+            179.857,
+            434.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "use",
+          "box": [
+            184.635,
+            422.801,
+            204.333,
+            434.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            207.225,
+            422.801,
+            217.733,
+            434.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "maintaining",
+          "box": [
+            221.895,
+            422.801,
+            292.25,
+            434.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            295.155,
+            422.801,
+            307.563,
+            434.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "access",
+          "box": [
+            310.77,
+            422.801,
+            347.166,
+            434.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            349.74,
+            422.801,
+            360.248,
+            434.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            364.41,
+            422.801,
+            371.08,
+            434.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "heparin",
+          "box": [
+            374.31,
+            422.801,
+            418.622,
+            434.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "lock",
+          "box": [
+            422.82,
+            422.801,
+            445.369,
+            434.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "only;",
+          "box": [
+            449.505,
+            422.801,
+            477.886,
+            434.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "otherwise",
+          "box": [
+            480.6,
+            422.801,
+            537.817,
+            434.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "this",
+          "box": [
+            53.1,
+            436.796,
+            74.775,
+            448.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            77.31,
+            436.796,
+            87.146,
+            448.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            89.64,
+            436.796,
+            107.641,
+            448.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "considered",
+          "box": [
+            111.645,
+            436.796,
+            173.993,
+            448.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            177.84,
+            436.796,
+            184.51,
+            448.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "prehospital",
+          "box": [
+            187.695,
+            436.796,
+            251.926,
+            448.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "medication.",
+          "box": [
+            256.14,
+            436.796,
+            323.701,
+            448.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Approved",
+          "box": [
+            326.925,
+            436.796,
+            382.132,
+            448.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            385.965,
+            436.796,
+            395.938,
+            448.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Advanced",
+          "box": [
+            399.915,
+            436.796,
+            455.325,
+            448.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EMT",
+          "box": [
+            459.0,
+            436.796,
+            485.059,
+            448.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "level).",
+          "box": [
+            488.25,
+            436.796,
+            522.737,
+            448.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Ipr",
+          "box": [
+            53.1,
+            450.386,
+            69.646,
+            462.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "atr",
+          "box": [
+            71.924,
+            450.386,
+            87.843,
+            462.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "opium",
+          "box": [
+            90.005,
+            450.386,
+            127.317,
+            462.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Br",
+          "box": [
+            132.255,
+            450.386,
+            144.31,
+            462.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "omide",
+          "box": [
+            146.471,
+            450.386,
+            184.329,
+            462.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(Combivent)",
+          "box": [
+            187.65,
+            450.386,
+            261.901,
+            462.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Ketamine",
+          "box": [
+            53.1,
+            464.336,
+            111.276,
+            476.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Lidocaine",
+          "box": [
+            53.1,
+            478.286,
+            112.707,
+            490.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "2%",
+          "box": [
+            116.01,
+            478.286,
+            133.38,
+            490.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(pr",
+          "box": [
+            136.71,
+            478.286,
+            153.242,
+            490.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "eser",
+          "box": [
+            155.52,
+            478.286,
+            179.063,
+            490.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "vation",
+          "box": [
+            181.458,
+            478.286,
+            218.529,
+            490.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "fr",
+          "box": [
+            222.975,
+            478.286,
+            231.852,
+            490.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ee)",
+          "box": [
+            234.13,
+            478.286,
+            251.823,
+            490.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Magnesium",
+          "box": [
+            53.1,
+            492.686,
+            121.35,
+            504.683
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Sulfate",
+          "box": [
+            126.315,
+            492.686,
+            168.813,
+            504.683
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Metopr",
+          "box": [
+            53.1,
+            506.636,
+            95.079,
+            518.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "olol",
+          "box": [
+            97.241,
+            506.636,
+            118.834,
+            518.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(Lopr",
+          "box": [
+            123.48,
+            506.636,
+            155.208,
+            518.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "essor",
+          "box": [
+            157.487,
+            506.636,
+            187.383,
+            518.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ")",
+          "box": [
+            189.662,
+            506.636,
+            193.657,
+            518.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Midazolam",
+          "box": [
+            53.1,
+            520.586,
+            118.824,
+            532.583
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Naloxone",
+          "box": [
+            53.1,
+            534.536,
+            110.493,
+            546.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(Nar",
+          "box": [
+            113.76,
+            534.536,
+            139.076,
+            546.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "can)",
+          "box": [
+            141.354,
+            534.536,
+            166.854,
+            546.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Nitr",
+          "box": [
+            53.1,
+            548.486,
+            75.63,
+            560.483
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "oglycer",
+          "box": [
+            77.791,
+            548.486,
+            119.845,
+            560.483
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            122.123,
+            548.486,
+            133.018,
+            560.483
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(Non-par",
+          "box": [
+            137.475,
+            548.486,
+            189.606,
+            560.483
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "enter",
+          "box": [
+            191.884,
+            548.486,
+            222.199,
+            560.483
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "al)",
+          "box": [
+            224.477,
+            548.486,
+            239.883,
+            560.483
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Nitr",
+          "box": [
+            53.1,
+            562.436,
+            75.63,
+            574.433
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ous",
+          "box": [
+            77.791,
+            562.436,
+            99.143,
+            574.433
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Oxide",
+          "box": [
+            102.105,
+            562.436,
+            137.975,
+            574.433
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "NOREPInephr",
+          "box": [
+            53.1,
+            576.386,
+            135.359,
+            588.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ine",
+          "box": [
+            137.637,
+            576.386,
+            156.533,
+            588.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Oxygen",
+          "box": [
+            53.1,
+            590.336,
+            96.999,
+            602.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Oxytocin",
+          "box": [
+            53.1,
+            604.286,
+            106.304,
+            616.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Ondansetr",
+          "box": [
+            53.1,
+            618.236,
+            115.064,
+            630.233
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            117.225,
+            618.236,
+            131.248,
+            630.233
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            135.72,
+            618.236,
+            148.532,
+            630.233
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            152.01,
+            618.236,
+            173.868,
+            630.233
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ODT",
+          "box": [
+            178.11,
+            618.236,
+            203.845,
+            630.233
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Racemic",
+          "box": [
+            53.1,
+            632.186,
+            103.985,
+            644.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EPINEPHr",
+          "box": [
+            107.415,
+            632.186,
+            166.468,
+            644.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ine",
+          "box": [
+            168.746,
+            632.186,
+            187.641,
+            644.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "nebulized",
+          "box": [
+            190.98,
+            632.186,
+            249.93,
+            644.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Tetr",
+          "box": [
+            53.1,
+            646.136,
+            76.152,
+            658.133
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "acaine",
+          "box": [
+            78.43,
+            646.136,
+            118.017,
+            658.133
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ophthalmologic",
+          "box": [
+            121.32,
+            646.136,
+            216.263,
+            658.133
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Dr",
+          "box": [
+            219.69,
+            646.136,
+            232.887,
+            658.133
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ops",
+          "box": [
+            235.048,
+            646.136,
+            256.14,
+            658.133
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Tr",
+          "box": [
+            53.1,
+            660.086,
+            64.925,
+            672.083
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "anexamic",
+          "box": [
+            67.203,
+            660.086,
+            125.855,
+            672.083
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Acid",
+          "box": [
+            129.285,
+            660.086,
+            155.291,
+            672.083
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(TXA)",
+          "box": [
+            159.525,
+            660.086,
+            193.958,
+            672.083
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Sodium",
+          "box": [
+            53.1,
+            674.036,
+            97.486,
+            686.033
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "bicar",
+          "box": [
+            102.42,
+            674.036,
+            131.929,
+            686.033
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "bonate",
+          "box": [
+            134.207,
+            674.036,
+            175.824,
+            686.033
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0189.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 99.04,
+    "output_to_native_length_ratio": 0.983,
+    "native_dosage_tokens": [
+      "10ml",
+      "1mg",
+      "1mg/ml"
+    ],
+    "output_dosage_tokens": [
+      "10ml",
+      "1mg",
+      "1mg/ml"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

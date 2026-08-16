@@ -1,0 +1,857 @@
+{
+  "id": "page-0205",
+  "pdf_page": 205,
+  "protocol_label": "OD Green 11",
+  "kind": "protocol",
+  "chapter_id": "od-green",
+  "topic_id": "od-green-operational-k9-cardiac-arrest",
+  "title": "Operational K9 Cardiac Arrest",
+  "markdown": "# Operational K9 Cardiac Arrest\n\n(continued from previous page)\n\n> **Termination of Resuscitation:**\n> Consider terminating CPR when any of the following occurs:\n> 1. ROSC\n> 2. You are too exhausted to continue\n> 3. Scene/situation becomes unsafe\n> 4. No ROSC after 20 minutes of ineffective CPR **OR** 30-40 minutes of high-quality CPR\n",
+  "plain_text": "Operational K9 Cardiac Arrest (continued from previous page) Termination of Resuscitation: Consider terminating CPR when any of the following occurs: ROSC You are too exhausted to continue Scene/situation becomes unsafe No ROSC after 20 minutes of ineffective CPR OR 30-40 minutes of high-quality CPR",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        287.21,
+        37.53,
+        800.4,
+        62.78
+      ],
+      "text": "Oper ational K9 Car diac Ar r est #2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        100.22,
+        100.66,
+        413.12,
+        115.81
+      ],
+      "text": "(continued fr om pr evious page)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        180.15,
+        138.95,
+        473.09,
+        154.1
+      ],
+      "text": "Ter mination of Resuscitation:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        180.15,
+        156.57,
+        740.85,
+        171.71
+      ],
+      "text": "Consider terminating CPR when any of the following occurs:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        206.62,
+        174.24,
+        280.26,
+        189.39
+      ],
+      "text": "1. ROSC",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        206.62,
+        191.85,
+        544.57,
+        207.0
+      ],
+      "text": "2. You are too exhausted to continue",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        206.62,
+        209.52,
+        524.75,
+        224.67
+      ],
+      "text": "3. Scene/situation becomes unsafe",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        206.62,
+        227.14,
+        827.6,
+        242.28
+      ],
+      "text": "4. No ROSC after 20 minutes of ineffective CPR OR 30-40 minutes of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        233.09,
+        244.81,
+        390.37,
+        259.95
+      ],
+      "text": "high-quality CPR",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        452.06,
+        936.85,
+        911.56,
+        954.84
+      ],
+      "text": "(Back to TOC) OD Green 11",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "77f5e6a421d1e38860fc7f30163e654d8085df178cea16132102762dee118cfc",
+    "native": {
+      "text": "Oper ational K9 Car diac Ar r est #2\n(continued fr om pr evious page)\nTer mination of Resuscitation:\nConsider terminating CPR when any of the following occurs:\n1. ROSC\n2. You are too exhausted to continue\n3. Scene/situation becomes unsafe\n4. No ROSC after 20 minutes of ineffective CPR OR 30-40 minutes of\nhigh-quality CPR\n(Back to TOC) OD Green 11",
+      "body_text": "(Back to TOC) OD Green 11 Ter mination of Resuscitation: Consider terminating CPR when any of the following occurs: 1. ROSC 2. You are too exhausted to continue 3. Scene/situation becomes unsafe 4. No ROSC after 20 minutes of ineffective CPR OR 30-40 minutes of high-quality CPR (continued fr om pr evious page)",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            276.66,
+            741.986,
+            307.314,
+            753.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.49,
+            741.986,
+            322.145,
+            753.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            325.485,
+            741.986,
+            353.101,
+            753.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "OD",
+          "box": [
+            485.55,
+            744.236,
+            503.117,
+            756.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Green",
+          "box": [
+            506.7,
+            744.236,
+            540.429,
+            756.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "11",
+          "box": [
+            544.5,
+            744.236,
+            557.875,
+            756.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Oper",
+          "box": [
+            175.77,
+            29.727,
+            220.243,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ational",
+          "box": [
+            223.006,
+            29.727,
+            287.638,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "K9",
+          "box": [
+            294.615,
+            29.727,
+            319.733,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Car",
+          "box": [
+            324.99,
+            29.727,
+            355.18,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "diac",
+          "box": [
+            357.944,
+            29.727,
+            397.868,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Ar",
+          "box": [
+            402.93,
+            29.727,
+            423.688,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "r",
+          "box": [
+            426.452,
+            29.727,
+            433.111,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "est",
+          "box": [
+            435.875,
+            29.727,
+            461.157,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#2",
+          "box": [
+            467.55,
+            29.727,
+            489.847,
+            49.725
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Ter",
+          "box": [
+            110.25,
+            110.051,
+            128.447,
+            122.048
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "mination",
+          "box": [
+            130.725,
+            110.051,
+            184.95,
+            122.048
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            189.405,
+            110.051,
+            199.976,
+            122.048
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Resuscitation:",
+          "box": [
+            204.615,
+            110.051,
+            289.529,
+            122.048
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Consider",
+          "box": [
+            110.25,
+            124.001,
+            159.069,
+            135.998
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "terminating",
+          "box": [
+            163.845,
+            124.001,
+            232.049,
+            135.998
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "CPR",
+          "box": [
+            234.945,
+            124.001,
+            258.214,
+            135.998
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "when",
+          "box": [
+            260.55,
+            124.001,
+            291.48,
+            135.998
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "any",
+          "box": [
+            295.65,
+            124.001,
+            316.026,
+            135.998
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            319.95,
+            124.001,
+            330.094,
+            135.998
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            334.305,
+            124.001,
+            352.814,
+            135.998
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "following",
+          "box": [
+            355.68,
+            124.001,
+            409.756,
+            135.998
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "occurs:",
+          "box": [
+            412.65,
+            124.001,
+            453.398,
+            135.998
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1.",
+          "box": [
+            126.45,
+            137.996,
+            136.49,
+            149.993
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ROSC",
+          "box": [
+            139.68,
+            137.996,
+            171.521,
+            149.993
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2.",
+          "box": [
+            126.45,
+            151.946,
+            136.49,
+            163.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "You",
+          "box": [
+            139.68,
+            151.946,
+            160.053,
+            163.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            164.115,
+            151.946,
+            183.192,
+            163.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "too",
+          "box": [
+            186.075,
+            151.946,
+            203.655,
+            163.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "exhausted",
+          "box": [
+            207.045,
+            151.946,
+            264.879,
+            163.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            268.695,
+            151.946,
+            279.35,
+            163.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "continue",
+          "box": [
+            282.735,
+            151.946,
+            333.274,
+            163.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3.",
+          "box": [
+            126.45,
+            165.941,
+            136.49,
+            177.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Scene/situation",
+          "box": [
+            139.68,
+            165.941,
+            225.534,
+            177.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "becomes",
+          "box": [
+            229.725,
+            165.941,
+            280.094,
+            177.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "unsafe",
+          "box": [
+            282.645,
+            165.941,
+            321.15,
+            177.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4.",
+          "box": [
+            126.45,
+            179.891,
+            136.49,
+            191.888
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "No",
+          "box": [
+            139.68,
+            179.891,
+            155.391,
+            191.888
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ROSC",
+          "box": [
+            158.76,
+            179.891,
+            190.601,
+            191.888
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "after",
+          "box": [
+            192.465,
+            179.891,
+            218.173,
+            191.888
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "20",
+          "box": [
+            222.93,
+            179.891,
+            236.305,
+            191.888
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes",
+          "box": [
+            239.445,
+            179.891,
+            286.499,
+            191.888
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            289.08,
+            179.891,
+            299.224,
+            191.888
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ineffective",
+          "box": [
+            303.435,
+            179.891,
+            363.825,
+            191.888
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "CPR",
+          "box": [
+            366.66,
+            179.891,
+            389.929,
+            191.888
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "OR",
+          "box": [
+            392.265,
+            179.891,
+            410.368,
+            191.888
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "30-40",
+          "box": [
+            413.325,
+            179.891,
+            443.831,
+            191.888
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes",
+          "box": [
+            446.985,
+            179.891,
+            494.039,
+            191.888
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            496.35,
+            179.891,
+            506.494,
+            191.888
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "high-quality",
+          "box": [
+            142.65,
+            193.886,
+            211.758,
+            205.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "CPR",
+          "box": [
+            215.64,
+            193.886,
+            238.909,
+            205.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(continued",
+          "box": [
+            61.335,
+            79.721,
+            126.288,
+            91.718
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "fr",
+          "box": [
+            130.545,
+            79.721,
+            139.423,
+            91.718
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "om",
+          "box": [
+            141.584,
+            79.721,
+            158.93,
+            91.718
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "pr",
+          "box": [
+            163.89,
+            79.721,
+            175.625,
+            91.718
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "evious",
+          "box": [
+            177.903,
+            79.721,
+            217.48,
+            91.718
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "page)",
+          "box": [
+            220.455,
+            79.721,
+            252.827,
+            91.718
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0205.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "glm_ocr",
+    "canonical_override_reason": "GLM preserved the short termination-of-resuscitation list as structured text",
+    "glm_ocr": "raw/glm_ocr/page-0205.json"
+  },
+  "qa": {
+    "native_similarity": 95.6,
+    "output_to_native_length_ratio": 0.916,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

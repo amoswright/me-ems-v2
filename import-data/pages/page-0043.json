@@ -1,0 +1,2288 @@
+{
+  "id": "page-0043",
+  "pdf_page": 43,
+  "protocol_label": "Red 6",
+  "kind": "protocol",
+  "chapter_id": "red",
+  "topic_id": "red-chest-pain-fibrinolytic-checklist",
+  "title": "Chest Pain - Fibrinolytic Checklist",
+  "markdown": "# Chest Pain - Fibrinolytic Checklist\n\n![Visual reference from Chest Pain - Fibrinolytic Checklist](../../assets/figures/page-0043-visual.webp)\n\nFor chest pain of suspected cardiac origin, initiate therapy per protocol, including the early use of aspirin and nitroglycerin, if not contraindicated.\n\nUse this checklist, or local equivalent, if available.\n\nReport the information as soon as practical to the receiving ED.\n\nYou may copy and use this page as your checklist, or you may use a checklist recommended by your usual receiving hospital which contains at least these questions.\n\nPlease follow your destination institution's STEMI Checklist\n\n| | | |\n| :--- | :---: | :---: |\n| Has pain persisted for more than 12 hours? | YES | **NO** |\n| Is systolic BP greater than 180 mmHg? | YES | **NO** |\n| Is diastolic BP greater than 100 mmHg? | YES | **NO** |\n| History of structural CNS disease (i.e. AV malformation) | YES | **NO** |\n| Significant closed head/facial trauma within previous 3 months? | YES | **NO** |\n| Surgery or major trauma, GI/GU bleed in previous 2 weeks? | YES | **NO** |\n| Any history of intracranial hemorrhage? | YES | **NO** |\n| Any bleeding, clotting problem, or blood thinners? | YES | **NO** |\n| Pregnant? | YES | **NO** |\n| Serious systemic disease (i.e. advanced cancer, severe liver or kidney disease?) | YES | **NO** |\n",
+  "plain_text": "Chest Pain - Fibrinolytic Checklist For chest pain of suspected cardiac origin, initiate therapy per protocol, including the early use of aspirin and nitroglycerin, if not contraindicated. Use this checklist, or local equivalent, if available. Report the information as soon as practical to the receiving ED. You may copy and use this page as your checklist, or you may use a checklist recommended by your usual receiving hospital which contains at least these questions. Please follow your destination institution's STEMI Checklist Has pain persisted for more than 12 hours? YES NO Is systolic BP greater than 180 mmHg? YES NO Is diastolic BP greater than 100 mmHg? YES NO History of structural CNS disease (i.e. AV malformation) YES NO Significant closed head/facial trauma within previous 3 months? YES NO Surgery or major trauma, GI/GU bleed in previous 2 weeks? YES NO Any history of intracranial hemorrhage? YES NO Any bleeding, clotting problem, or blood thinners? YES NO Pregnant? YES NO Serious systemic disease (i.e. advanced cancer, severe liver or kidney disease?) YES NO",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        278.75,
+        32.75,
+        777.58,
+        58.0
+      ],
+      "text": "Chest Pain Fibr inolytic Checklist",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        117.65,
+        101.62,
+        911.86,
+        116.77
+      ],
+      "text": "For chest pain of suspected cardiac origin, initiate therapy per protocol, including the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        117.65,
+        119.24,
+        682.03,
+        134.39
+      ],
+      "text": "early use of aspirin and nitroglycerin, if not contraindicated.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        117.65,
+        154.52,
+        578.79,
+        169.67
+      ],
+      "text": "Use this checklist, or local equivalent, if available.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        117.65,
+        189.81,
+        705.42,
+        204.95
+      ],
+      "text": "Report the information as soon as practical to the receiving ED.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        117.65,
+        225.09,
+        827.4,
+        240.24
+      ],
+      "text": "You may copy and use this page as your checklist, or you may use a checklist",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        117.65,
+        242.7,
+        829.73,
+        257.85
+      ],
+      "text": "recommended by your usual receiving hospital which contains at least these",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        117.65,
+        260.37,
+        212.89,
+        275.52
+      ],
+      "text": "questions.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        196.84,
+        295.6,
+        844.2,
+        310.75
+      ],
+      "text": "***Please follow your destination institution's STEMI Checklist***",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        138.16,
+        336.96,
+        904.23,
+        352.11
+      ],
+      "text": "Has pain persisted for more than 12 hours? YES NO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        138.16,
+        363.95,
+        904.23,
+        379.1
+      ],
+      "text": "Is systolic BP greater than 180 mmHg? YES NO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        138.16,
+        390.37,
+        904.23,
+        405.52
+      ],
+      "text": "Is diastolic BP greater than 100 mmHg? YES NO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        133.09,
+        418.78,
+        904.23,
+        433.93
+      ],
+      "text": "History of structural CNS disease (i.e. AV malformation) YES NO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        133.09,
+        448.16,
+        904.23,
+        463.31
+      ],
+      "text": "Significant closed head/facial trauma within previous 3 months? YES NO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        133.09,
+        477.59,
+        904.23,
+        492.74
+      ],
+      "text": "Surgery or major trauma, GI/GU bleed in previous 2 weeks? YES NO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        133.09,
+        506.96,
+        904.23,
+        522.11
+      ],
+      "text": "Any history of intracranial hemorrhage? YES NO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        133.09,
+        536.4,
+        904.23,
+        551.54
+      ],
+      "text": "Any bleeding, clotting problem, or blood thinners? YES NO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        133.09,
+        564.12,
+        904.23,
+        579.27
+      ],
+      "text": "Pregnant? YES NO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        133.09,
+        586.28,
+        773.03,
+        601.43
+      ],
+      "text": "Serious systemic disease (i.e. advanced cancer, severe liver or kidney",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        133.09,
+        599.92,
+        904.23,
+        619.04
+      ],
+      "text": "disease?) YES NO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        452.06,
+        939.12,
+        921.93,
+        954.27
+      ],
+      "text": "(Back to TOC) Red 6",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0043-visual",
+      "type": "diagram",
+      "path": "assets/figures/page-0043-visual.webp",
+      "alt": "Visual reference from Chest Pain - Fibrinolytic Checklist",
+      "source_box_points": [
+        42,
+        72,
+        570.0,
+        744.0
+      ],
+      "reasons": [
+        "structured_visual"
+      ],
+      "sha256": "d16f4925bd92b5c06c8cfb83a32f33f8efe368c0754ac6cf74337147271e1f57"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "6ec61693ca1fe3d0dc558ac5a0c1b2ef80d4178871d73734dec8f878089f86b5",
+    "native": {
+      "text": "Chest Pain Fibr inolytic Checklist\nFor chest pain of suspected cardiac origin, initiate therapy per protocol, including the\nearly use of aspirin and nitroglycerin, if not contraindicated.\nUse this checklist, or local equivalent, if available.\nReport the information as soon as practical to the receiving ED.\nYou may copy and use this page as your checklist, or you may use a checklist\nrecommended by your usual receiving hospital which contains at least these\nquestions.\n***Please follow your destination institution's STEMI Checklist***\nHas pain persisted for more than 12 hours? YES NO\nIs systolic BP greater than 180 mmHg? YES NO\nIs diastolic BP greater than 100 mmHg? YES NO\nHistory of structural CNS disease (i.e. AV malformation) YES NO\nSignificant closed head/facial trauma within previous 3 months? YES NO\nSurgery or major trauma, GI/GU bleed in previous 2 weeks? YES NO\nAny history of intracranial hemorrhage? YES NO\nAny bleeding, clotting problem, or blood thinners? YES NO\nPregnant? YES NO\nSerious systemic disease (i.e. advanced cancer, severe liver or kidney\nYES NO\ndisease?)\n(Back to TOC) Red 6",
+      "body_text": "(Back to TOC) Red 6 For chest pain of suspected cardiac origin, initiate therapy per protocol, including the early use of aspirin and nitroglycerin, if not contraindicated. Use this checklist, or local equivalent, if available. Report the information as soon as practical to the receiving ED. You may copy and use this page as your checklist, or you may use a checklist recommended by your usual receiving hospital which contains at least these questions. ***Please follow your destination institution's STEMI Checklist*** Has pain persisted for more than 12 hours? YES NO Is systolic BP greater than 180 mmHg? YES NO Is diastolic BP greater than 100 mmHg? YES NO History of structural CNS disease (i.e. AV malformation) YES NO Significant closed head/facial trauma within previous 3 months? YES NO Surgery or major trauma, GI/GU bleed in previous 2 weeks? YES NO Any history of intracranial hemorrhage? YES NO Any bleeding, clotting problem, or blood thinners? YES NO Pregnant? YES NO Serious systemic disease (i.e. advanced cancer, severe liver or kidney YES disease?) NO",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            276.66,
+            743.786,
+            307.314,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.49,
+            743.786,
+            322.145,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            325.485,
+            743.786,
+            353.101,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Red",
+          "box": [
+            533.25,
+            743.786,
+            553.969,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6",
+          "box": [
+            557.55,
+            743.786,
+            564.22,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Chest",
+          "box": [
+            170.595,
+            25.938,
+            220.844,
+            45.936
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Pain",
+          "box": [
+            227.52,
+            25.938,
+            267.97,
+            45.936
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Fibr",
+          "box": [
+            274.95,
+            25.938,
+            312.07,
+            45.936
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "inolytic",
+          "box": [
+            314.834,
+            25.938,
+            386.397,
+            45.936
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Checklist",
+          "box": [
+            391.5,
+            25.938,
+            475.881,
+            45.936
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "For",
+          "box": [
+            72.0,
+            80.486,
+            89.518,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "chest",
+          "box": [
+            94.275,
+            80.486,
+            122.963,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pain",
+          "box": [
+            126.99,
+            80.486,
+            151.614,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            155.79,
+            80.486,
+            165.934,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suspected",
+          "box": [
+            170.145,
+            80.486,
+            225.355,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cardiac",
+          "box": [
+            229.185,
+            80.486,
+            271.448,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "origin,",
+          "box": [
+            274.5,
+            80.486,
+            312.281,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "initiate",
+          "box": [
+            315.045,
+            80.486,
+            355.937,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "therapy",
+          "box": [
+            358.83,
+            80.486,
+            402.619,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "per",
+          "box": [
+            406.485,
+            80.486,
+            424.264,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            429.075,
+            80.486,
+            479.693,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "including",
+          "box": [
+            482.4,
+            80.486,
+            536.826,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            539.55,
+            80.486,
+            558.059,
+            92.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "early",
+          "box": [
+            72.0,
+            94.436,
+            100.313,
+            106.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "use",
+          "box": [
+            104.175,
+            94.436,
+            123.873,
+            106.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            126.765,
+            94.436,
+            136.909,
+            106.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "aspirin",
+          "box": [
+            141.12,
+            94.436,
+            180.648,
+            106.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            184.86,
+            94.436,
+            206.025,
+            106.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "nitroglycerin,",
+          "box": [
+            209.835,
+            94.436,
+            287.587,
+            106.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            290.385,
+            94.436,
+            297.558,
+            106.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            301.77,
+            94.436,
+            319.771,
+            106.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "contraindicated.",
+          "box": [
+            323.775,
+            94.436,
+            417.403,
+            106.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Use",
+          "box": [
+            72.0,
+            122.381,
+            92.445,
+            134.378
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "this",
+          "box": [
+            95.31,
+            122.381,
+            116.985,
+            134.378
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "checklist,",
+          "box": [
+            119.52,
+            122.381,
+            172.91,
+            134.378
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            175.68,
+            122.381,
+            186.601,
+            134.378
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "local",
+          "box": [
+            191.385,
+            122.381,
+            217.353,
+            134.378
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "equivalent,",
+          "box": [
+            221.535,
+            122.381,
+            285.188,
+            134.378
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            288.0,
+            122.381,
+            295.173,
+            134.378
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available.",
+          "box": [
+            299.34,
+            122.381,
+            354.22,
+            134.378
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Report",
+          "box": [
+            72.0,
+            150.326,
+            109.324,
+            162.323
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            113.31,
+            150.326,
+            131.819,
+            162.323
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "information",
+          "box": [
+            134.685,
+            150.326,
+            202.783,
+            162.323
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            207.0,
+            150.326,
+            219.753,
+            162.323
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "soon",
+          "box": [
+            222.255,
+            150.326,
+            248.19,
+            162.323
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            252.405,
+            150.326,
+            265.158,
+            162.323
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "practical",
+          "box": [
+            267.705,
+            150.326,
+            316.762,
+            162.323
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            320.94,
+            150.326,
+            331.595,
+            162.323
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            334.98,
+            150.326,
+            353.489,
+            162.323
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "receiving",
+          "box": [
+            356.355,
+            150.326,
+            409.547,
+            162.323
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ED.",
+          "box": [
+            412.425,
+            150.326,
+            431.717,
+            162.323
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "You",
+          "box": [
+            72.0,
+            178.271,
+            92.373,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            96.435,
+            178.271,
+            120.163,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "copy",
+          "box": [
+            124.065,
+            178.271,
+            150.017,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            153.9,
+            178.271,
+            175.065,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "use",
+          "box": [
+            178.875,
+            178.271,
+            198.573,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "this",
+          "box": [
+            201.465,
+            178.271,
+            223.14,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "page",
+          "box": [
+            225.675,
+            178.271,
+            252.798,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            255.645,
+            178.271,
+            268.398,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "your",
+          "box": [
+            270.945,
+            178.271,
+            296.14,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "checklist,",
+          "box": [
+            300.915,
+            178.271,
+            354.305,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            357.12,
+            178.271,
+            368.041,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "you",
+          "box": [
+            372.825,
+            178.271,
+            393.081,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            397.125,
+            178.271,
+            420.854,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "use",
+          "box": [
+            424.755,
+            178.271,
+            444.453,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            447.345,
+            178.271,
+            454.015,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "checklist",
+          "box": [
+            457.2,
+            178.271,
+            506.366,
+            190.268
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "recommended",
+          "box": [
+            72.0,
+            192.221,
+            154.189,
+            204.218
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "by",
+          "box": [
+            157.995,
+            192.221,
+            171.239,
+            204.218
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "your",
+          "box": [
+            175.14,
+            192.221,
+            200.335,
+            204.218
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "usual",
+          "box": [
+            205.11,
+            192.221,
+            235.052,
+            204.218
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "receiving",
+          "box": [
+            239.22,
+            192.221,
+            292.412,
+            204.218
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital",
+          "box": [
+            295.335,
+            192.221,
+            340.13,
+            204.218
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "which",
+          "box": [
+            344.34,
+            192.221,
+            378.59,
+            204.218
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "contains",
+          "box": [
+            382.635,
+            192.221,
+            431.643,
+            204.218
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            434.205,
+            192.221,
+            444.178,
+            204.218
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "least",
+          "box": [
+            448.155,
+            192.221,
+            473.8,
+            204.218
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "these",
+          "box": [
+            477.45,
+            192.221,
+            507.794,
+            204.218
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "questions.",
+          "box": [
+            72.0,
+            206.216,
+            130.287,
+            218.213
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "***Please",
+          "box": [
+            120.465,
+            234.116,
+            176.963,
+            246.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "follow",
+          "box": [
+            180.27,
+            234.116,
+            216.736,
+            246.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "your",
+          "box": [
+            221.49,
+            234.116,
+            247.67,
+            246.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "destination",
+          "box": [
+            253.035,
+            234.116,
+            320.773,
+            246.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "institution's",
+          "box": [
+            325.26,
+            234.116,
+            399.185,
+            246.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "STEMI",
+          "box": [
+            402.165,
+            234.116,
+            439.376,
+            246.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Checklist***",
+          "box": [
+            443.97,
+            234.116,
+            516.648,
+            246.113
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Has",
+          "box": [
+            84.555,
+            266.876,
+            106.821,
+            278.873
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pain",
+          "box": [
+            109.35,
+            266.876,
+            133.974,
+            278.873
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "persisted",
+          "box": [
+            138.15,
+            266.876,
+            189.449,
+            278.873
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            193.275,
+            266.876,
+            208.508,
+            278.873
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "more",
+          "box": [
+            213.3,
+            266.876,
+            243.883,
+            278.873
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            246.735,
+            266.876,
+            271.998,
+            278.873
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12",
+          "box": [
+            276.21,
+            266.876,
+            289.585,
+            278.873
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hours?",
+          "box": [
+            292.725,
+            266.876,
+            332.614,
+            278.873
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YES",
+          "box": [
+            490.5,
+            266.876,
+            513.473,
+            278.873
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NO",
+          "box": [
+            534.6,
+            266.876,
+            553.388,
+            278.873
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Is",
+          "box": [
+            84.555,
+            288.251,
+            94.959,
+            300.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "systolic",
+          "box": [
+            97.47,
+            288.251,
+            139.307,
+            300.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "BP",
+          "box": [
+            142.335,
+            288.251,
+            158.18,
+            300.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "greater",
+          "box": [
+            160.56,
+            288.251,
+            200.248,
+            300.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            205.02,
+            288.251,
+            230.283,
+            300.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "180",
+          "box": [
+            234.495,
+            288.251,
+            254.575,
+            300.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mmHg?",
+          "box": [
+            257.715,
+            288.251,
+            303.022,
+            300.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YES",
+          "box": [
+            490.5,
+            288.251,
+            513.473,
+            300.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NO",
+          "box": [
+            534.6,
+            288.251,
+            553.388,
+            300.248
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Is",
+          "box": [
+            84.555,
+            309.176,
+            94.959,
+            321.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "diastolic",
+          "box": [
+            97.47,
+            309.176,
+            145.304,
+            321.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "BP",
+          "box": [
+            148.365,
+            309.176,
+            164.21,
+            321.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "greater",
+          "box": [
+            166.545,
+            309.176,
+            206.233,
+            321.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            211.05,
+            309.176,
+            236.313,
+            321.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "100",
+          "box": [
+            240.48,
+            309.176,
+            260.56,
+            321.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mmHg?",
+          "box": [
+            263.745,
+            309.176,
+            309.052,
+            321.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YES",
+          "box": [
+            490.5,
+            309.176,
+            513.473,
+            321.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NO",
+          "box": [
+            534.6,
+            309.176,
+            553.388,
+            321.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "History",
+          "box": [
+            81.45,
+            331.676,
+            122.891,
+            343.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            126.765,
+            331.676,
+            136.909,
+            343.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "structural",
+          "box": [
+            141.12,
+            331.676,
+            196.837,
+            343.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "CNS",
+          "box": [
+            201.015,
+            331.676,
+            225.536,
+            343.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "disease",
+          "box": [
+            227.205,
+            331.676,
+            269.078,
+            343.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(i.e.",
+          "box": [
+            271.935,
+            331.676,
+            292.876,
+            343.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "AV",
+          "box": [
+            296.1,
+            331.676,
+            311.842,
+            343.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "malformation)",
+          "box": [
+            315.045,
+            331.676,
+            398.441,
+            343.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YES",
+          "box": [
+            490.5,
+            331.676,
+            513.473,
+            343.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NO",
+          "box": [
+            534.6,
+            331.676,
+            553.388,
+            343.673
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Significant",
+          "box": [
+            81.45,
+            354.941,
+            141.727,
+            366.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "closed",
+          "box": [
+            145.71,
+            354.941,
+            180.765,
+            366.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "head/facial",
+          "box": [
+            184.59,
+            354.941,
+            246.542,
+            366.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trauma",
+          "box": [
+            250.74,
+            354.941,
+            292.874,
+            366.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "within",
+          "box": [
+            296.1,
+            354.941,
+            332.625,
+            366.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "previous",
+          "box": [
+            336.78,
+            354.941,
+            387.422,
+            366.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3",
+          "box": [
+            389.97,
+            354.941,
+            396.64,
+            366.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "months?",
+          "box": [
+            399.825,
+            354.941,
+            449.631,
+            366.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YES",
+          "box": [
+            490.5,
+            354.941,
+            513.473,
+            366.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NO",
+          "box": [
+            534.6,
+            354.941,
+            553.388,
+            366.938
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Surgery",
+          "box": [
+            81.45,
+            378.251,
+            125.532,
+            390.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            129.42,
+            378.251,
+            140.341,
+            390.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "major",
+          "box": [
+            145.125,
+            378.251,
+            177.733,
+            390.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trauma,",
+          "box": [
+            182.52,
+            378.251,
+            228.073,
+            390.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "GI/GU",
+          "box": [
+            230.85,
+            378.251,
+            264.502,
+            390.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bleed",
+          "box": [
+            267.57,
+            378.251,
+            298.166,
+            390.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            301.995,
+            378.251,
+            312.503,
+            390.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "previous",
+          "box": [
+            316.665,
+            378.251,
+            367.307,
+            390.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            369.855,
+            378.251,
+            376.525,
+            390.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "weeks?",
+          "box": [
+            379.665,
+            378.251,
+            421.831,
+            390.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YES",
+          "box": [
+            490.5,
+            378.251,
+            513.473,
+            390.248
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NO",
+          "box": [
+            534.6,
+            378.251,
+            553.388,
+            390.248
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Any",
+          "box": [
+            81.45,
+            401.516,
+            103.531,
+            413.513
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "history",
+          "box": [
+            107.415,
+            401.516,
+            146.957,
+            413.513
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            150.84,
+            401.516,
+            160.984,
+            413.513
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "intracranial",
+          "box": [
+            165.195,
+            401.516,
+            232.593,
+            413.513
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hemorrhage?",
+          "box": [
+            236.79,
+            401.516,
+            314.187,
+            413.513
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YES",
+          "box": [
+            490.5,
+            401.516,
+            513.473,
+            413.513
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NO",
+          "box": [
+            534.6,
+            401.516,
+            553.388,
+            413.513
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Any",
+          "box": [
+            81.45,
+            424.826,
+            103.531,
+            436.823
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bleeding,",
+          "box": [
+            107.415,
+            424.826,
+            160.068,
+            436.823
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clotting",
+          "box": [
+            162.855,
+            424.826,
+            206.102,
+            436.823
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "problem,",
+          "box": [
+            209.025,
+            424.826,
+            261.022,
+            436.823
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            263.79,
+            424.826,
+            274.711,
+            436.823
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "blood",
+          "box": [
+            279.495,
+            424.826,
+            311.099,
+            436.823
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "thinners?",
+          "box": [
+            314.91,
+            424.826,
+            370.224,
+            436.823
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YES",
+          "box": [
+            490.5,
+            424.826,
+            513.473,
+            436.823
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NO",
+          "box": [
+            534.6,
+            424.826,
+            553.388,
+            436.823
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Pregnant?",
+          "box": [
+            81.45,
+            446.786,
+            140.234,
+            458.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YES",
+          "box": [
+            490.5,
+            446.786,
+            513.473,
+            458.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NO",
+          "box": [
+            534.6,
+            446.786,
+            553.388,
+            458.783
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Serious",
+          "box": [
+            81.45,
+            464.336,
+            124.424,
+            476.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "systemic",
+          "box": [
+            126.945,
+            464.336,
+            176.015,
+            476.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "disease",
+          "box": [
+            179.055,
+            464.336,
+            220.928,
+            476.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(i.e.",
+          "box": [
+            223.785,
+            464.336,
+            244.726,
+            476.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "advanced",
+          "box": [
+            247.95,
+            464.336,
+            301.897,
+            476.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cancer,",
+          "box": [
+            305.73,
+            464.336,
+            347.441,
+            476.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "severe",
+          "box": [
+            349.605,
+            464.336,
+            386.898,
+            476.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "liver",
+          "box": [
+            389.79,
+            464.336,
+            414.355,
+            476.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            419.13,
+            464.336,
+            430.051,
+            476.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "kidney",
+          "box": [
+            434.835,
+            464.336,
+            473.093,
+            476.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YES",
+          "box": [
+            490.5,
+            475.136,
+            513.473,
+            487.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "disease?)",
+          "box": [
+            81.45,
+            478.286,
+            133.068,
+            490.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NO",
+          "box": [
+            534.6,
+            475.136,
+            553.388,
+            487.133
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0043.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 98.81,
+    "output_to_native_length_ratio": 0.985,
+    "native_dosage_tokens": [
+      "100mmhg",
+      "180mmhg"
+    ],
+    "output_dosage_tokens": [
+      "100mmhg",
+      "180mmhg"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

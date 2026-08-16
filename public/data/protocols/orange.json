@@ -1,0 +1,400 @@
+[
+  {
+    "id": "orange_150_151",
+    "title": "Transport of Mentally Ill Patients",
+    "category": "orange",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Maine EMS personnel are generally called to transport a mentally ill patient in one of two situations:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Emergency Transport</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Safety for the patient and the crew is the primary concern in the transport of the mentally ill patient. Recognizing that altered level of consciousness can mimic mental illness, especially in the prehospital setting, personnel should perform a thorough medical evaluation referring to Altered Level of Consciousness protocol, <strong>Gold 5</strong>, prior to attributing behavior to mental illness. Refer to the Hyperactive Delirium with Severe Agitation protocol, <strong>Orange 5</strong>.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>All diagnostic and therapeutic interventions administered by EMS clinicians are pursuant to the prescriptive authority of a physician. In certain limited situations, when a patient poses a significant danger to self or others, it may be appropriate to restrain the patient involuntarily. Clinicians are cautioned to use physical restraint as a last resort, preferably with the assistance of local law enforcement, refer to the Restraints protocol, <strong>Orange 4</strong>. Once the decision is made to restrain a patient, the least restrictive restraint reasonable should be implemented and the patient should remain restrained until arrival at the emergency department, unless it interferes with the delivery of medical care. Only commercially available soft restraints are approved by Maine EMS.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Non-Emergency Transfer</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Mentally ill patients who are being transferred usually fall into one of these categories:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><em>Voluntary Committal</em> \u2013 These patients have agreed to be transferred to a facility for evaluation and treatment of an underlying mental illness. It is important to get a thorough report on the patient prior to transport to avoid surprises en route. Voluntary committal patients can change their mind during transport. In this case, it is the responsibility of the EMS personnel to discharge the patient at a safe location, preferably at the originating facility. If it is not possible to return the patient to the originating facility, notify local law enforcement to meet you at your location. As with any patient sign-off situation, the patient must meet safe criteria for discharge from EMS transport, refer to Transport protocol, <strong>Grey 22</strong>. In these nuanced situations, EMS clinicians are encouraged to discuss with OLMC at the originating facility prior to signing off the patient.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><em>Involuntary Committal</em> \u2013 Patients who are being committed involuntarily must have committal papers (blue papers) completed prior to transport. Between the hours of 7 a.m. and 11 p.m. a judge has to sign the committal papers. After 11 p.m. and before 7 a.m. the papers do not have to be signed except for Riverview Psychiatric Center (formerly AMHI) \u2013 this is known as the \"pajama clause\". Make sure that the transporting service is listed correctly on the papers. According to Maine law, the patient must be transported in the least restrictive form of transportation available. Make sure you get a thorough history to determine whether restraints will be necessary. <em>If the receiving facility refuses to accept the patient after evaluating them, the transporting service is required, by law, to transport the patient back to the originating facility.</em></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p>Pediatric behavioral health emergencies are increasing in frequency throughout the United States. EMS clinicians should be compassionate to the special needs and considerations of this population, especially in times of crisis. Establishing rapport with the the patient, speaking at eye level, and using a non-threatening physical posture should be emphasized when de-escalating these calls. The clinician will often find it helpful to engage the parents/guardians in the evaluation and transport decision.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "orange_150",
+        "pageNumber": "Orange 1",
+        "jpgReference": "/assets/pages_webp/0150.webp"
+      },
+      {
+        "pageId": "orange_151",
+        "pageNumber": "Orange 2",
+        "jpgReference": "/assets/pages_webp/0151.webp"
+      }
+    ]
+  },
+  {
+    "id": "orange_152",
+    "title": "Depression / Suicidal Ideation",
+    "category": "orange",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Refer to <strong>Orange 1</strong> for Transport of Mentally Ill Patients protocol\nRefer to <strong>Orange 4</strong> for Restraint protocol\nRefer to <strong>Orange 5</strong> for Hyperactive Delirium with Severe Agitation protocol</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>PEARL</strong>\nA SAD PERSONS Score &gt; 4 or a \"yes\" answer to any of the Columbia Suicide Screening questions may indicate that the patient requires psychiatric hospitalization. However, <strong>all patients presenting with a psychiatric emergency should be transported to the hospital for evaluation.</strong></p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Ensure the scene is safe and request law enforcement for patients actively threatening/attempting suicide."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Assess the patient: has suicide attempt or self-harm occurred? If yes, evaluate for need of medical treatment (e.g., ingestion) or traumatic injuries (e.g., cutting, strangulation) and refer to appropriate protocol. If needed, call for ALS."
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "Establish rapport with the patient by listening carefully and speaking in a non-confrontational manner."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "<p>Assess the patient's risk for depression and suicidal ideation.\n    a. <strong>SAD PERSONS Scale</strong> (report score to receiving hospital):\n        1 point for each of the following\n        <strong>S</strong>ex: male\n        <strong>A</strong>ge &lt;20 or &gt;44\n        <strong>D</strong>epression\n        <strong>P</strong>revious suicide attempt\n        <strong>E</strong>thanol abuse\n        <strong>R</strong>ational thinking loss\n        <strong>S</strong>ocial supports lacking\n        <strong>O</strong>rganized suicide plan\n        <strong>N</strong>o spouse (divorced, widowed, single)\n        <strong>S</strong>ickness (chronic, debilitating, or severe)\n    b. Columbia Suicide Screening (if possible, discuss the following questions with the patient):\n        i. Have you wished you were dead or wished you could go to sleep and not wake up?\n        ii. Have you been thinking about how you might kill yourself?\n        iii. Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)?</p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "<p>Provide constant, 1:1 supervision for the patient.</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Record or collect items such as toxic substances, alcohol, drugs and medications that may have been taken and transport with patient to the hospital, if appropriate. Items may also be collected by law enforcement, if appropriate. Refer to Poisoning/Overdose protocol, <strong>Yellow 1</strong> for any ingestion."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ALL",
+        "html": "Provide support for family and friends who are present."
+      },
+      {
+        "num": 8,
+        "providerLevel": "ALL",
+        "html": "Obtain information from family and friends and obtain their contact information should the hospital have any questions."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ALL",
+        "html": "Transport the patient to the closest facility that can meet their medical and psychiatric needs."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "orange_152",
+        "pageNumber": "Orange 3",
+        "jpgReference": "/assets/pages_webp/0152.webp"
+      }
+    ]
+  },
+  {
+    "id": "orange_153",
+    "title": "Restraints",
+    "category": "orange",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>In certain limited situations, when a patient poses a significant danger to self or others, it may be appropriate to restrain the patient involuntarily. Clinicians are cautioned to use physical restraint as a last resort, preferably with the assistance of local law enforcement. Once the decision is made to restrain a patient, the least restrictive restraint reasonable should be implemented and the patient should remain restrained until arrival at the emergency department, unless it interferes with the delivery of medical care. Only commercially available soft restraints are approved by Maine EMS.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<h3>Pearls for Restraints</h3>\n<p>In conjunction with and support of a joint statement released in October 2020 by the NAEMSP, NASEMSO, NEMSMA, NAEMT and APA, the MDPB strongly supports regular, continuing education focused on the management of behavioral emergencies, implementation of QA/QI processes dedicated to these situations, and fostering local relationships with key stakeholders that encourage local systems of care to support EMS clinicians caring for patients suffering from behavioral emergencies.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Refer to Altered Level of Consciousness Protocol, <strong>Gold 5</strong>, to establish etiology of agitation."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Request law enforcement assistance."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Request ALS."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Attempt de-escalation techniques (speak in an honest, non-confrontational tone while avoiding eye contact)."
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Have appropriate personnel available prior to initiating restraints."
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Restrain patients in a lateral or supine position. <strong>NEVER</strong> leave patients restrained in a prone position. <strong>NEVER</strong> restrain a patient's hands and feet behind them (hog-tying). All applied restraints must be easy to remove should a medical emergency occur."
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Never place objects on top of patients to restrain them."
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Restrained patients require 1:1 observation by EMS personnel and require continuous cardiac, pulse oximetry and waveform capnography monitoring, if able to do so."
+      },
+      {
+        "num": 9,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Contact <strong>OLMC</strong> as soon as logistically possible after securing the safety of the patient and clinicians."
+      },
+      {
+        "num": 10,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Documentation: Document de-escalation techniques utilized prior to physical restraint. Document type of restraints used, how restraints applied, when restraints applied, why restraints applied (e.g., patient's behavior and mental status), the agency and individual that applied the restraints, frequent vital signs and CSM checks, education provided to patient and time <strong>OLMC</strong> notified."
+      },
+      {
+        "num": 11,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Restraint devices applied by a law enforcement officer (LEO) require an officer's presence to ensure patient safety and to allow for quick removal, if medically necessary. In most cases, the LEO should accompany the patient in the ambulance. However, if the LEO requests, and there is no active safety concern to the EMS Clinician, it is permissive for the LEO to immediately follow the ambulance in their vehicle to the hospital."
+      },
+      {
+        "num": 12,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Restrained patients should not be moved in a stair chair device as violent patients cannot be properly restrained in a stair chair and EMS personnel may be easily thrown off-balance by a resisting patient."
+      },
+      {
+        "num": 13,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Restrained patients should be transported to the nearest emergency department."
+      },
+      {
+        "num": 14,
+        "providerLevel": "PARAMEDIC",
+        "html": "Refer to Hyperactive Delirium with Severe Agitation protocol, <strong>Orange 5</strong>. Physical restraint is both physically and mentally traumatizing to patients. If the patient remains agitated after physical restraint, and verbal de-escalation is unsuccessful, pharmacologic management is strongly recommended."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "orange_153",
+        "pageNumber": "Orange 4",
+        "jpgReference": "/assets/pages_webp/0153.webp"
+      }
+    ]
+  },
+  {
+    "id": "orange_154_155_156",
+    "title": "Hyperactive Delirium with Severe Agitation",
+    "category": "orange",
+    "intro": [
+      {
+        "type": "table",
+        "providerLevel": "PARAMEDIC",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: center;\">Score</th>\n<th style=\"text-align: left;\">Responsiveness</th>\n<th style=\"text-align: left;\">Speech</th>\n<th style=\"text-align: left;\">Facial Expression</th>\n<th style=\"text-align: left;\">Eyes</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">+4</td>\n<td style=\"text-align: left;\">Combative, very violent, out of control</td>\n<td style=\"text-align: left;\">Loud outbursts</td>\n<td style=\"text-align: left;\">Agitated</td>\n<td style=\"text-align: left;\">Normal</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">+3</td>\n<td style=\"text-align: left;\">Very anxious, agitated, mild physical element of violence</td>\n<td style=\"text-align: left;\">Loud outbursts</td>\n<td style=\"text-align: left;\">Agitated</td>\n<td style=\"text-align: left;\">Normal</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">+2</td>\n<td style=\"text-align: left;\">Anxious, agitated</td>\n<td style=\"text-align: left;\">Loud outbursts</td>\n<td style=\"text-align: left;\">Normal</td>\n<td style=\"text-align: left;\">Normal</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">+1</td>\n<td style=\"text-align: left;\">Anxious, agitated</td>\n<td style=\"text-align: left;\">Normal</td>\n<td style=\"text-align: left;\">Normal</td>\n<td style=\"text-align: left;\">Normal</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">0</td>\n<td style=\"text-align: left;\">Responds to name in normal tone</td>\n<td style=\"text-align: left;\">Normal</td>\n<td style=\"text-align: left;\">Normal</td>\n<td style=\"text-align: left;\">Clear, no ptosis</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">-1</td>\n<td style=\"text-align: left;\">Lethargic response to name</td>\n<td style=\"text-align: left;\">Mild slowing or thickening</td>\n<td style=\"text-align: left;\">Mild relaxation</td>\n<td style=\"text-align: left;\">Glazed or mild ptosis (&lt;half eye)</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">-2</td>\n<td style=\"text-align: left;\">Responds only if name is called loudly</td>\n<td style=\"text-align: left;\">Slurring or prominent slowing</td>\n<td style=\"text-align: left;\">Mild relaxation (slacked jaw)</td>\n<td style=\"text-align: left;\">Glazed or marked ptosis (&lt;half eye)</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">-3</td>\n<td style=\"text-align: left;\">Responds only after mild prodding</td>\n<td style=\"text-align: left;\">Few recognizable words</td>\n<td style=\"text-align: left;\">Mild relaxation (slacked jaw)</td>\n<td style=\"text-align: left;\">Glazed or marked ptosis (&lt;half eye)</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">-4</td>\n<td style=\"text-align: left;\">Does not respond to mild prodding or shaking</td>\n<td style=\"text-align: left;\">Few recognizable words</td>\n<td style=\"text-align: left;\">Mild relaxation (slacked jaw)</td>\n<td style=\"text-align: left;\">Glazed or marked ptosis (&lt;half eye)</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "PARAMEDIC",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Procedure for AMSS Assessment</th>\n<th style=\"text-align: center;\">Score</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">1. Observe the patient - if alert, restless, agitated or combative</td>\n<td style=\"text-align: center;\">0 to + 4</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">2. Say the patient's name in a gentle tone of voice and ask patient to open eyes</td>\n<td style=\"text-align: center;\">-1</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">3. If no response to voice, continue with routine EMS care</td>\n<td style=\"text-align: center;\">-2 to -4</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<h3>Approximate Dosing of IM Ketamine for Weight Ranges</h3>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "PARAMEDIC",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Patient Weight</th>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\">IM Ketamine dose</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">110 <strong>lbs</strong> or less</td>\n<td style=\"text-align: left;\">50 <strong>kg</strong> or less</td>\n<td style=\"text-align: left;\">200 mg (Max dose)</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">111-165 <strong>lbs</strong></td>\n<td style=\"text-align: left;\">51-75 <strong>kg</strong></td>\n<td style=\"text-align: left;\">250 mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">166 - 220 <strong>lbs</strong></td>\n<td style=\"text-align: left;\">76-100 <strong>kg</strong></td>\n<td style=\"text-align: left;\">350 mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">221-275 <strong>lbs</strong></td>\n<td style=\"text-align: left;\">101-125 <strong>kg</strong></td>\n<td style=\"text-align: left;\">400 mg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">greater than 275 <strong>lbs</strong></td>\n<td style=\"text-align: left;\">greater than 125 <strong>kg</strong></td>\n<td style=\"text-align: left;\">500 mg</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<h3>Pearls for Hyperactive Delirium with Severe Agitation</h3>\n<p><strong>Agitation</strong> - is defined by excessive, purposeless cognitive and motor activity or restlessness, usually associated with a state of tension or anxiety. <strong>Hyperactive Delirium with Severe Agitation</strong> is a sub-category of agitation, with a potential for higher morbidity and mortality. It can be defined by a patient presenting with the following constellation of symptoms (based on the 2009 ACEP White Paper) with frequency in parenthesis:\n* Exceptional/abnormal pain tolerance (100%)\n* Tachypnea (100%)\n* Tactile hyperthermia (95%)\n* Unusual strength (90%)\n* Police Noncompliance (90%)\n* Lack of tiring against restraint (90%)\n* Inappropriate clothing for environmental temperature (70%)\n* Violent and paranoid behavior\n* Rapid development of symptoms\n* Rapidly and fluctuating periods of calm and then delirium</p>\n<ul>\n<li>Patient who are in a post-ictal state (i.e. have just suffered a seizure) are <strong>NOT</strong> considered to be in Hyperactive Delirium with Severe Agitation and should <strong>NOT</strong> receive Ketamine.</li>\n<li>Patients should <strong>NOT</strong> receive <strong>BOTH</strong> Midazolam and Ketamine due to concerns for potential additive affects and respiratory depression.</li>\n</ul>\n<h3>Pearls for Midazolam/Ketamine</h3>\n<h4>* Midazolam</h4>\n<ul>\n<li>Patients with underlying medical conditions (including COPD/CHF/CAD) as well as patients older than 60 years are more likely to suffer adverse effects from midazolam. Consider lower doses in this population.</li>\n<li><strong>WARNING</strong>: May cause respiratory depression, apnea or arrest.</li>\n<li>Assess patients for signs and symptoms of respiratory depression and sedation.</li>\n<li>Administration: <strong>IM</strong> - Administer undiluted deep IM into large muscle.</li>\n<li>Concomitant use with opioids: <strong>[US Boxed Warning]</strong>: Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death.</li>\n</ul>\n<h4>**Ketamine</h4>\n<ul>\n<li>Document the patient's Altered Mental Status Score (AMSS) in the run report.</li>\n<li>Patients with an AMSS less than 4 may be more likely to require airway management when receiving Ketamine, therefore Ketamine is to be used <strong>ONLY</strong> if the patient is suffering from Hyperactive Delirium with Severe Agitation, as measured by an AMSS score of 4.</li>\n<li>Maine EMS Services will be stocking the 100 mg/mL concentration to accommodate the wide dose ranges in the protocol. This is to avoid carrying two very different concentrations and the risk of a serious dose error.</li>\n<li><strong>WARNING</strong>: Overdose may lead to panic attacks and aggressive behavior; rarely seizures, increased ICP, and cardiac arrest. Very similar in chemical makeup to PCP (phencyclidine), but it is shorter acting and less toxic.</li>\n<li>Administration: <strong>IM</strong> - Inject deep IM into large muscle mass.</li>\n</ul>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Maintain crew safety; ask for law enforcement assistance, if available."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "Attempt verbal de-escalation using direct, empathetic and calm voice. Present clear limits and options. Respect the patient's personal space. Avoid direct eye contact and assume a non-confrontational posture."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "If altered mental status, check oxygen saturation and perform finger stick blood glucose, if so trained."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "If blood glucose is less than 60 mg/dL, refer to Diabetic/Hypoglycemic Emergencies protocol, <strong>Gold 6</strong>."
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT_ADVANCED_EMT",
+        "html": "These symptoms may be caused by a number of intoxicants including, but not limited to, alcohol, sympathomimetics (e.g., cocaine, methamphetamine, MDMA), and dissociative agents (e.g., PCP, LSD, dextromethorphan, K2/Spice, Bath Salts, DMT). <strong>Early contact of OLMC is essential for proper preparation of the receiving facility and staff.</strong>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "PARAMEDIC",
+        "html": "Perform the Altered Mental Status Scale:"
+      },
+      {
+        "num": 7,
+        "providerLevel": "PARAMEDIC",
+        "html": "If Altered Mental Status Score +1, +2 or +3, consider midazolam 4-10 mg <strong>IM</strong> for patient/EMS clinician safety and patient comfort. First dose should be based on patient's size, age, and the circumstances causing agitation"
+      },
+      {
+        "num": 8,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>If Altered Mental Status Score <strong>+4</strong>, consider <strong>either</strong>:\n    a. *Midazolam for patient/EMS clinician safety and patient comfort. The first dose should be based on patient's size, age, and the circumstances causing the agitation:\n        i. <strong>Adult</strong> - midazolam 4-10 mg <strong>IM</strong>\n        ii. <strong>Pediatric (10 years or older)</strong> - midazolam 0.1 mg/kg <strong>IM</strong>, MAX single dose of 10 mg\n            1. For children less than 10 yo, <strong>OLMC</strong> must be contacted <strong>prior</strong> to administration</p>\n<p><strong>-OR-</strong></p>\n<p>b. **Ketamine\n    i. <strong>Adult</strong> - ketamine 4 mg/kg <strong>IM</strong> (MAX dose of 500 mg)\n        1. <strong>may not</strong> be used in patients greater than 65 years old\n    ii. <strong>Pediatric</strong> - ketamine 4 mg/kg <strong>IM</strong> .\n        1. For children less than 10 yo, <strong>OLMC</strong> must be contacted <strong>prior</strong> to administration</p>"
+      },
+      {
+        "num": 9,
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>Continuously monitor and document the following every 5 minutes - ECG, O2 sat, ETCO2, AMSS, and vital signs</p>"
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "Contact <strong>OLMC</strong> for dosing questions or if patient requires repeat dosing."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "orange_154",
+        "pageNumber": "Orange 5",
+        "jpgReference": "/assets/pages_webp/0154.webp"
+      },
+      {
+        "pageId": "orange_155",
+        "pageNumber": "Orange 6",
+        "jpgReference": "/assets/pages_webp/0155.webp"
+      },
+      {
+        "pageId": "orange_156",
+        "pageNumber": "Orange 7",
+        "jpgReference": "/assets/pages_webp/0156.webp"
+      }
+    ]
+  },
+  {
+    "id": "orange_157",
+    "title": "Care of the Person Experiencing Homelessness",
+    "category": "orange",
+    "intro": [],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Approach patient in a non-threatening manner and establish rapport."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Patient may be wearing several layers of clothes. Avoid cutting clothes, if possible, as these may be the only clothes the patient has, however do not allow clothes to prevent a full examination of the patient. Be aware of the presence of sharp objects (i.e. syringes, knives, weapons, etc.) in pockets and clothing."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Be cognizant of patient possessions and attempt to secure patient belongings with a trusted individual if it is not feasible to transport all belongings."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Homeless patients are at risk of exposure to environmental elements. Move the patient to a \"safe\" environment (i.e. ambulance) early in the encounter, if feasible.\n    a. Once the patient is physically in a private and safe location, consider inquiring about the patient's safety from physical or verbal threats.</p>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Be aware of concurrent illnesses that may influence the chief complaint. Homeless individuals may lack access to routine medical care predisposing them to the risk for both chronic and acute illnesses.\n    a. For example, the pregnancy rate of homeless women is estimated to be twice that of the general population.</p>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Mental illness and substance abuse occur frequently in the homeless population. Avoid attributing the current chief complaint to these underlying conditions.</p>"
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Head injuries are common in the homeless population. For patient with altered mental status, refer to Altered Level of Consciousness protocol, <strong>Gold 5</strong> or Head Injury protocol, <strong>Green 8</strong>."
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Individuals suffering homelessness may have many barriers that limit their interest in transport to a hospital. Should the patient refuse transport, refer to the Transport Protocol, <strong>Grey 22</strong> and consider discussing with OLMC."
+      },
+      {
+        "num": 9,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "For patients refusing transport, consider providing a list of local resources for food, shelter, and other available resources in the immediate community."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "orange_157",
+        "pageNumber": "Orange 8",
+        "jpgReference": "/assets/pages_webp/0157.webp"
+      }
+    ]
+  }
+]

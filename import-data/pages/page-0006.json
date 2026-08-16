@@ -1,0 +1,3604 @@
+{
+  "id": "page-0006",
+  "pdf_page": 6,
+  "protocol_label": null,
+  "kind": "toc",
+  "chapter_id": null,
+  "topic_id": null,
+  "title": "Table of Contents",
+  "markdown": "# Table of Contents\n\n| Protocol Name | Color and Number |\n| --- | --- |\n| Pediatric Transportation | Pink 7 -8 |\n| Transport of Mentally Ill Patients | Orange 1 - 2 |\n| Depression / Suicidal Ideation | Orange 3 |\n| Restraints | Orange 4 |\n| Hyperactive Delirium with Severe Agitation | Orange 5 - 7 |\n| Care of the Person Experiencing Homelessness | Orange 8 |\n| Minimum Landing Zone | Grey 1 - 2 |\n| Do Not Resuscitate Guidelines | Grey 3 - 7 |\n| Pre-hospital Management of Hospice Patients | Grey 8 - 10 |\n| Death Situations for Emergency Responders | Grey 11 - 12 |\n| Maine Death With Dignity Law | Grey 13 |\n| Bariatric Patients | Grey 14 |\n| Mass Casualty / Disasters/Hazmat | Grey 15 - 17 |\n| Sexual Assault Victim | Grey 18 |\n| Child Abuse Management and Reporting | Grey 19 - 20 |\n| Adult Abuse, and Intoxicated Drivers | Grey 21 |\n| Transport Protocol | Grey 22 - 23 |\n| Protective Headgear Removal | Grey 24 |\n| Crime Scenes | Grey 25 |\n| Defibrillation / Cardioversion Settings | Grey 26 |\n| Baby Safe Haven Laws | Grey 27 |\n| Safe Response & Transport | Grey 28 |\n| Care of the Deaf and Hard of Hearing | Grey 29 -30 |\n| Care of the Visually Impaired and Blind | Grey 31 |\n| Maine EMS Medication List | Grey 32 |\n| Telephone / Radio Reference/ Contact Numbers | Grey 33 - 35 |\n| Non-EMS System Medical Interveners | Black 1 |\n| | |\n| **ANNEX** | |\n| Operational K9 Protocols Intro | OD Green 1 |\n| Operational K9 Restraint | OD Green 2 - 3 |\n| Operational K9 Airway Obstruction | OD Green 4 - 5 |\n| Operational K9 Airway Management | OD Green 6 - 7 |\n| Operational K9 Surgical Airway | OD Green 8 - 9 |\n| Operational K9 Cardiac Arrest | OD Green 10 - 11 |\n| Operational K9 Post-Resuscitation Care | OD Green 12 |\n| Operational K9 Hemorrhage Control | OD Green 13 |\n| Operational K9 Hemorrhagic Shock | OD Green 14 |\n| Operational K9 Chest Trauma | OD Green 15 |\n",
+  "plain_text": "Table of Contents Protocol Name Color and Number Pediatric Transportation Pink 7 -8 Transport of Mentally Ill Patients Orange 1 - 2 Depression / Suicidal Ideation Orange 3 Restraints Orange 4 Hyperactive Delirium with Severe Agitation Orange 5 - 7 Care of the Person Experiencing Homelessness Orange 8 Minimum Landing Zone Grey 1 - 2 Do Not Resuscitate Guidelines Grey 3 - 7 Pre-hospital Management of Hospice Patients Grey 8 - 10 Death Situations for Emergency Responders Grey 11 - 12 Maine Death With Dignity Law Grey 13 Bariatric Patients Grey 14 Mass Casualty / Disasters/Hazmat Grey 15 - 17 Sexual Assault Victim Grey 18 Child Abuse Management and Reporting Grey 19 - 20 Adult Abuse, and Intoxicated Drivers Grey 21 Transport Protocol Grey 22 - 23 Protective Headgear Removal Grey 24 Crime Scenes Grey 25 Defibrillation / Cardioversion Settings Grey 26 Baby Safe Haven Laws Grey 27 Safe Response & Transport Grey 28 Care of the Deaf and Hard of Hearing Grey 29 -30 Care of the Visually Impaired and Blind Grey 31 Maine EMS Medication List Grey 32 Telephone / Radio Reference/ Contact Numbers Grey 33 - 35 Non-EMS System Medical Interveners Black 1 ANNEX Operational K9 Protocols Intro OD Green 1 Operational K9 Restraint OD Green 2 - 3 Operational K9 Airway Obstruction OD Green 4 - 5 Operational K9 Airway Management OD Green 6 - 7 Operational K9 Surgical Airway OD Green 8 - 9 Operational K9 Cardiac Arrest OD Green 10 - 11 Operational K9 Post-Resuscitation Care OD Green 12 Operational K9 Hemorrhage Control OD Green 13 Operational K9 Hemorrhagic Shock OD Green 14 Operational K9 Chest Trauma OD Green 15",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        374.26,
+        34.09,
+        631.84,
+        56.82
+      ],
+      "text": "Tabl e of Cont ent s",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        265.74,
+        73.53,
+        832.19,
+        87.42
+      ],
+      "text": "Protocol Name Color and Number",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        98.48,
+        786.02,
+        108.71
+      ],
+      "text": "Pediatric Transportation Pink 7 -8",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        121.21,
+        797.1,
+        131.44
+      ],
+      "text": "Transport of Mentally Ill Patients Orange 1 - 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        143.94,
+        787.53,
+        154.16
+      ],
+      "text": "Depression / Suicidal Ideation Orange 3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        166.66,
+        787.53,
+        176.89
+      ],
+      "text": "Restraints Orange 4",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        189.39,
+        797.1,
+        199.62
+      ],
+      "text": "Hyperactive Delirium with Severe Agitation Orange 5 - 7",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        212.12,
+        787.53,
+        222.34
+      ],
+      "text": "Care of the Person Experiencing Homelessness Orange 8",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        234.84,
+        791.2,
+        245.07
+      ],
+      "text": "Minimum Landing Zone Grey 1 - 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        257.57,
+        791.2,
+        267.8
+      ],
+      "text": "Do Not Resuscitate Guidelines Grey 3 - 7",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        280.3,
+        792.68,
+        290.53
+      ],
+      "text": "Pre-hospital Management of Hospice Patients Grey 8 - 10",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        303.03,
+        796.35,
+        313.25
+      ],
+      "text": "Death Situations for Emergency Responders Grey 11 - 12",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        325.75,
+        783.11,
+        335.98
+      ],
+      "text": "Maine Death With Dignity Law Grey 13",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        348.48,
+        783.11,
+        358.71
+      ],
+      "text": "Bariatric Patients Grey 14",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        371.21,
+        796.36,
+        381.44
+      ],
+      "text": "Mass Casualty / Disasters/Hazmat Grey 15 - 17",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        393.94,
+        783.11,
+        404.16
+      ],
+      "text": "Sexual Assault Victim Grey 18",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        416.66,
+        796.36,
+        426.89
+      ],
+      "text": "Child Abuse Management and Reporting Grey 19 - 20",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        439.39,
+        783.11,
+        449.62
+      ],
+      "text": "Adult Abuse, and Intoxicated Drivers Grey 21",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        462.12,
+        796.36,
+        472.34
+      ],
+      "text": "Transport Protocol Grey 22 - 23",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        484.84,
+        783.11,
+        495.07
+      ],
+      "text": "Protective Headgear Removal Grey 24",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        507.57,
+        783.11,
+        517.8
+      ],
+      "text": "Crime Scenes Grey 25",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        530.3,
+        783.11,
+        540.53
+      ],
+      "text": "Defibrillation / Cardioversion Settings Grey 26",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        553.03,
+        783.11,
+        563.25
+      ],
+      "text": "Baby Safe Haven Laws Grey 27",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        575.41,
+        783.11,
+        585.64
+      ],
+      "text": "Safe Response & Transport Grey 28",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        598.14,
+        794.85,
+        608.37
+      ],
+      "text": "Care of the Deaf and Hard of Hearing Grey 29 -30",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        620.87,
+        783.11,
+        631.09
+      ],
+      "text": "Care of the Visually Impaired and Blind Grey 31",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        643.59,
+        783.11,
+        653.82
+      ],
+      "text": "Maine EMS Medication List Grey 32",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        666.32,
+        796.36,
+        676.55
+      ],
+      "text": "Telephone / Radio Reference/ Contact Numbers Grey 33 - 35",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        689.05,
+        781.63,
+        699.28
+      ],
+      "text": "Non-EMS System Medical Interveners Black 1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        734.5,
+        125.63,
+        744.73
+      ],
+      "text": "ANNEX",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        757.23,
+        795.62,
+        767.46
+      ],
+      "text": "Operational K9 Protocols Intro OD Green 1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        779.96,
+        805.18,
+        790.19
+      ],
+      "text": "Operational K9 Restraint OD Green 2 - 3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        802.69,
+        805.18,
+        812.91
+      ],
+      "text": "Operational K9 Airway Obstruction OD Green 4 - 5",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        825.41,
+        805.18,
+        835.64
+      ],
+      "text": "Operational K9 Airway Management OD Green 6 - 7",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        848.14,
+        805.18,
+        858.37
+      ],
+      "text": "Operational K9 Surgical Airway OD Green 8 - 9",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        870.87,
+        812.29,
+        881.09
+      ],
+      "text": "Operational K9 Cardiac Arrest OD Green 10 - 11",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        893.59,
+        799.3,
+        903.82
+      ],
+      "text": "Operational K9 Post-Resuscitation Care OD Green 12",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        916.32,
+        799.3,
+        926.55
+      ],
+      "text": "Operational K9 Hemorrhage Control OD Green 13",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        939.05,
+        799.3,
+        949.28
+      ],
+      "text": "Operational K9 Hemorrhagic Shock OD Green 14",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        961.78,
+        799.3,
+        972.0
+      ],
+      "text": "Operational K9 Chest Trauma OD Green 15",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "faac4fe578d2a325e9f7bb257da546619545550ee59562b6d9dffcd33f0476f2",
+    "native": {
+      "text": "Tabl e of Cont ent s\nProtocol Name Color and Number\nPediatric Transportation Pink 7 -8\nTransport of Mentally Ill Patients Orange 1 - 2\nDepression / Suicidal Ideation Orange 3\nRestraints Orange 4\nHyperactive Delirium with Severe Agitation Orange 5 - 7\nCare of the Person Experiencing Homelessness Orange 8\nMinimum Landing Zone Grey 1 - 2\nDo Not Resuscitate Guidelines Grey 3 - 7\nPre-hospital Management of Hospice Patients Grey 8 - 10\nDeath Situations for Emergency Responders Grey 11 - 12\nMaine Death With Dignity Law Grey 13\nBariatric Patients Grey 14\nMass Casualty / Disasters/Hazmat Grey 15 - 17\nSexual Assault Victim Grey 18\nChild Abuse Management and Reporting Grey 19 - 20\nAdult Abuse, and Intoxicated Drivers Grey 21\nTransport Protocol Grey 22 - 23\nProtective Headgear Removal Grey 24\nCrime Scenes Grey 25\nDefibrillation / Cardioversion Settings Grey 26\nBaby Safe Haven Laws Grey 27\nSafe Response & Transport Grey 28\nCare of the Deaf and Hard of Hearing Grey 29 -30\nCare of the Visually Impaired and Blind Grey 31\nMaine EMS Medication List Grey 32\nTelephone / Radio Reference/ Contact Numbers Grey 33 - 35\nNon-EMS System Medical Interveners Black 1\nANNEX\nOperational K9 Protocols Intro OD Green 1\nOperational K9 Restraint OD Green 2 - 3\nOperational K9 Airway Obstruction OD Green 4 - 5\nOperational K9 Airway Management OD Green 6 - 7\nOperational K9 Surgical Airway OD Green 8 - 9\nOperational K9 Cardiac Arrest OD Green 10 - 11\nOperational K9 Post-Resuscitation Care OD Green 12\nOperational K9 Hemorrhage Control OD Green 13\nOperational K9 Hemorrhagic Shock OD Green 14\nOperational K9 Chest Trauma OD Green 15",
+      "body_text": "Protective Headgear Removal Defibrillation / Cardioversion Settings Maine EMS Medication List Telephone / Radio Reference/ Contact Numbers Non-EMS System Medical Interveners Grey 15 - 17 Grey 18 Child Abuse Management and Reporting Grey 19 - 20 Adult Abuse, and Intoxicated Drivers Grey 21 Grey 22 - 23 Grey 24 Grey 26 Grey 13 Mass Casualty / Disasters/Hazmat Sexual Assault Victim Death Situations for Emergency Responders Grey 11 - 12 Maine Death With Dignity Law Bariatric Patients Grey 14 Transport Protocol Grey 29 -30 Grey 33 - 35 Grey 1 - 2 Do Not Resuscitate Guidelines Pre-hospital Management of Hospice Patients Grey 8 - 10 Black 1 Crime Scenes Grey 25 Depression / Suicidal Ideation Orange 3 Restraints Orange 4 Hyperactive Delirium with Severe Agitation Orange 5 - 7 Care of the Person Experiencing Homelessness Orange 8 Minimum Landing Zone Grey 3 - 7 Baby Safe Haven Laws Grey 27 Safe Response & Transport Grey 28 Pediatric Transportation Pink 7 -8 Transport of Mentally Ill Patients Orange 1 - 2 Care of the Deaf and Hard of Hearing Care of the Visually Impaired and Blind Grey 31 Grey 32 Operational K9 Protocols Intro OD Green 1 Operational K9 Restraint OD Green 2 - 3 Operational K9 Airway Obstruction OD Green 4 - 5 Operational K9 Airway Management OD Green 6 - 7 Operational K9 Surgical Airway OD Green 8 - 9 Operational K9 Cardiac Arrest OD Green 10 - 11 Operational K9 Post-Resuscitation Care OD Green 12 Operational K9 Hemorrhage Control OD Green 13 Operational K9 Hemorrhagic Shock OD Green 14 ANNEX",
+      "words": [
+        {
+          "text": "Protocol",
+          "box": [
+            162.63,
+            58.239,
+            206.506,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Name",
+          "box": [
+            210.155,
+            58.239,
+            240.07,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Color",
+          "box": [
+            414.495,
+            58.239,
+            442.507,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "and",
+          "box": [
+            446.22,
+            58.239,
+            465.141,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Number",
+          "box": [
+            468.454,
+            58.239,
+            509.299,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Tabl",
+          "box": [
+            229.05,
+            27.0,
+            266.535,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "e",
+          "box": [
+            268.875,
+            27.0,
+            278.883,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "of",
+          "box": [
+            283.815,
+            27.0,
+            299.673,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "Cont",
+          "box": [
+            306.675,
+            27.0,
+            346.194,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "ent",
+          "box": [
+            348.3,
+            27.0,
+            375.404,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "s",
+          "box": [
+            377.685,
+            27.0,
+            386.685,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "Protective",
+          "box": [
+            48.6,
+            383.997,
+            84.572,
+            392.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Headgear",
+          "box": [
+            86.824,
+            383.997,
+            122.37,
+            392.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Removal",
+          "box": [
+            124.602,
+            383.997,
+            156.516,
+            392.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Defibrillation",
+          "box": [
+            48.6,
+            419.997,
+            93.014,
+            428.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            95.242,
+            419.997,
+            97.493,
+            428.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Cardioversion",
+          "box": [
+            99.745,
+            419.997,
+            149.604,
+            428.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Settings",
+          "box": [
+            151.877,
+            419.997,
+            181.121,
+            428.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Maine",
+          "box": [
+            48.6,
+            509.727,
+            70.616,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "EMS",
+          "box": [
+            72.868,
+            509.727,
+            90.401,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Medication",
+          "box": [
+            92.628,
+            509.727,
+            131.73,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "List",
+          "box": [
+            134.003,
+            509.727,
+            146.586,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Telephone",
+          "box": [
+            48.6,
+            527.727,
+            85.93,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            88.182,
+            527.727,
+            90.434,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Radio",
+          "box": [
+            92.686,
+            527.727,
+            113.801,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Reference/",
+          "box": [
+            116.053,
+            527.727,
+            155.63,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Contact",
+          "box": [
+            157.882,
+            527.727,
+            185.773,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Numbers",
+          "box": [
+            188.001,
+            527.727,
+            220.794,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Non-EMS",
+          "box": [
+            48.6,
+            545.727,
+            83.645,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "System",
+          "box": [
+            85.873,
+            545.727,
+            112.878,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Medical",
+          "box": [
+            115.131,
+            545.727,
+            142.995,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Interveners",
+          "box": [
+            145.202,
+            545.727,
+            185.678,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            442.8,
+            293.997,
+            460.333,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "15",
+          "box": [
+            462.605,
+            293.997,
+            471.613,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            473.864,
+            293.997,
+            476.562,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "17",
+          "box": [
+            478.364,
+            293.997,
+            487.372,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            450.9,
+            311.997,
+            468.433,
+            320.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "18",
+          "box": [
+            470.255,
+            311.997,
+            479.263,
+            320.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Child",
+          "box": [
+            48.6,
+            329.997,
+            66.99,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Abuse",
+          "box": [
+            69.217,
+            329.997,
+            92.181,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Management",
+          "box": [
+            94.432,
+            329.997,
+            141.664,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "and",
+          "box": [
+            143.916,
+            329.997,
+            157.427,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Reporting",
+          "box": [
+            159.679,
+            329.997,
+            194.731,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            442.8,
+            329.997,
+            460.333,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "19",
+          "box": [
+            462.605,
+            329.997,
+            471.613,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            473.864,
+            329.997,
+            476.562,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "20",
+          "box": [
+            478.364,
+            329.997,
+            487.372,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Adult",
+          "box": [
+            48.6,
+            347.997,
+            67.039,
+            356.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Abuse,",
+          "box": [
+            69.267,
+            347.997,
+            94.482,
+            356.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "and",
+          "box": [
+            96.734,
+            347.997,
+            110.245,
+            356.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Intoxicated",
+          "box": [
+            112.496,
+            347.997,
+            151.647,
+            356.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Drivers",
+          "box": [
+            153.92,
+            347.997,
+            179.483,
+            356.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            450.9,
+            347.997,
+            468.433,
+            356.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "21",
+          "box": [
+            470.255,
+            347.997,
+            479.263,
+            356.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            442.8,
+            365.997,
+            460.333,
+            374.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "22",
+          "box": [
+            462.605,
+            365.997,
+            471.613,
+            374.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            473.864,
+            365.997,
+            476.562,
+            374.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "23",
+          "box": [
+            478.364,
+            365.997,
+            487.372,
+            374.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            450.9,
+            383.997,
+            468.433,
+            392.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "24",
+          "box": [
+            470.255,
+            383.997,
+            479.263,
+            392.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            450.9,
+            419.997,
+            468.433,
+            428.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "26",
+          "box": [
+            470.255,
+            419.997,
+            479.263,
+            428.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            450.9,
+            257.997,
+            468.433,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "13",
+          "box": [
+            470.255,
+            257.997,
+            479.263,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Mass",
+          "box": [
+            48.6,
+            293.997,
+            67.931,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Casualty",
+          "box": [
+            70.159,
+            293.997,
+            101.626,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            103.878,
+            293.997,
+            106.13,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Disasters/Hazmat",
+          "box": [
+            108.382,
+            293.997,
+            172.189,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Sexual",
+          "box": [
+            48.6,
+            311.997,
+            73.362,
+            320.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Assault",
+          "box": [
+            75.568,
+            311.997,
+            102.108,
+            320.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Victim",
+          "box": [
+            104.38,
+            311.997,
+            126.227,
+            320.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Death",
+          "box": [
+            48.6,
+            239.997,
+            70.19,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Situations",
+          "box": [
+            72.418,
+            239.997,
+            107.943,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "for",
+          "box": [
+            110.195,
+            239.997,
+            119.648,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Emergency",
+          "box": [
+            121.9,
+            239.997,
+            162.823,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Responders",
+          "box": [
+            165.074,
+            239.997,
+            208.701,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            443.115,
+            239.997,
+            460.648,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "11",
+          "box": [
+            462.605,
+            239.997,
+            471.002,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            473.409,
+            239.997,
+            476.106,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "12",
+          "box": [
+            478.359,
+            239.997,
+            487.366,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Maine",
+          "box": [
+            48.6,
+            257.997,
+            70.616,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Death",
+          "box": [
+            72.868,
+            257.997,
+            94.458,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "With",
+          "box": [
+            96.685,
+            257.997,
+            112.846,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Dignity",
+          "box": [
+            115.097,
+            257.997,
+            139.789,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Law",
+          "box": [
+            142.061,
+            257.997,
+            156.917,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Bariatric",
+          "box": [
+            48.6,
+            275.997,
+            78.222,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Patients",
+          "box": [
+            80.473,
+            275.997,
+            109.718,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            450.9,
+            275.997,
+            468.433,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "14",
+          "box": [
+            470.255,
+            275.997,
+            479.263,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Transport",
+          "box": [
+            48.6,
+            365.997,
+            82.906,
+            374.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Protocol",
+          "box": [
+            85.158,
+            365.997,
+            114.849,
+            374.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            443.925,
+            473.727,
+            461.458,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "29",
+          "box": [
+            463.505,
+            473.727,
+            472.513,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-30",
+          "box": [
+            474.764,
+            473.727,
+            486.449,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            442.8,
+            527.727,
+            460.333,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "33",
+          "box": [
+            462.605,
+            527.727,
+            471.613,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            473.864,
+            527.727,
+            476.562,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "35",
+          "box": [
+            478.364,
+            527.727,
+            487.372,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            446.175,
+            185.997,
+            463.708,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "1",
+          "box": [
+            468.007,
+            185.997,
+            472.511,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            474.763,
+            185.997,
+            477.46,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "2",
+          "box": [
+            479.713,
+            185.997,
+            484.216,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Do",
+          "box": [
+            48.6,
+            203.997,
+            58.931,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Not",
+          "box": [
+            61.159,
+            203.997,
+            73.741,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Resuscitate",
+          "box": [
+            76.014,
+            203.997,
+            118.287,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Guidelines",
+          "box": [
+            120.539,
+            203.997,
+            158.741,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pre-hospital",
+          "box": [
+            48.6,
+            221.997,
+            91.753,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Management",
+          "box": [
+            93.984,
+            221.997,
+            141.216,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "of",
+          "box": [
+            143.468,
+            221.997,
+            150.224,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Hospice",
+          "box": [
+            152.475,
+            221.997,
+            181.691,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Patients",
+          "box": [
+            183.943,
+            221.997,
+            213.187,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            445.05,
+            221.997,
+            462.583,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "8",
+          "box": [
+            464.855,
+            221.997,
+            469.359,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            471.611,
+            221.997,
+            474.308,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "10",
+          "box": [
+            476.111,
+            221.997,
+            485.118,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Black",
+          "box": [
+            451.8,
+            545.727,
+            471.584,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "1",
+          "box": [
+            473.856,
+            545.727,
+            478.36,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Crime",
+          "box": [
+            48.6,
+            401.997,
+            70.114,
+            410.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Scenes",
+          "box": [
+            72.365,
+            401.997,
+            99.379,
+            410.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            450.9,
+            401.997,
+            468.433,
+            410.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "25",
+          "box": [
+            470.255,
+            401.997,
+            479.263,
+            410.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Depression",
+          "box": [
+            48.6,
+            113.997,
+            89.5,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            91.728,
+            113.997,
+            93.98,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Suicidal",
+          "box": [
+            96.232,
+            113.997,
+            124.548,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Ideation",
+          "box": [
+            126.8,
+            113.997,
+            155.599,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Orange",
+          "box": [
+            448.425,
+            113.997,
+            475.419,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "3",
+          "box": [
+            477.466,
+            113.997,
+            481.97,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Restraints",
+          "box": [
+            48.6,
+            131.997,
+            84.997,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Orange",
+          "box": [
+            448.425,
+            131.997,
+            475.419,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "4",
+          "box": [
+            477.466,
+            131.997,
+            481.97,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Hyperactive",
+          "box": [
+            48.6,
+            149.997,
+            91.299,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Delirium",
+          "box": [
+            93.526,
+            149.997,
+            123.118,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "with",
+          "box": [
+            125.35,
+            149.997,
+            139.711,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Severe",
+          "box": [
+            141.962,
+            149.997,
+            167.603,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Agitation",
+          "box": [
+            169.876,
+            149.997,
+            201.352,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Orange",
+          "box": [
+            442.575,
+            149.997,
+            469.569,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "5",
+          "box": [
+            471.616,
+            149.997,
+            476.12,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            478.372,
+            149.997,
+            481.069,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "7",
+          "box": [
+            483.322,
+            149.997,
+            487.825,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Care",
+          "box": [
+            48.6,
+            167.997,
+            66.112,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "of",
+          "box": [
+            68.364,
+            167.997,
+            75.119,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "the",
+          "box": [
+            77.371,
+            167.997,
+            88.63,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Person",
+          "box": [
+            90.882,
+            167.997,
+            116.523,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Experiencing",
+          "box": [
+            118.751,
+            167.997,
+            165.507,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Homelessness",
+          "box": [
+            167.78,
+            167.997,
+            220.83,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Orange",
+          "box": [
+            448.425,
+            167.997,
+            475.419,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "8",
+          "box": [
+            477.466,
+            167.997,
+            481.97,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Minimum",
+          "box": [
+            48.6,
+            185.997,
+            81.364,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Landing",
+          "box": [
+            83.572,
+            185.997,
+            112.371,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Zone",
+          "box": [
+            114.644,
+            185.997,
+            133.082,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            446.175,
+            203.997,
+            463.708,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "3",
+          "box": [
+            468.007,
+            203.997,
+            472.511,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            474.763,
+            203.997,
+            477.46,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "7",
+          "box": [
+            479.713,
+            203.997,
+            484.216,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Baby",
+          "box": [
+            48.6,
+            437.997,
+            67.06,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Safe",
+          "box": [
+            69.312,
+            437.997,
+            85.973,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Haven",
+          "box": [
+            88.225,
+            437.997,
+            111.613,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Laws",
+          "box": [
+            113.841,
+            437.997,
+            132.726,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            450.9,
+            437.997,
+            468.433,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "27",
+          "box": [
+            470.255,
+            437.997,
+            479.263,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Safe",
+          "box": [
+            48.6,
+            455.727,
+            65.262,
+            463.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Response",
+          "box": [
+            67.513,
+            455.727,
+            103.959,
+            463.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "&",
+          "box": [
+            106.186,
+            455.727,
+            111.589,
+            463.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Transport",
+          "box": [
+            113.841,
+            455.727,
+            148.147,
+            463.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            450.9,
+            455.727,
+            468.433,
+            463.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "28",
+          "box": [
+            470.255,
+            455.727,
+            479.263,
+            463.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pediatric",
+          "box": [
+            48.6,
+            77.997,
+            80.048,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Transportation",
+          "box": [
+            82.275,
+            77.997,
+            134.122,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pink",
+          "box": [
+            449.325,
+            77.997,
+            465.059,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "7",
+          "box": [
+            467.106,
+            77.997,
+            471.61,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-8",
+          "box": [
+            473.862,
+            77.997,
+            481.043,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Transport",
+          "box": [
+            48.6,
+            95.997,
+            82.906,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "of",
+          "box": [
+            85.158,
+            95.997,
+            91.913,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Mentally",
+          "box": [
+            94.165,
+            95.997,
+            124.26,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Ill",
+          "box": [
+            126.488,
+            95.997,
+            132.315,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Patients",
+          "box": [
+            134.546,
+            95.997,
+            163.791,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Orange",
+          "box": [
+            442.575,
+            95.997,
+            469.569,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "1",
+          "box": [
+            471.616,
+            95.997,
+            476.12,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            478.372,
+            95.997,
+            481.069,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "2",
+          "box": [
+            483.322,
+            95.997,
+            487.825,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Care",
+          "box": [
+            48.6,
+            473.727,
+            66.112,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "of",
+          "box": [
+            68.364,
+            473.727,
+            75.119,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "the",
+          "box": [
+            77.371,
+            473.727,
+            88.63,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Deaf",
+          "box": [
+            90.882,
+            473.727,
+            107.968,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "and",
+          "box": [
+            110.196,
+            473.727,
+            123.707,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Hard",
+          "box": [
+            125.959,
+            473.727,
+            143.471,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "of",
+          "box": [
+            145.723,
+            473.727,
+            152.478,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Hearing",
+          "box": [
+            154.73,
+            473.727,
+            183.027,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Care",
+          "box": [
+            48.6,
+            491.727,
+            66.112,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "of",
+          "box": [
+            68.364,
+            491.727,
+            75.119,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "the",
+          "box": [
+            77.371,
+            491.727,
+            88.63,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Visually",
+          "box": [
+            90.882,
+            491.727,
+            118.564,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Impaired",
+          "box": [
+            120.816,
+            491.727,
+            152.265,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "and",
+          "box": [
+            154.492,
+            491.727,
+            168.003,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Blind",
+          "box": [
+            170.255,
+            491.727,
+            188.22,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            450.9,
+            491.727,
+            468.433,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "31",
+          "box": [
+            470.255,
+            491.727,
+            479.263,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Grey",
+          "box": [
+            450.9,
+            509.727,
+            468.433,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "32",
+          "box": [
+            470.255,
+            509.727,
+            479.263,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            599.727,
+            90.428,
+            607.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            599.727,
+            102.541,
+            607.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Protocols",
+          "box": [
+            104.793,
+            599.727,
+            138.514,
+            607.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Intro",
+          "box": [
+            140.765,
+            599.727,
+            156.954,
+            607.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            443.475,
+            599.727,
+            455.625,
+            607.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            457.652,
+            599.727,
+            480.142,
+            607.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "1",
+          "box": [
+            482.414,
+            599.727,
+            486.918,
+            607.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            617.727,
+            90.428,
+            625.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            617.727,
+            102.541,
+            625.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Restraint",
+          "box": [
+            104.793,
+            617.727,
+            137.14,
+            625.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            437.625,
+            617.727,
+            449.775,
+            625.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            451.802,
+            617.727,
+            474.292,
+            625.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "2",
+          "box": [
+            476.564,
+            617.727,
+            481.068,
+            625.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            483.32,
+            617.727,
+            486.017,
+            625.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "3",
+          "box": [
+            488.27,
+            617.727,
+            492.773,
+            625.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            635.727,
+            90.428,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            635.727,
+            102.541,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Airway",
+          "box": [
+            104.793,
+            635.727,
+            129.032,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Obstruction",
+          "box": [
+            131.305,
+            635.727,
+            172.679,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            437.625,
+            635.727,
+            449.775,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            451.802,
+            635.727,
+            474.292,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "4",
+          "box": [
+            476.564,
+            635.727,
+            481.068,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            483.32,
+            635.727,
+            486.017,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "5",
+          "box": [
+            488.27,
+            635.727,
+            492.773,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            653.727,
+            90.428,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            653.727,
+            102.541,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Airway",
+          "box": [
+            104.793,
+            653.727,
+            129.032,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Management",
+          "box": [
+            131.305,
+            653.727,
+            178.537,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            437.625,
+            653.727,
+            449.775,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            451.802,
+            653.727,
+            474.292,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "6",
+          "box": [
+            476.564,
+            653.727,
+            481.068,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            483.32,
+            653.727,
+            486.017,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "7",
+          "box": [
+            488.27,
+            653.727,
+            492.773,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            671.727,
+            90.428,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            671.727,
+            102.541,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Surgical",
+          "box": [
+            104.793,
+            671.727,
+            134.01,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Airway",
+          "box": [
+            136.262,
+            671.727,
+            160.501,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            437.625,
+            671.727,
+            449.775,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            451.802,
+            671.727,
+            474.292,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "8",
+          "box": [
+            476.564,
+            671.727,
+            481.068,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            483.32,
+            671.727,
+            486.017,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "9",
+          "box": [
+            488.27,
+            671.727,
+            492.773,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            689.727,
+            90.428,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            689.727,
+            102.541,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Cardiac",
+          "box": [
+            104.793,
+            689.727,
+            132.637,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Arrest",
+          "box": [
+            134.909,
+            689.727,
+            156.472,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            433.44,
+            689.727,
+            445.59,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            447.842,
+            689.727,
+            470.332,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "10",
+          "box": [
+            472.514,
+            689.727,
+            481.522,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            483.773,
+            689.727,
+            486.471,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "11",
+          "box": [
+            488.723,
+            689.727,
+            497.12,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            707.727,
+            90.428,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            707.727,
+            102.541,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Post-Resuscitation",
+          "box": [
+            104.793,
+            707.727,
+            172.233,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Care",
+          "box": [
+            174.485,
+            707.727,
+            191.997,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            707.727,
+            453.375,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            707.727,
+            477.892,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "12",
+          "box": [
+            480.164,
+            707.727,
+            489.172,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            725.727,
+            90.428,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            725.727,
+            102.541,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Hemorrhage",
+          "box": [
+            104.793,
+            725.727,
+            149.725,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Control",
+          "box": [
+            151.977,
+            725.727,
+            178.043,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            725.727,
+            453.375,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            725.727,
+            477.892,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "13",
+          "box": [
+            480.164,
+            725.727,
+            489.172,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            743.727,
+            90.428,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            743.727,
+            102.541,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Hemorrhagic",
+          "box": [
+            104.793,
+            743.727,
+            151.049,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Shock",
+          "box": [
+            153.321,
+            743.727,
+            175.831,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            743.727,
+            453.375,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            743.727,
+            477.892,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "14",
+          "box": [
+            480.164,
+            743.727,
+            489.172,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            761.727,
+            90.428,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            761.727,
+            102.541,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Chest",
+          "box": [
+            104.793,
+            761.727,
+            125.93,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Trauma",
+          "box": [
+            128.202,
+            761.727,
+            155.753,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            761.727,
+            453.375,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            761.727,
+            477.892,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "15",
+          "box": [
+            480.164,
+            761.727,
+            489.172,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "ANNEX",
+          "box": [
+            48.6,
+            581.727,
+            76.888,
+            589.827
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 8.1
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0006.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 100.0,
+    "output_to_native_length_ratio": 1.0,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

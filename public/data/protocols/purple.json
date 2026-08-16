@@ -1,0 +1,599 @@
+[
+  {
+    "id": "purple_015_016_017_018_019_020_021_022",
+    "title": "Definitions",
+    "category": "purple",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>ACLS</strong> is Advanced Cardiac Life Support.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Advanced Airway</strong> means the skill of endotracheal intubation and use of other airway modalities such as Blind Insertion Airway Devices (BIAD) performed only by those who have completed practical training in each of these skills.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>AEMT</strong> (Advanced EMT) means the ability to provide Advanced EMT level of care (previously called Intermediate EMT).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>AHA</strong> is the American Heart Association.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>ALS (Advanced Life Support)</strong> means the ability to provide advanced level of medical care, which, in the prehospital realm, means <em>Paramedic</em>. The ALS skills may include the following: IV access, advanced airway, cardiac monitoring, and/or oral or parenteral medications.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>ALS (Advanced Life Support), If Available</strong> means that the patient shall receive the highest appropriate ALS intervention as soon as possible. The decision in this realm as to which interventions may be appropriate rests with the Paramedic. If any skills other than basic life support are deemed necessary or initially implemented, an ALS response should be sought, with simultaneous dispatch if possible. The use of a medical priority dispatching program, approved by the State Medical Director, is encouraged. When this cannot happen, the crew in attendance should bring ALS care and the patient together in the fastest of three ways: (1) ALS back-up at the scene; (2) ALS back-up met en route; or (3) ALS by hospital staff in the emergency department if prehospital rendezvous is not possible.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>The BLS clinicians on the scene may modify the ALS response as appropriate.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>AMS</strong> refers to Altered Mental Status and <strong>AMSS</strong> refers to Altered Mental Status Scale/Score.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>ASL</strong> refers to American Sign Language.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Antipyretics</strong> refer to medications that reduce fever.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>BIADs</strong> refers to Blind Insertion Airway Devices and include periglottic (e.g., LMA) and transglottic (e.g., King) devices. Any FDA-approved devices from these classes are approved for use. It is recommended to have <em>NO MORE THAN</em> one device per class (periglottic or transglottic).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>BP</strong> in these protocols refers to the systolic blood pressure.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>BSA</strong> refers to Body Surface Area and, in burn patients, can be estimated by using the Rule of 9s or patient's hand size (palm + fingers).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>BVM</strong> refers to Bag-Valve-Mask ventilation.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>C</strong> refers to Celsius.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>CHF</strong> refers to Congestive Heart Failure, a condition in which patients may present with dyspnea, hypoxia, wheezing, and rales.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>cm H2O</strong> refers to centimeters of water; the unit of measure for the pressure in CPAP machines; one cm H2O is the amount of additional air pressure needed to raise a column of water by one centimeter.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>CNS</strong> refers to Central Nervous System and includes the brain and spinal cord.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Continuous Nebulization</strong> is administration of 3 unit doses of albuterol or albuterol-ipratropium without interruption; that is, put all 3 unit doses into the nebulizer at the same time (if volume allows) and administer until complete OR administer 1 unit dose x 3 without waiting between administrations.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>CPAP</strong> refers to Continuous Positive Airway Pressure.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>CPP</strong> refers to cerebral perfusion pressure, or the mean arterial pressure (MAP) minus the intracranial pressure (ICP). Normal CPP = 55-60 mmHg.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>CVA</strong> refers to Cerebral Vascular Accident (stroke).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>DL</strong> refers to Direct Laryngoscopy.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>dL</strong> refers to deciliter</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>DSED</strong> refers to Dual Sequential External Defibrillation which is the recommended treatment for refractory pulseless VT or refractory VF after the third defibrillation attempt is unsuccessful.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>DNR</strong> refers to Do Not Resuscitate.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>DNI</strong> refers to Do Not Intubate.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>ECG/EKG</strong> refers to 12-lead electrocardiogram. EMTs may obtain an ECG, if available and so trained. EMTs and AEMTs are not certified to interpret 12-lead ECGs or change the ALS response based on obtaining the ECG. The purpose of the EMT/AEMT obtaining the 12-lead ECG is to present it to the Paramedic and/or receiving facility.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Emergency Department</strong> means a hospital that provides an organized Emergency Service or Department that is available twenty-four (24) hours a day, seven (7) days a week and has the capability to provide On-Line Medical Control, to evaluate, treat, stabilize, and refer to an appropriate outside resource for all persons who present themselves for treatment.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Emergency Medical Responder</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>The MDPB recognizes the Emergency Medical Responder (EMR) scope of practice to include the following:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>a. Airway management, including manual maneuvers, suctioning, application of supplemental O\u2082, and use of the following airway adjuncts - pocket mask, OPA/NPA, BVM\nb. Acquisition of manual vital signs\nc. Application of medications for force protection only (such as the Mark 1 kit)\nd. Performance of manual CPR and use of AED\ne. Assistance in childbirth\nf. Manual stabilization of the cervical spine or extremity injuries\ng. Hemorrhage control, including use of a tourniquet\nh. Emergency patient moves (such as drags, carries, etc.)\ni. Provision of naloxone for suspected overdose\nj. Dispensation of naloxone as described in Yellow 4</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>The 2018 National Scope of Practice Updates include the following procedures to the EMR scope of practice: <em>hemorrhage control: wound packing, placement of cervical collars, extremity splinting</em>, and <em>eye irrigation</em>. Maine EMS EMRs who have been trained to perform these skills, through their primary training or Maine EMS-approved continuing medical education, may perform these skills in addition to the skills listed above.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>EMS Clinician or EMS Provider</strong> means any person or service licensed by Maine EMS to provide emergency medical services.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>End-tidal CO\u2082 (EtCO\u2082)</strong> is a measurement of carbon dioxide in exhaled air used to assess ventilation, also referred to as capnography. The capnography monitoring must be <em>continuous</em> and with a device that displays a waveform.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>ETT</strong> refers to Endotracheal Tube.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>F</strong> refers to Fahrenheit.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Fever</strong> refers to a temperature greater than or equal to 100.4 degrees F or 38 degrees C.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Fluid Bolus</strong> indicates maximum fluid administration achievable without pumps or other special equipment in the field setting. Specifically, running a large-bore IV wide open until the desired clinical condition or blood pressure, based on the patient's underlying condition, is achieved. A true IO bolus, at the appropriate dose with a syringe/3-way stop-cock assembly or pressure bag, is acceptable. Pediatric boluses are 20 mL/kg, and may be repeated one time if patient remains hypotensive, unless a specific alteration is noted in the protocols. Unless a specific volume of fluid is specified in the specific protocol, if the patient requires more than 40 mL/kg of IV fluid, contact OLMC to further guide fluid administration.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>g</strong> refers to gram.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>GI</strong> refers to Gastro-Intestinal tract.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>GU</strong> refers to Genito-Urinary tract.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Hypoglycemia</strong> is a blood glucose less than 60 mg/dL.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>IM</strong> refers to Intra-Muscular route of medication administration.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>IN</strong> refers to Intra-Nasal route of medication administration.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>IO</strong> in these protocols, means intraosseous access. IO may be used by the Advanced EMT or Paramedic. The IO route should be considered in any patient if an IV is not established within two attempts or 90 seconds and that patient has one of the following:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>a. Altered mental status (GCS less than or equal to 8)\nb. Respiratory failure (SpO\u2082 less than or equal to 90% after appropriate oxygen therapy, respiratory rate less than 10 or greater than 40 breaths per minute) with alteration of mental status\nc. Profound hypovolemia or hemodynamic instability with alteration of mental status or other evidence of shock \u2013 recall, the use of an IO for volume resuscitation requires the use of a pressure bag/3-way stop-cock to achieve optimal flow rates\nd. Cardiac arrest (medical or traumatic)</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Additionally, the clinician may choose to utilize the IO route first in critical patients for whom IV access may be difficult.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>After discussion with OLMC, may consider IO placement for the following conditions:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>a. Profound hypovolemia (Systolic BP less than 90 mmHg) without alterations in mental status or other evidence of shock\nb. Burn patients with bilateral upper extremity burns</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>*IO is CONTRAINDICATED in the following conditions</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>a. Fracture of the tibia or femur in lower extremity placement or fracture of the humerus in upper extremity placement\nb. Infection at insertion site\nc. IO within the prior 24 hours in the same bone\nd. Knee or shoulder replacement (identified by mid-line vertical scar over the patella or anterior proximal humerus)\ne. Tumor near site\nf. Inability to locate landmarks\ng. Excessive tissue at insertion site\nh. IO access is not intended for prophylactic use</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Approved Sites (one per bone):</strong> Per manufacturer recommendations. Consider humeral head placement preferentially due to proximity to central circulation, particularly in OHCA patients.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><em>(IO continued on next page)</em></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><em>(IO continued from previous page)</em></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Paramedic: If infusion of medications or fluids causes significant pain, consider the following:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>IV</strong> means any balanced electrolyte solutions may be used, such as Lactated Ringers, Normal Saline and 5% Dextrose in Water. IV solutions, as defined in this document, DO NOT include other additives (such as potassium) or medications. Normal Saline is the fluid of choice for patients with history of renal failure, not Lactated Ringers. Recommended catheter size for rapid fluid resuscitation in adults is 14-18 gauge. If rapid fluid resuscitation is not required, smaller catheter sizes and heparin/saline locks may be used. Heparin used for this procedure is not considered a medication.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>IV fluids</strong> refer to Normal Saline (NS), Lactated Ringers (LR), and 5% Dextrose in Water (D\u2085W). All Maine EMS-approved medications, <em>except</em> amiodarone and sodium bicarbonate are compatible with these IV fluids; Amiodarone and sodium bicarbonate must be mixed with D\u2085W only.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>IV Push</strong> means an expedited method of medication delivery in which a small volume of medication is administered, all at once, over a short amount of time into a vein. Recommendations for administration times are listed in specific protocols.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>kg</strong> refers to kilogram.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>L</strong> refers to liter.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>LVAD</strong> refers to Left Ventricular Assist Device.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>LVO</strong> refers to Large Vessel Occlusion, a type of stroke that may be amenable to fibrinolytic/endovascular therapy.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>LOC</strong> refers to Level of Consciousness.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Maine Operational Physician</strong> refers to an EMS Physician responding collaboratively with the traditional Maine EMS system, either performing or supporting prehospital care.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>MAP</strong> refers to mean arterial pressure which is the diastolic pressure plus 1/3 (systolic pressure minus diastolic pressure). Post ROSC MAP goals are greater than 80 mmHg.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>mCPR</strong> refers to mechanical CPR. These devices must meet the requirement of 100-120 compressions/minute with a compression depth of 2 inches.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>MDPB</strong> means Maine EMS Medical Direction and Practices Board, which consists of the six Regional Medical Directors, a physician representing the Maine Chapter of the American College of Emergency Physicians, an At-Large physician representative, a Clinical Pharmacist or Toxicologist, a BLS clinician, an ALS clinician, a Pediatric physician, the State EMS Associate Medical Director and the State EMS Medical Director.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>mg</strong> refers to milligram.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>mL</strong> refers to milliliter.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>mmHg</strong> refers to millimeters of mercury and is the standard unit of measure for blood pressure.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Neonate</strong> is an infant less than or equal to 28 days old.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Neonatal/young infant hypothermia</strong> is defined as a temperature less than 36 C (96.8 F) and may indicate a Serious Bacterial Infection (SBI).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Neonatal/young infant fever</strong> is defined as a temperature greater than 38 C (100.4 F).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>NPA</strong> refers to nasopharyngeal airway.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>NR</strong> means a non-rebreather oxygen mask.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>NRP</strong> refers to Neonatal Resuscitation Program.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>O\u2082</strong> means oxygen therapy as appropriate for patient.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>OCME</strong> refers to Office of the Chief Medical Examiner.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>ODT</strong> refers to Orally Disintegrating Tablet, the formulation of oral ondansetron that may be administered by allowing the tablet to melt on the patient's tongue.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>OG</strong> refers to Oral-Gastric tube and should be considered in all intubated patients.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>OHCA</strong> refers to Out-of-Hospital Cardiac Arrest.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>On-Line Medical Control (OLMC)</strong> refers to the on-line physician/physician assistant/nurse practitioner who is licensed by the State of Maine and authorized by a hospital to direct emergency medical services personnel consistent with the protocols developed by the MDPB.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>OPA</strong> refers to oropharyngeal airway.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Other Appropriate Destination</strong> means a facility that has been approved by the Board of EMS to receive, via ambulance, patients who are in need of emergency care.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>PALS</strong> refers to Pediatric Advanced Life Support</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Paramedic Back-up</strong> means use of an Advanced Life Support resource when a presenting patient needs more than Basic Life Support. In the prehospital setting, this indicates a <em>Paramedic</em> response. An ALS back-up agreement should be written between EMS provider services routinely offering and accepting ALS back-up support. This would establish medical/operational/ liability expectations of both services. These protocols cannot mandate any service to routinely offer or receive back-up. However, any decision in this regard, particularly to refuse to offer or accept ALS back-up, should be grounded in reasonable medical, operational, or financial considerations and should be reviewed by the individual service's legal counsel.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>PCP</strong> refers to Primary Care Provider.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Pediatric patient</strong> in these protocols, means pre-pubertal (without pubic, axillary, or facial hair).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>PEEP</strong> (Positive End-Expiratory Pressure) refers to pressure in the airway at the end of passive expiration that exceeds atmospheric pressure; a critical component of mechanical ventilation used to maintain alveolar patency, improve oxygenation, and reduce the work of breathing in patients with respiratory failure.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>PIP</strong> (Peak Inspiratory Pressure) refers to the maximum pressure applied to the lungs during inhalation in mechanical ventilation.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>PO</strong> refers to the oral route of medication administration.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>POLST:</strong> Provider Orders for Life-sustaining Treatment.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>PPE</strong> refers to Personnel Protective equipment and includes gloves, gowns, masks, respirators, eye protection.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>PPV</strong> is Positive Pressure Ventilation, such as (in order of preference):\ntwo-person bag-valve-mask technique with oxygen, one-person bag-valve-mask technique with oxygen, mouth-to-mask ventilation with oxygen, and mouth-to-mask ventilation without oxygen.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Pulse Pressure</strong> refers to the difference between the systolic and diastolic blood pressure. A normal pulse pressure is 40-60 mmHg. A low pulse pressure may be caused by acute blood loss, cardiac tamponade, and heart failure and may be an early sign of instability in trauma patients.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>RTCs</strong> refers to Regional Trauma Centers in Maine: Central Maine Medical Center (CMMC), Northern Light Eastern Maine Medical Center (EMMC), and MaineHealth Maine Medical Center Portland (MMCP).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Service Level Medical Director</strong> refers to a physician or nurse practitioner who has completed required clinical experience pursuant to 32 M.R.S. \u00a72102(2-A), who assumes primary responsibility to ensure quality medical care for the service. A physician assistant may assist in this role under the direct supervision of a physician; however, the supervising physician must be identified to Maine EMS as the service's medical director.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>TBSA</strong> (Total Body Surface Area) is a measurement used to estimate the extent of a burn injury. Only second (partial thickness) and third (full thickness) degree burns are counted when calculating burn surface area. Do not include first degree burns (superficial).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>TIA</strong> refers to Transient Ischemic Attack which presents with stroke-like symptoms.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>TKO</strong> refers to an IV rate of \"To Keep Open\" and may vary according to IV tubing (usually 10-25 mL/hour).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>TOR</strong> refers to Termination of Resuscitation.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>TPA(tPA)</strong> refers to Tissue Plasminogen Activator, a fibrinolytic medication used to treat non-hemorrhagic stroke.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>VAD</strong> refers to Ventricular Assist Device.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>VC</strong> refers to vector change or alternate defibrillation pad placement after a 3rd defibrillation attempt in refractory VT/VF.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>VL</strong> refers to Video Laryngoscopy; video laryngoscopes with standard (non-hyperangulated) blades with the ability to perform both direct and video laryngoscopy are permitted for use by paramedics but must include a robust airway management education platform with service level QA/QI.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Young infants</strong> are less than 60 days old. Fever or hypothermia in this age group may indicate a Serious Bacterial Infection (SBI).</p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "<strong>Adult:</strong> Consider lidocaine 2% (preservative free) 40 mg slow <strong>IO</strong> push over 3-4 minutes followed by 10 mL Normal Saline flush. If pain continues, contact OLMC for OPTION of additional 20 mg slow <strong>IO</strong> push."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "<strong>Pediatric:</strong> Consider lidocaine 2% (preservative free) 0.5 mg/kg (MAX 40 mg) slow <strong>IO</strong> push over 3-4 minutes followed by 10 mL Normal Saline flush. If pain continues, contact OLMC for OPTION of additional 0.25 mg/kg (MAX 20 mg) slow <strong>IO</strong> push."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "purple_015",
+        "pageNumber": "Purple 1",
+        "jpgReference": "/assets/pages_webp/0015.webp"
+      },
+      {
+        "pageId": "purple_016",
+        "pageNumber": "Purple 2",
+        "jpgReference": "/assets/pages_webp/0016.webp"
+      },
+      {
+        "pageId": "purple_017",
+        "pageNumber": "Purple 3",
+        "jpgReference": "/assets/pages_webp/0017.webp"
+      },
+      {
+        "pageId": "purple_018",
+        "pageNumber": "Purple 4",
+        "jpgReference": "/assets/pages_webp/0018.webp"
+      },
+      {
+        "pageId": "purple_019",
+        "pageNumber": "Purple 5",
+        "jpgReference": "/assets/pages_webp/0019.webp"
+      },
+      {
+        "pageId": "purple_020",
+        "pageNumber": "Purple 6",
+        "jpgReference": "/assets/pages_webp/0020.webp"
+      },
+      {
+        "pageId": "purple_021",
+        "pageNumber": "Purple 7",
+        "jpgReference": "/assets/pages_webp/0021.webp"
+      },
+      {
+        "pageId": "purple_022",
+        "pageNumber": "Purple 8",
+        "jpgReference": "/assets/pages_webp/0022.webp"
+      }
+    ]
+  }
+]

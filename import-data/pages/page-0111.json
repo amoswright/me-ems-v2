@@ -1,0 +1,586 @@
+{
+  "id": "page-0111",
+  "pdf_page": 111,
+  "protocol_label": "Green 17",
+  "kind": "protocol",
+  "chapter_id": "green",
+  "topic_id": "green-burn",
+  "title": "Burn",
+  "markdown": "# Burn\n\n![Visual reference from Burn](../../assets/figures/page-0111-visual.webp)\n\n## Rule of 9's Estimation of Burned Body Surface (Percent)\n\n### Adult (Back)\n* Head: 4.5%\n* Torso: 18%\n* Left Arm: 4.5%\n* Right Arm: 4.5%\n* Left Leg: 9%\n* Right Leg: 9%\n\n### Adult (Front)\n* Head: 4.5%\n* Torso: 18%\n* Left Arm: 4.5%\n* Right Arm: 4.5%\n* Perineum: 1%\n* Left Leg: 9%\n* Right Leg: 9%\n\n### Infant (Back)\n* Head: 9%\n* Left Arm: 4.5%\n* Right Arm: 4.5%\n* Torso: 13%\n* Left Buttock: 2.5%\n* Right Buttock: 2.5%\n* Left Leg: 7%\n* Right Leg: 7%\n\n### Infant (Front)\n* Head: 9%\n* Left Arm: 4.5%\n* Right Arm: 4.5%\n* Torso: 18%\n* Left Leg: 7%\n* Right Leg: 7%\n\n**Remember:** The patient's hand (palm PLUS fingers) is about 1% of the patient's body surface area.\n",
+  "plain_text": "Burn Rule of 9's Estimation of Burned Body Surface (Percent) Adult (Back) Head: 4.5% Torso: 18% Left Arm: 4.5% Right Arm: 4.5% Left Leg: 9% Right Leg: 9% Adult (Front) Head: 4.5% Torso: 18% Left Arm: 4.5% Right Arm: 4.5% Perineum: 1% Left Leg: 9% Right Leg: 9% Infant (Back) Head: 9% Left Arm: 4.5% Right Arm: 4.5% Torso: 13% Left Buttock: 2.5% Right Buttock: 2.5% Left Leg: 7% Right Leg: 7% Infant (Front) Head: 9% Left Arm: 4.5% Right Arm: 4.5% Torso: 18% Left Leg: 7% Right Leg: 7% Remember: The patient's hand (palm PLUS fingers) is about 1% of the patient's body surface area.",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        445.51,
+        18.33,
+        569.01,
+        43.58
+      ],
+      "text": "Bur n #2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        77.28,
+        47.7,
+        936.22,
+        72.95
+      ],
+      "text": "Rule of 9's Estim ation of Bur ned Body Sur face (Per cent)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        73.53,
+        502.02,
+        903.68,
+        517.17
+      ],
+      "text": "Remember : The patient's hand (palm PLUS finger s) is about 1% of the patient's body",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        73.53,
+        519.64,
+        202.95,
+        534.78
+      ],
+      "text": "sur face ar ea.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        439.93,
+        936.28,
+        932.88,
+        953.7
+      ],
+      "text": "(Back to TOC) Green 17",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0111-visual",
+      "type": "figure",
+      "path": "assets/figures/page-0111-visual.webp",
+      "alt": "Visual reference from Burn",
+      "source_box_points": [
+        27.0,
+        63.0,
+        592.2,
+        395.46
+      ],
+      "reasons": [
+        "embedded_images"
+      ],
+      "sha256": "4aec70558730133f46593a3ac61298aa8295ec3859af145a37349c54a0bf01e3"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "b3af9947bd023f778baa1454874d449527ceddbf745a0635b7b2bd83e12fbd37",
+    "native": {
+      "text": "Bur n #2\nRule of 9's Estim ation of Bur ned Body Sur face (Per cent)\nRemember : The patient's hand (palm PLUS finger s) is about 1% of the patient's body\nsur face ar ea.\n(Back to TOC) Green 17",
+      "body_text": "(Back to TOC) Green 17 Remember : The patient's hand (palm PLUS finger s) is about 1% of the patient's body sur face ar ea.",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            269.235,
+            743.336,
+            299.889,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            304.02,
+            743.336,
+            314.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            318.06,
+            743.336,
+            345.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Green",
+          "box": [
+            519.75,
+            741.536,
+            553.479,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "17",
+          "box": [
+            557.55,
+            741.536,
+            570.925,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Remember",
+          "box": [
+            45.0,
+            397.601,
+            109.223,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ":",
+          "box": [
+            111.501,
+            397.601,
+            114.836,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "The",
+          "box": [
+            118.26,
+            397.601,
+            140.761,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "patient's",
+          "box": [
+            144.045,
+            397.601,
+            197.002,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "hand",
+          "box": [
+            200.025,
+            397.601,
+            229.884,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(palm",
+          "box": [
+            234.09,
+            397.601,
+            268.032,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "PLUS",
+          "box": [
+            273.015,
+            397.601,
+            305.479,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "finger",
+          "box": [
+            307.62,
+            397.601,
+            342.174,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "s)",
+          "box": [
+            344.452,
+            397.601,
+            354.297,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            358.245,
+            397.601,
+            368.468,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "about",
+          "box": [
+            371.43,
+            397.601,
+            405.091,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1%",
+          "box": [
+            409.725,
+            397.601,
+            427.095,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            430.425,
+            397.601,
+            440.996,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            445.68,
+            397.601,
+            465.207,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "patient's",
+          "box": [
+            468.45,
+            397.601,
+            521.407,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "body",
+          "box": [
+            524.25,
+            397.601,
+            553.054,
+            409.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "sur",
+          "box": [
+            45.0,
+            411.551,
+            62.729,
+            423.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "face",
+          "box": [
+            65.007,
+            411.551,
+            90.064,
+            423.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ar",
+          "box": [
+            93.375,
+            411.551,
+            104.556,
+            423.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ea.",
+          "box": [
+            106.834,
+            411.551,
+            124.205,
+            423.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Bur",
+          "box": [
+            272.655,
+            14.521,
+            305.081,
+            34.519
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "n",
+          "box": [
+            307.845,
+            14.521,
+            318.964,
+            34.519
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#2",
+          "box": [
+            325.935,
+            14.521,
+            348.232,
+            34.519
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Rule",
+          "box": [
+            47.295,
+            37.782,
+            90.229,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "of",
+          "box": [
+            95.04,
+            37.782,
+            111.944,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "9's",
+          "box": [
+            118.935,
+            37.782,
+            144.516,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Estim",
+          "box": [
+            148.77,
+            37.782,
+            200.344,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ation",
+          "box": [
+            202.581,
+            37.782,
+            249.736,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "of",
+          "box": [
+            256.725,
+            37.782,
+            273.629,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Bur",
+          "box": [
+            280.665,
+            37.782,
+            313.091,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ned",
+          "box": [
+            315.855,
+            37.782,
+            350.572,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Body",
+          "box": [
+            356.895,
+            37.782,
+            403.587,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Sur",
+          "box": [
+            410.085,
+            37.782,
+            440.122,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "face",
+          "box": [
+            442.885,
+            37.782,
+            482.485,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "(Per",
+          "box": [
+            486.9,
+            37.782,
+            523.259,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "cent)",
+          "box": [
+            526.023,
+            37.782,
+            572.966,
+            57.78
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0111.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 45.95,
+    "output_to_native_length_ratio": 2.82,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "pre_refinement_warnings": [
+      "suspicious_output_expansion"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

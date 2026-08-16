@@ -1,0 +1,227 @@
+{
+  "id": "page-0222",
+  "pdf_page": 222,
+  "protocol_label": "OD Green 28",
+  "kind": "protocol",
+  "chapter_id": "od-green",
+  "topic_id": "od-green-operational-k9-equipment-reference",
+  "title": "Operational K9 Equipment Reference",
+  "markdown": "# Operational K9 Equipment Reference\n\n![Visual reference from Operational K9 Equipment Reference](../../assets/figures/page-0222-visual.webp)\n\n| Vascular Access | Size | Length |\n| :--- | :--- | :--- |\n| IM | 20 g | 1 inch |\n| SC | 18 - 20 g | 1.5 inch |\n| IV | 18 g | 30 -32 mm |\n| IO | 15 g | 15 - 25 mm |\n\n> For GDV/Bloat - Must use forelimb for IV/IO access\n\n| Airway | Size |\n| :--- | :--- |\n| ETT | 10.0 - 12.0 mm |\n| Miller | 4 - 5 |\n| Cric | 8.0 mm |\n\n> **K9 ECG**\n>\n> May attach to:\n> a. Large Paw Pads\n> b. Axillary and inguinal\n> c. Distal limbs\n>\n> **KEY**: Electrodes must be in direct contact with skin:\n> CLIP HAIR\n\n| Needle Decompression (Chest or GDV) | |\n| :--- | :--- |\n| 14 g | 3.25 inch |\n\nSubcutaneous Fluids\n\nEpaxials\n\nPelvis\n\nTriceps\n\nQuads\n\nRibs\n\nEpaxial Muscles\n\nPelvis\n\nIV Access (Front Leg)\n\nIV Access (Back Leg)\n\nDefib Pads (R / L)\n\nIntraosseous (EZ IO) Sites\n\nProximal Humerus\n\nMedial Tibia\n",
+  "plain_text": "Operational K9 Equipment Reference Vascular Access Size Length IM 20 g 1 inch SC 18 - 20 g 1.5 inch IV 18 g 30 -32 mm IO 15 g 15 - 25 mm For GDV/Bloat - Must use forelimb for IV/IO access Airway Size ETT 10.0 - 12.0 mm Miller 4 - 5 Cric 8.0 mm K9 ECG May attach to: Large Paw Pads Axillary and inguinal Distal limbs KEY: Electrodes must be in direct contact with skin: CLIP HAIR Needle Decompression (Chest or GDV) 14 g 3.25 inch Subcutaneous Fluids Epaxials Pelvis Triceps Quads Ribs Epaxial Muscles Pelvis IV Access (Front Leg) IV Access (Back Leg) Defib Pads (R / L) Intraosseous (EZ IO) Sites Proximal Humerus Medial Tibia",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        329.26,
+        26.22,
+        715.4,
+        51.47
+      ],
+      "text": "K9 Equipm ent Refer ence",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        452.06,
+        936.85,
+        911.56,
+        954.84
+      ],
+      "text": "(Back to TOC) OD Green 28",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0222-visual",
+      "type": "diagram",
+      "path": "assets/figures/page-0222-visual.webp",
+      "alt": "Visual reference from Operational K9 Equipment Reference",
+      "source_box_points": [
+        45.0,
+        61.2,
+        584.55,
+        618.75
+      ],
+      "reasons": [
+        "title",
+        "embedded_images"
+      ],
+      "sha256": "1e981bcadf3bd733089e597b76201925b75e30090e1952c5c0e6f50a8cf0899f"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "18ff2969fc1f3aad64cf63ab0c303b6f2f3b4341a9633d8583c142c93b67a684",
+    "native": {
+      "text": "K9 Equipm ent Refer ence\n(Back to TOC) OD Green 28",
+      "body_text": "(Back to TOC) OD Green 28",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            276.66,
+            741.986,
+            307.314,
+            753.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.49,
+            741.986,
+            322.145,
+            753.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            325.485,
+            741.986,
+            353.101,
+            753.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "OD",
+          "box": [
+            485.55,
+            744.236,
+            503.117,
+            756.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Green",
+          "box": [
+            506.7,
+            744.236,
+            540.429,
+            756.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "28",
+          "box": [
+            544.5,
+            744.236,
+            557.875,
+            756.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "K9",
+          "box": [
+            201.51,
+            20.763,
+            226.628,
+            40.761
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Equipm",
+          "box": [
+            231.885,
+            20.763,
+            304.636,
+            40.761
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ent",
+          "box": [
+            306.873,
+            20.763,
+            335.837,
+            40.761
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Refer",
+          "box": [
+            342.54,
+            20.763,
+            390.5,
+            40.761
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ence",
+          "box": [
+            393.264,
+            20.763,
+            437.822,
+            40.761
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0222.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "glm_ocr",
+    "canonical_override_reason": "GLM removed duplicated equipment text; the annotated reference remains an inline image",
+    "glm_ocr": "raw/glm_ocr/page-0222.json"
+  },
+  "qa": {
+    "native_similarity": 11.2,
+    "output_to_native_length_ratio": 12.632,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [
+      "14g",
+      "15g",
+      "18g",
+      "20g"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "pre_refinement_warnings": [
+      "low_native_similarity",
+      "suspicious_output_expansion"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

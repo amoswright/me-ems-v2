@@ -1,0 +1,4939 @@
+{
+  "id": "page-0068",
+  "pdf_page": 68,
+  "protocol_label": "Red 31",
+  "kind": "protocol",
+  "chapter_id": "red",
+  "topic_id": "red-pediatric-bradycardia",
+  "title": "Pediatric Bradycardia",
+  "markdown": "# Pediatric Bradycardia\n\nPediatric patients are considered bradycardic if HR is less than 60 beats/min despite adequate oxygenation and ventilation. In children, bradycardia almost always reflects hypoxia rather than a primary cardiac problem. It is a pre-arrest rhythm and the prognosis is poor if left untreated. Immediate delivery of oxygen and assisted ventilations are essential. Untreated bradycardia will quickly cause shock, hypotension and death. Consider causes of bradycardia, including hypoxia, hypothermia, hypoglycemia, beta blocker or calcium channel blocker overdose, and hyperkalemia.\n\nFor a _newborn_ with bradycardia, please refer to Newborn Resuscitation protocol, **Lavender 5**.\n\n**Concerning signs or symptoms: hypotension, altered mental status, syncope/pre-syncope, chest pain, dyspnea, acute heart failure, signs of shock, or cyanosis/pallor:**\n\n*If NO concerning signs or symptoms, then all levels (EMT/Advanced EMT/Paramedic) may do the following:*\n\n1. O₂ as appropriate.\n2. *Advanced EMT/Paramedic ONLY* - consider 20 mL/kg IV/IO fluid bolus.\n\n*If ANY concerning signs or symptoms, then:*\n\n### EMT\n\n1. Airway management per Airway Algorithm, **Blue 2**.\n2. Request ALS.\n3. Initiate chest compressions for patients with a HR less than 60 beats per minute despite adequate oxygenation and ventilation.\n4. Perform 12-lead ECG, if so trained.\n\n### ADVANCED EMT\n\n5. IV/IO en route and fluid bolus as required.\n6. Cardiac monitor, perform 12-lead ECG, if so trained.\n7. Request ALS.\n\n### PARAMEDIC\n\n8. If no response to oxygenation, ventilation and chest compressions:\n    a. EPINEPHrine [1 mg/10mL] 0.01 mg/kg (0.1 mL/kg) IV/IO, MAX single dose 1 mg. Repeat every 3-5 minutes.\n    b. In addition, consider Atropine* for increased vagal tone or primary AV Block Atropine 0.02 mg/kg IV/IO. May repeat x 1. Minimum dose 0.1 mg and MAX single dose 0.5 mg. (*refer to PEARLS, Red 26)\n9. Apply external pacer. Initiate transcutaneous pacing (TCP) for patients who do not respond to pharmacologic interventions.\n    a. Consider premedicating with:\n        i. Midazolam 0.05 mg/kg IV/IO or 0.1 mg/kg IN (MAX dose 3 mg) OR\n        ii. Fentanyl 1 mcg/kg IV/IN/IO to a MAX first dose of 100 mcg.\n    b. Contact OLMC as soon as possible\n11. Check for capture frequently (every 2 minutes) by checking peripheral pulses, ensuring the pulse matches the paced rate.\n12. If pulseless arrest develops, follow Pediatric Cardiac Arrest protocol, **Red 18**.\n",
+  "plain_text": "Pediatric Bradycardia Pediatric patients are considered bradycardic if HR is less than 60 beats/min despite adequate oxygenation and ventilation. In children, bradycardia almost always reflects hypoxia rather than a primary cardiac problem. It is a pre-arrest rhythm and the prognosis is poor if left untreated. Immediate delivery of oxygen and assisted ventilations are essential. Untreated bradycardia will quickly cause shock, hypotension and death. Consider causes of bradycardia, including hypoxia, hypothermia, hypoglycemia, beta blocker or calcium channel blocker overdose, and hyperkalemia. For a newborn with bradycardia, please refer to Newborn Resuscitation protocol, Lavender 5. Concerning signs or symptoms: hypotension, altered mental status, syncope/pre-syncope, chest pain, dyspnea, acute heart failure, signs of shock, or cyanosis/pallor: If NO concerning signs or symptoms, then all levels (EMT/Advanced EMT/Paramedic) may do the following: O₂ as appropriate. Advanced EMT/Paramedic ONLY - consider 20 mL/kg IV/IO fluid bolus. If ANY concerning signs or symptoms, then: EMT Airway management per Airway Algorithm, Blue 2. Request ALS. Initiate chest compressions for patients with a HR less than 60 beats per minute despite adequate oxygenation and ventilation. Perform 12-lead ECG, if so trained. ADVANCED EMT IV/IO en route and fluid bolus as required. Cardiac monitor, perform 12-lead ECG, if so trained. Request ALS. PARAMEDIC If no response to oxygenation, ventilation and chest compressions: EPINEPHrine [1 mg/10mL] 0.01 mg/kg (0.1 mL/kg) IV/IO, MAX single dose 1 mg. Repeat every 3-5 minutes. In addition, consider Atropine for increased vagal tone or primary AV Block Atropine 0.02 mg/kg IV/IO. May repeat x 1. Minimum dose 0.1 mg and MAX single dose 0.5 mg. (refer to PEARLS, Red 26) Apply external pacer. Initiate transcutaneous pacing (TCP) for patients who do not respond to pharmacologic interventions. Consider premedicating with: Midazolam 0.05 mg/kg IV/IO or 0.1 mg/kg IN (MAX dose 3 mg) OR Fentanyl 1 mcg/kg IV/IN/IO to a MAX first dose of 100 mcg. Contact OLMC as soon as possible Check for capture frequently (every 2 minutes) by checking peripheral pulses, ensuring the pulse matches the paced rate. If pulseless arrest develops, follow Pediatric Cardiac Arrest protocol, Red 18.",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        344.85,
+        37.48,
+        684.22,
+        62.73
+      ],
+      "text": "Pediatr ic Br adycar dia",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        81.57,
+        839.72,
+        96.71
+      ],
+      "text": "Pediatric patients are considered bradycardic if HR is less than 60 beats/min",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        99.18,
+        861.99,
+        114.33
+      ],
+      "text": "despite adequate oxygenation and ventilation. In children, bradycardia almost",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        116.85,
+        878.4,
+        132.0
+      ],
+      "text": "always reflects hypoxia rather than a primary cardiac problem. It is a pre-arrest",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        134.46,
+        885.81,
+        149.61
+      ],
+      "text": "rhythm and the prognosis is poor if left untreated. Immediate delivery of oxygen",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        152.14,
+        884.3,
+        167.28
+      ],
+      "text": "and assisted ventilations are essential. Untreated bradycardia will quickly cause",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        169.75,
+        901.49,
+        184.9
+      ],
+      "text": "shock, hypotension and death. Consider causes of bradycardia, including hypoxia,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        187.42,
+        912.52,
+        202.57
+      ],
+      "text": "hypothermia, hypoglycemia, beta blocker or calcium channel blocker overdose, and",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        205.03,
+        267.4,
+        220.18
+      ],
+      "text": "hyperkalemia.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        75.0,
+        234.14,
+        863.86,
+        256.86
+      ],
+      "text": "EAP For a newborn with bradycardia, please refer to Newborn Resuscitation",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        428.75,
+        257.93,
+        631.63,
+        273.08
+      ],
+      "text": "protocol, Lavender 5.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        293.21,
+        927.55,
+        308.36
+      ],
+      "text": "Concer ning signs or symptoms: hypotension, alter ed mental status, syncope/pr e-",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        310.83,
+        792.81,
+        325.98
+      ],
+      "text": "syncope, chest pain, dyspnea, acute hear t failur e, signs of shock, or",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        328.5,
+        287.84,
+        343.65
+      ],
+      "text": "cyanosis/pallor :",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        363.78,
+        800.74,
+        378.93
+      ],
+      "text": "If NO concerning signs or symptoms, then all levels (EMT/Advanced",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        381.4,
+        519.85,
+        396.54
+      ],
+      "text": "EMT/Paramedic) may do the following:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        399.07,
+        349.28,
+        414.21
+      ],
+      "text": "1. O as appropriate.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        195.0,
+        405.11,
+        202.63,
+        415.72
+      ],
+      "text": "2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        416.68,
+        854.69,
+        431.83
+      ],
+      "text": "2. Advanced EMT/Par amedic ONLY ? consider 20 mL/kg IV/IO fluid bolus.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        77.06,
+        421.18,
+        125.43,
+        444.36
+      ],
+      "text": "A P",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        451.96,
+        567.39,
+        467.11
+      ],
+      "text": "If ANY concerning signs or symptoms, then:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        469.58,
+        175.79,
+        484.73
+      ],
+      "text": "EMT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        487.25,
+        665.38,
+        502.4
+      ],
+      "text": "1. Airway management per Airway Algorithm, Blue 2 .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        91.91,
+        501.13,
+        306.0,
+        523.85
+      ],
+      "text": "E 2. Request ALS.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        522.48,
+        729.66,
+        537.62
+      ],
+      "text": "3. Initiate chest compressions for patients with a HR less than",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        185.29,
+        540.15,
+        805.69,
+        555.29
+      ],
+      "text": "60 beats per minute despite adequate oxygenation and ventilation.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        557.31,
+        502.0,
+        572.45
+      ],
+      "text": "4. Perform 12-lead ECG, if so trained.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        574.92,
+        293.74,
+        590.07
+      ],
+      "text": "ADVANCED EMT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        90.66,
+        592.53,
+        582.68,
+        618.34
+      ],
+      "text": "A 5. IV/IO en route and fluid bolus as required.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        610.71,
+        668.25,
+        625.86
+      ],
+      "text": "6. Cardiac monitor, perform 12-lead ECG, if so trained.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        628.33,
+        306.0,
+        643.48
+      ],
+      "text": "7. Request ALS.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        645.94,
+        255.58,
+        661.09
+      ],
+      "text": "PARAMEDIC",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        663.56,
+        804.3,
+        678.7
+      ],
+      "text": "8. If no response to oxygenation, ventilation and chest compressions:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        185.29,
+        681.17,
+        839.84,
+        696.32
+      ],
+      "text": "a. EPINEPHrine [1 mg/10mL] 0.01 mg/kg (0.1 mL/kg) IV/IO , MAX single",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        211.76,
+        698.78,
+        555.72,
+        713.93
+      ],
+      "text": "dose 1 mg. Repeat every 3-5 minutes.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        185.29,
+        716.4,
+        921.72,
+        731.54
+      ],
+      "text": "b. In addition, consider Atropine* for increased vagal tone or primary AV Block",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        211.76,
+        734.01,
+        912.2,
+        749.16
+      ],
+      "text": "Atropine 0.02 mg/kg IV/IO . May repeat x 1. Minimum dose 0.1 mg and MAX",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        211.76,
+        751.62,
+        629.91,
+        766.77
+      ],
+      "text": "single dose 0.5 mg.(*refer to PEARLS, Red 26)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        769.24,
+        914.84,
+        784.39
+      ],
+      "text": "9. Apply external pacer. Initiate transcutaneous pacing (TCP) for patients who do",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        92.21,
+        776.3,
+        111.82,
+        799.02
+      ],
+      "text": "P",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0041",
+      "type": "text_line",
+      "box_1000": [
+        211.76,
+        786.85,
+        627.3,
+        802.0
+      ],
+      "text": "not respond to pharmacologic interventions.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0042",
+      "type": "text_line",
+      "box_1000": [
+        185.29,
+        804.46,
+        483.62,
+        819.61
+      ],
+      "text": "a. Consider premedicating with:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0043",
+      "type": "text_line",
+      "box_1000": [
+        211.76,
+        822.08,
+        838.26,
+        837.23
+      ],
+      "text": "i. Midazolam 0.05 mg/kg IV/IO or 0.1 mg/kg IN (MAX dose 3 mg) OR",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0044",
+      "type": "text_line",
+      "box_1000": [
+        211.76,
+        839.69,
+        779.38,
+        854.84
+      ],
+      "text": "ii. Fentanyl 1 mcg/kg IV/IN/IO to a MAX first dose of 100 mcg.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0045",
+      "type": "text_line",
+      "box_1000": [
+        185.29,
+        857.31,
+        512.67,
+        872.45
+      ],
+      "text": "b. Contact OLMC as soon as possible",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0046",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        874.92,
+        918.59,
+        890.07
+      ],
+      "text": "11. Check for capture frequently (every 2 minutes) by checking peripheral pulses,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0047",
+      "type": "text_line",
+      "box_1000": [
+        190.37,
+        892.53,
+        588.98,
+        907.68
+      ],
+      "text": "ensuring the pulse matches the paced rate.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0048",
+      "type": "text_line",
+      "box_1000": [
+        158.82,
+        910.15,
+        907.51,
+        925.29
+      ],
+      "text": "12. If pulseless arrest develops, follow Pediatric Cardiac Arrest protocol, Red 18.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0049",
+      "type": "text_line",
+      "box_1000": [
+        452.06,
+        939.12,
+        927.74,
+        954.27
+      ],
+      "text": "(Back to TOC) Red 31",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "0375202b72b53bb6a1dacc2adfafb13875b45b65efb3b09c0fbbbbcbfef81c4f",
+    "native": {
+      "text": "Pediatr ic Br adycar dia\nPediatric patients are considered bradycardic if HR is less than 60 beats/min\ndespite adequate oxygenation and ventilation. In children, bradycardia almost\nalways reflects hypoxia rather than a primary cardiac problem. It is a pre-arrest\nrhythm and the prognosis is poor if left untreated. Immediate delivery of oxygen\nand assisted ventilations are essential. Untreated bradycardia will quickly cause\nshock, hypotension and death. Consider causes of bradycardia, including hypoxia,\nhypothermia, hypoglycemia, beta blocker or calcium channel blocker overdose, and\nhyperkalemia.\nEAP\nFor a newborn with bradycardia, please refer to Newborn Resuscitation\nprotocol, Lavender 5.\nConcer ning signs or symptoms: hypotension, alter ed mental status, syncope/pr e-\nsyncope, chest pain, dyspnea, acute hear t failur e, signs of shock, or\ncyanosis/pallor :\nIf NO concerning signs or symptoms, then all levels (EMT/Advanced\nEMT/Paramedic) may do the following:\n1. O as appropriate.\n2\n2. Advanced EMT/Par amedic ONLY ? consider 20 mL/kg IV/IO fluid bolus.\nA P\nIf ANY concerning signs or symptoms, then:\nEMT\n1. Airway management per Airway Algorithm, Blue 2.\nE 2. Request ALS.\n3. Initiate chest compressions for patients with a HR less than\n60 beats per minute despite adequate oxygenation and ventilation.\n4. Perform 12-lead ECG, if so trained.\nADVANCED EMT\nA 5. IV/IO en route and fluid bolus as required.\n6. Cardiac monitor, perform 12-lead ECG, if so trained.\n7. Request ALS.\nPARAMEDIC\n8. If no response to oxygenation, ventilation and chest compressions:\na. EPINEPHrine [1 mg/10mL] 0.01 mg/kg (0.1 mL/kg) IV/IO, MAX single\ndose 1 mg. Repeat every 3-5 minutes.\nb. In addition, consider Atropine* for increased vagal tone or primary AV Block\nAtropine 0.02 mg/kg IV/IO. May repeat x 1. Minimum dose 0.1 mg and MAX\nsingle dose 0.5 mg.(*refer to PEARLS, Red 26)\n9. Apply external pacer. Initiate transcutaneous pacing (TCP) for patients who do\nP\nnot respond to pharmacologic interventions.\na. Consider premedicating with:\ni. Midazolam 0.05 mg/kg IV/IO or 0.1 mg/kg IN (MAX dose 3 mg) OR\nii. Fentanyl 1 mcg/kg IV/IN/IO to a MAX first dose of 100 mcg.\nb. Contact OLMC as soon as possible\n11. Check for capture frequently (every 2 minutes) by checking peripheral pulses,\nensuring the pulse matches the paced rate.\n12. If pulseless arrest develops, follow Pediatric Cardiac Arrest protocol, Red 18.\n(Back to TOC) Red 31",
+      "body_text": "(Back to TOC) Red 31 despite adequate oxygenation and ventilation. In children, bradycardia almost always reflects hypoxia rather than a primary cardiac problem. It is a pre-arrest rhythm and the prognosis is poor if left untreated. Immediate delivery of oxygen and assisted ventilations are essential. Untreated bradycardia will quickly cause shock, hypotension and death. Consider causes of bradycardia, including hypoxia, hypothermia, hypoglycemia, beta blocker or calcium channel blocker overdose, and hyperkalemia. For a newborn with bradycardia, please refer to Newborn Resuscitation protocol, Lavender 5. Concer ning signs or symptoms: hypotension, alter ed mental status, syncope/pr e- syncope, chest pain, dyspnea, acute hear t failur e, signs of shock, or cyanosis/pallor : If NO concerning signs or symptoms, then all levels (EMT/Advanced EMT/Paramedic) may do the following: 1. O 2 as appropriate. 2. Advanced EMT/Par amedic ONLY ? consider 20 mL/kg IV/IO fluid bolus. If ANY concerning signs or symptoms, then: EMT 1. Airway management per Airway Algorithm, Blue 2 . 2. Request ALS. 3. Initiate chest compressions for patients with a HR less than 60 beats per minute despite adequate oxygenation and ventilation. 4. Perform 12-lead ECG, if so trained. ADVANCED EMT 5. IV/IO en route and fluid bolus as required. 6. Cardiac monitor, perform 12-lead ECG, if so trained. 7. Request ALS. PARAMEDIC 8. If no response to oxygenation, ventilation and chest compressions: a. EPINEPHrine [1 mg/10mL] 0.01 mg/kg (0.1 mL/kg) IV/IO , MAX single dose 1 mg. Repeat every 3-5 minutes. b. In addition, consider Atropine* for increased vagal tone or primary AV Block Atropine 0.02 mg/kg IV/IO . May repeat x 1. Minimum dose 0.1 mg and MAX single dose 0.5 mg.(*refer to PEARLS, Red 26) 9. Apply external pacer. Initiate transcutaneous pacing (TCP) for patients who do not respond to pharmacologic interventions. a. Consider premedicating with: i. Midazolam 0.05 mg/kg IV/IO or 0.1 mg/kg IN (MAX dose 3 mg) OR ii. Fentanyl 1 mcg/kg IV/IN/IO to a MAX first dose of 100 mcg. b. Contact OLMC as soon as possible 11. Check for capture frequently (every 2 minutes) by checking peripheral pulses, ensuring the pulse matches the paced rate. 12. If pulseless arrest develops, follow Pediatric Cardiac Arrest protocol, Red 18. EAP A P E A P",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            276.66,
+            743.786,
+            307.314,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.49,
+            743.786,
+            322.145,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            325.485,
+            743.786,
+            353.101,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Red",
+          "box": [
+            529.65,
+            743.786,
+            550.369,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "31",
+          "box": [
+            554.4,
+            743.786,
+            567.775,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pediatr",
+          "box": [
+            211.05,
+            29.682,
+            277.253,
+            49.68
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ic",
+          "box": [
+            280.017,
+            29.682,
+            296.411,
+            49.68
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Br",
+          "box": [
+            301.5,
+            29.682,
+            321.232,
+            49.68
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "adycar",
+          "box": [
+            323.995,
+            29.682,
+            386.194,
+            49.68
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "dia",
+          "box": [
+            388.958,
+            29.682,
+            418.742,
+            49.68
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Pediatric",
+          "box": [
+            81.0,
+            64.601,
+            132.216,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            135.225,
+            64.601,
+            181.554,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            184.095,
+            64.601,
+            203.172,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "considered",
+          "box": [
+            206.055,
+            64.601,
+            268.403,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bradycardic",
+          "box": [
+            272.205,
+            64.601,
+            341.387,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            344.43,
+            64.601,
+            351.603,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "HR",
+          "box": [
+            355.815,
+            64.601,
+            373.99,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            376.335,
+            64.601,
+            386.171,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "less",
+          "box": [
+            388.71,
+            64.601,
+            410.264,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            412.785,
+            64.601,
+            438.048,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "60",
+          "box": [
+            442.26,
+            64.601,
+            455.635,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "beats/min",
+          "box": [
+            458.55,
+            64.601,
+            513.909,
+            76.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "despite",
+          "box": [
+            81.0,
+            78.551,
+            122.174,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "adequate",
+          "box": [
+            125.01,
+            78.551,
+            177.939,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oxygenation",
+          "box": [
+            180.855,
+            78.551,
+            249.687,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            253.89,
+            78.551,
+            275.055,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ventilation.",
+          "box": [
+            278.865,
+            78.551,
+            344.224,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "In",
+          "box": [
+            347.445,
+            78.551,
+            358.521,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "children,",
+          "box": [
+            362.7,
+            78.551,
+            414.287,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bradycardia",
+          "box": [
+            417.06,
+            78.551,
+            486.914,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "almost",
+          "box": [
+            490.05,
+            78.551,
+            527.535,
+            90.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "always",
+          "box": [
+            81.0,
+            92.546,
+            120.383,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reflects",
+          "box": [
+            122.895,
+            92.546,
+            165.667,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hypoxia",
+          "box": [
+            168.21,
+            92.546,
+            213.849,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "rather",
+          "box": [
+            217.08,
+            92.546,
+            251.625,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            256.41,
+            92.546,
+            281.673,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            285.84,
+            92.546,
+            292.51,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "primary",
+          "box": [
+            295.74,
+            92.546,
+            342.449,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cardiac",
+          "box": [
+            346.365,
+            92.546,
+            388.628,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "problem.",
+          "box": [
+            391.635,
+            92.546,
+            443.632,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "It",
+          "box": [
+            446.85,
+            92.546,
+            454.591,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            458.55,
+            92.546,
+            468.386,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            470.7,
+            92.546,
+            477.37,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pre-arrest",
+          "box": [
+            480.6,
+            92.546,
+            537.581,
+            104.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "rhythm",
+          "box": [
+            81.0,
+            106.496,
+            122.637,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            127.08,
+            106.496,
+            148.245,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            152.055,
+            106.496,
+            170.564,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "prognosis",
+          "box": [
+            173.43,
+            106.496,
+            229.504,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            232.065,
+            106.496,
+            241.901,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "poor",
+          "box": [
+            244.44,
+            106.496,
+            269.648,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            274.41,
+            106.496,
+            281.583,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "left",
+          "box": [
+            285.795,
+            106.496,
+            303.702,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "untreated.",
+          "box": [
+            307.71,
+            106.496,
+            367.108,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Immediate",
+          "box": [
+            373.455,
+            106.496,
+            435.568,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "delivery",
+          "box": [
+            438.435,
+            106.496,
+            484.556,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            488.25,
+            106.496,
+            498.394,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oxygen",
+          "box": [
+            502.65,
+            106.496,
+            542.116,
+            118.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            81.0,
+            120.491,
+            102.165,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "assisted",
+          "box": [
+            105.975,
+            120.491,
+            150.007,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ventilations",
+          "box": [
+            153.81,
+            120.491,
+            221.832,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            224.37,
+            120.491,
+            243.447,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "essential.",
+          "box": [
+            246.33,
+            120.491,
+            299.495,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Untreated",
+          "box": [
+            305.82,
+            120.491,
+            362.06,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bradycardia",
+          "box": [
+            365.85,
+            120.491,
+            435.704,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "will",
+          "box": [
+            438.93,
+            120.491,
+            459.493,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "quickly",
+          "box": [
+            463.5,
+            120.491,
+            504.835,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cause",
+          "box": [
+            508.95,
+            120.491,
+            541.189,
+            132.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock,",
+          "box": [
+            81.0,
+            134.441,
+            117.208,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hypotension",
+          "box": [
+            120.24,
+            134.441,
+            189.796,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            193.95,
+            134.441,
+            215.115,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "death.",
+          "box": [
+            218.97,
+            134.441,
+            254.565,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Consider",
+          "box": [
+            260.865,
+            134.441,
+            309.684,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "causes",
+          "box": [
+            314.505,
+            134.441,
+            352.494,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            355.005,
+            134.441,
+            365.149,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bradycardia,",
+          "box": [
+            369.36,
+            134.441,
+            442.633,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "including",
+          "box": [
+            445.455,
+            134.441,
+            499.881,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hypoxia,",
+          "box": [
+            502.65,
+            134.441,
+            551.709,
+            146.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hypothermia,",
+          "box": [
+            81.0,
+            148.436,
+            158.615,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hypoglycemia,",
+          "box": [
+            161.37,
+            148.436,
+            243.997,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "beta",
+          "box": [
+            246.825,
+            148.436,
+            271.503,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "blocker",
+          "box": [
+            274.725,
+            148.436,
+            315.952,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            320.715,
+            148.436,
+            331.636,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "calcium",
+          "box": [
+            336.42,
+            148.436,
+            380.148,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "channel",
+          "box": [
+            384.615,
+            148.436,
+            429.452,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "blocker",
+          "box": [
+            433.62,
+            148.436,
+            474.847,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "overdose,",
+          "box": [
+            479.25,
+            148.436,
+            534.421,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            537.3,
+            148.436,
+            558.465,
+            160.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hyperkalemia.",
+          "box": [
+            81.0,
+            162.386,
+            163.646,
+            174.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "For",
+          "box": [
+            119.475,
+            190.331,
+            137.506,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            142.29,
+            190.331,
+            148.96,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "newborn",
+          "box": [
+            152.145,
+            190.331,
+            203.257,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            207.45,
+            190.331,
+            232.524,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bradycardia,",
+          "box": [
+            236.565,
+            190.331,
+            309.838,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "please",
+          "box": [
+            312.66,
+            190.331,
+            349.002,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            351.9,
+            190.331,
+            378.702,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            383.445,
+            190.331,
+            394.1,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Newborn",
+          "box": [
+            397.485,
+            190.331,
+            449.898,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Resuscitation",
+          "box": [
+            454.05,
+            190.331,
+            528.685,
+            202.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            262.395,
+            204.281,
+            313.013,
+            216.278
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Lavender",
+          "box": [
+            315.81,
+            204.281,
+            371.114,
+            216.278
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "5.",
+          "box": [
+            376.515,
+            204.281,
+            386.555,
+            216.278
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Concer",
+          "box": [
+            81.0,
+            232.226,
+            121.288,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ning",
+          "box": [
+            123.566,
+            232.226,
+            150.462,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "signs",
+          "box": [
+            153.63,
+            232.226,
+            184.423,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            187.38,
+            232.226,
+            198.728,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "symptoms:",
+          "box": [
+            204.165,
+            232.226,
+            269.276,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "hypotension,",
+          "box": [
+            272.7,
+            232.226,
+            350.856,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "alter",
+          "box": [
+            354.195,
+            232.226,
+            381.189,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ed",
+          "box": [
+            383.467,
+            232.226,
+            396.986,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "mental",
+          "box": [
+            401.22,
+            232.226,
+            442.484,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "status,",
+          "box": [
+            447.165,
+            232.226,
+            486.982,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "syncope/pr",
+          "box": [
+            490.05,
+            232.226,
+            554.184,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "e-",
+          "box": [
+            556.462,
+            232.226,
+            567.661,
+            244.223
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "syncope,",
+          "box": [
+            81.0,
+            246.176,
+            133.277,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "chest",
+          "box": [
+            136.575,
+            246.176,
+            166.928,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "pain,",
+          "box": [
+            171.585,
+            246.176,
+            202.072,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "dyspnea,",
+          "box": [
+            205.38,
+            246.176,
+            258.841,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "acute",
+          "box": [
+            262.17,
+            246.176,
+            295.084,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "hear",
+          "box": [
+            298.395,
+            246.176,
+            324.427,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "t",
+          "box": [
+            326.705,
+            246.176,
+            330.04,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "failur",
+          "box": [
+            334.665,
+            246.176,
+            367.179,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "e,",
+          "box": [
+            369.457,
+            246.176,
+            379.641,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "signs",
+          "box": [
+            382.995,
+            246.176,
+            413.788,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            416.745,
+            246.176,
+            427.316,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "shock,",
+          "box": [
+            432.0,
+            246.176,
+            470.489,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            473.85,
+            246.176,
+            485.198,
+            258.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "cyanosis/pallor",
+          "box": [
+            81.0,
+            260.171,
+            170.543,
+            272.168
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ":",
+          "box": [
+            172.821,
+            260.171,
+            176.156,
+            272.168
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            81.0,
+            288.116,
+            89.806,
+            300.113
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "NO",
+          "box": [
+            93.735,
+            288.116,
+            112.523,
+            300.113
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "concerning",
+          "box": [
+            115.83,
+            288.116,
+            184.693,
+            300.113
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "signs",
+          "box": [
+            187.47,
+            288.116,
+            219.574,
+            300.113
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            222.21,
+            288.116,
+            234.293,
+            300.113
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "symptoms,",
+          "box": [
+            239.355,
+            288.116,
+            304.732,
+            300.113
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "then",
+          "box": [
+            308.025,
+            288.116,
+            334.642,
+            300.113
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "all",
+          "box": [
+            338.49,
+            288.116,
+            354.052,
+            300.113
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "levels",
+          "box": [
+            358.11,
+            288.116,
+            393.031,
+            300.113
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "(EMT/Advanced",
+          "box": [
+            395.64,
+            288.116,
+            490.055,
+            300.113
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT/Paramedic)",
+          "box": [
+            81.0,
+            302.066,
+            182.182,
+            314.063
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            186.12,
+            302.066,
+            212.041,
+            314.063
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "do",
+          "box": [
+            215.505,
+            302.066,
+            230.814,
+            314.063
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            234.045,
+            302.066,
+            253.581,
+            314.063
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "following:",
+          "box": [
+            256.455,
+            302.066,
+            318.149,
+            314.063
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "1.",
+          "box": [
+            97.2,
+            316.061,
+            107.24,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "O",
+          "box": [
+            110.43,
+            316.061,
+            119.764,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            119.34,
+            320.851,
+            124.009,
+            329.248
+          ],
+          "font": "Helvetica",
+          "size": 8.397
+        },
+        {
+          "text": "as",
+          "box": [
+            127.17,
+            316.061,
+            139.923,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "appropriate.",
+          "box": [
+            142.47,
+            316.061,
+            213.762,
+            328.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2.",
+          "box": [
+            97.2,
+            330.011,
+            107.24,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Advanced",
+          "box": [
+            110.43,
+            330.011,
+            168.693,
+            342.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT/Par",
+          "box": [
+            172.935,
+            330.011,
+            222.075,
+            342.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "amedic",
+          "box": [
+            224.353,
+            330.011,
+            268.223,
+            342.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ONLY",
+          "box": [
+            271.71,
+            330.011,
+            305.249,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "?",
+          "box": [
+            307.89,
+            330.011,
+            314.56,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consider",
+          "box": [
+            316.98,
+            330.011,
+            364.579,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "20",
+          "box": [
+            369.36,
+            330.011,
+            382.735,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL/kg",
+          "box": [
+            385.92,
+            330.011,
+            421.756,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            424.665,
+            330.011,
+            455.451,
+            342.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "fluid",
+          "box": [
+            458.55,
+            330.011,
+            484.822,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bolus.",
+          "box": [
+            488.7,
+            330.011,
+            523.071,
+            342.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            81.0,
+            357.956,
+            89.806,
+            369.953
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "ANY",
+          "box": [
+            93.735,
+            357.956,
+            120.223,
+            369.953
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "concerning",
+          "box": [
+            123.66,
+            357.956,
+            192.523,
+            369.953
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "signs",
+          "box": [
+            195.3,
+            357.956,
+            227.404,
+            369.953
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            230.04,
+            357.956,
+            242.123,
+            369.953
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "symptoms,",
+          "box": [
+            247.185,
+            357.956,
+            312.562,
+            369.953
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "then:",
+          "box": [
+            315.9,
+            357.956,
+            347.242,
+            369.953
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT",
+          "box": [
+            81.0,
+            371.906,
+            107.586,
+            383.903
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1.",
+          "box": [
+            97.2,
+            385.901,
+            107.24,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Airway",
+          "box": [
+            113.4,
+            385.901,
+            153.832,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "management",
+          "box": [
+            157.725,
+            385.901,
+            231.782,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "per",
+          "box": [
+            235.8,
+            385.901,
+            253.579,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Airway",
+          "box": [
+            258.345,
+            385.901,
+            298.777,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Algorithm,",
+          "box": [
+            302.715,
+            385.901,
+            364.156,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Blue",
+          "box": [
+            366.93,
+            385.901,
+            393.885,
+            397.898
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            397.17,
+            385.901,
+            403.84,
+            397.898
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            403.875,
+            385.901,
+            407.21,
+            397.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2.",
+          "box": [
+            97.2,
+            399.851,
+            107.24,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Request",
+          "box": [
+            113.4,
+            399.851,
+            157.595,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ALS.",
+          "box": [
+            161.595,
+            399.851,
+            187.273,
+            411.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3.",
+          "box": [
+            97.2,
+            413.801,
+            107.24,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Initiate",
+          "box": [
+            110.43,
+            413.801,
+            151.891,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "chest",
+          "box": [
+            154.755,
+            413.801,
+            183.443,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "compressions",
+          "box": [
+            187.47,
+            413.801,
+            266.282,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            268.83,
+            413.801,
+            284.063,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            288.855,
+            413.801,
+            335.184,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            337.725,
+            413.801,
+            362.799,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            366.84,
+            413.801,
+            373.51,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "HR",
+          "box": [
+            376.74,
+            413.801,
+            394.915,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "less",
+          "box": [
+            397.215,
+            413.801,
+            418.769,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            421.29,
+            413.801,
+            446.553,
+            425.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "60",
+          "box": [
+            113.4,
+            427.796,
+            126.775,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "beats",
+          "box": [
+            129.915,
+            427.796,
+            160.559,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "per",
+          "box": [
+            163.08,
+            427.796,
+            180.859,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minute",
+          "box": [
+            185.67,
+            427.796,
+            226.975,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "despite",
+          "box": [
+            229.815,
+            427.796,
+            270.989,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "adequate",
+          "box": [
+            273.87,
+            427.796,
+            326.799,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oxygenation",
+          "box": [
+            329.715,
+            427.796,
+            398.547,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            402.75,
+            427.796,
+            423.915,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ventilation.",
+          "box": [
+            427.725,
+            427.796,
+            493.084,
+            439.793
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4.",
+          "box": [
+            97.2,
+            441.386,
+            107.24,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Perform",
+          "box": [
+            110.43,
+            441.386,
+            156.632,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12-lead",
+          "box": [
+            161.1,
+            441.386,
+            201.798,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ECG,",
+          "box": [
+            205.65,
+            441.386,
+            232.268,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            235.035,
+            441.386,
+            242.208,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "so",
+          "box": [
+            246.42,
+            441.386,
+            258.504,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trained.",
+          "box": [
+            261.9,
+            441.386,
+            307.227,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ADVANCED",
+          "box": [
+            81.0,
+            455.336,
+            149.525,
+            467.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT",
+          "box": [
+            153.18,
+            455.336,
+            179.766,
+            467.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "5.",
+          "box": [
+            97.2,
+            469.286,
+            107.24,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            113.4,
+            469.286,
+            144.186,
+            481.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "en",
+          "box": [
+            147.42,
+            469.286,
+            160.512,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "route",
+          "box": [
+            164.7,
+            469.286,
+            195.552,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            198.405,
+            469.286,
+            219.57,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fluid",
+          "box": [
+            223.38,
+            469.286,
+            249.652,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bolus",
+          "box": [
+            253.485,
+            469.286,
+            285.106,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            287.64,
+            469.286,
+            300.393,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "required.",
+          "box": [
+            302.94,
+            469.286,
+            356.598,
+            481.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6.",
+          "box": [
+            97.2,
+            483.686,
+            107.24,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Cardiac",
+          "box": [
+            113.4,
+            483.686,
+            157.121,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "monitor,",
+          "box": [
+            160.155,
+            483.686,
+            209.891,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "perform",
+          "box": [
+            212.085,
+            483.686,
+            258.404,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12-lead",
+          "box": [
+            262.845,
+            483.686,
+            303.543,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ECG,",
+          "box": [
+            307.395,
+            483.686,
+            334.013,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            336.78,
+            483.686,
+            343.953,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "so",
+          "box": [
+            348.165,
+            483.686,
+            360.249,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trained.",
+          "box": [
+            363.645,
+            483.686,
+            408.972,
+            495.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "7.",
+          "box": [
+            97.2,
+            497.636,
+            107.24,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Request",
+          "box": [
+            113.4,
+            497.636,
+            157.595,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ALS.",
+          "box": [
+            161.595,
+            497.636,
+            187.273,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PARAMEDIC",
+          "box": [
+            81.0,
+            511.586,
+            156.415,
+            523.583
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "8.",
+          "box": [
+            97.2,
+            525.536,
+            107.24,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            113.58,
+            525.536,
+            121.321,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "no",
+          "box": [
+            125.505,
+            525.536,
+            139.915,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "response",
+          "box": [
+            143.28,
+            525.536,
+            194.878,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            197.775,
+            525.536,
+            208.43,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oxygenation,",
+          "box": [
+            211.815,
+            525.536,
+            285.051,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ventilation",
+          "box": [
+            287.82,
+            525.536,
+            348.774,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            352.98,
+            525.536,
+            374.145,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "chest",
+          "box": [
+            377.955,
+            525.536,
+            406.643,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "compressions:",
+          "box": [
+            410.67,
+            525.536,
+            492.232,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            113.4,
+            539.486,
+            123.49,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EPINEPHrine",
+          "box": [
+            126.675,
+            539.486,
+            203.09,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "[1",
+          "box": [
+            206.01,
+            539.486,
+            216.987,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg/10mL]",
+          "box": [
+            220.14,
+            539.486,
+            276.941,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.01",
+          "box": [
+            281.025,
+            539.486,
+            304.539,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg/kg",
+          "box": [
+            307.71,
+            539.486,
+            342.524,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(0.1",
+          "box": [
+            345.465,
+            539.486,
+            366.428,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mL/kg)",
+          "box": [
+            369.585,
+            539.486,
+            409.198,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            412.47,
+            539.486,
+            443.256,
+            551.483
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ",",
+          "box": [
+            443.385,
+            539.486,
+            446.72,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "MAX",
+          "box": [
+            449.505,
+            539.486,
+            477.221,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "single",
+          "box": [
+            480.15,
+            539.486,
+            513.985,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dose",
+          "box": [
+            129.6,
+            553.436,
+            155.971,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            158.805,
+            553.436,
+            165.475,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg.",
+          "box": [
+            168.66,
+            553.436,
+            189.784,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Repeat",
+          "box": [
+            193.005,
+            553.436,
+            230.81,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "every",
+          "box": [
+            234.81,
+            553.436,
+            266.134,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3-5",
+          "box": [
+            270.045,
+            553.436,
+            287.141,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes.",
+          "box": [
+            290.295,
+            553.436,
+            340.099,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b.",
+          "box": [
+            113.4,
+            567.386,
+            123.859,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "In",
+          "box": [
+            127.08,
+            567.386,
+            138.156,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "addition,",
+          "box": [
+            142.335,
+            567.386,
+            193.714,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consider",
+          "box": [
+            196.47,
+            567.386,
+            244.069,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Atropine*",
+          "box": [
+            248.895,
+            567.386,
+            303.825,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            308.25,
+            567.386,
+            323.483,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "increased",
+          "box": [
+            328.275,
+            567.386,
+            383.09,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "vagal",
+          "box": [
+            386.91,
+            567.386,
+            416.114,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tone",
+          "box": [
+            420.3,
+            567.386,
+            445.62,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            448.47,
+            567.386,
+            459.391,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "primary",
+          "box": [
+            463.95,
+            567.386,
+            510.659,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "AV",
+          "box": [
+            514.8,
+            567.386,
+            530.542,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Block",
+          "box": [
+            533.7,
+            567.386,
+            564.092,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Atropine",
+          "box": [
+            129.6,
+            581.336,
+            180.112,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.02",
+          "box": [
+            182.97,
+            581.336,
+            206.484,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg/kg",
+          "box": [
+            209.655,
+            581.336,
+            244.469,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            247.365,
+            581.336,
+            278.151,
+            593.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            278.28,
+            581.336,
+            281.615,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "May",
+          "box": [
+            284.85,
+            581.336,
+            308.498,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "repeat",
+          "box": [
+            312.39,
+            581.336,
+            348.22,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "x",
+          "box": [
+            352.215,
+            581.336,
+            358.214,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1.",
+          "box": [
+            362.295,
+            581.336,
+            372.335,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Minimum",
+          "box": [
+            375.525,
+            581.336,
+            431.021,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dose",
+          "box": [
+            435.51,
+            581.336,
+            461.881,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.1",
+          "box": [
+            464.4,
+            581.336,
+            481.209,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg",
+          "box": [
+            484.65,
+            581.336,
+            502.656,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            505.35,
+            581.336,
+            526.515,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "MAX",
+          "box": [
+            530.55,
+            581.336,
+            558.266,
+            593.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "single",
+          "box": [
+            129.6,
+            595.286,
+            163.435,
+            607.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dose",
+          "box": [
+            166.275,
+            595.286,
+            192.646,
+            607.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.5",
+          "box": [
+            195.525,
+            595.286,
+            212.334,
+            607.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg.(*refer",
+          "box": [
+            215.505,
+            595.286,
+            273.686,
+            607.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            278.46,
+            595.286,
+            289.115,
+            607.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PEARLS,",
+          "box": [
+            292.5,
+            595.286,
+            340.88,
+            607.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Red",
+          "box": [
+            343.575,
+            595.286,
+            364.294,
+            607.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "26)",
+          "box": [
+            368.1,
+            595.286,
+            385.505,
+            607.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "9.",
+          "box": [
+            97.2,
+            609.236,
+            107.24,
+            621.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Apply",
+          "box": [
+            113.58,
+            609.236,
+            146.123,
+            621.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "external",
+          "box": [
+            150.03,
+            609.236,
+            196.724,
+            621.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pacer.",
+          "box": [
+            200.88,
+            609.236,
+            235.711,
+            621.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Initiate",
+          "box": [
+            238.95,
+            609.236,
+            280.411,
+            621.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transcutaneous",
+          "box": [
+            283.275,
+            609.236,
+            372.256,
+            621.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pacing",
+          "box": [
+            374.805,
+            609.236,
+            413.073,
+            621.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(TCP)",
+          "box": [
+            415.98,
+            609.236,
+            445.846,
+            621.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            449.145,
+            609.236,
+            464.378,
+            621.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            468.9,
+            609.236,
+            515.229,
+            621.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "who",
+          "box": [
+            517.95,
+            609.236,
+            542.458,
+            621.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "do",
+          "box": [
+            545.85,
+            609.236,
+            559.882,
+            621.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            129.6,
+            623.186,
+            147.601,
+            635.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "respond",
+          "box": [
+            151.605,
+            623.186,
+            197.79,
+            635.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            201.6,
+            623.186,
+            212.255,
+            635.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pharmacologic",
+          "box": [
+            215.64,
+            623.186,
+            300.76,
+            635.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "interventions.",
+          "box": [
+            303.795,
+            623.186,
+            383.905,
+            635.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            113.4,
+            637.136,
+            123.49,
+            649.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Consider",
+          "box": [
+            126.675,
+            637.136,
+            175.494,
+            649.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "premedicating",
+          "box": [
+            180.27,
+            637.136,
+            263.676,
+            649.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with:",
+          "box": [
+            266.625,
+            637.136,
+            295.977,
+            649.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "i.",
+          "box": [
+            129.6,
+            651.086,
+            136.773,
+            663.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Midazolam",
+          "box": [
+            139.95,
+            651.086,
+            202.686,
+            663.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.05",
+          "box": [
+            207.18,
+            651.086,
+            230.694,
+            663.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg/kg",
+          "box": [
+            233.865,
+            651.086,
+            268.679,
+            663.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            271.575,
+            651.086,
+            302.361,
+            663.083
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            305.595,
+            651.086,
+            316.516,
+            663.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.1",
+          "box": [
+            321.3,
+            651.086,
+            338.109,
+            663.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg/kg",
+          "box": [
+            341.28,
+            651.086,
+            376.094,
+            663.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IN",
+          "box": [
+            378.99,
+            651.086,
+            392.462,
+            663.083
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(MAX",
+          "box": [
+            396.405,
+            651.086,
+            428.275,
+            663.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dose",
+          "box": [
+            431.28,
+            651.086,
+            457.651,
+            663.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3",
+          "box": [
+            460.35,
+            651.086,
+            467.02,
+            663.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg)",
+          "box": [
+            470.25,
+            651.086,
+            492.034,
+            663.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "OR",
+          "box": [
+            495.45,
+            651.086,
+            513.017,
+            663.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ii.",
+          "box": [
+            129.6,
+            665.036,
+            140.61,
+            677.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Fentanyl",
+          "box": [
+            143.82,
+            665.036,
+            192.387,
+            677.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            196.56,
+            665.036,
+            203.23,
+            677.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mcg/kg",
+          "box": [
+            206.37,
+            665.036,
+            247.088,
+            677.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV/IN/IO",
+          "box": [
+            250.02,
+            665.036,
+            298.528,
+            677.033
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            301.77,
+            665.036,
+            312.425,
+            677.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            315.765,
+            665.036,
+            322.435,
+            677.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "MAX",
+          "box": [
+            325.665,
+            665.036,
+            353.381,
+            677.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "first",
+          "box": [
+            356.4,
+            665.036,
+            379.068,
+            677.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dose",
+          "box": [
+            383.085,
+            665.036,
+            409.456,
+            677.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            412.335,
+            665.036,
+            422.479,
+            677.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "100",
+          "box": [
+            426.69,
+            665.036,
+            446.77,
+            677.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mcg.",
+          "box": [
+            449.955,
+            665.036,
+            476.983,
+            677.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b.",
+          "box": [
+            113.4,
+            678.986,
+            123.859,
+            690.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Contact",
+          "box": [
+            127.08,
+            679.304,
+            167.566,
+            690.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "OLMC",
+          "box": [
+            171.45,
+            679.304,
+            207.574,
+            690.9
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.596
+        },
+        {
+          "text": "as",
+          "box": [
+            209.97,
+            679.304,
+            222.298,
+            690.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "soon",
+          "box": [
+            224.73,
+            679.304,
+            249.794,
+            690.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "as",
+          "box": [
+            253.845,
+            679.304,
+            266.173,
+            690.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "possible",
+          "box": [
+            268.605,
+            679.304,
+            313.755,
+            690.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "11.",
+          "box": [
+            97.2,
+            692.936,
+            113.945,
+            704.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Check",
+          "box": [
+            117.135,
+            692.936,
+            150.435,
+            704.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            154.62,
+            692.936,
+            169.853,
+            704.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "capture",
+          "box": [
+            174.6,
+            692.936,
+            218.781,
+            704.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "frequently",
+          "box": [
+            221.67,
+            692.936,
+            281.02,
+            704.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(every",
+          "box": [
+            284.94,
+            692.936,
+            320.418,
+            704.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            324.315,
+            692.936,
+            330.985,
+            704.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes)",
+          "box": [
+            334.125,
+            692.936,
+            384.589,
+            704.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "by",
+          "box": [
+            387.9,
+            692.936,
+            401.144,
+            704.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "checking",
+          "box": [
+            405.045,
+            692.936,
+            456.152,
+            704.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "peripheral",
+          "box": [
+            459.0,
+            692.936,
+            518.74,
+            704.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pulses,",
+          "box": [
+            522.9,
+            692.936,
+            562.18,
+            704.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ensuring",
+          "box": [
+            116.505,
+            706.886,
+            167.477,
+            718.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            170.37,
+            706.886,
+            188.879,
+            718.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pulse",
+          "box": [
+            191.745,
+            706.886,
+            222.525,
+            718.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "matches",
+          "box": [
+            225.405,
+            706.886,
+            273.423,
+            718.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            275.985,
+            706.886,
+            294.494,
+            718.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "paced",
+          "box": [
+            297.36,
+            706.886,
+            330.472,
+            718.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "rate.",
+          "box": [
+            334.305,
+            706.886,
+            360.458,
+            718.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12.",
+          "box": [
+            97.2,
+            720.836,
+            113.945,
+            732.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            120.285,
+            720.836,
+            128.026,
+            732.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pulseless",
+          "box": [
+            132.21,
+            720.836,
+            184.296,
+            732.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "arrest",
+          "box": [
+            186.84,
+            720.836,
+            220.069,
+            732.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "develops,",
+          "box": [
+            224.1,
+            720.836,
+            277.776,
+            732.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "follow",
+          "box": [
+            280.575,
+            720.836,
+            314.724,
+            732.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pediatric",
+          "box": [
+            319.5,
+            720.836,
+            370.716,
+            732.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Cardiac",
+          "box": [
+            373.77,
+            720.836,
+            417.491,
+            732.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Arrest",
+          "box": [
+            420.525,
+            720.836,
+            455.459,
+            732.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            459.45,
+            720.836,
+            510.068,
+            732.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Red",
+          "box": [
+            512.55,
+            720.836,
+            534.313,
+            732.833
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "18.",
+          "box": [
+            538.65,
+            720.836,
+            555.395,
+            732.833
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EAP",
+          "box": [
+            45.9,
+            185.436,
+            79.956,
+            203.436
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "A",
+          "box": [
+            47.16,
+            333.936,
+            59.166,
+            351.936
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "P",
+          "box": [
+            64.755,
+            333.576,
+            76.761,
+            351.576
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "E",
+          "box": [
+            56.25,
+            396.891,
+            68.256,
+            414.891
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "A",
+          "box": [
+            55.485,
+            471.726,
+            67.491,
+            489.726
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "P",
+          "box": [
+            56.43,
+            614.826,
+            68.436,
+            632.826
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0068.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "glm_ocr",
+    "canonical_override_reason": "Hunyuan duplicated the final pacing and cardiac-arrest steps",
+    "glm_ocr": "raw/glm_ocr/page-0068.json"
+  },
+  "qa": {
+    "native_similarity": 98.78,
+    "output_to_native_length_ratio": 0.977,
+    "native_dosage_tokens": [
+      "0.01mg/kg",
+      "0.02mg/kg",
+      "0.05mg/kg",
+      "0.1mg",
+      "0.1mg/kg",
+      "0.1ml/kg",
+      "0.5mg",
+      "100mcg",
+      "10ml",
+      "1mcg/kg",
+      "1mg",
+      "20ml/kg",
+      "3mg"
+    ],
+    "output_dosage_tokens": [
+      "0.01mg/kg",
+      "0.02mg/kg",
+      "0.05mg/kg",
+      "0.1mg",
+      "0.1mg/kg",
+      "0.1ml/kg",
+      "0.5mg",
+      "100mcg",
+      "10ml",
+      "1mcg/kg",
+      "1mg",
+      "20ml/kg",
+      "3mg"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

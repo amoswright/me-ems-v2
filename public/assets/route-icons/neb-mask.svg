@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Body: narrower rectangle -->
+  <g stroke="#94a3b8" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="50" cy="11" r="9"/>
+    <path d="M45 19 Q50 22 55 19" stroke-width="2.5"/>
+    <rect x="28" y="22" width="44" height="41" rx="8"/>
+    <line x1="28" y1="33" x2="10" y2="52"/>
+    <line x1="72" y1="33" x2="90" y2="52"/>
+    <line x1="38" y1="63" x2="35" y2="87"/>
+    <line x1="62" y1="63" x2="65" y2="87"/>
+    <line x1="31" y1="87" x2="39" y2="87"/>
+    <line x1="61" y1="87" x2="69" y2="87"/>
+  </g>
+  <!-- Neb: O₂ cylinder (no text) + tubing + mask with Neb label -->
+  <g stroke="#1e40af" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Cylinder body (no O₂ label) -->
+    <rect x="79" y="70" width="15" height="24" rx="3.5" stroke-width="3" fill="#bfdbfe"/>
+    <ellipse cx="86.5" cy="70" rx="9" ry="3" stroke-width="3" fill="#bfdbfe"/>
+    <line x1="86.5" y1="67" x2="86.5" y2="63" stroke-width="3.5"/>
+    <rect x="83" y="58" width="7" height="6" rx="2" stroke-width="3" fill="#bfdbfe"/>
+    <circle cx="86.5" cy="61" r="2" stroke-width="2"/>
+    <!-- Tubing from regulator to mask -->
+    <path d="M83 61 C74 55 63 42 61 25" stroke-width="2.5"/>
+    <line x1="64" y1="18" x2="61" y2="25" stroke-width="2.5"/>
+  </g>
+  <!-- Face mask with Neb label (no straps) -->
+  <path d="M34 16 Q34 11 50 11 Q66 11 66 16 Q67 25 50 27 Q33 25 34 16 Z"
+        fill="#bfdbfe" fill-opacity="0.8" stroke="#1e40af" stroke-width="3"/>
+  <text x="50" y="21" text-anchor="middle" font-size="6.5" font-weight="800"
+        fill="#1e40af" font-family="system-ui,sans-serif">Neb</text>
+</svg>

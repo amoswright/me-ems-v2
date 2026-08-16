@@ -1,0 +1,254 @@
+{
+  "id": "page-0174",
+  "pdf_page": 174,
+  "protocol_label": "Grey 17",
+  "kind": "protocol",
+  "chapter_id": "grey",
+  "topic_id": "grey-mass-casualty-disasters-hazmat",
+  "title": "Mass Casualty / Disasters/Hazmat",
+  "markdown": "# Mass Casualty / Disasters/Hazmat\n\n![Visual reference from Mass Casualty / Disasters/Hazmat](../../assets/figures/page-0174-visual.webp)\n\n### Suggested Scene Organization\n### (Not for HazMat)\n\n* **INCIDENT COMMAND POST**\n* **EMS CONTROL OFFICER**\n* **INCIDENT SCENE**\n    * **EQUIPMENT**\n    * **AMBULANCE LOADING**\n    * **PRIMARY TRIAGE OFFICER**\n    * **RED**\n    * **LOADING OFFICER**\n    * **TREATMENT OFFICER**\n    * **YELLOW**\n    * **SECONDARY TRIAGE OFFICER**\n    * **GREEN**\n    * **TRIAGE / HOLDING AREA**\n",
+  "plain_text": "Mass Casualty / Disasters/Hazmat Suggested Scene Organization (Not for HazMat) INCIDENT COMMAND POST EMS CONTROL OFFICER INCIDENT SCENE EQUIPMENT AMBULANCE LOADING PRIMARY TRIAGE OFFICER RED LOADING OFFICER TREATMENT OFFICER YELLOW SECONDARY TRIAGE OFFICER GREEN TRIAGE / HOLDING AREA",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        275.07,
+        30.83,
+        736.61,
+        56.08
+      ],
+      "text": "Suggested Scene Or ganization",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        376.4,
+        60.2,
+        637.78,
+        85.45
+      ],
+      "text": "(Not for HazM at)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        437.35,
+        950.49,
+        895.38,
+        965.64
+      ],
+      "text": "(Back to TOC) Grey 17",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0174-visual",
+      "type": "figure",
+      "path": "assets/figures/page-0174-visual.webp",
+      "alt": "Visual reference from Mass Casualty / Disasters/Hazmat",
+      "source_box_points": [
+        26.13,
+        54.0,
+        584.58,
+        756.9
+      ],
+      "reasons": [
+        "embedded_images"
+      ],
+      "sha256": "3b2a0e08593334ee6ed600f299c9f6c35a170daac64f74d2a8b3462c90a0cc3e"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "46335d2c93ba01604738e293cab2035966d93d6456a920ccb6e36d59f8f5409b",
+    "native": {
+      "text": "Suggested Scene Or ganization\n(Not for HazM at)\n(Back to TOC) Grey 17",
+      "body_text": "",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            267.66,
+            752.786,
+            298.314,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            302.49,
+            752.786,
+            313.145,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            316.485,
+            752.786,
+            344.1,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Grey",
+          "box": [
+            504.45,
+            752.786,
+            530.969,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "17",
+          "box": [
+            534.6,
+            752.786,
+            547.975,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Suggested",
+          "box": [
+            168.345,
+            24.421,
+            261.436,
+            44.419
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Scene",
+          "box": [
+            267.795,
+            24.421,
+            323.23,
+            44.419
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Or",
+          "box": [
+            328.05,
+            24.421,
+            349.55,
+            44.419
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ganization",
+          "box": [
+            352.116,
+            24.421,
+            450.805,
+            44.419
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "(Not",
+          "box": [
+            230.355,
+            47.682,
+            269.444,
+            67.68
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "for",
+          "box": [
+            276.12,
+            47.682,
+            301.508,
+            67.68
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "HazM",
+          "box": [
+            309.465,
+            47.682,
+            363.464,
+            67.68
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "at)",
+          "box": [
+            365.562,
+            47.682,
+            390.32,
+            67.68
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0174.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 33.22,
+    "output_to_native_length_ratio": 4.566,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "pre_refinement_warnings": [
+      "low_native_similarity"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

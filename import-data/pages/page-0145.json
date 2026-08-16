@@ -1,0 +1,5474 @@
+{
+  "id": "page-0145",
+  "pdf_page": 145,
+  "protocol_label": "Lavender 1",
+  "kind": "protocol",
+  "chapter_id": "lavender",
+  "topic_id": "lavender-obstetric-emergencies",
+  "title": "Obstetric Emergencies",
+  "markdown": "# Obstetric Emergencies\n\nMost pregnancies progress with no complications. In cases of pregnancy with either vaginal bleeding or abdominal/pelvic pain, consider the following possibilities:\n\n1. Abruptio placenta: placenta prematurely separates from the uterus causing intrauterine bleeding\n2. Placenta previa: placenta covers part or all of the cervical opening\n3. Ectopic pregnancy (ruptured)\n4. Spontaneous abortion (miscarriage)\n5. Pre-eclampsia/eclampsia (can occur for up to 6 weeks postpartum), refer to Seizure protocol, **Gold 8**\n6. Postpartum Hemorrhage\n\n### EMT\n\n1. Manage airway as appropriate, see Airway Algorithm, **Blue 2**\n2. Monitor vitals. If evidence of shock refer to the Hemorrhagic Shock protocol, **Green 13**. Contact ALS, if available\n    a. Patients in third trimester of pregnancy with evidence of shock should be transported on their side (either left or right), or with uterus manually displaced to the left or right\n3. If the patient is pregnant with abdominal/pelvic pain, bleeding or concern for any of the above conditions, and the patient condition permits, transport to the nearest hospital with OB capabilities if total transport time is less than 45 minutes, otherwise go to the closest ED.\n4. For trauma related to pregnancy, follow Trauma Triage guideline, **Green 1**\n5. Notify Hospital of incoming patient\n6. Contact OLMC for decision support if questions regarding patient transport destination.\n7. Refer to Childbirth protocol, **Lavender 2**\n8. If history of syncope/lightheadedness, if available and so trained, perform 12-lead ECG\n\n### ADVANCED EMT\n\n9. Establish IV. If evidence of shock, resuscitate with fluid boluses\n\n### PARAMEDIC\n\n10. For patients suffering postpartum hemorrhage and demonstrating evidence of shock, refer to the Hemorrhagic Shock protocol, **Green 13** and consider tranexamic acid (TXA).\n    a. NOTE - TXA is contraindicated in patients greater than 24 weeks pregnant (or pregnant with fundus above umbilicus) suffering hemorrhagic shock due to trauma, refer to Hemorrhagic Shock protocol, **Green 13**\n\n> **Pearls for Obstetric Emergencies**\n> * Even minor trauma beyond the second trimester can lead to significant consequences for the pregnancy. In some cases, these patients require fetal monitoring and therefore should be transported.\n> * Syncope can be a presenting symptom of hemorrhage from ectopic pregnancy or causes of vaginal bleeding.\n> * Do not place hand/fingers into vagina of bleeding patient except in cases of prolapsed cord or breech birth that is not progressing\n> * Please note, on-scene obstetric clinicians may provide TXA. Please ensure TXA has not been previously provided before proceeding with TXA.\n> * \\*When placing patient in a lateral position, consider patient comfort and ease of access to patient when choosing right or left side.\n",
+  "plain_text": "Obstetric Emergencies Most pregnancies progress with no complications. In cases of pregnancy with either vaginal bleeding or abdominal/pelvic pain, consider the following possibilities: Abruptio placenta: placenta prematurely separates from the uterus causing intrauterine bleeding Placenta previa: placenta covers part or all of the cervical opening Ectopic pregnancy (ruptured) Spontaneous abortion (miscarriage) Pre-eclampsia/eclampsia (can occur for up to 6 weeks postpartum), refer to Seizure protocol, Gold 8 Postpartum Hemorrhage EMT Manage airway as appropriate, see Airway Algorithm, Blue 2 Monitor vitals. If evidence of shock refer to the Hemorrhagic Shock protocol, Green 13. Contact ALS, if available Patients in third trimester of pregnancy with evidence of shock should be transported on their side (either left or right), or with uterus manually displaced to the left or right If the patient is pregnant with abdominal/pelvic pain, bleeding or concern for any of the above conditions, and the patient condition permits, transport to the nearest hospital with OB capabilities if total transport time is less than 45 minutes, otherwise go to the closest ED. For trauma related to pregnancy, follow Trauma Triage guideline, Green 1 Notify Hospital of incoming patient Contact OLMC for decision support if questions regarding patient transport destination. Refer to Childbirth protocol, Lavender 2 If history of syncope/lightheadedness, if available and so trained, perform 12-lead ECG ADVANCED EMT Establish IV. If evidence of shock, resuscitate with fluid boluses PARAMEDIC For patients suffering postpartum hemorrhage and demonstrating evidence of shock, refer to the Hemorrhagic Shock protocol, Green 13 and consider tranexamic acid (TXA). NOTE - TXA is contraindicated in patients greater than 24 weeks pregnant (or pregnant with fundus above umbilicus) suffering hemorrhagic shock due to trauma, refer to Hemorrhagic Shock protocol, Green 13 Pearls for Obstetric Emergencies Even minor trauma beyond the second trimester can lead to significant consequences for the pregnancy. In some cases, these patients require fetal monitoring and therefore should be transported. Syncope can be a presenting symptom of hemorrhage from ectopic pregnancy or causes of vaginal bleeding. Do not place hand/fingers into vagina of bleeding patient except in cases of prolapsed cord or breech birth that is not progressing Please note, on-scene obstetric clinicians may provide TXA. Please ensure TXA has not been previously provided before proceeding with TXA. When placing patient in a lateral position, consider patient comfort and ease of access to patient when choosing right or left side.",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        348.31,
+        45.6,
+        697.91,
+        70.85
+      ],
+      "text": "Obstetr ic Em er gencies",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        92.99,
+        919.3,
+        108.14
+      ],
+      "text": "Most pregnancies progress with no complications. In cases of pregnancy with either",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        110.66,
+        873.27,
+        125.81
+      ],
+      "text": "vaginal bleeding or abdominal/pelvic pain, consider the following possibilities:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        153.24,
+        128.27,
+        878.21,
+        143.42
+      ],
+      "text": "1. Abruptio placenta: placenta prematurely separates from the uterus causing",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        166.47,
+        145.89,
+        366.53,
+        161.03
+      ],
+      "text": "intrauterine bleeding",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        153.24,
+        163.56,
+        792.85,
+        178.7
+      ],
+      "text": "2. Placenta previa: placenta covers part or all of the cervical opening",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        80.81,
+        180.73,
+        450.25,
+        203.45
+      ],
+      "text": "EAP 3. Ectopic pregnancy (ruptured)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        153.24,
+        198.84,
+        510.29,
+        213.99
+      ],
+      "text": "4. Spontaneous abortion (miscarriage)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        153.24,
+        216.45,
+        874.03,
+        231.6
+      ],
+      "text": "5. Pre-eclampsia/eclampsia (can occur for up to 6 weeks postpartum), refer to",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        192.94,
+        234.12,
+        417.66,
+        249.27
+      ],
+      "text": "Seizure protocol, Gold 8",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        150.15,
+        251.74,
+        405.1,
+        266.89
+      ],
+      "text": "6. Postpartum Hemorrhage",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        269.35,
+        183.44,
+        284.5
+      ],
+      "text": "EMT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        287.02,
+        729.06,
+        302.17
+      ],
+      "text": "1. Manage airway as appropriate, see Airway Algorithm, Blue 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        302.76,
+        875.36,
+        317.91
+      ],
+      "text": "2. Monitor vitals. If evidence of shock refer to the Hemorrhagic Shock protocol,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        166.47,
+        318.44,
+        490.07,
+        333.59
+      ],
+      "text": "Gr een 13. Contact ALS, if available",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        166.47,
+        334.18,
+        872.19,
+        349.33
+      ],
+      "text": "a. Patients in third trimester of pregnancy with evidence of shock should be",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        192.94,
+        349.92,
+        847.75,
+        365.07
+      ],
+      "text": "transported on their side (either left or right), or with uterus manually",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        191.91,
+        365.66,
+        457.87,
+        380.81
+      ],
+      "text": "displaced to the left or right*",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        381.34,
+        922.26,
+        396.49
+      ],
+      "text": "3. If the patient is pregnant with abdominal/pelvic pain, bleeding or concern for any",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        166.47,
+        397.08,
+        863.33,
+        412.23
+      ],
+      "text": "of the above conditions, and the patient condition permits, transport to the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        97.72,
+        412.82,
+        848.33,
+        436.81
+      ],
+      "text": "E nearest hospital with OB capabilities if total transport time is less than 45",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        166.47,
+        428.56,
+        533.95,
+        443.7
+      ],
+      "text": "minutes, otherwise go to the closest ED.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        444.29,
+        855.75,
+        459.44
+      ],
+      "text": "4. For trauma related to pregnancy, follow Trauma Triage guideline, Gr een 1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        459.98,
+        488.34,
+        475.12
+      ],
+      "text": "5. Notify Hospital of incoming patient",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        475.71,
+        860.23,
+        490.86
+      ],
+      "text": "6. Contact OLMC for decision support if questions regarding patient transport",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        166.47,
+        491.45,
+        277.09,
+        506.6
+      ],
+      "text": "destination.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        522.93,
+        537.96,
+        538.08
+      ],
+      "text": "7. Refer to Childbirth protocol, Lavender 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        540.54,
+        920.91,
+        555.69
+      ],
+      "text": "8. If history of syncope/lightheadedness, if available and so trained, perform 12-lead",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        166.47,
+        557.87,
+        205.77,
+        573.02
+      ],
+      "text": "ECG",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        575.49,
+        301.38,
+        590.64
+      ],
+      "text": "ADVANCED EMT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        96.54,
+        591.64,
+        750.27,
+        614.36
+      ],
+      "text": "A 9. Establish IV. If evidence of shock, resuscitate with fluid boluses",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        610.71,
+        263.23,
+        625.86
+      ],
+      "text": "PARAMEDIC",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        140.0,
+        628.33,
+        901.13,
+        643.48
+      ],
+      "text": "10. For patients suffering postpartum hemorrhage and demonstrating evidence of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        166.47,
+        645.94,
+        828.51,
+        661.09
+      ],
+      "text": "shock, refer to the Hemorrhagic Shock protocol, Gr een 13 and consider",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        98.01,
+        663.56,
+        380.01,
+        688.8
+      ],
+      "text": "P tranexamic acid (TXA).",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        166.47,
+        681.17,
+        904.78,
+        696.32
+      ],
+      "text": "a. NOTE - TXA is contraindicated in patients greater than 24 weeks pregnant (or",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        192.94,
+        698.78,
+        899.03,
+        713.93
+      ],
+      "text": "pregnant with fundus above umbilicus) suffering hemorrhagic shock due to",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        192.94,
+        716.4,
+        711.49,
+        731.54
+      ],
+      "text": "trauma, refer to Hemorrhagic Shock protocol, Gr een 13",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        99.56,
+        743.1,
+        425.61,
+        758.25
+      ],
+      "text": "Pear ls for Obstetr ic Emer gencies",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        105.29,
+        760.58,
+        911.55,
+        774.47
+      ],
+      "text": "- Even minor trauma beyond the second trimester can lead to significant consequences for the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0041",
+      "type": "text_line",
+      "box_1000": [
+        117.5,
+        777.06,
+        885.73,
+        790.94
+      ],
+      "text": "pregnancy. In some cases, these patients require fetal monitoring and therefore should be",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0042",
+      "type": "text_line",
+      "box_1000": [
+        117.5,
+        792.97,
+        223.75,
+        806.85
+      ],
+      "text": "transported.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0043",
+      "type": "text_line",
+      "box_1000": [
+        105.29,
+        809.44,
+        887.98,
+        823.33
+      ],
+      "text": "- Syncope can be a presenting symptom of hemorrhage from ectopic pregnancy or causes of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0044",
+      "type": "text_line",
+      "box_1000": [
+        117.5,
+        825.35,
+        263.72,
+        839.24
+      ],
+      "text": "vaginal bleeding.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0045",
+      "type": "text_line",
+      "box_1000": [
+        105.29,
+        841.83,
+        909.73,
+        855.72
+      ],
+      "text": "- Do not place hand/fingers into vagina of bleeding patient except in cases of prolapsed cord or",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0046",
+      "type": "text_line",
+      "box_1000": [
+        117.5,
+        857.74,
+        419.76,
+        871.62
+      ],
+      "text": "breech birth that is not progressing",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0047",
+      "type": "text_line",
+      "box_1000": [
+        105.29,
+        874.22,
+        896.14,
+        888.1
+      ],
+      "text": "- Please note, on-scene obstetric clinicians may provide TXA. Please ensure TXA has not been",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0048",
+      "type": "text_line",
+      "box_1000": [
+        117.5,
+        890.12,
+        539.65,
+        904.01
+      ],
+      "text": "previously provided before proceeding with TXA.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0049",
+      "type": "text_line",
+      "box_1000": [
+        105.29,
+        906.03,
+        881.4,
+        919.92
+      ],
+      "text": "- *When placing patient in a lateral position, consider patient comfort and ease of access to",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0050",
+      "type": "text_line",
+      "box_1000": [
+        117.5,
+        922.51,
+        458.1,
+        936.4
+      ],
+      "text": "patient when choosing right or left side.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0051",
+      "type": "text_line",
+      "box_1000": [
+        452.06,
+        948.21,
+        934.43,
+        963.36
+      ],
+      "text": "(Back to TOC) Lavender 1",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "47b9329a05c860fae0042f212028be2a5787a8b9e13c6d5042ece7b7a56acdda",
+    "native": {
+      "text": "Obstetr ic Em er gencies\nMost pregnancies progress with no complications. In cases of pregnancy with either\nvaginal bleeding or abdominal/pelvic pain, consider the following possibilities:\n1. Abruptio placenta: placenta prematurely separates from the uterus causing\nintrauterine bleeding\n2. Placenta previa: placenta covers part or all of the cervical opening\nEAP 3. Ectopic pregnancy (ruptured)\n4. Spontaneous abortion (miscarriage)\n5. Pre-eclampsia/eclampsia (can occur for up to 6 weeks postpartum), refer to\nSeizure protocol, Gold 8\n6. Postpartum Hemorrhage\nEMT\n1. Manage airway as appropriate, see Airway Algorithm, Blue 2\n2. Monitor vitals. If evidence of shock refer to the Hemorrhagic Shock protocol,\nGr een 13. Contact ALS, if available\na. Patients in third trimester of pregnancy with evidence of shock should be\ntransported on their side (either left or right), or with uterus manually\ndisplaced to the left or right*\n3. If the patient is pregnant with abdominal/pelvic pain, bleeding or concern for any\nof the above conditions, and the patient condition permits, transport to the\nE nearest hospital with OB capabilities if total transport time is less than 45\nminutes, otherwise go to the closest ED.\n4. For trauma related to pregnancy, follow Trauma Triage guideline, Gr een 1\n5. Notify Hospital of incoming patient\n6. Contact OLMC for decision support if questions regarding patient transport\ndestination.\n7. Refer to Childbirth protocol, Lavender 2\n8. If history of syncope/lightheadedness, if available and so trained, perform 12-lead\nECG\nADVANCED EMT\nA 9. Establish IV. If evidence of shock, resuscitate with fluid boluses\nPARAMEDIC\n10. For patients suffering postpartum hemorrhage and demonstrating evidence of\nshock, refer to the Hemorrhagic Shock protocol, Gr een 13 and consider\nP tranexamic acid (TXA).\na. NOTE - TXA is contraindicated in patients greater than 24 weeks pregnant (or\npregnant with fundus above umbilicus) suffering hemorrhagic shock due to\ntrauma, refer to Hemorrhagic Shock protocol, Gr een 13\nPear ls for Obstetr ic Emer gencies\n- Even minor trauma beyond the second trimester can lead to significant consequences for the\npregnancy. In some cases, these patients require fetal monitoring and therefore should be\ntransported.\n- Syncope can be a presenting symptom of hemorrhage from ectopic pregnancy or causes of\nvaginal bleeding.\n- Do not place hand/fingers into vagina of bleeding patient except in cases of prolapsed cord or\nbreech birth that is not progressing\n- Please note, on-scene obstetric clinicians may provide TXA. Please ensure TXA has not been\npreviously provided before proceeding with TXA.\n- *When placing patient in a lateral position, consider patient comfort and ease of access to\npatient when choosing right or left side.\n(Back to TOC) Lavender 1",
+      "body_text": "E A vaginal bleeding or abdominal/pelvic pain, consider the following possibilities: 1. Abruptio placenta: placenta prematurely separates from the uterus causing intrauterine bleeding 2. Placenta previa: placenta covers part or all of the cervical opening 3. Ectopic pregnancy (ruptured) 4. Spontaneous abortion (miscarriage) 5. Pre-eclampsia/eclampsia (can occur for up to 6 weeks postpartum), refer to Seizure protocol, Gold 8 6. Postpartum Hemorrhage EMT 1. Manage airway as appropriate, see Airway Algorithm, Blue 2 2. Monitor vitals. If evidence of shock refer to the Hemorrhagic Shock protocol, Gr een 13. Contact ALS, if available a. Patients in third trimester of pregnancy with evidence of shock should be transported on their side (either left or right), or with uterus manually displaced to the left or right* 3. If the patient is pregnant with abdominal/pelvic pain, bleeding or concern for any of the above conditions, and the patient condition permits, transport to the nearest hospital with OB capabilities if total transport time is less than 45 minutes, otherwise go to the closest ED. 4. For trauma related to pregnancy, follow Trauma Triage guideline, Gr een 1 5. Notify Hospital of incoming patient 6. Contact OLMC for decision support if questions regarding patient transport destination. 7. Refer to Childbirth protocol, Lavender 2 8. If history of syncope/lightheadedness, if available and so trained, perform 12-lead ECG ADVANCED EMT 9. Establish IV. If evidence of shock, resuscitate with fluid boluses PARAMEDIC 10. For patients suffering postpartum hemorrhage and demonstrating evidence of shock, refer to the Hemorrhagic Shock protocol, Gr een 13 and consider tranexamic acid (TXA). a. NOTE - TXA is contraindicated in patients greater than 24 weeks pregnant (or pregnant with fundus above umbilicus) suffering hemorrhagic shock due to trauma, refer to Hemorrhagic Shock protocol, Gr een 13 Pear ls for Obstetr ic Emer gencies - Even minor trauma beyond the second trimester can lead to significant consequences for the pregnancy. In some cases, these patients require fetal monitoring and therefore should be transported. - Syncope can be a presenting symptom of hemorrhage from ectopic pregnancy or causes of vaginal bleeding. - Do not place hand/fingers into vagina of bleeding patient except in cases of prolapsed cord or breech birth that is not progressing - Please note, on-scene obstetric clinicians may provide TXA. Please ensure TXA has not been previously provided before proceeding with TXA. - *When placing patient in a lateral position, consider patient comfort and ease of access to patient when choosing right or left side. EAP P",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            276.66,
+            750.986,
+            307.314,
+            762.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.49,
+            750.986,
+            322.145,
+            762.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            325.485,
+            750.986,
+            353.101,
+            762.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Lavender",
+          "box": [
+            507.6,
+            750.986,
+            560.24,
+            762.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            565.2,
+            750.986,
+            571.87,
+            762.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Obstetr",
+          "box": [
+            213.165,
+            36.117,
+            280.543,
+            56.115
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ic",
+          "box": [
+            283.307,
+            36.117,
+            299.7,
+            56.115
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Em",
+          "box": [
+            304.74,
+            36.117,
+            333.859,
+            56.115
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "er",
+          "box": [
+            336.096,
+            36.117,
+            353.456,
+            56.115
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "gencies",
+          "box": [
+            356.022,
+            36.117,
+            427.122,
+            56.115
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "E",
+          "box": [
+            59.805,
+            327.951,
+            71.811,
+            345.951
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "A",
+          "box": [
+            59.085,
+            468.576,
+            71.091,
+            486.576
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "Most",
+          "box": [
+            85.68,
+            73.646,
+            112.609,
+            85.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pregnancies",
+          "box": [
+            116.595,
+            73.646,
+            186.88,
+            85.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "progress",
+          "box": [
+            189.45,
+            73.646,
+            239.094,
+            85.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            241.605,
+            73.646,
+            266.679,
+            85.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "no",
+          "box": [
+            270.765,
+            73.646,
+            285.175,
+            85.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "complications.",
+          "box": [
+            288.54,
+            73.646,
+            371.526,
+            85.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "In",
+          "box": [
+            374.76,
+            73.646,
+            385.836,
+            85.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cases",
+          "box": [
+            390.015,
+            73.646,
+            420.507,
+            85.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            423.045,
+            73.646,
+            433.189,
+            85.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pregnancy",
+          "box": [
+            437.4,
+            73.646,
+            497.425,
+            85.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            501.3,
+            73.646,
+            526.374,
+            85.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "either",
+          "box": [
+            530.1,
+            73.646,
+            562.614,
+            85.643
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "vaginal",
+          "box": [
+            85.68,
+            87.641,
+            126.462,
+            99.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bleeding",
+          "box": [
+            130.635,
+            87.641,
+            180.171,
+            99.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            183.06,
+            87.641,
+            193.981,
+            99.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "abdominal/pelvic",
+          "box": [
+            198.765,
+            87.641,
+            298.185,
+            99.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pain,",
+          "box": [
+            301.23,
+            87.641,
+            330.259,
+            99.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consider",
+          "box": [
+            333.045,
+            87.641,
+            380.644,
+            99.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            385.425,
+            87.641,
+            403.934,
+            99.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "following",
+          "box": [
+            406.8,
+            87.641,
+            460.876,
+            99.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "possibilities:",
+          "box": [
+            463.5,
+            87.641,
+            534.442,
+            99.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1.",
+          "box": [
+            93.78,
+            101.591,
+            103.82,
+            113.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Abruptio",
+          "box": [
+            107.01,
+            101.591,
+            158.193,
+            113.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "placenta:",
+          "box": [
+            161.595,
+            101.591,
+            213.695,
+            113.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "placenta",
+          "box": [
+            216.945,
+            101.591,
+            265.626,
+            113.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "prematurely",
+          "box": [
+            268.83,
+            101.591,
+            339.752,
+            113.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "separates",
+          "box": [
+            343.665,
+            101.591,
+            398.433,
+            113.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "from",
+          "box": [
+            400.95,
+            101.591,
+            427.833,
+            113.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            432.315,
+            101.591,
+            450.824,
+            113.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "uterus",
+          "box": [
+            453.6,
+            101.591,
+            491.007,
+            113.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "causing",
+          "box": [
+            493.65,
+            101.591,
+            537.467,
+            113.588
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "intrauterine",
+          "box": [
+            101.88,
+            115.541,
+            171.897,
+            127.538
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bleeding",
+          "box": [
+            174.78,
+            115.541,
+            224.316,
+            127.538
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2.",
+          "box": [
+            93.78,
+            129.536,
+            103.82,
+            141.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Placenta",
+          "box": [
+            107.01,
+            129.536,
+            155.574,
+            141.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "previa:",
+          "box": [
+            158.805,
+            129.536,
+            198.999,
+            141.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "placenta",
+          "box": [
+            202.23,
+            129.536,
+            250.911,
+            141.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "covers",
+          "box": [
+            254.115,
+            129.536,
+            291.73,
+            141.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "part",
+          "box": [
+            294.255,
+            129.536,
+            317.359,
+            141.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            321.39,
+            129.536,
+            332.311,
+            141.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "all",
+          "box": [
+            337.095,
+            129.536,
+            350.233,
+            141.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            354.42,
+            129.536,
+            364.564,
+            141.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            368.775,
+            129.536,
+            387.284,
+            141.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cervical",
+          "box": [
+            390.15,
+            129.536,
+            434.352,
+            141.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "opening",
+          "box": [
+            438.525,
+            129.536,
+            485.222,
+            141.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3.",
+          "box": [
+            93.78,
+            143.486,
+            103.82,
+            155.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Ectopic",
+          "box": [
+            107.01,
+            143.486,
+            148.496,
+            155.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pregnancy",
+          "box": [
+            151.56,
+            143.486,
+            211.585,
+            155.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(ruptured)",
+          "box": [
+            215.505,
+            143.486,
+            275.556,
+            155.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4.",
+          "box": [
+            93.78,
+            157.481,
+            103.82,
+            169.478
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Spontaneous",
+          "box": [
+            107.01,
+            157.481,
+            181.124,
+            169.478
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "abortion",
+          "box": [
+            183.69,
+            157.481,
+            232.042,
+            169.478
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(miscarriage)",
+          "box": [
+            236.25,
+            157.481,
+            312.298,
+            169.478
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5.",
+          "box": [
+            93.78,
+            171.431,
+            103.82,
+            183.428
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pre-eclampsia/eclampsia",
+          "box": [
+            107.01,
+            171.431,
+            248.908,
+            183.428
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(can",
+          "box": [
+            252.18,
+            171.431,
+            275.663,
+            183.428
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "occur",
+          "box": [
+            279.855,
+            171.431,
+            310.198,
+            183.428
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            314.955,
+            171.431,
+            330.188,
+            183.428
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "up",
+          "box": [
+            334.98,
+            171.431,
+            349.264,
+            183.428
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            353.07,
+            171.431,
+            363.725,
+            183.428
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6",
+          "box": [
+            367.11,
+            171.431,
+            373.78,
+            183.428
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "weeks",
+          "box": [
+            376.92,
+            171.431,
+            413.001,
+            183.428
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "postpartum),",
+          "box": [
+            415.53,
+            171.431,
+            489.887,
+            183.428
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            492.3,
+            171.431,
+            519.102,
+            183.428
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            524.25,
+            171.431,
+            534.905,
+            183.428
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Seizure",
+          "box": [
+            118.08,
+            185.426,
+            160.934,
+            197.423
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            163.8,
+            185.426,
+            214.418,
+            197.423
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gold",
+          "box": [
+            217.215,
+            185.426,
+            244.688,
+            197.423
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "8",
+          "box": [
+            248.94,
+            185.426,
+            255.61,
+            197.423
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "6.",
+          "box": [
+            91.89,
+            199.376,
+            101.93,
+            211.373
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Postpartum",
+          "box": [
+            105.165,
+            199.376,
+            170.574,
+            211.373
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Hemorrhage",
+          "box": [
+            175.05,
+            199.376,
+            247.924,
+            211.373
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EMT",
+          "box": [
+            85.68,
+            213.326,
+            112.266,
+            225.323
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1.",
+          "box": [
+            85.68,
+            227.321,
+            95.72,
+            239.318
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Manage",
+          "box": [
+            98.91,
+            227.321,
+            144.42,
+            239.318
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "airway",
+          "box": [
+            147.33,
+            227.321,
+            186.056,
+            239.318
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            189.945,
+            227.321,
+            202.698,
+            239.318
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "appropriate,",
+          "box": [
+            205.245,
+            227.321,
+            276.537,
+            239.318
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "see",
+          "box": [
+            279.315,
+            227.321,
+            297.82,
+            239.318
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Airway",
+          "box": [
+            300.69,
+            227.321,
+            341.122,
+            239.318
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Algorithm,",
+          "box": [
+            345.06,
+            227.321,
+            406.501,
+            239.318
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Blue",
+          "box": [
+            409.275,
+            227.321,
+            436.23,
+            239.318
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            439.515,
+            227.321,
+            446.185,
+            239.318
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "2.",
+          "box": [
+            85.68,
+            239.786,
+            95.72,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Monitor",
+          "box": [
+            98.91,
+            239.786,
+            143.572,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "vitals.",
+          "box": [
+            148.365,
+            239.786,
+            182.599,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            185.805,
+            239.786,
+            193.546,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "evidence",
+          "box": [
+            197.775,
+            239.786,
+            248.963,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            251.82,
+            239.786,
+            261.964,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock",
+          "box": [
+            266.175,
+            239.786,
+            298.03,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            302.175,
+            239.786,
+            328.977,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            333.765,
+            239.786,
+            344.42,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            347.805,
+            239.786,
+            366.314,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Hemorrhagic",
+          "box": [
+            369.18,
+            239.786,
+            445.337,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Shock",
+          "box": [
+            448.38,
+            239.786,
+            481.347,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            485.1,
+            239.786,
+            535.718,
+            251.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            101.88,
+            252.206,
+            115.1,
+            264.203
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            117.378,
+            252.206,
+            137.746,
+            264.203
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "13.",
+          "box": [
+            142.2,
+            252.206,
+            158.945,
+            264.203
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Contact",
+          "box": [
+            162.36,
+            252.206,
+            204.25,
+            264.203
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ALS,",
+          "box": [
+            208.305,
+            252.206,
+            234.1,
+            264.203
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            236.745,
+            252.206,
+            243.918,
+            264.203
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available",
+          "box": [
+            248.13,
+            252.206,
+            299.924,
+            264.203
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            101.88,
+            264.671,
+            111.97,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Patients",
+          "box": [
+            115.2,
+            264.671,
+            161.174,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            163.71,
+            264.671,
+            174.218,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "third",
+          "box": [
+            178.38,
+            264.671,
+            206.379,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trimester",
+          "box": [
+            210.195,
+            264.671,
+            261.603,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            266.4,
+            264.671,
+            276.544,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pregnancy",
+          "box": [
+            280.755,
+            264.671,
+            340.781,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            344.7,
+            264.671,
+            369.774,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "evidence",
+          "box": [
+            373.815,
+            264.671,
+            425.003,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            427.905,
+            264.671,
+            438.049,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock",
+          "box": [
+            442.26,
+            264.671,
+            474.115,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "should",
+          "box": [
+            477.9,
+            264.671,
+            515.858,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            519.75,
+            264.671,
+            533.782,
+            276.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transported",
+          "box": [
+            118.08,
+            277.136,
+            185.003,
+            289.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            188.82,
+            277.136,
+            202.416,
+            289.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "their",
+          "box": [
+            206.595,
+            277.136,
+            232.688,
+            289.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "side",
+          "box": [
+            237.465,
+            277.136,
+            260.748,
+            289.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(either",
+          "box": [
+            263.61,
+            277.136,
+            300.278,
+            289.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "left",
+          "box": [
+            305.1,
+            277.136,
+            323.007,
+            289.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            327.015,
+            277.136,
+            337.936,
+            289.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "right),",
+          "box": [
+            342.675,
+            277.136,
+            377.945,
+            289.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            380.745,
+            277.136,
+            391.666,
+            289.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            396.45,
+            277.136,
+            421.524,
+            289.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "uterus",
+          "box": [
+            425.61,
+            277.136,
+            463.017,
+            289.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "manually",
+          "box": [
+            465.3,
+            277.136,
+            518.821,
+            289.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "displaced",
+          "box": [
+            117.45,
+            289.601,
+            170.896,
+            301.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            174.735,
+            289.601,
+            185.39,
+            301.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            188.775,
+            289.601,
+            207.284,
+            301.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "left",
+          "box": [
+            210.15,
+            289.601,
+            228.057,
+            301.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            232.065,
+            289.601,
+            242.986,
+            301.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "right*",
+          "box": [
+            247.77,
+            289.601,
+            280.218,
+            301.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3.",
+          "box": [
+            85.68,
+            302.021,
+            95.72,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            98.91,
+            302.021,
+            106.651,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            110.88,
+            302.021,
+            129.389,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            132.255,
+            302.021,
+            171.696,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            175.725,
+            302.021,
+            185.561,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pregnant",
+          "box": [
+            188.1,
+            302.021,
+            239.441,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            243.45,
+            302.021,
+            268.524,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "abdominal/pelvic",
+          "box": [
+            272.565,
+            302.021,
+            371.985,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pain,",
+          "box": [
+            375.03,
+            302.021,
+            404.059,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bleeding",
+          "box": [
+            406.845,
+            302.021,
+            456.381,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            459.0,
+            302.021,
+            469.921,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "concern",
+          "box": [
+            474.75,
+            302.021,
+            519.967,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            524.25,
+            302.021,
+            539.483,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "any",
+          "box": [
+            544.05,
+            302.021,
+            564.426,
+            314.018
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            101.88,
+            314.486,
+            112.024,
+            326.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            116.235,
+            314.486,
+            134.744,
+            326.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "above",
+          "box": [
+            137.61,
+            314.486,
+            172.036,
+            326.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "conditions,",
+          "box": [
+            174.915,
+            314.486,
+            238.16,
+            326.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            240.93,
+            314.486,
+            262.095,
+            326.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            265.905,
+            314.486,
+            284.414,
+            326.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            287.325,
+            314.486,
+            326.766,
+            326.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "condition",
+          "box": [
+            330.75,
+            314.486,
+            384.177,
+            326.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "permits,",
+          "box": [
+            388.395,
+            314.486,
+            435.977,
+            326.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transport",
+          "box": [
+            438.75,
+            314.486,
+            491.809,
+            326.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            495.45,
+            314.486,
+            506.105,
+            326.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            509.85,
+            314.486,
+            528.359,
+            326.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "nearest",
+          "box": [
+            101.88,
+            326.951,
+            143.618,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital",
+          "box": [
+            147.645,
+            326.951,
+            192.44,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            196.605,
+            326.951,
+            221.679,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "OB",
+          "box": [
+            225.72,
+            326.951,
+            242.627,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "capabilities",
+          "box": [
+            245.61,
+            326.951,
+            311.625,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            314.19,
+            326.951,
+            321.363,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "total",
+          "box": [
+            325.575,
+            326.951,
+            350.127,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transport",
+          "box": [
+            354.285,
+            326.951,
+            407.344,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "time",
+          "box": [
+            411.345,
+            326.951,
+            437.413,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            440.28,
+            326.951,
+            450.116,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "less",
+          "box": [
+            452.25,
+            326.951,
+            473.804,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            476.55,
+            326.951,
+            501.813,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "45",
+          "box": [
+            505.8,
+            326.951,
+            519.175,
+            338.948
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes,",
+          "box": [
+            101.88,
+            339.416,
+            151.684,
+            351.413
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "otherwise",
+          "box": [
+            154.485,
+            339.416,
+            211.702,
+            351.413
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "go",
+          "box": [
+            214.56,
+            339.416,
+            227.566,
+            351.413
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            230.94,
+            339.416,
+            241.595,
+            351.413
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            244.98,
+            339.416,
+            263.489,
+            351.413
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "closest",
+          "box": [
+            266.355,
+            339.416,
+            303.489,
+            351.413
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ED.",
+          "box": [
+            307.485,
+            339.416,
+            326.777,
+            351.413
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4.",
+          "box": [
+            85.68,
+            351.881,
+            95.72,
+            363.878
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "For",
+          "box": [
+            98.91,
+            351.881,
+            116.428,
+            363.878
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trauma",
+          "box": [
+            121.23,
+            351.881,
+            163.364,
+            363.878
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "related",
+          "box": [
+            166.59,
+            351.881,
+            206.221,
+            363.878
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            210.015,
+            351.881,
+            220.67,
+            363.878
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pregnancy,",
+          "box": [
+            224.055,
+            351.881,
+            288.194,
+            363.878
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "follow",
+          "box": [
+            290.385,
+            351.881,
+            324.534,
+            363.878
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Trauma",
+          "box": [
+            329.31,
+            351.881,
+            374.572,
+            363.878
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Triage",
+          "box": [
+            377.82,
+            351.881,
+            414.423,
+            363.878
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "guideline,",
+          "box": [
+            417.285,
+            351.881,
+            474.028,
+            363.878
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            476.55,
+            351.881,
+            489.77,
+            363.878
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            492.048,
+            351.881,
+            512.416,
+            363.878
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            517.05,
+            351.881,
+            523.72,
+            363.878
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "5.",
+          "box": [
+            85.68,
+            364.301,
+            95.72,
+            376.298
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Notify",
+          "box": [
+            98.91,
+            364.301,
+            133.366,
+            376.298
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Hospital",
+          "box": [
+            137.295,
+            364.301,
+            183.989,
+            376.298
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            188.145,
+            364.301,
+            198.289,
+            376.298
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "incoming",
+          "box": [
+            202.5,
+            364.301,
+            256.491,
+            376.298
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            259.425,
+            364.301,
+            298.866,
+            376.298
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6.",
+          "box": [
+            85.68,
+            376.766,
+            95.72,
+            388.763
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Contact",
+          "box": [
+            98.91,
+            376.766,
+            140.8,
+            388.763
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "OLMC",
+          "box": [
+            144.81,
+            376.766,
+            181.106,
+            388.763
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            182.97,
+            376.766,
+            198.203,
+            388.763
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "decision",
+          "box": [
+            202.95,
+            376.766,
+            249.322,
+            388.763
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "support",
+          "box": [
+            253.53,
+            376.766,
+            297.077,
+            388.763
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            301.095,
+            376.766,
+            308.268,
+            388.763
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "questions",
+          "box": [
+            312.48,
+            376.766,
+            368.017,
+            388.763
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "regarding",
+          "box": [
+            370.575,
+            376.766,
+            427.118,
+            388.763
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            430.02,
+            376.766,
+            469.461,
+            388.763
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transport",
+          "box": [
+            473.4,
+            376.766,
+            526.459,
+            388.763
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "destination.",
+          "box": [
+            101.88,
+            389.231,
+            169.58,
+            401.228
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "7.",
+          "box": [
+            85.68,
+            414.161,
+            95.72,
+            426.158
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Refer",
+          "box": [
+            99.135,
+            414.161,
+            127.913,
+            426.158
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            132.705,
+            414.161,
+            143.36,
+            426.158
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Childbirth",
+          "box": [
+            146.745,
+            414.161,
+            204.388,
+            426.158
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            208.44,
+            414.161,
+            259.058,
+            426.158
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Lavender",
+          "box": [
+            261.855,
+            414.161,
+            317.159,
+            426.158
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            322.56,
+            414.161,
+            329.23,
+            426.158
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "8.",
+          "box": [
+            85.68,
+            428.111,
+            95.72,
+            440.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            98.91,
+            428.111,
+            106.651,
+            440.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "history",
+          "box": [
+            110.88,
+            428.111,
+            150.422,
+            440.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            154.35,
+            428.111,
+            164.494,
+            440.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "syncope/lightheadedness,",
+          "box": [
+            168.705,
+            428.111,
+            314.697,
+            440.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            317.475,
+            428.111,
+            324.648,
+            440.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available",
+          "box": [
+            328.86,
+            428.111,
+            380.654,
+            440.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            383.535,
+            428.111,
+            404.7,
+            440.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "so",
+          "box": [
+            408.51,
+            428.111,
+            420.594,
+            440.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trained,",
+          "box": [
+            423.99,
+            428.111,
+            469.317,
+            440.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "perform",
+          "box": [
+            472.05,
+            428.111,
+            518.369,
+            440.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12-lead",
+          "box": [
+            522.9,
+            428.111,
+            563.598,
+            440.108
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ECG",
+          "box": [
+            101.88,
+            441.836,
+            125.933,
+            453.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ADVANCED",
+          "box": [
+            85.68,
+            455.786,
+            154.205,
+            467.783
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT",
+          "box": [
+            157.86,
+            455.786,
+            184.446,
+            467.783
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "9.",
+          "box": [
+            85.68,
+            469.736,
+            95.72,
+            481.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Establish",
+          "box": [
+            98.91,
+            469.736,
+            149.781,
+            481.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV.",
+          "box": [
+            153.855,
+            469.736,
+            168.972,
+            481.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            172.215,
+            469.736,
+            179.956,
+            481.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "evidence",
+          "box": [
+            184.14,
+            469.736,
+            235.328,
+            481.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            238.23,
+            469.736,
+            248.374,
+            481.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock,",
+          "box": [
+            252.585,
+            469.736,
+            288.793,
+            481.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "resuscitate",
+          "box": [
+            291.825,
+            469.736,
+            353.604,
+            481.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            356.49,
+            469.736,
+            381.564,
+            481.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fluid",
+          "box": [
+            385.605,
+            469.736,
+            411.877,
+            481.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "boluses",
+          "box": [
+            415.71,
+            469.736,
+            459.166,
+            481.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PARAMEDIC",
+          "box": [
+            85.68,
+            483.686,
+            161.095,
+            495.683
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "10.",
+          "box": [
+            85.68,
+            497.636,
+            102.425,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "For",
+          "box": [
+            105.615,
+            497.636,
+            123.133,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            127.935,
+            497.636,
+            174.264,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suffering",
+          "box": [
+            176.805,
+            497.636,
+            228.779,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "postpartum",
+          "box": [
+            231.705,
+            497.636,
+            297.231,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hemorrhage",
+          "box": [
+            301.68,
+            497.636,
+            372.655,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            375.57,
+            497.636,
+            396.735,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "demonstrating",
+          "box": [
+            400.545,
+            497.636,
+            484.73,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "evidence",
+          "box": [
+            487.35,
+            497.636,
+            538.538,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            541.35,
+            497.636,
+            551.494,
+            509.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock,",
+          "box": [
+            101.88,
+            511.586,
+            138.088,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            141.12,
+            511.586,
+            167.922,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            172.71,
+            511.586,
+            183.365,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            186.705,
+            511.586,
+            205.214,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Hemorrhagic",
+          "box": [
+            208.125,
+            511.586,
+            284.282,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Shock",
+          "box": [
+            287.325,
+            511.586,
+            320.292,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            324.405,
+            511.586,
+            375.023,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            377.82,
+            511.586,
+            391.04,
+            523.583
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            393.318,
+            511.586,
+            413.686,
+            523.583
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "13",
+          "box": [
+            418.14,
+            511.586,
+            431.515,
+            523.583
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            434.7,
+            511.586,
+            455.865,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "consider",
+          "box": [
+            459.45,
+            511.586,
+            507.049,
+            523.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tranexamic",
+          "box": [
+            101.88,
+            525.536,
+            167.164,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "acid",
+          "box": [
+            170.19,
+            525.536,
+            193.356,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(TXA).",
+          "box": [
+            197.19,
+            525.536,
+            232.566,
+            537.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            101.88,
+            539.486,
+            111.97,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NOTE",
+          "box": [
+            115.2,
+            539.486,
+            148.618,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            151.2,
+            539.486,
+            155.195,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TXA",
+          "box": [
+            158.04,
+            539.486,
+            181.315,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            184.86,
+            539.486,
+            194.696,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "contraindicated",
+          "box": [
+            197.235,
+            539.486,
+            286.836,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            290.7,
+            539.486,
+            301.208,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            305.37,
+            539.486,
+            351.699,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "greater",
+          "box": [
+            354.24,
+            539.486,
+            393.928,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            398.7,
+            539.486,
+            423.963,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "24",
+          "box": [
+            428.175,
+            539.486,
+            441.55,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "weeks",
+          "box": [
+            444.69,
+            539.486,
+            480.771,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pregnant",
+          "box": [
+            483.3,
+            539.486,
+            534.641,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(or",
+          "box": [
+            538.65,
+            539.486,
+            553.724,
+            551.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pregnant",
+          "box": [
+            118.08,
+            553.436,
+            169.421,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            173.43,
+            553.436,
+            198.504,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fundus",
+          "box": [
+            202.59,
+            553.436,
+            243.348,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "above",
+          "box": [
+            245.88,
+            553.436,
+            280.306,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "umbilicus)",
+          "box": [
+            283.185,
+            553.436,
+            343.819,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suffering",
+          "box": [
+            347.085,
+            553.436,
+            399.059,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hemorrhagic",
+          "box": [
+            401.985,
+            553.436,
+            476.243,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock",
+          "box": [
+            479.25,
+            553.436,
+            511.106,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "due",
+          "box": [
+            515.25,
+            553.436,
+            536.896,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            539.55,
+            553.436,
+            550.205,
+            565.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trauma,",
+          "box": [
+            118.08,
+            567.386,
+            163.633,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            166.41,
+            567.386,
+            193.212,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            198.0,
+            567.386,
+            208.655,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Hemorrhagic",
+          "box": [
+            212.04,
+            567.386,
+            288.197,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Shock",
+          "box": [
+            291.24,
+            567.386,
+            324.207,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            328.32,
+            567.386,
+            378.938,
+            579.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            381.735,
+            567.386,
+            394.955,
+            579.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            397.233,
+            567.386,
+            417.601,
+            579.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "13",
+          "box": [
+            422.055,
+            567.386,
+            435.43,
+            579.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Pear",
+          "box": [
+            60.93,
+            588.536,
+            86.615,
+            600.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ls",
+          "box": [
+            88.776,
+            588.536,
+            98.999,
+            600.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            101.97,
+            588.536,
+            118.084,
+            600.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Obstetr",
+          "box": [
+            123.48,
+            588.536,
+            166.994,
+            600.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ic",
+          "box": [
+            169.272,
+            588.536,
+            179.495,
+            600.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Emer",
+          "box": [
+            182.97,
+            588.536,
+            213.47,
+            600.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "gencies",
+          "box": [
+            215.631,
+            588.536,
+            260.473,
+            600.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            64.44,
+            602.379,
+            68.102,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Even",
+          "box": [
+            71.91,
+            602.379,
+            97.024,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "minor",
+          "box": [
+            100.89,
+            602.379,
+            131.897,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "trauma",
+          "box": [
+            136.26,
+            602.379,
+            174.881,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "beyond",
+          "box": [
+            177.84,
+            602.379,
+            216.026,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            219.51,
+            602.379,
+            236.477,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "second",
+          "box": [
+            239.13,
+            602.379,
+            274.94,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "trimester",
+          "box": [
+            278.46,
+            602.379,
+            325.578,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "can",
+          "box": [
+            329.94,
+            602.379,
+            347.66,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "lead",
+          "box": [
+            351.495,
+            602.379,
+            373.098,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "to",
+          "box": [
+            376.605,
+            602.379,
+            386.372,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "significant",
+          "box": [
+            389.475,
+            602.379,
+            443.704,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "consequences",
+          "box": [
+            447.39,
+            602.379,
+            520.591,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "for",
+          "box": [
+            522.9,
+            602.379,
+            536.86,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            540.9,
+            602.379,
+            557.867,
+            613.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "pregnancy.",
+          "box": [
+            71.91,
+            615.429,
+            130.155,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "In",
+          "box": [
+            133.11,
+            615.429,
+            143.264,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "some",
+          "box": [
+            147.105,
+            615.429,
+            174.914,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "cases,",
+          "box": [
+            177.57,
+            615.429,
+            208.037,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "these",
+          "box": [
+            210.6,
+            615.429,
+            238.412,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patients",
+          "box": [
+            241.065,
+            615.429,
+            283.53,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "require",
+          "box": [
+            285.84,
+            615.429,
+            325.447,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "fetal",
+          "box": [
+            328.095,
+            615.429,
+            350.44,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "monitoring",
+          "box": [
+            354.24,
+            615.429,
+            413.486,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "and",
+          "box": [
+            416.205,
+            615.429,
+            435.604,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "therefore",
+          "box": [
+            439.065,
+            615.429,
+            488.46,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "should",
+          "box": [
+            490.95,
+            615.429,
+            525.738,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            529.2,
+            615.429,
+            542.065,
+            626.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "transported.",
+          "box": [
+            71.91,
+            628.029,
+            136.937,
+            639.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "-",
+          "box": [
+            64.44,
+            641.079,
+            68.102,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Syncope",
+          "box": [
+            71.91,
+            641.079,
+            115.595,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "can",
+          "box": [
+            118.26,
+            641.079,
+            135.98,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            139.815,
+            641.079,
+            152.68,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "a",
+          "box": [
+            155.295,
+            641.079,
+            161.41,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "presenting",
+          "box": [
+            164.34,
+            641.079,
+            220.581,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "symptom",
+          "box": [
+            223.29,
+            641.079,
+            270.542,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            274.635,
+            641.079,
+            283.929,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "hemorrhage",
+          "box": [
+            287.775,
+            641.079,
+            352.831,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "from",
+          "box": [
+            355.5,
+            641.079,
+            380.138,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "ectopic",
+          "box": [
+            384.255,
+            641.079,
+            421.318,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "pregnancy",
+          "box": [
+            424.08,
+            641.079,
+            479.102,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "or",
+          "box": [
+            482.4,
+            641.079,
+            492.407,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "causes",
+          "box": [
+            496.8,
+            641.079,
+            531.621,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            534.15,
+            641.079,
+            543.444,
+            652.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "vaginal",
+          "box": [
+            71.91,
+            653.679,
+            109.293,
+            664.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "bleeding.",
+          "box": [
+            113.13,
+            653.679,
+            161.397,
+            664.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "-",
+          "box": [
+            64.44,
+            666.729,
+            68.102,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Do",
+          "box": [
+            71.91,
+            666.729,
+            86.021,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "not",
+          "box": [
+            89.1,
+            666.729,
+            105.594,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "place",
+          "box": [
+            109.305,
+            666.729,
+            137.186,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "hand/fingers",
+          "box": [
+            139.815,
+            666.729,
+            207.041,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "into",
+          "box": [
+            209.385,
+            666.729,
+            229.654,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "vagina",
+          "box": [
+            232.74,
+            666.729,
+            267.604,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            270.54,
+            666.729,
+            279.834,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "bleeding",
+          "box": [
+            283.725,
+            666.729,
+            329.132,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            331.785,
+            666.729,
+            367.936,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "except",
+          "box": [
+            371.61,
+            666.729,
+            404.741,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "in",
+          "box": [
+            408.42,
+            666.729,
+            418.053,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "cases",
+          "box": [
+            421.875,
+            666.729,
+            449.825,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            451.8,
+            666.729,
+            461.094,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "prolapsed",
+          "box": [
+            465.3,
+            666.729,
+            516.779,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "cord",
+          "box": [
+            520.2,
+            666.729,
+            543.253,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "or",
+          "box": [
+            546.75,
+            666.729,
+            556.757,
+            677.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "breech",
+          "box": [
+            71.91,
+            679.329,
+            107.14,
+            690.327
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "birth",
+          "box": [
+            110.88,
+            679.329,
+            136.314,
+            690.327
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "that",
+          "box": [
+            140.04,
+            679.329,
+            160.033,
+            690.327
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "is",
+          "box": [
+            163.71,
+            679.329,
+            172.727,
+            690.327
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "not",
+          "box": [
+            175.05,
+            679.329,
+            191.544,
+            690.327
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "progressing",
+          "box": [
+            195.21,
+            679.329,
+            256.894,
+            690.327
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "-",
+          "box": [
+            64.44,
+            692.379,
+            68.102,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Please",
+          "box": [
+            71.91,
+            692.379,
+            105.114,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "note,",
+          "box": [
+            107.775,
+            692.379,
+            133.92,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "on-scene",
+          "box": [
+            136.485,
+            692.379,
+            182.798,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "obstetric",
+          "box": [
+            185.4,
+            692.379,
+            231.173,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "clinicians",
+          "box": [
+            234.0,
+            692.379,
+            284.666,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "may",
+          "box": [
+            286.965,
+            692.379,
+            308.718,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "provide",
+          "box": [
+            312.3,
+            692.379,
+            353.109,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "TXA.",
+          "box": [
+            355.77,
+            692.379,
+            380.576,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Please",
+          "box": [
+            383.535,
+            692.379,
+            416.739,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "ensure",
+          "box": [
+            419.355,
+            692.379,
+            455.458,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "TXA",
+          "box": [
+            458.1,
+            692.379,
+            479.431,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "has",
+          "box": [
+            482.4,
+            692.379,
+            501.071,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "not",
+          "box": [
+            503.55,
+            692.379,
+            520.044,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "been",
+          "box": [
+            523.8,
+            692.379,
+            548.437,
+            703.377
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "previously",
+          "box": [
+            71.91,
+            704.979,
+            126.588,
+            715.977
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "provided",
+          "box": [
+            130.185,
+            704.979,
+            176.88,
+            715.977
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "before",
+          "box": [
+            180.405,
+            704.979,
+            214.633,
+            715.977
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "proceeding",
+          "box": [
+            217.26,
+            704.979,
+            276.087,
+            715.977
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "with",
+          "box": [
+            278.775,
+            704.979,
+            301.757,
+            715.977
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "TXA.",
+          "box": [
+            305.46,
+            704.979,
+            330.266,
+            715.977
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "-",
+          "box": [
+            64.44,
+            717.579,
+            68.102,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "*When",
+          "box": [
+            71.91,
+            717.579,
+            107.905,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "placing",
+          "box": [
+            111.735,
+            717.579,
+            150.226,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            152.91,
+            717.579,
+            189.061,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "in",
+          "box": [
+            192.735,
+            717.579,
+            202.368,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "a",
+          "box": [
+            206.235,
+            717.579,
+            212.35,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "lateral",
+          "box": [
+            215.28,
+            717.579,
+            248.238,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "position,",
+          "box": [
+            252.045,
+            717.579,
+            297.501,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "consider",
+          "box": [
+            300.06,
+            717.579,
+            343.685,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            348.12,
+            717.579,
+            384.271,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "comfort",
+          "box": [
+            387.945,
+            717.579,
+            428.629,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "and",
+          "box": [
+            432.315,
+            717.579,
+            451.714,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "ease",
+          "box": [
+            454.95,
+            717.579,
+            478.102,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            480.6,
+            717.579,
+            489.894,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "access",
+          "box": [
+            494.1,
+            717.579,
+            527.463,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "to",
+          "box": [
+            529.65,
+            717.579,
+            539.417,
+            728.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            71.91,
+            730.629,
+            108.061,
+            741.627
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "when",
+          "box": [
+            111.735,
+            730.629,
+            140.084,
+            741.627
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "choosing",
+          "box": [
+            143.955,
+            730.629,
+            190.722,
+            741.627
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "right",
+          "box": [
+            193.41,
+            730.629,
+            218.062,
+            741.627
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "or",
+          "box": [
+            221.715,
+            730.629,
+            231.722,
+            741.627
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "left",
+          "box": [
+            236.115,
+            730.629,
+            252.529,
+            741.627
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "side.",
+          "box": [
+            256.185,
+            730.629,
+            280.355,
+            741.627
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "EAP",
+          "box": [
+            49.455,
+            143.136,
+            82.521,
+            161.136
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "P",
+          "box": [
+            59.985,
+            527.526,
+            71.991,
+            545.526
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0145.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 99.05,
+    "output_to_native_length_ratio": 0.981,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

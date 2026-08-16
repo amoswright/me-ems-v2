@@ -1,0 +1,1920 @@
+[
+  {
+    "id": "grey_158_159",
+    "title": "Minimum Landing Zone",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Minimum Landing Zone\" src=\"/assets/figures/page-0158-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Wind Direction</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>LZ</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Approach</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Aircraft Arrival</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Identify Scene and LZ Incident Command</li>\n<li>Establish radio communications prior to landing</li>\n<li>State Fire or State EMS are the default radio frequencies</li>\n<li>Advise pilot of terrain conditions, vertical obstructions, and wind direction</li>\n<li>Secure LZ and appoint personnel to guard main and tail rotors (i.e., Rotor Officer) as per current ground safety course</li>\n<li>Notify pilot if patient is packaged and ready for hot load</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Operating Around Helicopter</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Approach aircraft with crew escort only</li>\n<li>Approach aircraft 90 degrees to door only</li>\n<li>Avoid tail boom and rotor at all times</li>\n<li>Eye and ear protection should be worn</li>\n<li>Do not carry anything above shoulder height</li>\n<li>Secure all loose medical and personnel equipment</li>\n<li>Spotlights, headlights, and/or hand-held lights should not be pointed directly at the helicopter</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Minimum Landing Zone\" src=\"/assets/figures/page-0159-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Terrain:</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Flat, firm, free of debris</li>\n<li>Consider dust and snow</li>\n<li>Free of vehicles and people</li>\n<li>Any markers must be able to withstand 60 mph winds</li>\n<li>Approach path only from down slope of aircraft</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Vertical Obstructions:</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Mark towers, antennas, poles, tall trees with vehicle</li>\n<li>Ideal = clear approach and departure angle 8:1 (200' to 25' vertical obstruction)</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Wires:</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Electrical and utility wires are greatest single hazard to helicopters</li>\n<li>Search LZ area for wires</li>\n<li>Mark all wires, high-tension lines, guide wires with vehicles</li>\n<li>Notify pilot of all wires in proximity to landing zone</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Lighting:</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Never shine light directly at aircraft</li>\n<li>All emergency lights on until aircraft overhead</li>\n<li>Shut down vehicle strobes and white lights when aircraft on approach</li>\n<li>Keep working lights on minimum</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Aircraft Departure</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Keep LZ clear for at least 5 minutes after helicopter departure</li>\n<li>In case of emergency the helicopter may have to return to LZ</li>\n<li>Keep communications open with pilot</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>REMEMBER - EVERYONE IS RESPONSIBLE FOR SAFETY</strong></p>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_158",
+        "pageNumber": "Grey 1",
+        "jpgReference": "/assets/pages_webp/0158.webp"
+      },
+      {
+        "pageId": "grey_159",
+        "pageNumber": "Grey 2",
+        "jpgReference": "/assets/pages_webp/0159.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_160_161_162_163_164",
+    "title": "Do Not Resuscitate Guidelines",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>I. When to Start Resuscitation:</h2>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>As soon as the absence of pulse and respiration is established.</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>For presumed medical cardiac arrest, refer to Adult Cardiac Arrest protocol, <strong>Red 9</strong> or Pediatric Cardiac Arrest protocol, <strong>Red 18</strong>.</li>\n<li>For traumatic cardiac arrest, refer to Termination of Resuscitation for Traumatic Cardiac Arrest protocol, <strong>Green 22</strong>.</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>II. When Not to Start Resuscitation:</h2>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>A. All Patients:</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>B. All Normothermic Patients:</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Major trauma victims who have no respiration and no pulse, no signs of life at the time of Maine EMS-licensed crew member arrival.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>C. When a Do Not Resuscitate (DNR) order is presented in one of three forms:</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>D. When a signed Maine EMS DNR Directive form or Maine EMS-approved DNR Directive jewelry is presented to EMS personnel - Once executed by the patient and signed by a physician/PA/NP, the DNR Directive remains in effect until the expiration date on the form or, if no expiration date is noted on the form, until the patient cancels it.</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>E. A photocopy is acceptable as proof of the existence of valid DNR Order or DNR Directive, provided that the photocopy is legible and understandable to EMS personnel.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>III. Treatment/Comfort Care</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>A. When treating a patient with a Maine EMS Comfort Care/DNR Order or DNR Directive, the responding EMS clinician should perform routine patient assessment and resuscitation or intervention until EMS personnel verify:\n    1. That an EMS Comfort Care/DNR Order or DNR Directive exists; or,\n    2. That a Maine EMS-approved EMS Comfort Care/DNR wallet card, plastic bracelet or Maine EMS-approved DNR jewelry is present, intact and not defaced. The plastic bracelet may be worn on the wrist or ankle or on a necklace; or,\n    3. That Maine EMS-approved DNR Directive jewelry is present, intact and not defaced; and,\n    4. The identity of the patient through family or friends present, or with photo ID such as a driver's license. A good faith effort only is required.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>B. Follow these EMS Comfort Care/DNR procedures in all cases:\n    1. These comforting interventions are encouraged:\n        a. Open the airway manually (No intubation, no BVM unless invited by conscious patient);\n        b. Suction and provide oxygen;\n        c. Make the patient comfortable (position, etc.);\n        d. Control bleeding;\n        e. Provide pain and other medications of comfort only to a conscious patient (ALS per OLMC/Hospice Provider);\n        f. Be supportive of the patient and family;\n        g. Contact patient's physician/PA/NP/Hospice Provider or OLMC if questions arise\n        h. For patients being cared for under a Hospice Program, refer to Pre-Hospital Management of Hospice Patients protocol, Grey 8-10.\n    2. Resuscitative measures to be avoided: (to be withheld, or withdrawn if resuscitation has begun prior to confirmation of EMS Comfort Care/DNR Order or DNR Directive status).\n        a. CPR;\n        b. Intubation (ET Tube, or other advanced airway management);\n        c. Surgical procedures;\n        c. Defibrillation;\n        d. Cardiac resuscitation medications;\n        e. Artificial ventilation by any means;\n        f. Related procedures per OLMC.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>IV. Revocation, Documentation &amp; When to Stop Resuscitation</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>A. Who may revoke an EMS Comfort Care/DNR Order or Maine DNR Directive:\n    1. The patient (by destroying EMS Comfort Care/DNR Order Form, wallet card, plastic bracelet and DNR jewelry, or by destroying the DNR Directive and DNR jewelry, or verbally withdrawing the order or directive);\n    2. For the EMS Comfort Care/DNR Order form only:\n        a. The patient's physician/PA/NP who signed the order;\n        b. The Authorized Decision-Maker for the patient who signed the order.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>B. Documentation:\n    1. Use the Maine EMS patient/run report.\n    2. Describe assessment of patient's status.\n    3. Document which identification (i.e., form, wallet card, plastic bracelet or DNR jewelry) was used to confirm EMS Comfort Care/DNR or DNR Directive status and indicate that it was intact and not canceled.\n    4. Indicate the patient's physician/PA/NP name, on the patient/run report.\n    5. If the patient has expired on arrival, comfort the family and follow your EMS agency's procedure for death at home. A Maine EMS patient/run report still needs to be completed.\n    6. If transporting the patient, EMS clinicians should keep the original EMS Comfort Care/DNR Order Form, wallet card, plastic bracelet, DNR Directive form or DNR jewelry with the patient.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>C. When to Stop Resuscitation: Resuscitation should be terminated:\n    1. Unwitnessed Arrest:\n        a. When the patient regains pulse/respiration.\n        b. When criteria defined in the Termination of Resuscitation protocol, Red 14, or the Termination of Resuscitation for Traumatic Cardiac Arrest protocol, Green 22, have been met.\n        c. When the rescuers are physically exhausted or when equally or more highly trained health care personnel take over.\n        d. When it is found that the patient has a DNR order or other actionable medical order (i.e. POLST/MOLST etc.) form.\n        e. Continue resuscitation if conditions on scene are NOT amenable to cessation of resuscitation.\n        f. Continuation of resuscitation beyond these protocols must be in consultation with OLMC.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<pre><code>2. Witnessed arrest:\n    a. When the patient regains pulse/respiration.\n    b. When criteria as defined in the Termination of Resuscitation protocol (Red 14) have been met.\n    c. In the absence of ALS, when the same Maine EMS-licensed crew member has determined the absence of all vital signs for 20 minutes, in spite of BLS, except in the case of hypothermia (Yellow 12).\n    d. When the rescuers are physically exhausted or when equally or more highly trained health care personnel take over.\n    e. When it is found that the patient has a DNR or other actionable medical order (i.e., POLST/MOLST form).\n    f. Continue resuscitation if conditions on scene are NOT amenable to cessation of resuscitation.\n    g. Continuation of resuscitation beyond these protocols must be in consultation with OLMC.\n</code></pre>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>D. Management of Patient Remains</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>If resuscitation efforts are discontinued, follow your service's policy for disposition of patient remains. In cases of uncertainty, arrangements should be made with OLMC with regards to disposition of the patient's body. Contact your local ED with regard to tissue donation options and procedures in advance.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Refer to Death Situations for Emergency Responders protocol, Grey 11.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>Pearls for DNR Guidelines:</strong> A living will or a Durable Power of Attorney for Healthcare (DPOAH) form may or may not contain a DNR order or instructions for end-of-life decisions. A patient's spouse or other person may have the authority as a surrogate to make a decision to withhold or withdraw life-sustaining treatment for a patient under certain circumstances. If it's unclear whether a DNR order or instructions for end-of-life decisions exist, or it's unclear whether a person who is requesting that resuscitation be withheld has the authority to do so, initiate resuscitation and contact OLMC for guidance.</p>\n<p>When a written DNR order is not available but the patient has a DPOAH and the patient's healthcare agent requests that resuscitation be withheld, contact OLMC for guidance.</p>\n<p><strong>Living Will:</strong>\nA Living Will is intended to address patients who have been admitted to a healthcare facility. Living Wills rarely, if ever, have application in the prehospital environment.</p>\n<p><strong>POLST (Provider Orders for Life-Sustaining Treatment):</strong></p>\n<p><strong>POLST Section A</strong>\nThe POLST constitutes a DNR if \"No CPR\" is indicated in this section. Otherwise, if the patient has indicated they do not want resuscitation but does not have a separate valid DNR order, contact Medical Control for guidance.</p>\n<p><strong>POLST Section B</strong>\nWhen confronted with a seriously ill patient who has a POLST form (green form) and is not in cardiac arrest :\n* If \"Full Treatment\" box is checked: Use all appropriate measures to stabilize/resuscitate patient.\n* If \"Selective Treatments\" box is checked: The maximum respiratory interventions include interventions such as non-rebreather mask, CPAP, and suctioning. All appropriate IV medications may be utilized. Avoid intensive care: ventilator, cardioversion, defibrillation. Transfer to hospital if needs cannot be met in current location.\n* If \"Comfort-Focused Treatments\" box is checked: Limit respiratory interventions to non-rebreather mask, suctioning and treatment of airway obstruction, as needed. Medications to relieve pain or discomfort may be utilized. Transfer to hospital only if comfort cannot be achieved in current setting.</p>\n<p><strong>POLST Section C</strong>\nRefers to IV therapy for hydration, nutrition, and other orders. Advanced EMTs and Paramedics may start an IV for the purpose of medication administration outlined in Section B.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "When irreversible signs of death, such as rigor mortis, dependent lividity, decapitation, decomposition, incineration, other obvious lethal injuries are present."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "When down time has been unknown or greater than 20 minutes with no bystander CPR performed and the patient is cool to touch (not from exposure), no audible heart sounds, and fixed/dilated pupils."
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "Core temperature less than 50 degrees F, chest wall so stiff that compressions cannot be performed, or patients submerged in cold water (for specific recommendations in drowning, refer to Drowning/Submersion Injuries protocol, <strong>Yellow 15</strong>)."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "EMS DNR orders from other states' EMS/DNR programs. If the order or device (i.e., plastic bracelet, jewelry, or card) appears to be in effect, and is understandable to the crew, follow the order's specific instructions. Devices, such as jewelry, must have the patient's name clearly displayed and must indicate the patient's wishes to be DNR. If there are no specific instructions beyond \"DNR\", follow Maine EMS Comfort Care/DNR Guidelines, <strong>Grey 4</strong>."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "Non-EMS actionable medical order (i.e. POLST/MOLST, etc.). A written order executed by a patient's personal physician/PA/NP should be honored if it is understandable to the crew. Follow the order as written. If it is nonspecific as to the care to provide or withhold, follow the MEMS Comfort Care/DNR guidelines, <strong>Grey 4</strong>."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Maine EMS Comfort Care/DNR Program - A Maine EMS Comfort Care/DNR order does not have an expiration date. Once activated, it remains in effect until the patient, or someone acting on their behalf as described and authorized on the Comfort Care/DNR form, cancels it. (Note: Although no longer distributed by Maine EMS, extant DNR/Comfort Care \"orange\" forms, wallet cards and plastic bracelets remain valid)."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_160",
+        "pageNumber": "Grey 3",
+        "jpgReference": "/assets/pages_webp/0160.webp"
+      },
+      {
+        "pageId": "grey_161",
+        "pageNumber": "Grey 4",
+        "jpgReference": "/assets/pages_webp/0161.webp"
+      },
+      {
+        "pageId": "grey_162",
+        "pageNumber": "Grey 5",
+        "jpgReference": "/assets/pages_webp/0162.webp"
+      },
+      {
+        "pageId": "grey_163",
+        "pageNumber": "Grey 6",
+        "jpgReference": "/assets/pages_webp/0163.webp"
+      },
+      {
+        "pageId": "grey_164",
+        "pageNumber": "Grey 7",
+        "jpgReference": "/assets/pages_webp/0164.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_165_166_167",
+    "title": "Pre-hospital Management of Hospice Patients",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>EMS may be called to respond to patients on Hospice Care. This may occur because the patient (or family) was unable to reach a Hospice nurse/physician or the patient (or family) became anxious. In these circumstances, <strong>EMS clinicians should make every effort to reach a Hospice Provider</strong> and should remain with the patient until the Hospice Provider arrives. Comforting interventions (<strong>Grey 4</strong>) should be undertaken. Support family members.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>EMS clinicians should avoid the following interventions:</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Sirens, lights or aggressive interventions.</li>\n<li>IV therapy (except where other forms of medication administration are not possible). Discuss options with patient, family, caregivers.</li>\n<li>Cardiac resuscitation: CPR, resuscitation medications, BVM ventilations.</li>\n<li>Cardiac pacing, cardioversion, and defibrillation.</li>\n<li>Hospice patients should not be transported to the hospital except where transport is specifically requested by the patient or his/her healthcare agent or surrogate, and preferably only after consultation with the hospice team and exhaustion of other treatment pathways that do not require transport to the hospital.</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>If the reason for calling 9-1-1 is unrelated to the Hospice patient's terminal illness, the appropriate protocol should be followed and the patient should be transported to the hospital, if needed and requested by the patient or surrogate (example: laceration requiring sutures).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>OLMC should be consulted, as needed, to discuss Hospice Provider orders and other concerns.</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Many hospice patients will have a hospice comfort kit that contains medications that patient's caregivers are instructed to use to treat commonly encountered medical issues.</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT",
+        "html": "<p><strong>Routine Patient Care.</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>PEARLS</strong>\nBreakthrough Pain assessment and management is important in patients with advanced disease as they may have a high burden of pain, be opiate tolerant, and already be receiving high doses of opioids.</p>\n<p>Anxiety ranges from mild to severe, is common in patients nearing death, and should be treated promptly.</p>\n<p>Terminal secretions are noisy, gurgling respirations caused by secretions accumulating in the lungs or oropharynx.</p>\n<p>Terminal dyspnea is exhibited by patients that are expected to die within hours to days. Individuals experiencing dyspnea often experience heightened anxiety.</p>\n<p>Constipation is a frequent cause of nausea and vomiting. Opioid-related constipation is dose-related, and patients do not develop tolerance to this side effect.</p>\n<p>Nausea / Vomiting can be extremely debilitating symptoms at the end of life. Effective control of nausea can be achieved in most patients.</p>\n<p>Fever and Infection treatment should be guided by an understanding of where the patient is in the dying trajectory and the patient's specific goals of care.</p>\n<p>Overwhelming sepsis may be a sign of active death not to be reversed.</p>\n<p>Delirium is common at end of life and is often caused by a combination of medications, dehydration, infections or hypoxia. It is distressing to families. It often heralds the end of life and may require active sedation.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Contact the hospice team (preferred) or OLMC to coordinate care and determine administration of hospice kit medications."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "Consider paramedic response for medication administration."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "<strong>Breakthrough Pain:</strong> Suggest administration of breakthrough pain medication by patient / families. For pain of sudden onset, seek to determine and treat the underlying cause (e.g., pathological fracture)."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "<strong>Anxiety:</strong> Consider potential causes for patient's anxiety, such as increased pain and shortness of breath. Suggest administration of medication by patients/families."
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "<strong>Dyspnea:</strong> Administer oxygen, as appropriate, to relieve shortness of breath and achieve a respiration rate of < 20. Use a fan to blow air directly at the patient's face."
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "<strong>Constipation:</strong> Suggest administration of constipation medication by patient/family."
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT",
+        "html": "<strong>Terminal Dehydration:</strong> Moisten lips with petroleum jelly; use artificial saliva/mouth sponges and ice chips."
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT",
+        "html": "<strong>Confusion/Delirium:</strong> Speak slowly and calmly to the person. Remind the patient of where they are, and who you are. Avoid contradicting the patient's statements. Ensure a patient's hearing aid and glasses are available. Limit activity/noise in the room."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Nausea/Vomiting: Suggest administration of nausea medication or refer to Nausea/Vomiting protocol, <strong>Gold 18</strong>."
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "Consider following written orders for medications in hospice kit. As an adjunct, consider:\n    a. For Breakthrough Pain, refer to Universal Pain Management Protocol, <strong>Green 18</strong>.\n    b. For Anxiety, contact OLMC for Ketamine 0.5 mg/kg IN for a max dose of 25 mg.\n    c. For Bronchospasm, refer to Respiratory Distress with Bronchospasm protocol, <strong>Blue 6</strong>."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_165",
+        "pageNumber": "Grey 8",
+        "jpgReference": "/assets/pages_webp/0165.webp"
+      },
+      {
+        "pageId": "grey_166",
+        "pageNumber": "Grey 9",
+        "jpgReference": "/assets/pages_webp/0166.webp"
+      },
+      {
+        "pageId": "grey_167",
+        "pageNumber": "Grey 10",
+        "jpgReference": "/assets/pages_webp/0167.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_168_169",
+    "title": "Death Situations for Emergency Responders",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>PREPARED JOINTLY BY:</strong> Attorney General, Office of Chief Medical Examiner, and Maine State Police.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>GENERAL AIM:</strong> Preservation of scene, including body as found, for investigative purposes within practical limits consistent with the role and responsibilities of emergency medical care givers.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Death Situation Guidelines</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>I. Preserve life:</strong> While forensic guidelines emphasize that the scene should not be disturbed, the first and most important course of action is to follow all usual procedures to ensure the preservation of life.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>II. Once Death is confirmed:</strong> <em>If the decedent is clearly dead, the body should not be moved or disturbed unless there is a danger that the body may be lost or further damaged.</em>\n    A. Maine statutes do not require a pronouncement of death.\n    B. The scene should be secured and left undisturbed.\n        1. If the police are present, they should take charge in order to determine whether the case falls under the jurisdiction of the Office of Chief Medical Examiner (OCME) or whether the death certificate may be certified by the patient's private attending physician.\n        2. If there is no police officer present, EMS should call the local police or call the OCME directly to report the case so that a determination may be made as to the need for further investigation into the cause and manner of death. OCME emergency line to report deaths: 1-800-870-8744.\n        3. If it is determined not to be a Medical Examiner case, try to accommodate the family's request or contact OLMC for guidance.\n        4. Notify the New England Donor Services 1-800-446-6362, refer to <strong>Termination of Resuscitation #2 protocol, Red 14</strong>.\n    C. Tubes and medical devices should be left in place. Certain reusable equipment may be removed to resupply the ambulance; however, written documentation of any such action must be given to investigators.\n    D. Any clothing or property should be left undisturbed.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>III. What is a Medical Examiner (ME) case?:</strong>\n    A. Any suspected HOMICIDE.\n    B. Any suspected SUICIDE.\n    C. Any death involving any ACCIDENT or INJURY.\n    D. Any death of a CHILD.\n    E. Any death in CUSTODY.\n    F. Deaths caused by SUSPECTED GROSS NEGLIGENCE during a Medical Procedure.\n    G. SUDDEN DEATH from an UNKNOWN cause or any death where there is no private attending physician.\n    H. UNIDENTIFIED persons.\n    I. OCCUPATIONAL deaths (work-related).\n    J. Unnatural deaths in a Mental, or DHS-Residential Care Facility.\n    K. Any death that might ENDANGER or THREATEN the public health.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>IV. Deaths in Children:\n    A. All deaths in children under the age of three automatically become Medical Examiner cases unless the death is expected based on previously diagnosed natural disease.\n    B. Determination of the cause of death in infants and children is very difficult. While the OCME understands the concerns of the parents/guardians, the child must be left undisturbed until investigating police officers have finished the initial investigation. SIDS is not an acceptable reason to transport a deceased infant or allow the infant to be moved prior to investigation.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>V. Reports and follow-up on Medical Examiner cases:\n    A. If families have questions, they may be referred to the OCME. Families should call the office using the 24 hour business line at 207-624-7180.\n    B. Copies of EMS run sheets should be given to police investigators and/or the OCME (refer to Brown 2).\n    C. If any EMS clinician wishes follow-up information on any specific case, or if there is a question of infectious exposures, call the OCME on the business line, 207-624-7180.</p>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_168",
+        "pageNumber": "Grey 11",
+        "jpgReference": "/assets/pages_webp/0168.webp"
+      },
+      {
+        "pageId": "grey_169",
+        "pageNumber": "Grey 12",
+        "jpgReference": "/assets/pages_webp/0169.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_170",
+    "title": "Maine Death With Dignity Law",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>PEARLS</strong>\nDeath with Dignity Law (Sec. 1. 22 MRS c. 418 ): The Maine Death with Dignity Act provides eligible Maine residents with terminal, incurable diseases that will, within reasonable medical judgment, result in death within six months, the option to be prescribed a dose of medication that, if taken, will hasten the end of their life.</p>\n<p>Patients should have a either a form that identifies their participation in the Maine Death with Dignity Program or a DNR/POLST form.</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>It is possible that Maine EMS personnel may be called to respond to an individual who has voluntarily entered into an agreement with his/her Attending physician to end their life under the Death with Dignity Act.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>If dispatched to such a patient, and questions arise regarding patient care, please contact OLMC.</p>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_170",
+        "pageNumber": "Grey 13",
+        "jpgReference": "/assets/pages_webp/0170.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_171",
+    "title": "Bariatric Patients",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>This protocol provides guidance for the triage, extrication, care and transport of bariatric patients. A bariatric patient exceeds 180 kg (400 lbs.) or possesses a body habitus that challenges the ability of a two-person crew to manage effectively. On scene time may be prolonged for bariatric patients who may require additional resources, personnel and equipment to safely evaluate, manage and transport. Goals include the timely and effective management of these patients while maintaining patient privacy, dignity and comfort.</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<ul>\n<li>Equipment: deploy specialized equipment/personnel per local/regional policy.</li>\n<li>Request a Bariatric ambulance, if feasible, and if time allows.</li>\n<li>Bariatric stretchers are preferred for patient comfort. Ensure that the weight limit of the utilized stretcher exceeds the weight of the patient.</li>\n<li>Request additional personnel resources for the extrication process.</li>\n<li>Clinicians should be knowledgeable about the utilization of bariatric equipment prior to using it.</li>\n<li>Early pre-hospital notification is required as special arrangements may be needed at the receiving hospital.</li>\n<li>Consider the patient's immediate needs (CT scan, surgery, cardiac catheterization, etc.) when determining hospital destination. If the patient is stable and there exists a potential requirement for alternate destination, please contact OLMC for guidance and discussion regarding the most appropriate patient destination.</li>\n<li>If not present, request ALS (Paramedic), especially in situations in which on-scene time will be prolonged.</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>PEARLS</strong>\n* It may be difficult to establish IV and IO access. Consider intramuscular or intranasal as alternatives for some medications. For IM, ensure that the needle used is sufficiently long.\n* Weight-based calculations may yield inappropriately large doses in obese patients. Consult with medical control when in doubt regarding medication dosing. In addition, medication par levels may be exceeded when using weight-based dosing.\n* Bariatric patients often have decreased functional residual capacity, and are at risk of rapid desaturation. Extremely obese individuals require more oxygen than non-obese individuals due to their diminished lung capacity. Pulse oximetry may not be reliable due to poor circulation. Even patients without respiratory distress may not tolerate the supine position.\n* Bariatric patients may present with severe airway challenges. Carefully plan your approach to the airway and be prepared with backup airway plans.\n* If the patient has had recent bariatric surgery, possible complications may include anemia, dehydration, internal leakage at the surgical site, ulcers, localized infection, sepsis, etc.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_171",
+        "pageNumber": "Grey 14",
+        "jpgReference": "/assets/pages_webp/0171.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_172_173_174",
+    "title": "Mass Casualty / Disasters/Hazmat",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>GENERAL RESPONSIBILITY FOR DECEASED PERSONS:</strong> The Office of Chief Medical Examiner is responsible for deceased victims of mass disasters including identification and removal from the scene. The Office of Chief Medical Examiner (1-800-870-8744, restricted emergency call number) should be informed immediately of any multiple fatality situations.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Consistent with New England EMS Council MCI Management, the action priorities for the first medical crews arriving on the scene are:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>EMS CONTROL OFFICER</strong> - Reports to Incident Commander. Responsible for overall patient triage, treatment, and transportation. Procures EMS back-up, supplies, equipment, transport vehicles, as needed, supervises and assigns all other medical personnel.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>PRIMARY TRIAGE OFFICER</strong> - Rapidly assesses all patients then assigns personnel to provide treatment to those patients in most need of immediate treatment, who will most benefit from immediate care with the resources available. Treatment is limited to:</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Bleeding - hemorrhage control</li>\n<li>Airway - reposition patient</li>\n<li>Shock - elevate extremities</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>SECONDARY TRIAGE OFFICER</strong> - Rapidly tags all patients, or assigns personnel to do tagging (with METTAGS, SMART Tags, or other locally approved Triage System) and supervises immobilization after classification, and oversees transfer to collection/treatment area.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Tag categories are:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>RED (I):</strong> Conditions requiring immediate transport by ambulance to prevent jeopardy to life or limb and which will not unduly deplete personnel/equipment resources (examples: progressive shock, major blood loss, major multiple injuries, severe respiratory distress. Cardiac arrest - only if personnel can be spared).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>YELLOW (II):</strong> Not requiring immediate transport to prevent jeopardy to life or limb, but eventually will require ambulance transport to hospital for attention.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>GREEN (III):</strong> Minor conditions probably not requiring ambulance transport to hospital.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>BLACK (O):</strong> Are obviously dead, or dying from lethal injuries, or requiring CPR when no personnel are available to do so without compromising other patients.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>TREATMENT OFFICER</strong> - Sets up / supervises patient collection / treatment area. Reassesses and re-tags (if necessary) patients, assigns patients and personnel to treatment areas. Prioritizes for transport. Coordinates with Loading/Transport Officer to make single radio transmission to receiving facility (pt. ID#, METTAG priority, nature of injury, ambulance, and ETA ONLY).</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>LOADING OFFICER</strong> - Stages ambulances in holding area. Instructs crews to put all available equipment in equipment area. Assigns patients to vehicles. Directs drivers to hospital(s). Instructs not to contact hospital unless OLMC required for condition change. Notifies hospital, or coordinates communication to hospital notification times, patient ID#s and destination of all transporting vehicles.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>In the event of a public health emergency or declared disaster, EMS clinicians may be asked to divert selected patients with certain conditions to hospital-established or state-established alternate care sites by OLMC.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Mass Casualty / Disasters/Hazmat\" src=\"/assets/figures/page-0174-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Suggested Scene Organization</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>(Not for HazMat)</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li><strong>INCIDENT COMMAND POST</strong></li>\n<li><strong>EMS CONTROL OFFICER</strong></li>\n<li><strong>INCIDENT SCENE</strong><ul>\n<li><strong>EQUIPMENT</strong></li>\n<li><strong>AMBULANCE LOADING</strong></li>\n<li><strong>PRIMARY TRIAGE OFFICER</strong></li>\n<li><strong>RED</strong></li>\n<li><strong>LOADING OFFICER</strong></li>\n<li><strong>TREATMENT OFFICER</strong></li>\n<li><strong>YELLOW</strong></li>\n<li><strong>SECONDARY TRIAGE OFFICER</strong></li>\n<li><strong>GREEN</strong></li>\n<li><strong>TRIAGE / HOLDING AREA</strong></li>\n</ul>\n</li>\n</ul>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "BODIES SHOULD BE LEFT IN PLACE AT THE SCENE except when they must be moved to preserve them from destruction or when they block access. The resting place of the victim may be critical for identification of the body and/or reconstruction of the incident. They can be tagged as fatalities to prevent other medical personnel from repeating examination."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "IF DEATH OCCURS EN ROUTE TO THE HOSPITAL, the body need not be returned to the scene but can be brought to the hospital or other suitable storage place as determined by distances and/or the needs of other patients in the ambulance. If the body is left anywhere other than the hospital or designated temporary morgue, the body should be tagged and the Office of Chief Medical Examiner should be advised."
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "THE SITE A VICTIM IS REMOVED FROM SHOULD BE NOTED on a tag along with the name and agency of the person who removed it whenever removal is needed and in cases of death after removal. Such information may be critical for identification of the body and/or reconstruction of the accident."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "IF AN IDENTIFICATION OF A PATIENT IS MADE, a tag with at least the name and date of birth and time of death of the patient/decedent along with the identifier's name, relationship, address and where he/she can be located should be put on the body."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "PERSONAL PROPERTY SHOULD BE LEFT WITH THE BODY including clothing removed from a patient if the victim dies. Nothing should be removed from those already deceased."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Assess and avoid exposure to existing dangers."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ALL",
+        "html": "<p>Notify dispatch of type of MCI and estimate of number and type of patients.\n    a. Request EMS, fire, police assistance\n    b. Request hospital notification</p>"
+      },
+      {
+        "num": 8,
+        "providerLevel": "ALL",
+        "html": "<p>First ambulance or other vehicle with medical frequencies becomes EMS command vehicle - locate near fire and police command vehicles. Strip equipment/supplies - place in equipment area (near planned patient collection/treatment area).</p>"
+      },
+      {
+        "num": 9,
+        "providerLevel": "ALL",
+        "html": "Designate, in the following order, the following positions as qualified personnel become available:"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_172",
+        "pageNumber": "Grey 15",
+        "jpgReference": "/assets/pages_webp/0172.webp"
+      },
+      {
+        "pageId": "grey_173",
+        "pageNumber": "Grey 16",
+        "jpgReference": "/assets/pages_webp/0173.webp"
+      },
+      {
+        "pageId": "grey_174",
+        "pageNumber": "Grey 17",
+        "jpgReference": "/assets/pages_webp/0174.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_175",
+    "title": "Sexual Assault Victim",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>ALL LEVELS</h2>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Treat any life-threatening emergency first and according to these protocols."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Try to attend to maintenance of forensic evidence. Try not to cut through tears or stains in clothing. Do not cleanse any skin area more than necessary to provide immediate care."
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "If the patient so desires and/or mandated reporting is indicated, police should be called if they have not already been notified."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "In cases of sexual abuse of a minor or disabled person (mandated reporting), police should be called, if not already notified, and report to Child (1-800-452-1999) or Adult (1-800-624-8404) Protective Services should be made."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "If no life-threatening situation is present, prehospital care may require waiting for police to secure the scene which is a potential crime scene."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Victims of sexual assault commonly have much guilt, and may require psychological support. Please respect the stress that they are enduring."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ALL",
+        "html": "By nature of this event, any touch may be traumatic for this patient. Overtly and repeatedly explain what you are doing to try to lessen the impact of procedures and touching."
+      },
+      {
+        "num": 8,
+        "providerLevel": "ALL",
+        "html": "Advise the patient not to eat, drink, smoke, bathe, change clothing or go to the bathroom, if at all possible, in order to preserve any forensic evidence. If they must urinate, request that they do not wipe."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ALL",
+        "html": "If the patient has removed any clothing worn in the assault, each piece of clothing should be separately bagged in paper bags and brought to the hospital with the patient."
+      },
+      {
+        "num": 10,
+        "providerLevel": "ALL",
+        "html": "When transporting the patient, it is preferable, whenever possible, to have a same sex clinician as the primary clinician. If the assault is a same sex assault, then a clinician of the opposite sex may be more comfortable for the patient."
+      },
+      {
+        "num": 11,
+        "providerLevel": "ALL",
+        "html": "To maintain privacy and confidentiality, use a phone for hospital reporting, whenever possible, and do not clarify the type of assault, only that you are transporting a \"victim of assault.\""
+      },
+      {
+        "num": 12,
+        "providerLevel": "ALL",
+        "html": "The patient should be encouraged to go to the hospital for a sexual assault forensic examination that would allow not only the option to have collection of forensic evidence, but also treatment of possible injuries, the chance to obtain pregnancy and sexually transmitted disease prophylactic treatment, and appropriate counseling."
+      },
+      {
+        "num": 13,
+        "providerLevel": "ALL",
+        "html": "If the patient refuses treatment and/or transportation to the hospital, document all findings and observations as completely as possible. When signing the patient off at the scene, try to have a police officer witness this sign off."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_175",
+        "pageNumber": "Grey 18",
+        "jpgReference": "/assets/pages_webp/0175.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_176_177",
+    "title": "Child Abuse Management and Reporting",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>CHILD ABUSE</h2>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>(Title 22 MRS, Chapter 1071, Subsection 4011-A)</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>All levels</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Child (a person who has not reached the age of 18 years) abuse and child neglect are sufficiently widespread to guarantee that virtually every EMS clinician will encounter them at least once during his/her career.</li>\n<li>It is estimated that approximately 2-3 million cases occur each year, or approximately 11 cases per every 1,000 children within the U.S. Each year at least 2,000 children die from physical abuse.</li>\n<li>The most commonly identified forms of abuse by the EMS clinician are physical abuse and severe physical neglect, although sexual abuse may, on occasion, be observed.</li>\n<li>The EMS clinician must at all times demonstrate and maintain a supportive and non-judgmental attitude with primary caregivers. Accusation and confrontation delay immediate treatment as well as transportation to a definitive care facility.</li>\n<li>When abuse is a possibility, the healthcare professional has two major responsibilities: first, to provide medical care to the child; and second, to collect and document all information that may possibly establish the occurrence of abuse or neglect. Refrain from asking the child too many questions and specifically do not ask any leading questions - keep questions simple and open-ended such as \"What happened?\" and \"Are you hurt?\"</li>\n<li>EMS clinicians must report immediately to Child Protective Services/DHHS (1-800-452-1999) any child whom you have \"reasonable cause to suspect\" has been abused or will be abused. Failure to do so is punishable as a civil violation. It is not enough to tell someone else of your suspicions. If a child is abused and unreported, there is a 50% chance that the child will be abused again and a 10% chance that the child will die from future abuse.</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Possible Indicators of Abuse</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Treatment of suspected child abuse in the field</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>AN ACT TO STRENGTHEN THE LAWS GOVERNING MANDATORY REPORTING OF CHILD ABUSE OR NEGLECT.</h2>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>(Title 22 MRS Section 4011-A, Subsection 7)</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>\"Children under 6 months of age or otherwise non-ambulatory. A person required to make a report under subsection 1 shall report to the department if a child who is under 6 months of age or otherwise non-ambulatory exhibits evidence of the following:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>a. Fracture of a bone;</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>b. Substantial bruising or multiple bruises;</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>c. Subdural hematoma;</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>d. Burns;</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>e. Poisoning; or</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>f. Injury resulting in substantial bleeding, soft tissue swelling, or impairment of an organ.\"</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>(Title 22 MRS Section 4011-A, Subsection 9)</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>\"Training requirement: A person required to make a report under subsection 1 shall complete, at least once every 4 years, mandated reporter training approved by the department.\"</p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Injured child under two years of age, especially hot water burns or fractures"
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Facial, mouth, or genital injuries"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "Atypical, diffuse, and/or severe injuries - especially when not over bony prominences"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "Poor nutrition or poor care"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "Delay in seeking treatment or not wanting the clinician to speak alone with the child"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Vague, inconsistent, or changing history"
+      },
+      {
+        "num": 7,
+        "providerLevel": "ALL",
+        "html": "Refer to appropriate protocol for the child with altered level of consciousness, <strong>Gold 5</strong>, the child in shock, <strong>Gold 14</strong>, or the child in cardiac arrest, <strong>Red 18</strong>"
+      },
+      {
+        "num": 8,
+        "providerLevel": "ALL",
+        "html": "Suspect abuse but do not accuse the caretaker. Every time a child is encountered by the healthcare professional having a traumatic injury, the question that should come to mind is, \"Could this be abuse?\". In most cases, the answer will be an obvious \"no\"; however, enough uncertainty will exist in some cases to warrant further assessment."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ALL",
+        "html": "Follow normal initial assessment priorities of the ABC's and mental status when caring for the child."
+      },
+      {
+        "num": 10,
+        "providerLevel": "ALL",
+        "html": "Provide the appropriate intervention procedures for any abnormal findings such as respiratory, trauma, shock, altered mental status or other medical emergencies."
+      },
+      {
+        "num": 11,
+        "providerLevel": "ALL",
+        "html": "EMS clinicians are in key positions to assess environmental conditions and the observable interactions of family and child. Environmental signs of possible abuse or neglect may include, but are not limited to: unsanitary conditions; garbage scattered about the house; unsafe conditions such as open, unguarded windows or potentially dangerous objects within reach of children."
+      },
+      {
+        "num": 12,
+        "providerLevel": "ALL",
+        "html": "Perform a detailed physical examination on any child in stable enough condition to allow for such. Examine all parts of the body for deformities, ecchymosis, lacerations, abrasions, punctures, burns, tenderness, and swelling. It is vitally important that injuries of the mouth and sternum be observed in detail prior to the initiation of resuscitative measures and documented that such injuries were found prior to resuscitation."
+      },
+      {
+        "num": 13,
+        "providerLevel": "ALL",
+        "html": "It is important to transport all children having evidence of abuse or neglect due to the possibility of additional injuries not immediately obvious. Transport of potentially abused or neglected children ensures that they receive the appropriate and necessary social service. Assistance may be necessary from law enforcement, OLMC, etc."
+      },
+      {
+        "num": 14,
+        "providerLevel": "ALL",
+        "html": "Convey your impressions and information to the hospital staff."
+      },
+      {
+        "num": 15,
+        "providerLevel": "ALL",
+        "html": "Write a detailed and descriptive report, which provides an accurate and clear record of all observations and treatment from the time of the initial call through transfer of the patient to the ED staff. Do not make a diagnosis of abuse, and refrain from including personal opinions, emotional overtones, or interpretations. Primary caregiver quoted statements must be documented as such with quotation marks, and exactly word for word as stated by the person. As well, this legal document must be legible."
+      },
+      {
+        "num": 16,
+        "providerLevel": "ALL",
+        "html": "You must contact Child Protective Services/DHHS (<strong>1-800-452-1999</strong>) to make a report if there is abuse/suspected abuse.\n    This is a 24-hour a day reporting number. You will be protected, by law, from civil liability for making such a report, if made in good faith. Title 22 MRS, Chapter 1071, Subsection 4014"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_176",
+        "pageNumber": "Grey 19",
+        "jpgReference": "/assets/pages_webp/0176.webp"
+      },
+      {
+        "pageId": "grey_177",
+        "pageNumber": "Grey 20",
+        "jpgReference": "/assets/pages_webp/0177.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_178",
+    "title": "Adult Abuse, and Intoxicated Drivers",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>ADULT ABUSE</h2>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>(Title 22 MRS, Chapter 958-A, Subsection 3477)</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>\"Reasonable cause to suspect. The following persons while acting in a professional capacity...ambulance attendant, emergency medical technician or other licensed medical service provider, Unlicensed assistive personnel shall immediately report to the department when the person knows or has reasonable cause to suspect that an incapacitated or dependent adult has been or is likely to be abused, neglected or exploited.\"</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Call Adult Protective Services: <strong>1-800-624-8404</strong> (24 hours a day). Similar protection from liability for reporting exists.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>INTOXICATED DRIVERS</h2>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>(Title 29-A)</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>\u00a7 2405 (1) \"Persons who may report if, while acting in a professional capacity a...emergency medical services person...knows or has reasonable cause to believe that a person has been operating a motor vehicle, hunting or operating a snowmobile, all-terrain vehicle or watercraft while under the influence of intoxicants and that motor vehicle, snowmobile, all-terrain vehicle or watercraft or a hunter has been involved in an accident, that person may report those facts to a law enforcement official.\"</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>\u00a7 2405 (2) Immunity from liability. A person participating in good faith in reporting under this section, or in participating in a related proceeding, is immune from criminal or civil liability for the act of reporting or participating in the proceeding.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>\u00a7 2524 (1) Persons qualified to draw blood for blood tests. \"Only a physician, registered physician's assistant, registered nurse or person whose occupational license or training allows that person to draw blood samples may draw a specimen of blood for the purpose of determining the blood-alcohol level or the presence of a drug or drug metabolite.\"</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>\u00a7 2528 Liability. \"A physician, physician's assistant, registered nurse, person whose occupational license or training allows that person to draw blood, hospital or other health care provider in the exercise of due care is not liable for an act done or omitted in collecting or withdrawing specimens of blood at the request of a law enforcement officer pursuant to this chapter.\"</p>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_178",
+        "pageNumber": "Grey 21",
+        "jpgReference": "/assets/pages_webp/0178.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_179_180",
+    "title": "Transport Protocol",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>EMS Clinician Assesses Patient</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li><strong>Patient Accepts Treatment/Transport?</strong><ul>\n<li><strong>YES</strong>: Patient Transported</li>\n<li><strong>NO</strong>: Decision-Making Capacity*?<ul>\n<li><strong>YES</strong>: Patient WITH Decision-Making Capacity* NOT Transported</li>\n<li><strong>NO</strong>: Patient WITHOUT Decision-Making Capacity* Transported</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>*A patient without decision-making capacity would be one who has one or more of the following: an altered mental status or intoxicated, confused, delirious, psychotic, comatose, unable to understand the language, or is a minor, etc. Additionally, a patient who demonstrates a suicidal/self harm gesture or admission, either verbally or in writing, shall be considered to be WITHOUT decision-making capacity.</p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "If there is a question of decision-making capacity or the patient does not appear to understand the consequences of his/her refusal of transport, then contact OLMC."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "The patient must be informed of the consequences of his/her refusal to be transported. This must be documented in the patient care report."
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "This screening may typically arise when an ambulance is requested by someone other than the patient (i.e., the police, a bystander). The EMS run report must always be completed."
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "If the patient refuses transport and is judged to be without decision-making capacity, the EMS clinician must speak directly with OLMC. If unable to reach OLMC, the patient is transported."
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "<strong>EMS System initiated patient sign offs are tremendously risky interactions and are not condoned by Maine EMS.</strong>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "<strong>The service is expected to review all patient sign offs through the service's quality assurance mechanism. Patient medical records must be completed for all of these interactions,and must include the following information:</strong>\n    a. The patient must be calm, with decision-making capacity, sober, and alert with the absence of any acute medical/surgical or traumatic process that impairs the patient's decision-making capacity\n    b. Greater than 18 years, emancipated, or contact with guardian\n    c. Service(s) offered\n    d. Reason service(s) declined\n    e. Statement of risks and patient understanding of risk\n    f. Discussion of alternatives to service offered and potential consequences of declining offered service\n    g. Discussion with patient that EMS services may be accessed at any time, and that the patient had decision-making capacity."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ALL",
+        "html": "In some circumstances, patient transport is requested by an off site medical clinician. Should a patient refuse transport and be found to have decision-making capacity, EMS clinicians should communicate the discovery of decision making capacity and the patient's right to refuse transfer with invested parties. OLMC, or the physician ordering transport, must be contacted by EMS in this decision making process. It is suggested that the consulted physician discuss the refusal of care or transport directly with the patient."
+      },
+      {
+        "num": 8,
+        "providerLevel": "ALL",
+        "html": "When the patient is found to lack decision-making capacity but continues to refuse transport, contact OLMC for assistance. Should the patient continue to refuse transport, consider accessing other community advocates and resources (such as family/friend when appropriate and/or police). Consider direct dialogue between OLMC and the patient or OLMC and law enforcement to assist in resolving the conflict."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_179",
+        "pageNumber": "Grey 22",
+        "jpgReference": "/assets/pages_webp/0179.webp"
+      },
+      {
+        "pageId": "grey_180",
+        "pageNumber": "Grey 23",
+        "jpgReference": "/assets/pages_webp/0180.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_181",
+    "title": "Protective Headgear Removal",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Protective Headgear Removal\" src=\"/assets/figures/page-0181-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>The decision to remove protective headgear from an injured patient rests with the EMS clinician on scene unless a Maine licensed physician is on scene and takes responsibility for the patient. It is important to immobilize the patient in a neutral in-line position, regardless of whether or not you choose to remove the helmet. This requires that you evaluate each patient and determine if other equipment (e.g., shoulder pads) must be removed or if additional padding under the shoulders or head is necessary. <em>In the case of an athletic injury, the EMS clinician should consider input from athletic trainers. Disputes should be referred to OLMC for resolution.</em></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>When deciding whether to remove protective headgear, please evaluate the following criteria:</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Can You Access the Airway?<ul>\n<li>NO: Remove the Headgear</li>\n<li>YES:<ul>\n<li>Does the Helmet Fit Snugly?<ul>\n<li>NO: Remove the Headgear</li>\n<li>YES:<ul>\n<li>Can you adequately immobilize the spine while maintaining neutral in-line position?<ul>\n<li>NO: Remove the Headgear</li>\n<li>YES: Leave the Headgear in Place</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_181",
+        "pageNumber": "Grey 24",
+        "jpgReference": "/assets/pages_webp/0181.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_182",
+    "title": "Crime Scenes",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>DO NOT enter an active shooter scene, or a scene in which an unsecured weapon is involved, until the scene is secured by law enforcement, unless trained and authorized to do so (such as in the context of a tactical response team or rescue task force). If encountering a possible crime scene and not previously dispatched, contact law enforcement.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Once a crime scene is deemed safe by law enforcement, initiate patient contact and medical care, if necessary.</p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Do not sacrifice patient care to preserve evidence.</li>\n<li>Have all EMS clinicians use the same path of entry and exit, if feasible.</li>\n<li>Do not touch or move anything at a crime scene unless it is necessary to do so for patient care (notify law enforcement prior to moving, if possible).</li>\n<li>Do not walk through fluids.</li>\n<li>Observe and document original location of items moved by crew whenever possible.</li>\n<li>Do not sacrifice patient care to preserve clothing, but when possible and removing patient clothing is required, leave it as intact as possible. Avoid cutting through holes made by weapons, if possible.</li>\n<li>If you remove any items from the scene, such as impaled objects or medication bottles, document your actions and advise a law enforcement official (prior to removal, if feasible).</li>\n<li>Consider requesting a law enforcement officer to accompany the patient in the ambulance to the hospital.</li>\n<li>Document statements made by the patient or bystanders on the EMS patient care report. Report significant information to a law enforcement official prior to leaving the scene, if feasible.</li>\n<li>Comments made by a patient or bystanders should be denoted in quotation marks.</li>\n<li>Inform staff at the receiving hospital that this is a \"crime scene\" patient.</li>\n<li>If the patient is obviously dead, consistent with Do Not Resuscitate Guidelines, <strong>Grey 3</strong>, notify law enforcement of decision not to initiate resuscitation/patient care.</li>\n<li>At motor vehicle incidents, preserve the scene by not driving over debris, not moving debris and parking away from tire marks, if feasible.</li>\n<li>Prior to leaving a crime scene, if feasible, check the bottom of your shoes for contamination (fluids, objects, etc.). Notify law enforcement for removal of any evidence and possible photographing of your shoes.</li>\n</ul>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_182",
+        "pageNumber": "Grey 25",
+        "jpgReference": "/assets/pages_webp/0182.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_183",
+    "title": "Defibrillation / Cardioversion Settings",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Defibrillation / Cardioversion Settings\" src=\"/assets/figures/page-0183-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>DEFIBRILLATION SETTINGS*</h2>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\">Initial</th>\n<th style=\"text-align: left;\">Second</th>\n<th style=\"text-align: left;\">Third</th>\n<th style=\"text-align: left;\">Fourth</th>\n<th style=\"text-align: left;\">Subsequent</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\"><strong>Adult</strong></td>\n<td style=\"text-align: left;\">Per device recommendations*<br/>If unknown, use maximum</td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\">Maximum available energy</td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Pediatric</strong></td>\n<td style=\"text-align: left;\">2 J/kg</td>\n<td style=\"text-align: left;\">4 J/kg</td>\n<td style=\"text-align: left;\">6 J/kg</td>\n<td style=\"text-align: left;\">8 J/kg</td>\n<td style=\"text-align: left;\">Max 10 J/kg</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>* Each device manufacturer recommends initial adult defibrillation settings. Please follow the recommendation of your device manufacturer.<br/>\n** All settings are biphasic. If using monophasic machine refer to manufacturer recommendations.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h2>CARDIOVERSION SETTINGS*</h2>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\">Initial</th>\n<th style=\"text-align: left;\">Second</th>\n<th style=\"text-align: left;\">Third</th>\n<th style=\"text-align: left;\">Subsequent</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\"><strong>Adult VT (wide regular)</strong></td>\n<td style=\"text-align: left;\">100 J</td>\n<td style=\"text-align: left;\">150 J</td>\n<td style=\"text-align: left;\">200 J</td>\n<td style=\"text-align: left;\">Maximum available energy</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Adult SVT (narrow regular)</strong></td>\n<td style=\"text-align: left;\">50 J</td>\n<td style=\"text-align: left;\">100 J</td>\n<td style=\"text-align: left;\">120-150 J</td>\n<td style=\"text-align: left;\">Maximum available energy</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Adult A-fib (narrow irregular)</strong></td>\n<td style=\"text-align: left;\">120-200 J</td>\n<td style=\"text-align: left;\">200 J</td>\n<td style=\"text-align: left;\">Maximum available energy</td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Pediatric</strong></td>\n<td style=\"text-align: left;\">0.5-1.0 J/kg</td>\n<td style=\"text-align: left;\">2 J/kg</td>\n<td style=\"text-align: left;\">2 J/kg</td>\n<td style=\"text-align: left;\">2 J/kg</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>* All settings are biphasic. If using monophasic machine refer to manufacturer recommendations.</p>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_183",
+        "pageNumber": "Grey 26",
+        "jpgReference": "/assets/pages_webp/0183.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_184",
+    "title": "Baby Safe Haven Laws",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Baby Safe Haven Laws\" src=\"/assets/figures/page-0184-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p><strong>Maine Safe Haven Laws:</strong> In Maine, a person may voluntarily deliver their baby not more than 31 days old to any safe haven provider with intent not to take back the newborn. The term \"safe haven provider\" as defined in 22 M.R.S. \u00a7 4018(1)(B) refers to a law enforcement officer; staff at a medical emergency room; a medical services provider (which includes Emergency Medical Services person); a hospital staff member at a hospital, or a fire fighter.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p><strong>Procedure:</strong></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>EMS clinicians are mandated to report incidents of child abuse/neglect to Child Protective Services (1-800-452-1999). Refer to <strong>Grey 19, Child Abuse Management and Reporting</strong> protocol.</p>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Examine baby and refer to appropriate protocol(s) if treatment is needed.\n   Transport to nearest hospital that accepts emergency patients.</p>"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Inform person surrendering baby that information shared is protected under the above law and utilized in the welfare of the child. Information may include:\n    a. Date of birth of baby\n    b. Circumstances related to pregnancy/delivery\n    c. Any information about Native American heritage (Indian Child Welfare Act of 1978)\n    d. Any medical/genetic information relating to baby, parents, extended family\n    e. History of substance abuse by either parent\n    f. Physician or midwife who delivered infant (if known)\n    g. Any information that person surrendering infant is willing to provide (parent(s) names(s), addresses, family members</p>"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Provide accepting hospital with all information gathered at the time of surrender.</p>"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Notify the Department of Health and Human Services of the delivery of the child, the hospital the child was transferred and delivered to, and all information provided by the individual surrendering the child."
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Complete a Maine EMS Run Report to include the information obtained\n    a. Date and time of surrender\n    b. Physical Exam and treatment\n    c. Gender"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_184",
+        "pageNumber": "Grey 27",
+        "jpgReference": "/assets/pages_webp/0184.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_185",
+    "title": "Safe Response & Transport",
+    "category": "grey",
+    "intro": [],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Transporting services should develop response and transport (lights and siren) policies approved by the service medical director and developed in compliance with state law (Maine Statute 29-A-2054) and Maine EMS."
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Utilization and appropriateness of lights and sirens should be included in service QA/QI plans"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "All EMS crashes and near misses should be reviewed at the service level with involvement of the service medical director"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "Drivers of ambulances should partake in training programs and continuing education in addition to required certifications"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "Consider road and weather conditions when determining response priority and transport."
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Consider flow of traffic transport in situations when EMS clinicians may not be properly restrained (e.g., CPR). Ideally, CPR should NOT be performed in a moving ambulance."
+      },
+      {
+        "num": 7,
+        "providerLevel": "ALL",
+        "html": "Reserve lights and sirens when transporting time sensitive conditions (MI, stroke, multi-trauma, etc.)"
+      },
+      {
+        "num": 8,
+        "providerLevel": "ALL",
+        "html": "Secure all objects when an ambulance is in motion."
+      },
+      {
+        "num": 9,
+        "providerLevel": "ALL",
+        "html": "Utilize all patient safety restraints (lap and shoulder belts on stretcher)"
+      },
+      {
+        "num": 10,
+        "providerLevel": "ALL",
+        "html": "EMS clinicians should utilize safety restraints at all times unless this significantly impacts patient care. When clinician safety restraints need to be removed, consider timing and road conditions and notify driver that clinician restraints are not in use."
+      },
+      {
+        "num": 11,
+        "providerLevel": "ALL",
+        "html": "Non-EMS clinicians should be properly restrained at all times."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_185",
+        "pageNumber": "Grey 28",
+        "jpgReference": "/assets/pages_webp/0185.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_186_187",
+    "title": "Care of the Deaf and Hard of Hearing",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Excellent communication with patients is essential for EMS clinicians to meet their goals of patient care. Interpreter services are essential resources for communication with patients who do not speak the clinician's primary language. Visual interpreter services may not be immediately available for communication with deaf and hard of hearing, therefore refer to the following guidelines.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p><img alt=\"Visual reference from Care of the Deaf and Hard of Hearing\" src=\"/assets/figures/page-0187-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<h1>MAINE EMS</h1>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<h2>EMS Communication Card</h2>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>For Medical, Physical, and Emotional Information</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>INSTRUCTIONS:</strong> Have the patient touch pictures to request wants and needs. If unable, the caregiver touches pictures and gets yes/no response from patient. This may be helpful for patients who are deaf, hard of hearing, or could have traumatic brain injury, autism, or an intellectual disability.</p>\n<p><strong>Yes</strong> = thumbs up, nod, or eyes wide open\n<strong>No</strong> = thumbs down, nod, or eyes closed</p>\n</blockquote>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<hr/>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>Touch for YES / NO</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<ul>\n<li><strong>Touch for YES</strong>: YES=eyes wide open</li>\n<li><strong>Touch for NO</strong>: NO=eyes closed</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>Call This Number</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<ul>\n<li>(1) (2) (3)</li>\n<li>(4) (5) (6)</li>\n<li>(7) (8) (9)</li>\n<li>(*) (0) (#)</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<hr/>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>Quick communication tips</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<ul>\n<li>Get my attention first.</li>\n<li>Make eye contact when you speak.</li>\n<li>Speak clearly at a normal pace and tone.</li>\n<li>Do not cover your mouth.</li>\n<li>I may have memory issues and it may take me longer to process what you are telling me.</li>\n<li>I cannot lipread everything you say.</li>\n<li>A cochlear implant or hearing aid does not mean I can hear and understand everything you say.</li>\n<li>I may only understand sign language.</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>The best way to communicate with me is:</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<ul>\n<li>Interpreter</li>\n<li>Texting</li>\n<li>Writing</li>\n<li>Lipread</li>\n<li>I Cannot Lipread</li>\n<li>Assistive Listening Device</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<hr/>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>This resource is a collaboration between the Maine Department of Public Safety and the Maine Department of Labor Division of the Deaf and Hard of Hearing and Late Deafened</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<hr/>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>Touch Where It Hurts</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<ul>\n<li>Front</li>\n<li>Back</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>Pain Scale</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<ul>\n<li><strong>0</strong> No Pain</li>\n<li><strong>2</strong> Hurts Little</li>\n<li><strong>4</strong> Hurts Little More</li>\n<li><strong>6</strong> Hurts Even More</li>\n<li><strong>8</strong> Hurts Whole Lot</li>\n<li><strong>10</strong> Worst Pain</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<hr/>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>A B C D E F G H I J K L M N\nO P Q R S T U V W X Y Z</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<hr/>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>Touch for YES / NO</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<ul>\n<li><strong>Touch for YES</strong>: YES=eyes wide open</li>\n<li><strong>Touch for NO</strong>: NO=eyes closed</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>Common Medical Issues</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<ul>\n<li>Breathing Problems/COPD</li>\n<li>Stroke</li>\n<li>High Blood Pressure</li>\n<li>Cardiac/Heart Issues</li>\n<li>Diabetes</li>\n<li>Seizure/Epilepsy</li>\n<li>Sensitive to touch</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<h3>Hospital</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<hr/>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>DOCTOR</td>\n<td>FAMILY</td>\n<td>ALLERGY</td>\n<td>MEDICINE</td>\n<td>COLD</td>\n<td>HEADACHE</td>\n<td>CHOKING</td>\n<td>DIZZY</td>\n<td>SORE THROAT</td>\n</tr>\n<tr>\n<td>RESTROOM</td>\n<td>BLANKET</td>\n<td>NEEDLE</td>\n<td>WATER</td>\n<td>WORRIED</td>\n<td>ANGRY</td>\n<td>NAUSEOUS</td>\n<td>CONFUSED</td>\n<td>FEVER</td>\n</tr>\n<tr>\n<td>TIME</td>\n<td>DATE</td>\n<td>OXYGEN</td>\n<td>BURNS</td>\n<td>NUMBNESS</td>\n<td>FRUSTRATED</td>\n<td>FRUSTRATED</td>\n<td>SAD</td>\n<td>COUGH</td>\n</tr>\n<tr>\n<td>WHAT HAPPENED</td>\n<td>HEARING AID</td>\n<td>PAPER &amp; PEN</td>\n<td>WILL/DNR</td>\n<td>SUICIDAL</td>\n<td>CHEST PAIN</td>\n<td>ANXIETY DEPRESSION</td>\n<td>CAN'T BREATHE</td>\n<td>SHORTNESS OF BRETH</td>\n</tr>\n</tbody>\n</table>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Elicit information from the patient and family regarding preferred method of communication (handwritten, typing, speech (lip) read, American Sign Language (ASL), Assessment Tool)."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Refer to the EMS Assessment Tool for the Deaf and Hard of Hearing, Grey 30."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Utilize handwritten or digital communication (e.g., tablet), if available."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Bring any devices (e.g., hearing aids, cochlear implants) to the hospital."
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Notify hospital of incoming patient and need for ASL interpreter, if needed."
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "If the patient consents, and if available, bring an adult family member capable of interpreting ASL. Certified translators are the standard of care. In emergent situations, adult family members may be used to assist with translation until a certified translator is available."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_186",
+        "pageNumber": "Grey 29",
+        "jpgReference": "/assets/pages_webp/0186.webp"
+      },
+      {
+        "pageId": "grey_187",
+        "pageNumber": "Grey 30",
+        "jpgReference": "/assets/pages_webp/0187.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_188",
+    "title": "Care of the Visually Impaired and Blind",
+    "category": "grey",
+    "intro": [],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Introduce yourself and announce to patient every time you enter or leave the environment of care"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Ensure the patient has access to mobility equipment (e.g., cane, guide dog) at all times."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "If assisting with ambulation, move slowly and guide the patient while describing potential obstacles (e.g., stairs, slopes, changes in flooring)."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Ensure the patient has access to personal technology (e.g., phone, smartwatch)"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Tell the patient what you are going to do before doing it."
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Listen to the patient's caregiver(s), if the patient consents and if applicable, but only after gathering as much information from the patient as you can."
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Notify the hospital of incoming patient with special needs and desire for advocate, if requested by patient."
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Accommodate the needs of the patient, but do not over-focus on visual impairment during obtaining the history of present illness."
+      },
+      {
+        "num": 9,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Clearly note the patient's visual impairment in the run report."
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_188",
+        "pageNumber": "Grey 31",
+        "jpgReference": "/assets/pages_webp/0188.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_189",
+    "title": "Maine EMS Medication List",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>The following are medications currently approved for use by Maine EMS licensees - as authorized by the Maine EMS Protocols. This list may be altered through protocol revision.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Prehospital Medications:</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Acetaminophen chewable tablets</li>\n<li>Acetaminophen IV</li>\n<li>Adenosine</li>\n<li>Albuterol</li>\n<li>Amiodarone</li>\n<li>Aspirin</li>\n<li>Atropine</li>\n<li>Calcium gluconate</li>\n<li>Ceftriaxone</li>\n<li>Cyanide poisoning kit contents</li>\n<li>Dexamethasone</li>\n<li>Dextrose (D10, D50)</li>\n<li>Diphenhydramine</li>\n<li>EPINEPHrine 1 mg/mL &amp; 1 mg/10mL</li>\n<li>EPINEPHrine Auto-injector</li>\n<li>Fentanyl</li>\n<li>Glucagon</li>\n<li>Hemostatic Agents</li>\n<li>Heparin Solution (for use in maintaining IV access in a heparin lock only; otherwise this is not considered a prehospital medication. Approved at Advanced EMT level).</li>\n<li>Ipratropium Bromide (Combivent)</li>\n<li>Ketamine</li>\n<li>Lidocaine 2% (preservation free)</li>\n<li>Magnesium Sulfate</li>\n<li>Metoprolol (Lopressor)</li>\n<li>Midazolam</li>\n<li>Naloxone (Narcan)</li>\n<li>Nitroglycerin (Non-parenteral)</li>\n<li>Nitrous Oxide</li>\n<li>NOREPInephrine</li>\n<li>Oxygen</li>\n<li>Oxytocin</li>\n<li>Ondansetron IV and ODT</li>\n<li>Racemic EPINEPHrine nebulized</li>\n<li>Tetracaine ophthalmologic Drops</li>\n<li>Tranexamic Acid (TXA)</li>\n<li>Sodium bicarbonate</li>\n</ul>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_189",
+        "pageNumber": "Grey 32",
+        "jpgReference": "/assets/pages_webp/0189.webp"
+      }
+    ]
+  },
+  {
+    "id": "grey_190_191_192",
+    "title": "Telephone / Radio Reference/ Contact Numbers",
+    "category": "grey",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Telephone / Radio Reference/ Contact Numbers\" src=\"/assets/figures/page-0190-visual.webp\"/></p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\"></th>\n<th style=\"text-align: left;\">NAME</th>\n<th style=\"text-align: left;\">Radio Frequency</th>\n<th style=\"text-align: left;\">Phone Number</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\">Hospital:</td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Hospital:</td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Hospital:</td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Hospital:</td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Hospital:</td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Hospital:</td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n<tr>\n<td style=\"text-align: left;\">Dispatch:</td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n<td style=\"text-align: left;\"></td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>State wide EMS Frequency 155.3850</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Maine EMS Phone: (207)626-3860 Fax: (207)287-6251<br/>\ne-mail: maine.ems@maine.gov www.maine.gov/ems</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Maine EMS Director: William D. O'Neal, A.S.<br/>\nState Medical Director: Matthew Sholl, M.D., MPH<br/>\nState Associate Medical Director: Jack Lewis, D.O., NREMTP</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Maine EMS Offices:</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Education</li>\n<li>Licensing and Investigations</li>\n<li>Data</li>\n<li>Systems of Care</li>\n<li>EMS for Children</li>\n<li>Substance Use Disorder (SUD) Programming</li>\n<li>Community Paramedicine</li>\n<li>Explorer Programming</li>\n<li>Emergency Medical Dispatch</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Region 1:</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Regional Manager: Robert C. Glaspy, Jr., BSP, NRP, I/C</li>\n<li>Regional Medical Director: Kelly Meehan-Coussee, M.D.</li>\n<li>207-248-9844</li>\n<li>robert.c.glaspy@maine.gov</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Region 2:</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Regional Manager: Melissa Adams, AAS, NRP, EMD-Q, I/C</li>\n<li>Regional Medical Director: Seth Ritter, M.D., Tim Pieh, M.D.</li>\n<li>207-626-3862</li>\n<li>melissa.f.adams@maine.gov</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Region 3:</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Regional Manager: Jason Oko, Paramedic</li>\n<li>Regional Medical Director: David Saquet, D.O., Benjy Lowry, M.D.</li>\n<li>207-626-3863</li>\n<li>jason.a.oko@maine.gov</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Region 4:</h3>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Contact Maine EMS</li>\n<li>Regional Medical Director: Beth Collamore, M.D.</li>\n<li>207-626-3866</li>\n<li>maine.ems@maine.gov</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Maine ACEP Representative</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Kelly Klein, M.D.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>At-Large Representative</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Peter Tilney, D.O.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Clinical Pharmacist/Pharmacology Representative</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Bethany Nash, PharmD, AEMT</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>ALS Representative</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Colin Ayer, EMT-P</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>BLS Representative</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Emily Bryant, PharmD, AEMT</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Pediatric Representative/EMS-C Medical Director</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Rachel Williams, M.D.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Bioterrorism /WMD</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>If you suspect a chemical or biological agent threat, call your local law enforcement agency immediately.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Maine Bureau of Health Emergency</h3>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Reporting and Consultation</td>\n<td>1-800-821-5821</td>\n</tr>\n<tr>\n<td>Maine National Guard 11th Civil Support Team (WMD)</td>\n<td>207-877-9623</td>\n</tr>\n<tr>\n<td>Maine Emergency Management Agency</td>\n<td>207-624-4400</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>To Report Workplace Injury:</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Bureau of Labor</strong>\n| | |\n|---|---|\n| Business Hours | 207-623-7923 |\n| Evenings &amp; Weekends | 207-592-4501 |</p>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Adult Protective Services</td>\n<td>1-800-624-8404</td>\n</tr>\n<tr>\n<td>Child Abuse Reporting</td>\n<td>1-800-452-1999</td>\n</tr>\n<tr>\n<td>Divers Alert Network Emergency Hotline</td>\n<td>1-919-684-9111</td>\n</tr>\n<tr>\n<td>New England Donor Services</td>\n<td>1-800-446-6362</td>\n</tr>\n<tr>\n<td>Office of the Chief Medical Examiner</td>\n<td>1-800-870-8744<br/>207-624-7180</td>\n</tr>\n<tr>\n<td>Poison Control Center</td>\n<td>1-800-222-1222</td>\n</tr>\n<tr>\n<td>Bureau of Labor Standards</td>\n<td>207-623-7923<br/>207-592-4501</td>\n</tr>\n<tr>\n<td>Bureau of Health Emergency Reporting (DHHS)</td>\n<td>1-800-821-5821</td>\n</tr>\n<tr>\n<td>Maine Emergency Management Agency</td>\n<td>207-624-4400</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Trauma Centers</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>MaineHealth Maine Medical Center Portland</strong><br/>\n22 Bramhall St<br/>\nPortland, ME 04102<br/>\nPhone: 207-662-2950</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Northern Light Eastern Maine Medical Center</strong><br/>\n489 State St<br/>\nBangor, ME 04401<br/>\nPhone: 207-973-8000</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Cardiac Centers</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>MaineHealth Maine Medical Center Portland</strong><br/>\n22 Bramhall St<br/>\nPortland, ME 04102<br/>\nPhone: 207-662-2950</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Central Maine Medical Center</strong><br/>\n300 Main St<br/>\nLewiston, ME 04240<br/>\nPhone: 207-782-1110 / 207-795-2200</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Northern Light Eastern Maine Medical Center</strong><br/>\n489 State St<br/>\nBangor, ME 04401<br/>\nPhone: 207-973-8000</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>State EMS Office</h3>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Maine Emergency Medical Services</strong><br/>\n45 Commerce Dr - Suite 1<br/>\n152 State House Station<br/>\nAugusta, ME 04333<br/>\nPhone: 207-626-3860</p>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "grey_190",
+        "pageNumber": "Grey 33",
+        "jpgReference": "/assets/pages_webp/0190.webp"
+      },
+      {
+        "pageId": "grey_191",
+        "pageNumber": "Grey 34",
+        "jpgReference": "/assets/pages_webp/0191.webp"
+      },
+      {
+        "pageId": "grey_192",
+        "pageNumber": "Grey 35",
+        "jpgReference": "/assets/pages_webp/0192.webp"
+      }
+    ]
+  }
+]

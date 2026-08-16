@@ -1,0 +1,5438 @@
+{
+  "id": "page-0122",
+  "pdf_page": 122,
+  "protocol_label": "Yellow 1",
+  "kind": "protocol",
+  "chapter_id": "yellow",
+  "topic_id": "yellow-poisoning-overdose",
+  "title": "Poisoning / Overdose",
+  "markdown": "# Poisoning / Overdose\n\nCall Poison Control (1-800-222-1222) to receive medical guidance on patient care and to ensure that information regarding the toxin can be sent to the receiving ED prior to patient arrival.\n\n### EMT\n\n1. Administer O₂ as appropriate.\n2. Manage airway as needed, refer to Airway Algorithm, **Blue 2**.\n3. Request ALS.\n4. If respirations less than 12/minute AND *narcotic overdose* suspected:\n\n    **NEVER GIVE NALOXONE TO A NEONATE**\n\n    a. **ADULT** and **PEDIATRIC** patients: naloxone 0.5 mg **IN**. Titrate to effect by providing 0.5 mg in one nostril.\n        i. The desired outcome is effective oxygenation and ventilation with one important parameter being a respiratory rate of greater than 12 breaths/minute. Continue to manage the airway while assessing for effect.\n        ii. If the patient remains apneic or continues to have ineffective oxygenation and ventilation 2 minutes after provision of the first dose of naloxone, provide a second dose of naloxone 0.5 mg in the other nostril.\n        iii. Repeat 0.5 mg of naloxone **IN** every 2 minutes in alternating nostrils.\n    b. **EMRs** and **EMTs** may use **IN** or **IM** naloxone via auto-injector at a dose available per commercially packaged product. Repeat dose (in opposite nostril if using **IN** route) if no response in 2 minutes. Lower dose strategies that allow titration of effect are preferred, whenever possible.\n    c. **NOTE:** Patients abruptly and fully awakened from narcotic overdose may become combative or suffer acute narcotic withdrawal symptoms. Some drugs are longer acting opioids (or formulated to be so), such as buprenorphine, methadone, and the fentanyl patch, and may require many repeated doses of naloxone which could exceed a total of 4 mg.\n5. For suspected cyanide or CO poisoning, see Cyanide/CO Exposure protocol, **Yellow 8**.\n6. For hypoglycemia, see Diabetic/Hypoglycemic Emergencies protocol, **Gold 6**.\n7. For seizures, see Seizure protocol, **Gold 8**.\n8. Obtain 12-lead ECG, if available and so trained.\n\n### ADVANCED EMT/PARAMEDIC\n\n9. Establish IV access.\n10. Alternative naloxone route of administration:\n    a. Naloxone 0.1 - 2 mg **IV/IO/IM**; titrate to improved respiratory drive.\n    b. **Pediatric** patients (excluding neonates): 0.1 mg/kg naloxone if less than 20 kg; 0.1-2 mg **IV/IO/IM** if greater than 20 kg or 5 years or older; titrate to improved respiratory drive.\n11. Cardiac Monitor\n12. If patient is hypotensive, administer a fluid bolus.\n\n### PARAMEDIC\n\n13. For absorbed toxins resulting in pain, see Universal Pain Management protocol, **Green 18** and for analgesic for eye pain, see Ophthalmology protocol, **Green 25**.\n\n(Continued)\n",
+  "plain_text": "Poisoning / Overdose Call Poison Control (1-800-222-1222) to receive medical guidance on patient care and to ensure that information regarding the toxin can be sent to the receiving ED prior to patient arrival. EMT Administer O₂ as appropriate. Manage airway as needed, refer to Airway Algorithm, Blue 2. Request ALS. If respirations less than 12/minute AND narcotic overdose suspected: NEVER GIVE NALOXONE TO A NEONATE ADULT and PEDIATRIC patients: naloxone 0.5 mg IN. Titrate to effect by providing 0.5 mg in one nostril. The desired outcome is effective oxygenation and ventilation with one important parameter being a respiratory rate of greater than 12 breaths/minute. Continue to manage the airway while assessing for effect. If the patient remains apneic or continues to have ineffective oxygenation and ventilation 2 minutes after provision of the first dose of naloxone, provide a second dose of naloxone 0.5 mg in the other nostril. Repeat 0.5 mg of naloxone IN every 2 minutes in alternating nostrils. EMRs and EMTs may use IN or IM naloxone via auto-injector at a dose available per commercially packaged product. Repeat dose (in opposite nostril if using IN route) if no response in 2 minutes. Lower dose strategies that allow titration of effect are preferred, whenever possible. NOTE: Patients abruptly and fully awakened from narcotic overdose may become combative or suffer acute narcotic withdrawal symptoms. Some drugs are longer acting opioids (or formulated to be so), such as buprenorphine, methadone, and the fentanyl patch, and may require many repeated doses of naloxone which could exceed a total of 4 mg. For suspected cyanide or CO poisoning, see Cyanide/CO Exposure protocol, Yellow 8. For hypoglycemia, see Diabetic/Hypoglycemic Emergencies protocol, Gold 6. For seizures, see Seizure protocol, Gold 8. Obtain 12-lead ECG, if available and so trained. ADVANCED EMT/PARAMEDIC Establish IV access. Alternative naloxone route of administration: Naloxone 0.1 - 2 mg IV/IO/IM; titrate to improved respiratory drive. Pediatric patients (excluding neonates): 0.1 mg/kg naloxone if less than 20 kg; 0.1-2 mg IV/IO/IM if greater than 20 kg or 5 years or older; titrate to improved respiratory drive. Cardiac Monitor If patient is hypotensive, administer a fluid bolus. PARAMEDIC For absorbed toxins resulting in pain, see Universal Pain Management protocol, Green 18 and for analgesic for eye pain, see Ophthalmology protocol, Green 25. (Continued)",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        328.38,
+        56.85,
+        682.46,
+        82.1
+      ],
+      "text": "Poisoning/Over dose #1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        139.56,
+        104.29,
+        924.1,
+        119.44
+      ],
+      "text": "Call Poison Contr ol (1-800-222-1222) to r eceive medical guidance on patient car e",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        142.43,
+        121.91,
+        921.63,
+        137.06
+      ],
+      "text": "and to ensur e that infor mation r egar ding the toxin can be sent to the r eceiving",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        399.56,
+        139.58,
+        664.56,
+        154.73
+      ],
+      "text": "ED pr ior to patient ar r ival.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        157.19,
+        175.79,
+        172.34
+      ],
+      "text": "EMT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        174.86,
+        434.28,
+        190.01
+      ],
+      "text": "1. Administer O as appropriate.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        276.62,
+        180.91,
+        288.1,
+        191.51
+      ],
+      "text": "2,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        192.48,
+        722.21,
+        207.62
+      ],
+      "text": "2. Manage airway as needed, refer to Airway Algorithm, Blue 2 .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        210.15,
+        273.28,
+        225.29
+      ],
+      "text": "3. Request ALS.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        227.76,
+        807.67,
+        242.91
+      ],
+      "text": "4. If respirations less than 12/minute AND narcotic overdose suspected:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        259.63,
+        263.04,
+        716.65,
+        278.19
+      ],
+      "text": "***NEVER GIVE NALOXONE TO A NEONATE***",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        158.09,
+        298.33,
+        864.29,
+        313.48
+      ],
+      "text": "a. ADULT and PEDIATRIC patients: naloxone 0.5 mg IN . Titrate to effect by",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        183.82,
+        315.94,
+        477.33,
+        331.09
+      ],
+      "text": "providing 0.5 mg in one nostril.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        183.82,
+        333.56,
+        862.8,
+        348.7
+      ],
+      "text": "i. The desired outcome is effective oxygenation and ventilation with one",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        209.56,
+        351.23,
+        804.94,
+        366.37
+      ],
+      "text": "important parameter being a respiratory rate of greater than 12",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        209.56,
+        368.84,
+        897.71,
+        383.99
+      ],
+      "text": "breaths/minute. Continue to manage the airway while assessing for effect.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        84.56,
+        386.51,
+        894.09,
+        410.84
+      ],
+      "text": "E ii. If the patient remains apneic or continues to have ineffective oxygenation",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        209.56,
+        404.12,
+        862.12,
+        419.27
+      ],
+      "text": "and ventilation 2 minutes after provision of the first dose of naloxone,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        209.56,
+        421.79,
+        783.58,
+        436.94
+      ],
+      "text": "provide a second dose of naloxone 0.5 mg in the other nostril.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        183.82,
+        439.41,
+        849.86,
+        454.56
+      ],
+      "text": "iii.Repeat 0.5 mg of naloxone IN every 2 minutes in alternating nostrils.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        158.09,
+        457.02,
+        848.24,
+        472.17
+      ],
+      "text": "b. EMRs and EMTs may use IN or IM naloxone via auto-injector at a dose",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        183.82,
+        474.69,
+        915.45,
+        489.84
+      ],
+      "text": "available per commercially packaged product. Repeat dose (in opposite nostril",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        183.82,
+        492.31,
+        914.65,
+        507.45
+      ],
+      "text": "if using IN route) if no response in 2 minutes. Lower dose strategies that allow",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        183.82,
+        509.98,
+        662.68,
+        525.12
+      ],
+      "text": "titration of effect are preferred, whenever possible.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        158.09,
+        527.59,
+        871.12,
+        542.74
+      ],
+      "text": "c. NOTE: Patients abruptly and fully awakened from narcotic overdose may",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        183.82,
+        545.2,
+        915.08,
+        560.35
+      ],
+      "text": "become combative or suffer acute narcotic withdrawal symptoms. Some drugs",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        183.82,
+        562.42,
+        871.84,
+        577.57
+      ],
+      "text": "are longer acting opioids (or formulated to be so), such as buprenorphine,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        183.82,
+        580.03,
+        899.66,
+        595.18
+      ],
+      "text": "methadone, and the fentanyl patch, and may require many repeated doses of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        183.82,
+        597.65,
+        600.55,
+        612.79
+      ],
+      "text": "naloxone which could exceed a total of 4 mg.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        615.26,
+        930.75,
+        630.41
+      ],
+      "text": "5. For suspected cyanide or CO poisoning, see Cyanide/CO Exposure protocol, Yellow 8",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        633.44,
+        862.07,
+        648.59
+      ],
+      "text": "6. For hypoglycemia, see Diabetic/Hypoglycemic Emergencies protocol, Gold 6 .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        651.06,
+        540.74,
+        666.2
+      ],
+      "text": "7. For seizures, see Seizure protocol, Gold 8 .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        668.67,
+        591.42,
+        683.82
+      ],
+      "text": "8. Obtain 12-lead ECG, if available and so trained.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        703.9,
+        423.43,
+        719.04
+      ],
+      "text": "ADVANCED EMT/PARAMEDIC",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        721.51,
+        338.38,
+        736.66
+      ],
+      "text": "9. Establish IV access.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        739.12,
+        594.38,
+        754.27
+      ],
+      "text": "10. Alternative naloxone route of administration:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        158.09,
+        756.74,
+        808.66,
+        771.89
+      ],
+      "text": "a. Naloxone 0.1 - 2 mg I V/IO/IM ; titrate to improved respiratory drive.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        68.67,
+        769.48,
+        908.88,
+        792.2
+      ],
+      "text": "A P b. Pediatr ic patients (excluding neonates): 0.1 mg/kg naloxone if less than 20 kg;",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        183.82,
+        791.96,
+        906.26,
+        807.11
+      ],
+      "text": "0.1-2 mg IV/IO/IM if greater than 20 kg or 5 years or older ; titrate to improved",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        183.82,
+        809.58,
+        348.44,
+        824.73
+      ],
+      "text": "respiratory drive.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0041",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        827.19,
+        319.45,
+        842.34
+      ],
+      "text": "11. Cardiac Monitor",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0042",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        844.81,
+        632.12,
+        859.95
+      ],
+      "text": "12. If patient is hypotensive, administer a fluid bolus.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0043",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        880.03,
+        255.58,
+        895.18
+      ],
+      "text": "PARAMEDIC",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0044",
+      "type": "text_line",
+      "box_1000": [
+        84.85,
+        892.77,
+        904.77,
+        915.5
+      ],
+      "text": "P 13. For absorbed toxins resulting in pain, see Universal Pain Management protocol,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0045",
+      "type": "text_line",
+      "box_1000": [
+        185.29,
+        915.26,
+        928.98,
+        930.41
+      ],
+      "text": "Gr een 18 and for analgesic for eye pain, see Ophthalmology protocol, Gr een 25 .",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0046",
+      "type": "text_line",
+      "box_1000": [
+        788.24,
+        936.28,
+        905.09,
+        951.43
+      ],
+      "text": "(Continued)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0047",
+      "type": "text_line",
+      "box_1000": [
+        452.06,
+        956.17,
+        935.16,
+        977.0
+      ],
+      "text": "(Back (Back to to TOC) TOC) YeYlelollwow 1 1",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "c70aa29d9ad2fd7d859ac043274d46199e18c8e1ca66b256cf49b59702f62f57",
+    "native": {
+      "text": "Poisoning/Over dose #1\nCall Poison Contr ol (1-800-222-1222) to r eceive medical guidance on patient car e\nand to ensur e that infor mation r egar ding the toxin can be sent to the r eceiving\nED pr ior to patient ar r ival.\nEMT\n1. Administer O as appropriate.\n2,\n2. Manage airway as needed, refer to Airway Algorithm, Blue 2.\n3. Request ALS.\n4. If respirations less than 12/minute AND narcotic overdose suspected:\n***NEVER GIVE NALOXONE TO A NEONATE***\na. ADULT and PEDIATRIC patients: naloxone 0.5 mg IN. Titrate to effect by\nproviding 0.5 mg in one nostril.\ni. The desired outcome is effective oxygenation and ventilation with one\nimportant parameter being a respiratory rate of greater than 12\nbreaths/minute. Continue to manage the airway while assessing for effect.\nE ii. If the patient remains apneic or continues to have ineffective oxygenation\nand ventilation 2 minutes after provision of the first dose of naloxone,\nprovide a second dose of naloxone 0.5 mg in the other nostril.\niii.Repeat 0.5 mg of naloxone IN every 2 minutes in alternating nostrils.\nb. EMRs and EMTs may use IN or IM naloxone via auto-injector at a dose\navailable per commercially packaged product. Repeat dose (in opposite nostril\nif using IN route) if no response in 2 minutes. Lower dose strategies that allow\ntitration of effect are preferred, whenever possible.\nc. NOTE: Patients abruptly and fully awakened from narcotic overdose may\nbecome combative or suffer acute narcotic withdrawal symptoms. Some drugs\nare longer acting opioids (or formulated to be so), such as buprenorphine,\nmethadone, and the fentanyl patch, and may require many repeated doses of\nnaloxone which could exceed a total of 4 mg.\n5. For suspected cyanide or CO poisoning, see Cyanide/CO Exposure protocol, Yellow 8\n6. For hypoglycemia, see Diabetic/Hypoglycemic Emergencies protocol, Gold 6.\n7. For seizures, see Seizure protocol, Gold 8.\n8. Obtain 12-lead ECG, if available and so trained.\nADVANCED EMT/PARAMEDIC\n9. Establish IV access.\n10. Alternative naloxone route of administration:\na. Naloxone 0.1 - 2 mg IV/IO/IM; titrate to improved respiratory drive.\nA P\nb. Pediatr ic patients (excluding neonates): 0.1 mg/kg naloxone if less than 20 kg;\n0.1-2 mg IV/IO/IM if greater than 20 kg or 5 years or older; titrate to improved\nrespiratory drive.\n11. Cardiac Monitor\n12. If patient is hypotensive, administer a fluid bolus.\nPARAMEDIC\nP\n13. For absorbed toxins resulting in pain, see Universal Pain Management protocol,\nGr een 18 and for analgesic for eye pain, see Ophthalmology protocol, Gr een 25.\n(Continued)\n(Back to TOC)\n(Back to TOC) YeYlelollwow 1 1",
+      "body_text": "E A P Call Poison Contr ol (1-800-222-1222) to r eceive medical guidance on patient car e and to ensur e that infor mation r egar ding the toxin can be sent to the r eceiving ED pr ior to patient ar r ival. EMT 1. Administer O 2, as appropriate. 2. Manage airway as needed, refer to Airway Algorithm, Blue 2 . 3. Request ALS. 4. If respirations less than 12/minute AND narcotic overdose suspected: ***NEVER GIVE NALOXONE TO A NEONATE*** a. ADULT and PEDIATRIC patients: naloxone 0.5 mg IN . Titrate to effect by providing 0.5 mg in one nostril. i. The desired outcome is effective oxygenation and ventilation with one important parameter being a respiratory rate of greater than 12 breaths/minute. Continue to manage the airway while assessing for effect. ii. If the patient remains apneic or continues to have ineffective oxygenation and ventilation 2 minutes after provision of the first dose of naloxone, provide a second dose of naloxone 0.5 mg in the other nostril. iii.Repeat 0.5 mg of naloxone IN every 2 minutes in alternating nostrils. b. EMRs and EMTs may use IN or IM naloxone via auto-injector at a dose available per commercially packaged product. Repeat dose (in opposite nostril if using IN route) if no response in 2 minutes. Lower dose strategies that allow titration of effect are preferred, whenever possible. c. NOTE: Patients abruptly and fully awakened from narcotic overdose may become combative or suffer acute narcotic withdrawal symptoms. Some drugs are longer acting opioids (or formulated to be so), such as buprenorphine, methadone, and the fentanyl patch, and may require many repeated doses of naloxone which could exceed a total of 4 mg. 5. For suspected cyanide or CO poisoning, see Cyanide/CO Exposure protocol, Yellow 8 6. For hypoglycemia, see Diabetic/Hypoglycemic Emergencies protocol, Gold 6 . 7. For seizures, see Seizure protocol, Gold 8 . 8. Obtain 12-lead ECG, if available and so trained. ADVANCED EMT/PARAMEDIC 9. Establish IV access. 10. Alternative naloxone route of administration: a. Naloxone 0.1 - 2 mg I V/IO/IM ; titrate to improved respiratory drive. b. Pediatr ic patients (excluding neonates): 0.1 mg/kg naloxone if less than 20 kg; 0.1-2 mg IV/IO/IM if greater than 20 kg or 5 years or older ; titrate to improved respiratory drive. 11. Cardiac Monitor 12. If patient is hypotensive, administer a fluid bolus. PARAMEDIC 13. For absorbed toxins resulting in pain, see Universal Pain Management protocol, Gr een 18 and for analgesic for eye pain, see Ophthalmology protocol, Gr een 25 . P (Continued)",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            276.66,
+            757.286,
+            307.314,
+            769.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.49,
+            757.286,
+            322.145,
+            769.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            325.485,
+            757.286,
+            353.1,
+            769.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(Back",
+          "box": [
+            276.66,
+            761.786,
+            307.314,
+            773.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.49,
+            761.786,
+            322.145,
+            773.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            325.485,
+            761.786,
+            353.1,
+            773.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YeYlelollwow",
+          "box": [
+            516.15,
+            760.436,
+            561.143,
+            773.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            556.65,
+            760.436,
+            563.32,
+            772.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            565.65,
+            761.786,
+            572.32,
+            773.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Poisoning/Over",
+          "box": [
+            200.97,
+            45.027,
+            343.844,
+            65.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "dose",
+          "box": [
+            346.608,
+            45.027,
+            390.563,
+            65.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#1",
+          "box": [
+            395.37,
+            45.027,
+            417.667,
+            65.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "E",
+          "box": [
+            51.75,
+            307.386,
+            63.756,
+            325.386
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "A",
+          "box": [
+            42.025,
+            609.426,
+            54.031,
+            627.426
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "P",
+          "box": [
+            60.93,
+            609.426,
+            72.936,
+            627.426
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "Call",
+          "box": [
+            85.41,
+            82.601,
+            107.499,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Poison",
+          "box": [
+            112.185,
+            82.601,
+            151.29,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Contr",
+          "box": [
+            155.745,
+            82.601,
+            187.604,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ol",
+          "box": [
+            189.765,
+            82.601,
+            199.781,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(1-800-222-1222)",
+          "box": [
+            204.48,
+            82.601,
+            298.189,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            302.175,
+            82.601,
+            313.462,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "r",
+          "box": [
+            317.25,
+            82.601,
+            321.245,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "eceive",
+          "box": [
+            323.523,
+            82.601,
+            361.344,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "medical",
+          "box": [
+            364.635,
+            82.601,
+            411.487,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "guidance",
+          "box": [
+            416.205,
+            82.601,
+            471.11,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            474.3,
+            82.601,
+            488.323,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            492.75,
+            82.601,
+            534.708,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "car",
+          "box": [
+            539.1,
+            82.601,
+            556.599,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "e",
+          "box": [
+            558.877,
+            82.601,
+            565.548,
+            94.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            87.165,
+            96.551,
+            109.023,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            113.265,
+            96.551,
+            124.552,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ensur",
+          "box": [
+            128.34,
+            96.551,
+            160.919,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "e",
+          "box": [
+            163.197,
+            96.551,
+            169.867,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "that",
+          "box": [
+            173.205,
+            96.551,
+            196.466,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "infor",
+          "box": [
+            201.105,
+            96.551,
+            229.444,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "mation",
+          "box": [
+            231.722,
+            96.551,
+            273.721,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "r",
+          "box": [
+            278.19,
+            96.551,
+            282.185,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "egar",
+          "box": [
+            284.463,
+            96.551,
+            309.212,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ding",
+          "box": [
+            311.49,
+            96.551,
+            338.171,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            341.37,
+            96.551,
+            360.897,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "toxin",
+          "box": [
+            364.185,
+            96.551,
+            394.556,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "can",
+          "box": [
+            399.015,
+            96.551,
+            419.19,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            423.63,
+            96.551,
+            438.085,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "sent",
+          "box": [
+            441.405,
+            96.551,
+            465.323,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            469.8,
+            96.551,
+            481.087,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            484.65,
+            96.551,
+            504.177,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "r",
+          "box": [
+            507.6,
+            96.551,
+            511.595,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "eceiving",
+          "box": [
+            513.873,
+            96.551,
+            564.037,
+            108.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ED",
+          "box": [
+            244.53,
+            110.546,
+            261.022,
+            122.543
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "pr",
+          "box": [
+            264.69,
+            110.546,
+            276.425,
+            122.543
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ior",
+          "box": [
+            278.703,
+            110.546,
+            294.276,
+            122.543
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            299.655,
+            110.546,
+            310.942,
+            122.543
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            314.73,
+            110.546,
+            356.688,
+            122.543
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ar",
+          "box": [
+            361.35,
+            110.546,
+            372.531,
+            122.543
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "r",
+          "box": [
+            374.809,
+            110.546,
+            378.804,
+            122.543
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ival.",
+          "box": [
+            381.082,
+            110.546,
+            406.712,
+            122.543
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT",
+          "box": [
+            81.0,
+            124.496,
+            107.586,
+            136.493
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "1.",
+          "box": [
+            81.0,
+            138.491,
+            91.04,
+            150.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Administer",
+          "box": [
+            93.33,
+            138.491,
+            155.597,
+            150.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "O",
+          "box": [
+            160.425,
+            138.491,
+            169.759,
+            150.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2,",
+          "box": [
+            169.29,
+            143.281,
+            176.318,
+            151.678
+          ],
+          "font": "Helvetica",
+          "size": 8.397
+        },
+        {
+          "text": "as",
+          "box": [
+            179.235,
+            138.491,
+            191.988,
+            150.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "appropriate.",
+          "box": [
+            194.49,
+            138.491,
+            265.782,
+            150.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2.",
+          "box": [
+            81.0,
+            152.441,
+            91.04,
+            164.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Manage",
+          "box": [
+            93.33,
+            152.441,
+            138.84,
+            164.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "airway",
+          "box": [
+            141.75,
+            152.441,
+            180.476,
+            164.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            184.365,
+            152.441,
+            197.118,
+            164.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "needed,",
+          "box": [
+            199.665,
+            152.441,
+            244.729,
+            164.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            247.5,
+            152.441,
+            274.302,
+            164.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            279.09,
+            152.441,
+            289.745,
+            164.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Airway",
+          "box": [
+            293.13,
+            152.441,
+            333.562,
+            164.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Algorithm,",
+          "box": [
+            337.455,
+            152.441,
+            398.896,
+            164.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Blue",
+          "box": [
+            401.67,
+            152.441,
+            428.625,
+            164.438
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            431.955,
+            152.441,
+            438.625,
+            164.438
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            438.66,
+            152.441,
+            441.995,
+            164.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3.",
+          "box": [
+            81.0,
+            166.436,
+            91.04,
+            178.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Request",
+          "box": [
+            93.33,
+            166.436,
+            137.525,
+            178.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ALS.",
+          "box": [
+            141.57,
+            166.436,
+            167.248,
+            178.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4.",
+          "box": [
+            81.0,
+            180.386,
+            91.04,
+            192.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            93.33,
+            180.386,
+            101.071,
+            192.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "respirations",
+          "box": [
+            105.3,
+            180.386,
+            175.002,
+            192.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "less",
+          "box": [
+            177.525,
+            180.386,
+            199.079,
+            192.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            201.645,
+            180.386,
+            226.908,
+            192.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12/minute",
+          "box": [
+            231.075,
+            180.386,
+            289.246,
+            192.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "AND",
+          "box": [
+            292.14,
+            180.386,
+            318.419,
+            192.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "narcotic",
+          "box": [
+            321.615,
+            180.386,
+            373.924,
+            192.383
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "overdose",
+          "box": [
+            376.695,
+            180.386,
+            432.168,
+            192.383
+          ],
+          "font": "Helvetica-BoldOblique",
+          "size": 11.997
+        },
+        {
+          "text": "suspected:",
+          "box": [
+            435.06,
+            180.386,
+            494.297,
+            192.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "***NEVER",
+          "box": [
+            158.895,
+            208.331,
+            219.109,
+            220.328
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "GIVE",
+          "box": [
+            222.075,
+            208.331,
+            252.487,
+            220.328
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "NALOXONE",
+          "box": [
+            255.465,
+            208.331,
+            326.318,
+            220.328
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "TO",
+          "box": [
+            329.265,
+            208.331,
+            346.429,
+            220.328
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "A",
+          "box": [
+            349.65,
+            208.331,
+            357.652,
+            220.328
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "NEONATE***",
+          "box": [
+            361.845,
+            208.331,
+            438.588,
+            220.328
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            96.75,
+            236.276,
+            106.84,
+            248.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ADULT",
+          "box": [
+            115.605,
+            236.276,
+            157.257,
+            248.273
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            160.875,
+            236.276,
+            182.04,
+            248.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PEDIATRIC",
+          "box": [
+            185.85,
+            236.276,
+            253.444,
+            248.273
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "patients:",
+          "box": [
+            255.96,
+            236.276,
+            305.039,
+            248.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "naloxone",
+          "box": [
+            308.25,
+            236.276,
+            361.179,
+            248.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.5",
+          "box": [
+            364.05,
+            236.276,
+            380.859,
+            248.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg",
+          "box": [
+            384.03,
+            236.276,
+            402.036,
+            248.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IN",
+          "box": [
+            404.955,
+            236.276,
+            418.427,
+            248.273
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            419.22,
+            236.276,
+            422.555,
+            248.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Titrate",
+          "box": [
+            425.745,
+            236.276,
+            464.227,
+            248.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            467.1,
+            236.276,
+            477.755,
+            248.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "effect",
+          "box": [
+            481.05,
+            236.276,
+            511.874,
+            248.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "by",
+          "box": [
+            515.7,
+            236.276,
+            528.943,
+            248.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "providing",
+          "box": [
+            112.5,
+            250.226,
+            168.601,
+            262.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.5",
+          "box": [
+            171.495,
+            250.226,
+            188.304,
+            262.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg",
+          "box": [
+            191.475,
+            250.226,
+            209.481,
+            262.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            212.355,
+            250.226,
+            222.863,
+            262.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "one",
+          "box": [
+            227.07,
+            250.226,
+            248.406,
+            262.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "nostril.",
+          "box": [
+            251.28,
+            250.226,
+            292.129,
+            262.223
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "i.",
+          "box": [
+            112.5,
+            264.176,
+            119.673,
+            276.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "The",
+          "box": [
+            128.25,
+            264.176,
+            149.887,
+            276.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "desired",
+          "box": [
+            152.73,
+            264.176,
+            194.508,
+            276.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "outcome",
+          "box": [
+            198.315,
+            264.176,
+            247.797,
+            276.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            250.695,
+            264.176,
+            260.531,
+            276.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "effective",
+          "box": [
+            263.07,
+            264.176,
+            311.882,
+            276.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oxygenation",
+          "box": [
+            314.73,
+            264.176,
+            383.562,
+            276.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            387.765,
+            264.176,
+            408.93,
+            276.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ventilation",
+          "box": [
+            412.74,
+            264.176,
+            473.694,
+            276.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            477.9,
+            264.176,
+            502.973,
+            276.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "one",
+          "box": [
+            506.7,
+            264.176,
+            528.036,
+            276.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "important",
+          "box": [
+            128.25,
+            278.171,
+            185.183,
+            290.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "parameter",
+          "box": [
+            189.18,
+            278.171,
+            247.984,
+            290.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "being",
+          "box": [
+            252.765,
+            278.171,
+            284.796,
+            290.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            287.73,
+            278.171,
+            294.4,
+            290.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "respiratory",
+          "box": [
+            297.585,
+            278.171,
+            361.238,
+            290.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "rate",
+          "box": [
+            365.13,
+            278.171,
+            388.197,
+            290.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            391.095,
+            278.171,
+            401.239,
+            290.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "greater",
+          "box": [
+            405.45,
+            278.171,
+            445.138,
+            290.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            449.91,
+            278.171,
+            475.173,
+            290.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12",
+          "box": [
+            479.25,
+            278.171,
+            492.625,
+            290.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "breaths/minute.",
+          "box": [
+            128.25,
+            292.121,
+            219.423,
+            304.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Continue",
+          "box": [
+            222.615,
+            292.121,
+            274.374,
+            304.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            277.245,
+            292.121,
+            287.9,
+            304.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "manage",
+          "box": [
+            291.285,
+            292.121,
+            336.876,
+            304.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            339.75,
+            292.121,
+            358.259,
+            304.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "airway",
+          "box": [
+            361.125,
+            292.121,
+            399.851,
+            304.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "while",
+          "box": [
+            403.785,
+            292.121,
+            435.851,
+            304.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "assessing",
+          "box": [
+            438.705,
+            292.121,
+            491.783,
+            304.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            494.55,
+            292.121,
+            509.783,
+            304.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "effect.",
+          "box": [
+            514.35,
+            292.121,
+            549.398,
+            304.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ii.",
+          "box": [
+            112.5,
+            306.116,
+            123.51,
+            318.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            128.25,
+            306.116,
+            135.991,
+            318.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            140.175,
+            306.116,
+            158.684,
+            318.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            161.55,
+            306.116,
+            200.991,
+            318.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "remains",
+          "box": [
+            205.02,
+            306.116,
+            252.76,
+            318.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "apneic",
+          "box": [
+            255.285,
+            306.116,
+            293.399,
+            318.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            296.46,
+            306.116,
+            307.38,
+            318.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "continues",
+          "box": [
+            312.12,
+            306.116,
+            368.409,
+            318.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            370.98,
+            306.116,
+            381.635,
+            318.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "have",
+          "box": [
+            384.975,
+            306.116,
+            412.485,
+            318.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ineffective",
+          "box": [
+            415.395,
+            306.116,
+            475.784,
+            318.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oxygenation",
+          "box": [
+            478.35,
+            306.116,
+            547.181,
+            318.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            128.25,
+            320.066,
+            149.415,
+            332.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ventilation",
+          "box": [
+            153.225,
+            320.066,
+            214.179,
+            332.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            218.34,
+            320.066,
+            225.01,
+            332.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes",
+          "box": [
+            228.195,
+            320.066,
+            275.249,
+            332.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "after",
+          "box": [
+            277.785,
+            320.066,
+            303.492,
+            332.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "provision",
+          "box": [
+            308.25,
+            320.066,
+            361.588,
+            332.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            365.805,
+            320.066,
+            375.949,
+            332.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            380.16,
+            320.066,
+            398.669,
+            332.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "first",
+          "box": [
+            401.535,
+            320.066,
+            424.203,
+            332.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dose",
+          "box": [
+            428.22,
+            320.066,
+            454.591,
+            332.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            457.2,
+            320.066,
+            467.344,
+            332.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "naloxone,",
+          "box": [
+            471.6,
+            320.066,
+            527.616,
+            332.063
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "provide",
+          "box": [
+            128.25,
+            334.061,
+            172.773,
+            346.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            175.635,
+            334.061,
+            182.305,
+            346.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "second",
+          "box": [
+            185.49,
+            334.061,
+            224.565,
+            346.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dose",
+          "box": [
+            228.375,
+            334.061,
+            254.746,
+            346.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            257.625,
+            334.061,
+            267.769,
+            346.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "naloxone",
+          "box": [
+            271.98,
+            334.061,
+            324.909,
+            346.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.5",
+          "box": [
+            327.78,
+            334.061,
+            344.589,
+            346.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg",
+          "box": [
+            347.76,
+            334.061,
+            365.766,
+            346.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            368.685,
+            334.061,
+            379.193,
+            346.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            383.355,
+            334.061,
+            401.864,
+            346.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "other",
+          "box": [
+            404.775,
+            334.061,
+            433.956,
+            346.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "nostril.",
+          "box": [
+            438.705,
+            334.061,
+            479.554,
+            346.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "iii.Repeat",
+          "box": [
+            112.5,
+            348.011,
+            166.055,
+            360.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.5",
+          "box": [
+            170.055,
+            348.011,
+            186.864,
+            360.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg",
+          "box": [
+            190.035,
+            348.011,
+            208.041,
+            360.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            210.915,
+            348.011,
+            221.059,
+            360.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "naloxone",
+          "box": [
+            225.27,
+            348.011,
+            278.199,
+            360.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IN",
+          "box": [
+            281.07,
+            348.011,
+            294.542,
+            360.008
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "every",
+          "box": [
+            298.485,
+            348.011,
+            329.809,
+            360.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            333.72,
+            348.011,
+            340.39,
+            360.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes",
+          "box": [
+            343.53,
+            348.011,
+            390.584,
+            360.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            393.12,
+            348.011,
+            403.628,
+            360.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "alternating",
+          "box": [
+            407.835,
+            348.011,
+            471.341,
+            360.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "nostrils.",
+          "box": [
+            473.85,
+            348.011,
+            520.112,
+            360.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b.",
+          "box": [
+            96.75,
+            361.961,
+            107.209,
+            373.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EMRs",
+          "box": [
+            115.605,
+            361.961,
+            149.342,
+            373.958
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            152.325,
+            361.961,
+            173.49,
+            373.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EMTs",
+          "box": [
+            177.3,
+            361.961,
+            210.384,
+            373.958
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            213.345,
+            361.961,
+            237.074,
+            373.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "use",
+          "box": [
+            240.975,
+            361.961,
+            260.673,
+            373.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IN",
+          "box": [
+            263.565,
+            361.961,
+            277.037,
+            373.958
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            280.935,
+            361.961,
+            291.856,
+            373.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IM",
+          "box": [
+            296.64,
+            361.961,
+            311.444,
+            373.958
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "naloxone",
+          "box": [
+            315.99,
+            361.961,
+            368.919,
+            373.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "via",
+          "box": [
+            371.79,
+            361.961,
+            389.246,
+            373.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "auto-injector",
+          "box": [
+            392.445,
+            361.961,
+            464.088,
+            373.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            468.9,
+            361.961,
+            478.873,
+            373.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            482.85,
+            361.961,
+            489.52,
+            373.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dose",
+          "box": [
+            492.75,
+            361.961,
+            519.121,
+            373.958
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available",
+          "box": [
+            112.5,
+            375.956,
+            164.294,
+            387.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "per",
+          "box": [
+            167.13,
+            375.956,
+            184.908,
+            387.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "commercially",
+          "box": [
+            189.72,
+            375.956,
+            267.112,
+            387.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "packaged",
+          "box": [
+            271.035,
+            375.956,
+            324.253,
+            387.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "product.",
+          "box": [
+            328.05,
+            375.956,
+            376.312,
+            387.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Repeat",
+          "box": [
+            382.68,
+            375.956,
+            420.485,
+            387.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dose",
+          "box": [
+            424.485,
+            375.956,
+            450.856,
+            387.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(in",
+          "box": [
+            453.6,
+            375.956,
+            468.262,
+            387.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "opposite",
+          "box": [
+            472.5,
+            375.956,
+            521.104,
+            387.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "nostril",
+          "box": [
+            523.8,
+            375.956,
+            560.256,
+            387.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            112.5,
+            389.906,
+            119.673,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "using",
+          "box": [
+            123.84,
+            389.906,
+            155.115,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IN",
+          "box": [
+            158.04,
+            389.906,
+            171.512,
+            401.903
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "route)",
+          "box": [
+            175.41,
+            389.906,
+            210.008,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            213.3,
+            389.906,
+            220.473,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "no",
+          "box": [
+            224.685,
+            389.906,
+            239.095,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "response",
+          "box": [
+            242.46,
+            389.906,
+            294.058,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            296.955,
+            389.906,
+            307.463,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            311.67,
+            389.906,
+            318.34,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "minutes.",
+          "box": [
+            321.48,
+            389.906,
+            371.284,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Lower",
+          "box": [
+            377.64,
+            389.906,
+            412.564,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dose",
+          "box": [
+            417.33,
+            389.906,
+            443.701,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "strategies",
+          "box": [
+            446.58,
+            389.906,
+            501.747,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "that",
+          "box": [
+            504.0,
+            389.906,
+            525.811,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "allow",
+          "box": [
+            530.1,
+            389.906,
+            559.766,
+            401.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "titration",
+          "box": [
+            112.5,
+            403.901,
+            158.734,
+            415.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            162.9,
+            403.901,
+            173.044,
+            415.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "effect",
+          "box": [
+            177.255,
+            403.901,
+            208.079,
+            415.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            212.085,
+            403.901,
+            231.162,
+            415.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "preferred,",
+          "box": [
+            234.045,
+            403.901,
+            292.637,
+            415.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "whenever",
+          "box": [
+            295.425,
+            403.901,
+            350.976,
+            415.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "possible.",
+          "box": [
+            355.77,
+            403.901,
+            405.561,
+            415.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "c.",
+          "box": [
+            96.75,
+            417.851,
+            105.989,
+            429.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NOTE:",
+          "box": [
+            115.605,
+            417.851,
+            153.496,
+            429.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Patients",
+          "box": [
+            156.915,
+            417.851,
+            202.889,
+            429.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "abruptly",
+          "box": [
+            205.425,
+            417.851,
+            253.996,
+            429.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            257.94,
+            417.851,
+            279.105,
+            429.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fully",
+          "box": [
+            282.915,
+            417.851,
+            308.281,
+            429.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "awakened",
+          "box": [
+            312.165,
+            417.851,
+            369.555,
+            429.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "from",
+          "box": [
+            373.365,
+            417.851,
+            400.248,
+            429.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "narcotic",
+          "box": [
+            404.73,
+            417.851,
+            451.767,
+            429.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "overdose",
+          "box": [
+            454.5,
+            417.851,
+            506.584,
+            429.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            509.4,
+            417.851,
+            533.128,
+            429.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "become",
+          "box": [
+            112.5,
+            431.801,
+            157.119,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "combative",
+          "box": [
+            159.975,
+            431.801,
+            219.463,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            222.345,
+            431.801,
+            233.265,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suffer",
+          "box": [
+            238.05,
+            431.801,
+            270.119,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "acute",
+          "box": [
+            274.905,
+            431.801,
+            305.955,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "narcotic",
+          "box": [
+            308.835,
+            431.801,
+            355.872,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "withdrawal",
+          "box": [
+            358.875,
+            431.801,
+            423.807,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "symptoms.",
+          "box": [
+            427.995,
+            431.801,
+            489.643,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Some",
+          "box": [
+            492.75,
+            431.801,
+            524.206,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "drugs",
+          "box": [
+            526.95,
+            431.801,
+            560.029,
+            443.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            112.5,
+            445.436,
+            131.577,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "longer",
+          "box": [
+            134.415,
+            445.436,
+            169.554,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "acting",
+          "box": [
+            174.33,
+            445.436,
+            209.461,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "opioids",
+          "box": [
+            212.4,
+            445.436,
+            254.649,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(or",
+          "box": [
+            257.175,
+            445.436,
+            272.249,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "formulated",
+          "box": [
+            277.02,
+            445.436,
+            340.299,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            344.115,
+            445.436,
+            354.77,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            358.155,
+            445.436,
+            372.187,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "so),",
+          "box": [
+            375.075,
+            445.436,
+            394.903,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "such",
+          "box": [
+            397.665,
+            445.436,
+            423.15,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            427.23,
+            445.436,
+            439.983,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "buprenorphine,",
+          "box": [
+            442.53,
+            445.436,
+            533.569,
+            457.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "methadone,",
+          "box": [
+            112.5,
+            459.386,
+            180.634,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            183.42,
+            459.386,
+            204.585,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            208.395,
+            459.386,
+            226.904,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fentanyl",
+          "box": [
+            229.77,
+            459.386,
+            276.052,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patch,",
+          "box": [
+            280.215,
+            459.386,
+            315.175,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            317.97,
+            459.386,
+            339.135,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            342.945,
+            459.386,
+            366.673,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "require",
+          "box": [
+            370.575,
+            459.386,
+            413.784,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "many",
+          "box": [
+            416.7,
+            459.386,
+            448.411,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "repeated",
+          "box": [
+            452.25,
+            459.386,
+            501.943,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "doses",
+          "box": [
+            505.8,
+            459.386,
+            537.921,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            540.45,
+            459.386,
+            550.594,
+            471.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "naloxone",
+          "box": [
+            112.5,
+            473.336,
+            165.429,
+            485.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "which",
+          "box": [
+            168.3,
+            473.336,
+            202.55,
+            485.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "could",
+          "box": [
+            206.595,
+            473.336,
+            237.429,
+            485.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "exceed",
+          "box": [
+            241.245,
+            473.336,
+            279.78,
+            485.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            283.59,
+            473.336,
+            290.26,
+            485.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "total",
+          "box": [
+            293.49,
+            473.336,
+            318.042,
+            485.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            322.2,
+            473.336,
+            332.344,
+            485.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4",
+          "box": [
+            336.555,
+            473.336,
+            343.225,
+            485.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg.",
+          "box": [
+            346.41,
+            473.336,
+            367.534,
+            485.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5.",
+          "box": [
+            81.0,
+            487.286,
+            91.04,
+            499.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "For",
+          "box": [
+            93.33,
+            487.286,
+            110.848,
+            499.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suspected",
+          "box": [
+            115.65,
+            487.286,
+            170.86,
+            499.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cyanide",
+          "box": [
+            174.69,
+            487.286,
+            219.366,
+            499.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            222.21,
+            487.286,
+            233.13,
+            499.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "CO",
+          "box": [
+            237.915,
+            487.286,
+            254.494,
+            499.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "poisoning,",
+          "box": [
+            257.22,
+            487.286,
+            316.79,
+            499.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "see",
+          "box": [
+            319.545,
+            487.286,
+            338.05,
+            499.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Cyanide/CO",
+          "box": [
+            340.92,
+            487.286,
+            406.841,
+            499.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Exposure",
+          "box": [
+            409.545,
+            487.286,
+            463.474,
+            499.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            466.2,
+            487.286,
+            516.818,
+            499.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Yellow",
+          "box": [
+            519.75,
+            487.286,
+            558.421,
+            499.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "8",
+          "box": [
+            562.95,
+            487.286,
+            569.62,
+            499.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "6.",
+          "box": [
+            81.0,
+            501.686,
+            91.04,
+            513.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "For",
+          "box": [
+            93.33,
+            501.686,
+            110.848,
+            513.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hypoglycemia,",
+          "box": [
+            115.65,
+            501.686,
+            198.277,
+            513.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "see",
+          "box": [
+            201.06,
+            501.686,
+            219.565,
+            513.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Diabetic/Hypoglycemic",
+          "box": [
+            222.435,
+            501.686,
+            353.628,
+            513.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Emergencies",
+          "box": [
+            356.715,
+            501.686,
+            430.141,
+            513.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            432.675,
+            501.686,
+            483.293,
+            513.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gold",
+          "box": [
+            486.0,
+            501.686,
+            513.473,
+            513.683
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "6",
+          "box": [
+            517.5,
+            501.686,
+            524.17,
+            513.683
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            524.25,
+            501.686,
+            527.585,
+            513.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "7.",
+          "box": [
+            81.0,
+            515.636,
+            91.04,
+            527.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "For",
+          "box": [
+            93.33,
+            515.636,
+            110.848,
+            527.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "seizures,",
+          "box": [
+            115.65,
+            515.636,
+            165.892,
+            527.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "see",
+          "box": [
+            168.66,
+            515.636,
+            187.165,
+            527.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Seizure",
+          "box": [
+            190.035,
+            515.636,
+            232.889,
+            527.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            235.8,
+            515.636,
+            286.418,
+            527.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gold",
+          "box": [
+            289.17,
+            515.636,
+            316.643,
+            527.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "8",
+          "box": [
+            320.895,
+            515.636,
+            327.565,
+            527.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            327.6,
+            515.636,
+            330.935,
+            527.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "8.",
+          "box": [
+            81.0,
+            529.586,
+            91.04,
+            541.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Obtain",
+          "box": [
+            94.23,
+            529.586,
+            131.985,
+            541.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12-lead",
+          "box": [
+            136.17,
+            529.586,
+            176.868,
+            541.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ECG,",
+          "box": [
+            180.72,
+            529.586,
+            207.338,
+            541.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            210.105,
+            529.586,
+            217.278,
+            541.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available",
+          "box": [
+            221.49,
+            529.586,
+            273.284,
+            541.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            276.165,
+            529.586,
+            297.33,
+            541.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "so",
+          "box": [
+            301.14,
+            529.586,
+            313.224,
+            541.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trained.",
+          "box": [
+            316.62,
+            529.586,
+            361.947,
+            541.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ADVANCED",
+          "box": [
+            81.0,
+            557.486,
+            149.525,
+            569.483
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "EMT/PARAMEDIC",
+          "box": [
+            153.18,
+            557.486,
+            259.137,
+            569.483
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "9.",
+          "box": [
+            81.0,
+            571.436,
+            91.04,
+            583.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Establish",
+          "box": [
+            97.335,
+            571.436,
+            148.206,
+            583.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV",
+          "box": [
+            152.28,
+            571.436,
+            164.688,
+            583.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "access.",
+          "box": [
+            167.94,
+            571.436,
+            207.086,
+            583.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10.",
+          "box": [
+            81.0,
+            585.386,
+            97.745,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Alternative",
+          "box": [
+            104.085,
+            585.386,
+            168.147,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "naloxone",
+          "box": [
+            171.0,
+            585.386,
+            223.929,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "route",
+          "box": [
+            226.8,
+            585.386,
+            257.652,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            260.55,
+            585.386,
+            270.694,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "administration:",
+          "box": [
+            274.905,
+            585.386,
+            363.763,
+            597.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a.",
+          "box": [
+            96.75,
+            599.336,
+            106.84,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Naloxone",
+          "box": [
+            112.5,
+            599.336,
+            166.73,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.1",
+          "box": [
+            169.605,
+            599.336,
+            186.414,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            189.54,
+            599.336,
+            193.535,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            196.38,
+            599.336,
+            203.05,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg",
+          "box": [
+            206.235,
+            599.336,
+            224.241,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "I",
+          "box": [
+            227.115,
+            599.336,
+            230.45,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "V/IO/IM",
+          "box": [
+            231.525,
+            599.336,
+            275.869,
+            611.333
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ";",
+          "box": [
+            277.335,
+            599.336,
+            280.67,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "titrate",
+          "box": [
+            283.455,
+            599.336,
+            318.809,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            321.66,
+            599.336,
+            332.315,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "improved",
+          "box": [
+            335.7,
+            599.336,
+            390.384,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "respiratory",
+          "box": [
+            394.2,
+            599.336,
+            457.853,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "drive.",
+          "box": [
+            461.7,
+            599.336,
+            494.899,
+            611.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "b.",
+          "box": [
+            96.75,
+            613.286,
+            107.632,
+            625.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Pediatr",
+          "box": [
+            112.5,
+            613.286,
+            154.933,
+            625.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ic",
+          "box": [
+            157.211,
+            613.286,
+            167.434,
+            625.283
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            170.865,
+            613.286,
+            217.194,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(excluding",
+          "box": [
+            219.735,
+            613.286,
+            279.855,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "neonates):",
+          "box": [
+            282.78,
+            613.286,
+            341.676,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.1",
+          "box": [
+            344.88,
+            613.286,
+            361.689,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg/kg",
+          "box": [
+            364.86,
+            613.286,
+            399.674,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "naloxone",
+          "box": [
+            402.615,
+            613.286,
+            455.544,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            458.1,
+            613.286,
+            465.273,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "less",
+          "box": [
+            469.8,
+            613.286,
+            491.354,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            493.65,
+            613.286,
+            518.913,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "20",
+          "box": [
+            522.9,
+            613.286,
+            536.275,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "kg;",
+          "box": [
+            539.55,
+            613.286,
+            556.237,
+            625.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.1-2",
+          "box": [
+            112.5,
+            627.236,
+            139.734,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg",
+          "box": [
+            142.875,
+            627.236,
+            160.881,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "IV/IO/IM",
+          "box": [
+            163.8,
+            627.236,
+            212.954,
+            639.233
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            217.485,
+            627.236,
+            224.658,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "greater",
+          "box": [
+            228.87,
+            627.236,
+            268.558,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            273.375,
+            627.236,
+            298.638,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "20",
+          "box": [
+            302.805,
+            627.236,
+            316.18,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "kg",
+          "box": [
+            319.365,
+            627.236,
+            332.934,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            335.835,
+            627.236,
+            346.756,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5",
+          "box": [
+            351.54,
+            627.236,
+            358.21,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "years",
+          "box": [
+            361.35,
+            627.236,
+            392.836,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            395.37,
+            627.236,
+            406.29,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "older",
+          "box": [
+            411.075,
+            627.236,
+            439.5,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": ";",
+          "box": [
+            441.18,
+            627.236,
+            444.515,
+            639.233
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "titrate",
+          "box": [
+            447.795,
+            627.236,
+            483.149,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            486.0,
+            627.236,
+            496.655,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "improved",
+          "box": [
+            499.95,
+            627.236,
+            554.634,
+            639.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "respiratory",
+          "box": [
+            112.5,
+            641.186,
+            176.153,
+            653.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "drive.",
+          "box": [
+            180.045,
+            641.186,
+            213.244,
+            653.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "11.",
+          "box": [
+            81.0,
+            655.136,
+            97.745,
+            667.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Cardiac",
+          "box": [
+            104.085,
+            655.136,
+            147.806,
+            667.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Monitor",
+          "box": [
+            150.84,
+            655.136,
+            195.502,
+            667.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "12.",
+          "box": [
+            81.0,
+            669.086,
+            97.745,
+            681.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            104.085,
+            669.086,
+            111.826,
+            681.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            116.01,
+            669.086,
+            155.451,
+            681.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            159.48,
+            669.086,
+            169.316,
+            681.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hypotensive,",
+          "box": [
+            171.855,
+            669.086,
+            244.162,
+            681.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "administer",
+          "box": [
+            246.96,
+            669.086,
+            307.764,
+            681.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            312.525,
+            669.086,
+            319.195,
+            681.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "fluid",
+          "box": [
+            322.38,
+            669.086,
+            348.652,
+            681.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bolus.",
+          "box": [
+            352.485,
+            669.086,
+            386.856,
+            681.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PARAMEDIC",
+          "box": [
+            81.0,
+            696.986,
+            156.415,
+            708.983
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "13.",
+          "box": [
+            81.0,
+            710.936,
+            97.745,
+            722.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "For",
+          "box": [
+            100.935,
+            710.936,
+            118.453,
+            722.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "absorbed",
+          "box": [
+            123.255,
+            710.936,
+            175.816,
+            722.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "toxins",
+          "box": [
+            179.64,
+            710.936,
+            214.817,
+            722.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "resulting",
+          "box": [
+            217.35,
+            710.936,
+            268.527,
+            722.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            271.44,
+            710.936,
+            281.948,
+            722.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pain,",
+          "box": [
+            286.11,
+            710.936,
+            315.139,
+            722.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "see",
+          "box": [
+            317.925,
+            710.936,
+            336.43,
+            722.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Universal",
+          "box": [
+            339.3,
+            710.936,
+            392.856,
+            722.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pain",
+          "box": [
+            397.035,
+            710.936,
+            421.304,
+            722.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Management",
+          "box": [
+            425.52,
+            710.936,
+            499.496,
+            722.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            503.1,
+            710.936,
+            553.718,
+            722.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            113.4,
+            724.886,
+            126.62,
+            736.883
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            128.898,
+            724.886,
+            149.266,
+            736.883
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "18",
+          "box": [
+            153.72,
+            724.886,
+            167.095,
+            736.883
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            170.235,
+            724.886,
+            191.4,
+            736.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            195.21,
+            724.886,
+            210.443,
+            736.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "analgesic",
+          "box": [
+            215.235,
+            724.886,
+            268.212,
+            736.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            271.26,
+            724.886,
+            286.493,
+            736.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "eye",
+          "box": [
+            291.24,
+            724.886,
+            310.875,
+            736.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pain,",
+          "box": [
+            313.74,
+            724.886,
+            342.769,
+            736.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "see",
+          "box": [
+            345.555,
+            724.886,
+            364.06,
+            736.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Ophthalmology",
+          "box": [
+            366.93,
+            724.886,
+            454.367,
+            736.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            458.1,
+            724.886,
+            508.718,
+            736.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Gr",
+          "box": [
+            511.65,
+            724.886,
+            524.87,
+            736.883
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "een",
+          "box": [
+            527.148,
+            724.886,
+            547.516,
+            736.883
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "25",
+          "box": [
+            551.7,
+            724.886,
+            565.075,
+            736.883
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": ".",
+          "box": [
+            565.2,
+            724.886,
+            568.535,
+            736.883
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "P",
+          "box": [
+            51.93,
+            707.076,
+            63.936,
+            725.076
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "(Continued)",
+          "box": [
+            482.4,
+            741.536,
+            553.917,
+            753.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0122.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 98.35,
+    "output_to_native_length_ratio": 0.969,
+    "native_dosage_tokens": [
+      "0.1mg/kg",
+      "0.5mg",
+      "20kg",
+      "2mg",
+      "4mg"
+    ],
+    "output_dosage_tokens": [
+      "0.1mg/kg",
+      "0.5mg",
+      "20kg",
+      "2mg",
+      "4mg"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

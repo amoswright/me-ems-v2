@@ -1,0 +1,297 @@
+[
+  {
+    "id": "lavender_145",
+    "title": "Obstetric Emergencies",
+    "category": "lavender",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Most pregnancies progress with no complications. In cases of pregnancy with either vaginal bleeding or abdominal/pelvic pain, consider the following possibilities:</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "PARAMEDIC",
+        "html": "<blockquote>\n<p><strong>Pearls for Obstetric Emergencies</strong>\n* Even minor trauma beyond the second trimester can lead to significant consequences for the pregnancy. In some cases, these patients require fetal monitoring and therefore should be transported.\n* Syncope can be a presenting symptom of hemorrhage from ectopic pregnancy or causes of vaginal bleeding.\n* Do not place hand/fingers into vagina of bleeding patient except in cases of prolapsed cord or breech birth that is not progressing\n* Please note, on-scene obstetric clinicians may provide TXA. Please ensure TXA has not been previously provided before proceeding with TXA.\n* *When placing patient in a lateral position, consider patient comfort and ease of access to patient when choosing right or left side.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "ALL",
+        "html": "Abruptio placenta: placenta prematurely separates from the uterus causing intrauterine bleeding"
+      },
+      {
+        "num": 2,
+        "providerLevel": "ALL",
+        "html": "Placenta previa: placenta covers part or all of the cervical opening"
+      },
+      {
+        "num": 3,
+        "providerLevel": "ALL",
+        "html": "Ectopic pregnancy (ruptured)"
+      },
+      {
+        "num": 4,
+        "providerLevel": "ALL",
+        "html": "Spontaneous abortion (miscarriage)"
+      },
+      {
+        "num": 5,
+        "providerLevel": "ALL",
+        "html": "Pre-eclampsia/eclampsia (can occur for up to 6 weeks postpartum), refer to Seizure protocol, <strong>Gold 8</strong>"
+      },
+      {
+        "num": 6,
+        "providerLevel": "ALL",
+        "html": "Postpartum Hemorrhage"
+      },
+      {
+        "num": 1,
+        "providerLevel": "EMT",
+        "html": "Manage airway as appropriate, see Airway Algorithm, <strong>Blue 2</strong>"
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT",
+        "html": "<p>Monitor vitals. If evidence of shock refer to the Hemorrhagic Shock protocol, <strong>Green 13</strong>. Contact ALS, if available\n    a. Patients in third trimester of pregnancy with evidence of shock should be transported on their side (either left or right), or with uterus manually displaced to the left or right</p>"
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT",
+        "html": "<p>If the patient is pregnant with abdominal/pelvic pain, bleeding or concern for any of the above conditions, and the patient condition permits, transport to the nearest hospital with OB capabilities if total transport time is less than 45 minutes, otherwise go to the closest ED.</p>"
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT",
+        "html": "For trauma related to pregnancy, follow Trauma Triage guideline, <strong>Green 1</strong>"
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT",
+        "html": "Notify Hospital of incoming patient"
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT",
+        "html": "Contact OLMC for decision support if questions regarding patient transport destination."
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT",
+        "html": "Refer to Childbirth protocol, <strong>Lavender 2</strong>"
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT",
+        "html": "If history of syncope/lightheadedness, if available and so trained, perform 12-lead ECG"
+      },
+      {
+        "num": 9,
+        "providerLevel": "ADVANCED_EMT",
+        "html": "Establish IV. If evidence of shock, resuscitate with fluid boluses"
+      },
+      {
+        "num": 10,
+        "providerLevel": "PARAMEDIC",
+        "html": "For patients suffering postpartum hemorrhage and demonstrating evidence of shock, refer to the Hemorrhagic Shock protocol, <strong>Green 13</strong> and consider tranexamic acid (TXA).\n    a. NOTE - TXA is contraindicated in patients greater than 24 weeks pregnant (or pregnant with fundus above umbilicus) suffering hemorrhagic shock due to trauma, refer to Hemorrhagic Shock protocol, <strong>Green 13</strong>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "lavender_145",
+        "pageNumber": "Lavender 1",
+        "jpgReference": "/assets/pages_webp/0145.webp"
+      }
+    ]
+  },
+  {
+    "id": "lavender_146_147",
+    "title": "Child Birth",
+    "category": "lavender",
+    "intro": [],
+    "steps": [
+      {
+        "num": 1,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Evaluate for crowning/imminent delivery."
+      },
+      {
+        "num": 2,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "If crowning/imminent delivery, encourage mother to relax, breathe slowly, and let baby deliver."
+      },
+      {
+        "num": 3,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "If hypotensive, roll patient onto left or right hip."
+      },
+      {
+        "num": 4,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "If the presenting part is the cord, apply pressure to the baby with a sterile, gloved hand to keep pressure off the cord until cord pulsations are felt. Raise mother's hips onto pillows. Keep cord warm and moist. Do not clamp or cut cord."
+      },
+      {
+        "num": 5,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Request ALS, if available, and DO NOT DELAY TRANSPORT."
+      },
+      {
+        "num": 6,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>If baby's head is delivering:\n    a. Do not hurry or slow the birth.\n    b. Check to see if cord is wrapped around neck. If so, attempt to slip the cord over the baby's head, then repeat in case of double nuchal cord. Do not clamp and cut the cord unless it appears to obstruct the birth.\n    c. Immediately place baby skin-to-skin with the mother, unless resuscitation is required. Dry and stimulate the baby, examine and keep warm, next to mother's skin, covering mother and baby with warm blankets or aluminum foil blankets (e.g.\"space blankets\"). As soon as possible, enable child to nurse at mother's breast. In a stable newborn, remain on scene, as conditions permit for a minimum of 15 minutes to allow for skin-to-skin contact.\n    d. Assess APGAR SCORE at 1 and 5 minutes, refer to Newborn Metrics, <strong>Lavender 4</strong>\n    e. Do not externally massage the uterus en route until placenta has delivered.\n    f. Do not forcibly remove placenta.\n    g. The cord may be left intact, or it may be double clamped and cut only when:\n        1. The baby is breathing and all cord pulsations have stopped (usually within 3 to 5 minutes), or\n        2. The baby must be moved to allow for advanced newborn resuscitation, or\n        3. Once the placenta has delivered.\n    h. If placenta is delivered, wrap and package with cord intact.</p>"
+      },
+      {
+        "num": 7,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>If delivery has occurred prior to EMS arrival, start at #5b above.</p>"
+      },
+      {
+        "num": 8,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<strong>PARAMEDIC only</strong>: After delivery of fetus and placenta, administer oxytocin 10 units IM to the <strong>mother</strong>. Note: If known multiple fetuses, do not give oxytocin until all placentas are delivered."
+      },
+      {
+        "num": 9,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "During transport, the baby should be placed in an appropriate child passenger restraint system with the head supported. Maintain warmth during transport."
+      },
+      {
+        "num": 10,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "Maintain warmth during transport. Hypothermia in the newborn may cause decreased LOC, hypoglycemia, bradycardia and hypotension. Wrap the baby in warm blankets or aluminum foil blankets (e.g.\"space blankets\") and a warming hat to minimize heat loss. Consider using a Maine EMS approved infant warming pad during transport. For premature infants, wrap the torso and extremities of the baby in food-grade or medical-grade plastic wrap."
+      },
+      {
+        "num": 11,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<strong>Monitor the baby's airway during transport.</strong> (Continued)"
+      },
+      {
+        "num": 12,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p>Most deliveries proceed without complications. If complications of delivery occur, the following steps are recommended:\n    a. <strong>Shoulder dystocia</strong> \u2013 if delivery fails to progress after head delivers, quickly attempt the following:\n        i. Hyperflex mother's hips to severe supine knee-chest position,\n        ii. Apply firm suprapubic pressure to attempt to dislodge shoulder,\n        iii. Apply high-flow oxygen to mother,\n        iv. Transport as soon as possible,\n        v. Contact closest appropriate receiving facility.\n    b. <strong>Prolapsed umbilical cord</strong>\n        i. Placed gloved hand into vagina and gently lift head/body off of cord,\n            1. Maintain until relieved by hospital staff.\n        ii. Consider placing mother in prone knee-chest position or extreme Trendelenburg,\n        iii. Apply high-flow oxygen to mother,\n        iv. Transport as soon as possible,\n        v. Contact closest appropriate receiving facility.\n    c. <strong>Breech birth</strong> - presentation of buttocks or extremity first,\n        i. Place mother supine, allow the buttocks and trunk to deliver spontaneously, then support the body while the head is delivered.\n        ii. If head fails to deliver within 30 seconds of the legs, place 2 fingers of a gloved hand into vagina to locate the infant's mouth. Press the vaginal wall away from the infant's mouth to maintain the infant's airway,\n        iii. Apply high-flow oxygen to mother,\n        iv. The presentation of an arm or leg through the vagina is an indication for immediate transport to hospital,\n        v. Assess for presence of prolapsed cord and treat as above,\n        vi. Transport as soon as possible,\n        vii. Contact closest appropriate receiving facility.\n    d. <strong>Excessive bleeding</strong> during active labor may occur with placenta previa.\n        i. Obtain history from the patient.\n        ii. Placenta previa may prevent delivery of infant vaginally.\n        iii. C-Section is needed \u2013 transport urgently.\n        iv. Contact closest appropriate receiving facility.\n    e. <strong>Maternal cardiac arrest</strong>\n        i. Apply manual pressure to displace uterus from right to left,\n        ii. Treat per <strong>Red 9</strong>, Adult Cardiac Arrest protocol - defibrillation and medications should be given for same indications and doses as if non-pregnant patient,\n        iii. Contact <strong>OLMC</strong> to discuss rapid transport if infant is estimated to be over 24 weeks gestation.\n            1. Perimortem Cesarean section at receiving facility is most successful if done within 5 minutes of maternal cardiac arrest.</p>"
+      },
+      {
+        "num": 13,
+        "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
+        "html": "<p><strong>If any of the above conditions are present, the patient is best cared for at a hospital with Obstetric (OB) services. If the patient condition permits, transport to the nearest hospital with OB capabilities if total transport time is less than 45 minutes, otherwise go to the closest ED. For questions, contact OLMC.</strong></p>"
+      }
+    ],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "lavender_146",
+        "pageNumber": "Lavender 2",
+        "jpgReference": "/assets/pages_webp/0146.webp"
+      },
+      {
+        "pageId": "lavender_147",
+        "pageNumber": "Lavender 3",
+        "jpgReference": "/assets/pages_webp/0147.webp"
+      }
+    ]
+  },
+  {
+    "id": "lavender_148",
+    "title": "Newborn Metrics / APGAR & O2 Saturation",
+    "category": "lavender",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Newborn Metrics / APGAR &amp; O2 Saturation\" src=\"/assets/figures/page-0148-visual.webp\"/></p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>Assess the baby at 1 minute and again at 5 minutes.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>DO NOT DELAY RESUSCITATION to obtain APGAR Score.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>A score of less than 7 suggests need for resuscitation with suction, ventilation, and ALS back up.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>APGAR Score</h3>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th>0</th>\n<th>1</th>\n<th>2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>A</td>\n<td>Appearance</td>\n<td>Blue or Pale</td>\n<td>Body Pink/<br/>Hands Blue</td>\n<td>Pink</td>\n</tr>\n<tr>\n<td>P</td>\n<td>Pulse</td>\n<td>Absent</td>\n<td>less than 100</td>\n<td>greater than 100</td>\n</tr>\n<tr>\n<td>G</td>\n<td>Grimace*</td>\n<td>None</td>\n<td>Grimace</td>\n<td>Cough</td>\n</tr>\n<tr>\n<td>A</td>\n<td>Activity**</td>\n<td>Flaccid</td>\n<td>Some</td>\n<td>Good</td>\n</tr>\n<tr>\n<td>R</td>\n<td>Respiration</td>\n<td>Absent</td>\n<td>Weak</td>\n<td>Good</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>* Tested by a suction catheter or bulb syringe tip gently placed in the nose or mouth.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p>** Amount of spontaneous flexion of extremities.</p>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<h3>Newborn Target Oxygen Saturation Table</h3>"
+      },
+      {
+        "type": "table",
+        "providerLevel": "ALL",
+        "html": "<table>\n<thead>\n<tr>\n<th>Age</th>\n<th>Oxygen Sat (SpO2 on RIGHT hand)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1 min</td>\n<td>60-65%</td>\n</tr>\n<tr>\n<td>2 min</td>\n<td>65-70%</td>\n</tr>\n<tr>\n<td>3 min</td>\n<td>70-75%</td>\n</tr>\n<tr>\n<td>4 min</td>\n<td>75-80%</td>\n</tr>\n<tr>\n<td>5 min</td>\n<td>85-95%</td>\n</tr>\n<tr>\n<td>10 min</td>\n<td>85-95%</td>\n</tr>\n</tbody>\n</table>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p>Initial ventilations in a newborn should be with ROOM AIR. Often, the cause of respiratory distress/bradycardia is due to the amniotic fluid in the alveoli. Newborns are often able to clear this fluid by with crying and taking in deep breaths. Therefore, it is important to adequately dry and stimulate the infant for the first 30 seconds. If HR is less that 100 bpm after 30 seconds of drying and stimulation, ventilate via BVM on room air. If after 30 seconds of PPV with room air they have a heart rate below 100, ventilate with 100% oxygen. See Lavender 5.</p>\n</blockquote>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "lavender_148",
+        "pageNumber": "Lavender 4",
+        "jpgReference": "/assets/pages_webp/0148.webp"
+      }
+    ]
+  },
+  {
+    "id": "lavender_149",
+    "title": "Newborn Resuscitation",
+    "category": "lavender",
+    "intro": [
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<p><img alt=\"Visual reference from Newborn Resuscitation\" src=\"/assets/figures/page-0149-visual.webp\"/></p>"
+      },
+      {
+        "type": "list",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>Term gestation? Breathing or crying? Good muscle tone?<ul>\n<li><strong>YES</strong><ul>\n<li>Routine care</li>\n<li>Provide warmth</li>\n<li>Open airway</li>\n<li>Dry</li>\n<li>Ongoing evaluation</li>\n</ul>\n</li>\n<li><strong>NO</strong><ul>\n<li><strong>30 Sec</strong></li>\n<li>Provide warmth, Open airway, Dry, stimulate</li>\n<li>HR Below 100? Gasping or apnea?<ul>\n<li><strong>NO</strong><ul>\n<li>Labored breathing or Persistent cyanosis?<ul>\n<li><strong>YES</strong><ul>\n<li>Clear airway, Supplemental O2 as needed</li>\n<li>Post-resuscitation care</li>\n</ul>\n</li>\n<li><strong>NO</strong></li>\n</ul>\n</li>\n</ul>\n</li>\n<li><strong>YES</strong><ul>\n<li><strong>60 Sec</strong></li>\n<li>PPV With room air (No oxygen). Advanced airway as needed</li>\n<li>HR below 100?<ul>\n<li><strong>NO</strong><ul>\n<li>Post-resuscitation care</li>\n</ul>\n</li>\n<li><strong>YES</strong><ul>\n<li>Ensure adequate ventilation, Add 100% oxygen</li>\n<li>HR below 60?<ul>\n<li><strong>NO</strong></li>\n<li><strong>NO</strong></li>\n<li><strong>YES</strong><ul>\n<li>Consider:\n    1) Hypovolemia\n    2) Pneumothorax</li>\n<li>AEMT/Paramedic BIAD - if available, or Paramedic -BIAD is preferred to intubation in the newborn</li>\n<li>HR below 60?<ul>\n<li><strong>YES</strong><ul>\n<li>Chest compressions, Coordinate with PPV</li>\n<li>HR below 60?<ul>\n<li><strong>NO</strong></li>\n<li><strong>YES</strong><ul>\n<li>EPINEPHrine 1mg/10ml, 0.02 mg/kg every 3-5 minutes until HR &gt; 60</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>"
+      },
+      {
+        "type": "content",
+        "providerLevel": "ALL",
+        "html": "<blockquote>\n<p><strong>Pearls:</strong>\n1) Remember to obtain APGAR scores at 1 and 5 minutes on baby, see <strong>Lavender 4</strong>\n2) <strong>NEVER GIVE NALOXONE TO A NEONATE</strong>\n3) In neonates, ventilation and oxygenation may increase heart rate in properly placed advanced airways sooner than chest compressions.\n4) In a newborn, the SpO2 monitor should be placed on the <strong>RIGHT</strong> hand\n5) In a newborn, goal <strong>Peak Inspiratory Pressure</strong> should be 20 cmH20 with 5 cmH20 of PEEP (<strong>Paramedic</strong> level, if certified by NRP, or equivalent training, credentialed by their service-level medical director, and properly equipped).\n6) In a newborn, use 3:1 compression-to-ventilation ratio with a pause for ventilation, even with a BIAD or ETT</p>\n</blockquote>"
+      }
+    ],
+    "steps": [],
+    "pearls": [],
+    "pages": [
+      {
+        "pageId": "lavender_149",
+        "pageNumber": "Lavender 5",
+        "jpgReference": "/assets/pages_webp/0149.webp"
+      }
+    ]
+  }
+]

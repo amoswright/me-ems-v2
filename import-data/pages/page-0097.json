@@ -1,0 +1,2556 @@
+{
+  "id": "page-0097",
+  "pdf_page": 97,
+  "protocol_label": "Green 3",
+  "kind": "protocol",
+  "chapter_id": "green",
+  "topic_id": "green-spine-assessment-and-management",
+  "title": "Spine Assessment & Management",
+  "markdown": "# Spine Assessment & Management\n\nThis protocol is for suspected spinal injury, based on the complaint and mechanism of injury\n\nDoes the patient have **any** of the following findings:\n* Unreliable?\n* Distracting injury?\n* Abnormal sensory or motor exam?\n* Spine pain or tenderness?\n\n**No**:\n* Do not immobilize\n\n**Yes**:\n* Does the patient have a helmet on?\n    * **Yes**: Manually remove if clinically indicated (for airway management, hemorrhage control, etc.), if possible\n    * **No**: Is the patient in a seated position and able to self extricate?\n        * **Yes**: Place in cervical collar and allow patient to self-extricate\n        * **No**: Immobilize cervical spine with collar or alternate method to restrict spinal motion\n          -THEN-\n          Extricate with backboard OR other extrication device\n          -OR-\n          If child is in car seat, extricate in the car seat if child is already strapped in with harness\n\nOnce patient is on the EMS stretcher, remove the backboard UNLESS safe transport requires the use of a backboard (see PEARLS). Transfer patient to appropriate hospital based on trauma triage decisions. If patient is in a car seat, see Pediatric Transportation protocol, **Pink 7**.\n",
+  "plain_text": "Spine Assessment & Management This protocol is for suspected spinal injury, based on the complaint and mechanism of injury Does the patient have any of the following findings: Unreliable? Distracting injury? Abnormal sensory or motor exam? Spine pain or tenderness? No: Do not immobilize Yes: Does the patient have a helmet on? Yes: Manually remove if clinically indicated (for airway management, hemorrhage control, etc.), if possible No: Is the patient in a seated position and able to self extricate? Yes: Place in cervical collar and allow patient to self-extricate No: Immobilize cervical spine with collar or alternate method to restrict spinal motion -THEN- Extricate with backboard OR other extrication device -OR- If child is in car seat, extricate in the car seat if child is already strapped in with harness Once patient is on the EMS stretcher, remove the backboard UNLESS safe transport requires the use of a backboard (see PEARLS). Transfer patient to appropriate hospital based on trauma triage decisions. If patient is in a car seat, see Pediatric Transportation protocol, Pink 7.",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        253.9,
+        37.65,
+        818.79,
+        62.9
+      ],
+      "text": "Spine Assessm ent & M anagem ent #1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        121.69,
+        88.33,
+        920.25,
+        103.48
+      ],
+      "text": "This protocol is for suspected spinal injury, based on the complaint and mechanism of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        488.24,
+        105.94,
+        553.6,
+        121.09
+      ],
+      "text": "injury*",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        335.07,
+        145.09,
+        415.32,
+        160.24
+      ],
+      "text": "Does the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        267.43,
+        162.7,
+        482.89,
+        177.85
+      ],
+      "text": "patient have any of the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        287.35,
+        180.37,
+        462.38,
+        195.52
+      ],
+      "text": "following findings:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        307.57,
+        197.99,
+        822.8,
+        213.19
+      ],
+      "text": "- Unreliable?** Do not",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        685.44,
+        206.79,
+        711.6,
+        221.94
+      ],
+      "text": "No",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        269.12,
+        215.66,
+        847.38,
+        230.86
+      ],
+      "text": "- Distracting injury?*** immobilize",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        208.53,
+        233.27,
+        548.74,
+        248.42
+      ],
+      "text": "- Abnormal sensory or motor exam?",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        308.97,
+        250.89,
+        444.46,
+        266.03
+      ],
+      "text": "- Spine pain or",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        318.82,
+        268.56,
+        432.16,
+        283.7
+      ],
+      "text": "tenderness?",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        358.46,
+        317.08,
+        391.66,
+        332.23
+      ],
+      "text": "Yes",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        352.5,
+        354.86,
+        847.02,
+        373.7
+      ],
+      "text": "Does Manually remove if",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        324.56,
+        372.53,
+        862.56,
+        391.32
+      ],
+      "text": "the patient clinically indicated (for",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        309.63,
+        386.57,
+        856.37,
+        408.93
+      ],
+      "text": "have a helmet Yes airway management,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        358.09,
+        407.76,
+        878.52,
+        426.6
+      ],
+      "text": "on? hemorrhage control, etc.),",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        710.07,
+        425.43,
+        804.99,
+        440.58
+      ],
+      "text": "if possible",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        361.32,
+        464.01,
+        387.48,
+        479.16
+      ],
+      "text": "No",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        579.63,
+        496.96,
+        924.22,
+        512.11
+      ],
+      "text": "Immobilize cervical spine with collar",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        95.74,
+        507.36,
+        892.55,
+        529.73
+      ],
+      "text": "Place in Is or alternate method to restrict",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        95.37,
+        524.98,
+        423.93,
+        544.61
+      ],
+      "text": "cervical the patient",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        688.75,
+        532.25,
+        815.96,
+        547.4
+      ],
+      "text": "spinal motion",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        85.22,
+        542.65,
+        463.34,
+        562.23
+      ],
+      "text": "collar and in a seated position",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        720.22,
+        549.86,
+        786.78,
+        565.01
+      ],
+      "text": "-THEN-",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        198.24,
+        555.71,
+        443.74,
+        575.29
+      ],
+      "text": "Yes and able to self",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        106.69,
+        564.69,
+        912.39,
+        582.68
+      ],
+      "text": "allow No Extricate with backboard OR other",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        87.87,
+        577.76,
+        836.97,
+        600.29
+      ],
+      "text": "patient to extricate?**** extrication device",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        71.91,
+        599.92,
+        773.6,
+        617.91
+      ],
+      "text": "self-extricate -OR-",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        586.62,
+        620.37,
+        925.1,
+        635.52
+      ],
+      "text": "If child is in car seat, extricate in the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        578.24,
+        637.99,
+        925.99,
+        653.14
+      ],
+      "text": "car seat if child is already strapped in",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        692.72,
+        655.6,
+        814.21,
+        670.75
+      ],
+      "text": "with harness",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        108.31,
+        779.46,
+        788.56,
+        794.61
+      ],
+      "text": "Once patient is on the EMS stretcher, remove the backboard UNLESS safe",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        97.94,
+        797.08,
+        798.29,
+        812.23
+      ],
+      "text": "transport requires the use of a backboard (see PEARLS). Transfer patient to",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        97.87,
+        814.69,
+        796.33,
+        829.84
+      ],
+      "text": "appropriate hospital based on trauma triage decisions. If patient is in a car",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        212.87,
+        832.31,
+        683.61,
+        847.45
+      ],
+      "text": "seat, see Pediatric Transportation protocol, Pink 7.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        439.93,
+        936.28,
+        927.08,
+        953.7
+      ],
+      "text": "(Back to TOC) Green 3",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "4e2ead7fe228d91f523dc6fa5e90f4bbaff3f7f94f75763bc3a28896faaf97db",
+    "native": {
+      "text": "Spine Assessm ent & M anagem ent #1\nThis protocol is for suspected spinal injury, based on the complaint and mechanism of\ninjury*\nDoes the\npatient have any of the\nfollowing findings:\n- Unreliable?** Do not\nNo\n- Distracting injury?*** immobilize\n- Abnormal sensory or motor exam?\n- Spine pain or\ntenderness?\nYes\nDoes Manually remove if\nthe patient clinically indicated (for\nhave a helmet Yes airway management,\non? hemorrhage control, etc.),\nif possible\nNo\nImmobilize cervical spine with collar\nIs\nPlace in or alternate method to restrict\nthe patient\ncervical spinal motion\nin a seated position\ncollar and -THEN-\nYes\nand able to self\nallow No Extricate with backboard OR other\nextricate?****\npatient to extrication device\nself-extricate -OR-\nIf child is in car seat, extricate in the\ncar seat if child is already strapped in\nwith harness\nOnce patient is on the EMS stretcher, remove the backboard UNLESS safe\ntransport requires the use of a backboard (see PEARLS). Transfer patient to\nappropriate hospital based on trauma triage decisions. If patient is in a car\nseat, see Pediatric Transportation protocol, Pink 7.\n(Back to TOC) Green 3",
+      "body_text": "(Back to TOC) Green 3 injury* Do not immobilize Manually remove if Does clinically indicated (for the patient airway management, have a helmet hemorrhage control, etc.), on? if possible Is the patient in a seated position and able to self extricate?**** Does the patient have any of the following findings: - Unreliable?** - Distracting injury?*** - Abnormal sensory or motor exam? - Spine pain or tenderness? Immobilize cervical spine with collar or alternate method to restrict spinal motion -THEN- Extricate with backboard OR other extrication device -OR- If child is in car seat, extricate in the car seat if child is already strapped in with harness No Yes Yes No No Once patient is on the EMS stretcher, remove the backboard UNLESS safe transport requires the use of a backboard (see PEARLS). Transfer patient to appropriate hospital based on trauma triage decisions. If patient is in a car seat, see Pediatric Transportation protocol, Pink 7. Place in cervical collar and allow patient to self-extricate Yes",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            269.235,
+            743.336,
+            299.889,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            304.02,
+            743.336,
+            314.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            318.06,
+            743.336,
+            345.675,
+            755.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Green",
+          "box": [
+            522.9,
+            741.536,
+            556.629,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3",
+          "box": [
+            560.7,
+            741.536,
+            567.37,
+            753.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "This",
+          "box": [
+            74.475,
+            69.956,
+            99.278,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol",
+          "box": [
+            101.835,
+            69.956,
+            148.06,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            152.235,
+            69.956,
+            162.071,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            164.61,
+            69.956,
+            179.843,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "suspected",
+          "box": [
+            184.635,
+            69.956,
+            239.845,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "spinal",
+          "box": [
+            243.63,
+            69.956,
+            277.401,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "injury,",
+          "box": [
+            281.61,
+            69.956,
+            320.28,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "based",
+          "box": [
+            322.47,
+            69.956,
+            355.092,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            358.92,
+            69.956,
+            372.516,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            376.695,
+            69.956,
+            395.204,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "complaint",
+          "box": [
+            398.07,
+            69.956,
+            454.751,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            458.55,
+            69.956,
+            479.715,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mechanism",
+          "box": [
+            483.75,
+            69.956,
+            548.764,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            553.05,
+            69.956,
+            563.194,
+            81.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "injury*",
+          "box": [
+            298.8,
+            83.906,
+            338.802,
+            95.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Spine",
+          "box": [
+            155.385,
+            29.817,
+            208.943,
+            49.815
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Assessm",
+          "box": [
+            213.75,
+            29.817,
+            291.298,
+            49.815
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ent",
+          "box": [
+            293.535,
+            29.817,
+            322.499,
+            49.815
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "&",
+          "box": [
+            329.175,
+            29.817,
+            342.514,
+            49.815
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "M",
+          "box": [
+            349.2,
+            29.817,
+            365.858,
+            49.815
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "anagem",
+          "box": [
+            367.956,
+            29.817,
+            441.296,
+            49.815
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ent",
+          "box": [
+            443.533,
+            29.817,
+            472.497,
+            49.815
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#1",
+          "box": [
+            478.8,
+            29.817,
+            501.097,
+            49.815
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Do",
+          "box": [
+            467.1,
+            156.851,
+            482.491,
+            168.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            485.55,
+            156.851,
+            503.551,
+            168.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "immobilize",
+          "box": [
+            453.6,
+            170.846,
+            518.596,
+            182.843
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Manually",
+          "box": [
+            407.385,
+            281.051,
+            460.825,
+            293.048
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "remove",
+          "box": [
+            464.4,
+            281.051,
+            508.119,
+            293.048
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            511.205,
+            281.051,
+            518.378,
+            293.048
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Does",
+          "box": [
+            215.73,
+            283.976,
+            243.796,
+            295.973
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clinically",
+          "box": [
+            397.305,
+            295.046,
+            448.326,
+            307.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "indicated",
+          "box": [
+            452.25,
+            295.046,
+            504.768,
+            307.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(for",
+          "box": [
+            508.5,
+            295.046,
+            527.887,
+            307.043
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            198.63,
+            297.926,
+            217.139,
+            309.923
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            220.005,
+            297.926,
+            259.446,
+            309.923
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "airway",
+          "box": [
+            403.2,
+            308.996,
+            441.926,
+            320.993
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "management,",
+          "box": [
+            445.815,
+            308.996,
+            524.097,
+            320.993
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "have",
+          "box": [
+            189.495,
+            311.876,
+            217.005,
+            323.873
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            219.87,
+            311.876,
+            226.54,
+            323.873
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "helmet",
+          "box": [
+            229.725,
+            311.876,
+            268.573,
+            323.873
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hemorrhage",
+          "box": [
+            389.565,
+            322.946,
+            460.54,
+            334.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "control,",
+          "box": [
+            463.05,
+            322.946,
+            507.243,
+            334.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "etc.),",
+          "box": [
+            510.3,
+            322.946,
+            537.655,
+            334.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on?",
+          "box": [
+            219.15,
+            325.871,
+            240.486,
+            337.868
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            434.565,
+            336.941,
+            441.738,
+            348.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "possible",
+          "box": [
+            445.95,
+            336.941,
+            492.655,
+            348.938
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Is",
+          "box": [
+            224.55,
+            401.831,
+            234.954,
+            413.828
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            198.63,
+            415.781,
+            217.139,
+            427.778
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            220.005,
+            415.781,
+            259.446,
+            427.778
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            174.33,
+            429.776,
+            184.838,
+            441.773
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            189.0,
+            429.776,
+            195.67,
+            441.773
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "seated",
+          "box": [
+            198.9,
+            429.776,
+            234.571,
+            441.773
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "position",
+          "box": [
+            238.365,
+            429.776,
+            283.562,
+            441.773
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            186.3,
+            443.636,
+            207.465,
+            455.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "able",
+          "box": [
+            211.275,
+            443.636,
+            235.782,
+            455.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            238.635,
+            443.636,
+            249.29,
+            455.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "self",
+          "box": [
+            252.675,
+            443.636,
+            271.566,
+            455.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "extricate?****",
+          "box": [
+            189.405,
+            457.586,
+            268.206,
+            469.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Does",
+          "box": [
+            205.065,
+            114.911,
+            233.131,
+            126.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            235.665,
+            114.911,
+            254.174,
+            126.908
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            163.665,
+            128.861,
+            203.106,
+            140.858
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "have",
+          "box": [
+            207.135,
+            128.861,
+            234.645,
+            140.858
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "any",
+          "box": [
+            237.51,
+            128.861,
+            258.579,
+            140.858
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            262.665,
+            128.861,
+            272.809,
+            140.858
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            277.02,
+            128.861,
+            295.529,
+            140.858
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "following",
+          "box": [
+            175.86,
+            142.856,
+            229.936,
+            154.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "findings:",
+          "box": [
+            232.83,
+            142.856,
+            282.978,
+            154.853
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            188.235,
+            156.806,
+            192.23,
+            168.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Unreliable?**",
+          "box": [
+            196.425,
+            156.806,
+            273.202,
+            168.803
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            164.7,
+            170.801,
+            168.695,
+            182.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Distracting",
+          "box": [
+            172.845,
+            170.801,
+            235.825,
+            182.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "injury?***",
+          "box": [
+            238.77,
+            170.801,
+            296.767,
+            182.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            127.62,
+            184.751,
+            131.615,
+            196.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Abnormal",
+          "box": [
+            135.765,
+            184.751,
+            192.658,
+            196.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "sensory",
+          "box": [
+            196.875,
+            184.751,
+            240.557,
+            196.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            244.44,
+            184.751,
+            255.36,
+            196.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "motor",
+          "box": [
+            260.145,
+            184.751,
+            293.311,
+            196.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "exam?",
+          "box": [
+            298.08,
+            184.751,
+            335.827,
+            196.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            189.09,
+            198.701,
+            193.085,
+            210.698
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Spine",
+          "box": [
+            197.28,
+            198.701,
+            229.415,
+            210.698
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pain",
+          "box": [
+            232.29,
+            198.701,
+            256.914,
+            210.698
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            261.09,
+            198.701,
+            272.01,
+            210.698
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tenderness?",
+          "box": [
+            195.12,
+            212.696,
+            264.483,
+            224.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Immobilize",
+          "box": [
+            354.735,
+            393.596,
+            420.299,
+            405.593
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cervical",
+          "box": [
+            423.18,
+            393.596,
+            467.382,
+            405.593
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "spine",
+          "box": [
+            471.15,
+            393.596,
+            502.173,
+            405.593
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            505.35,
+            393.596,
+            530.424,
+            405.593
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "collar",
+          "box": [
+            534.6,
+            393.596,
+            565.62,
+            405.593
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            374.625,
+            407.546,
+            385.545,
+            419.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "alternate",
+          "box": [
+            390.33,
+            407.546,
+            442.141,
+            419.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "method",
+          "box": [
+            445.005,
+            407.546,
+            488.196,
+            419.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            491.85,
+            407.546,
+            502.505,
+            419.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "restrict",
+          "box": [
+            505.8,
+            407.546,
+            546.24,
+            419.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "spinal",
+          "box": [
+            421.515,
+            421.541,
+            455.286,
+            433.538
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "motion",
+          "box": [
+            459.45,
+            421.541,
+            499.369,
+            433.538
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-THEN-",
+          "box": [
+            440.775,
+            435.491,
+            481.508,
+            447.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Extricate",
+          "box": [
+            361.8,
+            449.486,
+            413.242,
+            461.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            416.115,
+            449.486,
+            441.189,
+            461.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "backboard",
+          "box": [
+            445.23,
+            449.486,
+            505.63,
+            461.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "OR",
+          "box": [
+            509.4,
+            449.486,
+            526.967,
+            461.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "other",
+          "box": [
+            529.2,
+            449.486,
+            558.381,
+            461.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "extrication",
+          "box": [
+            409.86,
+            463.436,
+            471.13,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "device",
+          "box": [
+            475.2,
+            463.436,
+            512.226,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-OR-",
+          "box": [
+            448.83,
+            477.386,
+            473.442,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            359.01,
+            491.336,
+            366.751,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "child",
+          "box": [
+            370.98,
+            491.336,
+            398.727,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            402.57,
+            491.336,
+            412.406,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            414.9,
+            491.336,
+            425.408,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "car",
+          "box": [
+            429.615,
+            491.336,
+            446.269,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "seat,",
+          "box": [
+            450.9,
+            491.336,
+            476.932,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "extricate",
+          "box": [
+            479.7,
+            491.336,
+            530.089,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            532.8,
+            491.336,
+            543.308,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            547.65,
+            491.336,
+            566.159,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "car",
+          "box": [
+            353.88,
+            505.286,
+            370.533,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "seat",
+          "box": [
+            375.3,
+            505.286,
+            397.108,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            401.13,
+            505.286,
+            408.303,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "child",
+          "box": [
+            412.515,
+            505.286,
+            440.262,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            444.06,
+            505.286,
+            453.896,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "already",
+          "box": [
+            456.3,
+            505.286,
+            498.847,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "strapped",
+          "box": [
+            502.65,
+            505.286,
+            552.51,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            556.2,
+            505.286,
+            566.708,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            423.945,
+            519.236,
+            449.019,
+            531.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "harness",
+          "box": [
+            452.7,
+            519.236,
+            498.294,
+            531.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "No",
+          "box": [
+            419.49,
+            163.781,
+            435.498,
+            175.778
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Yes",
+          "box": [
+            219.375,
+            251.126,
+            239.697,
+            263.123
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Yes",
+          "box": [
+            327.555,
+            306.161,
+            347.877,
+            318.158
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "No",
+          "box": [
+            221.13,
+            367.496,
+            237.138,
+            379.493
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "No",
+          "box": [
+            323.685,
+            448.136,
+            339.693,
+            460.133
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Once",
+          "box": [
+            66.285,
+            617.336,
+            95.505,
+            629.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            98.37,
+            617.336,
+            137.811,
+            629.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            141.84,
+            617.336,
+            151.676,
+            629.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            154.215,
+            617.336,
+            167.811,
+            629.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            171.99,
+            617.336,
+            190.499,
+            629.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EMS",
+          "box": [
+            193.365,
+            617.336,
+            220.096,
+            629.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "stretcher,",
+          "box": [
+            221.715,
+            617.336,
+            276.46,
+            629.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "remove",
+          "box": [
+            278.685,
+            617.336,
+            322.404,
+            629.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            325.26,
+            617.336,
+            343.769,
+            629.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "backboard",
+          "box": [
+            346.635,
+            617.336,
+            407.035,
+            629.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "UNLESS",
+          "box": [
+            410.895,
+            617.336,
+            458.128,
+            629.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "safe",
+          "box": [
+            459.45,
+            617.336,
+            482.601,
+            629.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transport",
+          "box": [
+            59.94,
+            631.286,
+            112.999,
+            643.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "requires",
+          "box": [
+            117.0,
+            631.286,
+            165.959,
+            643.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            168.525,
+            631.286,
+            187.034,
+            643.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "use",
+          "box": [
+            189.9,
+            631.286,
+            209.598,
+            643.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            212.49,
+            631.286,
+            222.634,
+            643.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            226.845,
+            631.286,
+            233.515,
+            643.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "backboard",
+          "box": [
+            236.7,
+            631.286,
+            297.1,
+            643.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(see",
+          "box": [
+            300.915,
+            631.286,
+            323.574,
+            643.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "PEARLS).",
+          "box": [
+            326.475,
+            631.286,
+            379.009,
+            643.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Transfer",
+          "box": [
+            382.23,
+            631.286,
+            429.872,
+            643.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            434.655,
+            631.286,
+            474.096,
+            643.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            477.9,
+            631.286,
+            488.555,
+            643.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "appropriate",
+          "box": [
+            59.895,
+            645.236,
+            128.101,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital",
+          "box": [
+            130.995,
+            645.236,
+            175.79,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "based",
+          "box": [
+            179.955,
+            645.236,
+            212.577,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            216.405,
+            645.236,
+            230.001,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "trauma",
+          "box": [
+            234.18,
+            645.236,
+            276.314,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "triage",
+          "box": [
+            279.54,
+            645.236,
+            313.015,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "decisions.",
+          "box": [
+            315.855,
+            645.236,
+            372.045,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            375.3,
+            645.236,
+            383.041,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            387.225,
+            645.236,
+            426.666,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            433.8,
+            645.236,
+            443.636,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            446.175,
+            645.236,
+            456.683,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            460.8,
+            645.236,
+            467.47,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "car",
+          "box": [
+            470.7,
+            645.236,
+            487.354,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "seat,",
+          "box": [
+            130.275,
+            659.186,
+            156.307,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "see",
+          "box": [
+            159.075,
+            659.186,
+            177.58,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pediatric",
+          "box": [
+            180.45,
+            659.186,
+            231.666,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Transportation",
+          "box": [
+            234.72,
+            659.186,
+            320.093,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol,",
+          "box": [
+            324.27,
+            659.186,
+            374.888,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pink",
+          "box": [
+            377.685,
+            659.186,
+            403.564,
+            671.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "7.",
+          "box": [
+            408.33,
+            659.186,
+            418.37,
+            671.183
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Place",
+          "box": [
+            58.59,
+            405.386,
+            88.884,
+            417.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            91.755,
+            405.386,
+            102.263,
+            417.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "cervical",
+          "box": [
+            58.365,
+            419.336,
+            102.567,
+            431.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "collar",
+          "box": [
+            52.155,
+            433.286,
+            83.175,
+            445.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            87.93,
+            433.286,
+            109.095,
+            445.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "allow",
+          "box": [
+            65.295,
+            447.236,
+            94.961,
+            459.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            53.775,
+            461.186,
+            93.216,
+            473.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            97.245,
+            461.186,
+            107.9,
+            473.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "self-extricate",
+          "box": [
+            44.01,
+            475.136,
+            118.222,
+            487.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Yes",
+          "box": [
+            121.32,
+            440.126,
+            141.642,
+            452.123
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0097.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 82.37,
+    "output_to_native_length_ratio": 0.982,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

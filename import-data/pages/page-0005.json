@@ -1,0 +1,3212 @@
+{
+  "id": "page-0005",
+  "pdf_page": 5,
+  "protocol_label": null,
+  "kind": "toc",
+  "chapter_id": null,
+  "topic_id": null,
+  "title": "Table of Contents",
+  "markdown": "# Table of Contents\n\n| Protocol Name | Color and Number |\n| --- | --- |\n| Stroke | Gold 10 - 13 |\n| Medical Shock | Gold 14 - 16 |\n| Abdominal Pain | Gold 17 |\n| Nausea and Vomiting | Gold 18 |\n| Fever | Gold 19 - 20 |\n| Trauma Triage | Green 1 - 2 |\n| Spine Assessment & Management | Green 3 - 5 |\n| Glasgow Coma Scale | Green 6 |\n| Chest Trauma | Green 7 |\n| Head Trauma | Green 8 - 11 |\n| Hemorrhage | Green 12 |\n| Hemorrhagic Shock | Green 13 - 15 |\n| Burn | Green 16 - 17 |\n| Universal Pain Management | Green 18 - 21 |\n| Termination of Resuscitation for Traumatic Cardiac Arrest | Green 22 |\n| Crush Injury | Green 23 |\n| Facial / Dental Injury | Green 24 |\n| Ophthalmology | Green 25 |\n| Open Fractures | Green 26 |\n| Strangulation | Green 27 |\n| Poisoning / Overdose | Yellow 1 - 3 |\n| Naloxone Dispensation | Yellow 4 |\n| Alcohol Intoxication / Severe Alcohol Withdrawal | Yellow 5 - 6 |\n| Nerve Agent / Organophosphate / Carbamate Poisoning | Yellow 7 |\n| Cyanide / CO Exposure | Yellow 8 - 9 |\n| Radiation Injuries | Yellow 10 |\n| Severe Hypothermia WITH Signs of Life | Yellow 11 |\n| Severe Hypothermia WITHOUT Signs of Life | Yellow 12 |\n| Hyperthermia - Heat Exhaustion / Heat Stroke | Yellow 13-14 |\n| Drowning/Submersion Injuries | Yellow 15 |\n| Obstetric Emergencies | Lavender 1 |\n| Child Birth | Lavender 2-3 |\n| Newborn Metrics / APGAR & O2 Saturation | Lavender 4 |\n| Newborn Resuscitation | Lavender 5 |\n| Brief Resolved Unexplained Event | Pink 1 |\n| Pediatric Respiratory Distress with Inspiratory Stridor | Pink 2 |\n| Neonatal and Young Infant Fever | Pink 3 |\n| Normal Pediatric Vital Signs | Pink 4 - 5 |\n| Pediatric Specific Equipment Sizes | Pink 6 |\n",
+  "plain_text": "Table of Contents Protocol Name Color and Number Stroke Gold 10 - 13 Medical Shock Gold 14 - 16 Abdominal Pain Gold 17 Nausea and Vomiting Gold 18 Fever Gold 19 - 20 Trauma Triage Green 1 - 2 Spine Assessment & Management Green 3 - 5 Glasgow Coma Scale Green 6 Chest Trauma Green 7 Head Trauma Green 8 - 11 Hemorrhage Green 12 Hemorrhagic Shock Green 13 - 15 Burn Green 16 - 17 Universal Pain Management Green 18 - 21 Termination of Resuscitation for Traumatic Cardiac Arrest Green 22 Crush Injury Green 23 Facial / Dental Injury Green 24 Ophthalmology Green 25 Open Fractures Green 26 Strangulation Green 27 Poisoning / Overdose Yellow 1 - 3 Naloxone Dispensation Yellow 4 Alcohol Intoxication / Severe Alcohol Withdrawal Yellow 5 - 6 Nerve Agent / Organophosphate / Carbamate Poisoning Yellow 7 Cyanide / CO Exposure Yellow 8 - 9 Radiation Injuries Yellow 10 Severe Hypothermia WITH Signs of Life Yellow 11 Severe Hypothermia WITHOUT Signs of Life Yellow 12 Hyperthermia - Heat Exhaustion / Heat Stroke Yellow 13-14 Drowning/Submersion Injuries Yellow 15 Obstetric Emergencies Lavender 1 Child Birth Lavender 2-3 Newborn Metrics / APGAR & O2 Saturation Lavender 4 Newborn Resuscitation Lavender 5 Brief Resolved Unexplained Event Pink 1 Pediatric Respiratory Distress with Inspiratory Stridor Pink 2 Neonatal and Young Infant Fever Pink 3 Normal Pediatric Vital Signs Pink 4 - 5 Pediatric Specific Equipment Sizes Pink 6",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        374.26,
+        34.09,
+        631.84,
+        56.82
+      ],
+      "text": "Tabl e of Cont ent s",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        265.74,
+        73.53,
+        832.19,
+        87.42
+      ],
+      "text": "Protocol Name Color and Number",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        98.48,
+        796.36,
+        108.71
+      ],
+      "text": "Stroke Gold 10 - 13",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        121.21,
+        796.36,
+        131.44
+      ],
+      "text": "Medical Shock Gold 14 - 16",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        143.94,
+        783.11,
+        154.16
+      ],
+      "text": "Abdominal Pain Gold 17",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        166.66,
+        783.11,
+        176.89
+      ],
+      "text": "Nausea and Vomiting Gold 18",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        189.39,
+        796.36,
+        199.62
+      ],
+      "text": "Fever Gold 19 - 20",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        212.12,
+        793.42,
+        222.34
+      ],
+      "text": "Trauma Triage Green 1 - 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        234.84,
+        793.42,
+        245.07
+      ],
+      "text": "Spine Assessment & Management Green 3 - 5",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        257.57,
+        783.85,
+        267.8
+      ],
+      "text": "Glasgow Coma Scale Green 6",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        280.3,
+        783.85,
+        290.53
+      ],
+      "text": "Chest Trauma Green 7",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        303.03,
+        796.84,
+        313.25
+      ],
+      "text": "Head Trauma Green 8 - 11",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        325.75,
+        787.53,
+        335.98
+      ],
+      "text": "Hemorrhage Green 12",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        348.48,
+        800.78,
+        358.71
+      ],
+      "text": "Hemorrhagic Shock Green 13 - 15",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        371.21,
+        800.78,
+        381.44
+      ],
+      "text": "Burn Green 16 - 17",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        393.94,
+        800.78,
+        404.16
+      ],
+      "text": "Universal Pain Management Green 18 - 21",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        416.66,
+        787.53,
+        426.89
+      ],
+      "text": "Termination of Resuscitation for Traumatic Cardiac Arrest Green 22",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        439.39,
+        787.53,
+        449.62
+      ],
+      "text": "Crush Injury Green 23",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        462.12,
+        787.53,
+        472.34
+      ],
+      "text": "Facial / Dental Injury Green 24",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        484.84,
+        787.53,
+        495.07
+      ],
+      "text": "Ophthalmology Green 25",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        507.57,
+        787.53,
+        517.8
+      ],
+      "text": "Open Fractures Green 26",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        530.3,
+        787.53,
+        540.53
+      ],
+      "text": "Strangulation Green 27",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        553.03,
+        795.61,
+        563.25
+      ],
+      "text": "Poisoning / Overdose Yellow 1 - 3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        575.41,
+        786.05,
+        585.64
+      ],
+      "text": "Naloxone Dispensation Yellow 4",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        598.14,
+        795.61,
+        608.37
+      ],
+      "text": "Alcohol Intoxication / Severe Alcohol Withdrawal Yellow 5 - 6",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        620.87,
+        786.05,
+        631.09
+      ],
+      "text": "Nerve Agent / Organophosphate / Carbamate Poisoning Yellow 7",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        643.59,
+        795.61,
+        653.82
+      ],
+      "text": "Cyanide / CO Exposure Yellow 8 - 9",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        666.32,
+        789.73,
+        676.55
+      ],
+      "text": "Radiation Injuries Yellow 10",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        689.05,
+        788.73,
+        699.28
+      ],
+      "text": "Severe Hypothermia WITH Signs of Life Yellow 11",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        711.78,
+        789.73,
+        722.0
+      ],
+      "text": "Severe Hypothermia WITHOUT Signs of Life Yellow 12",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        734.5,
+        799.26,
+        744.73
+      ],
+      "text": "Hyperthermia - Heat Exhaustion / Heat Stroke Yellow 13-14",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        757.23,
+        789.73,
+        767.46
+      ],
+      "text": "Drowning/Submersion Injuries Yellow 15",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        779.96,
+        792.69,
+        790.19
+      ],
+      "text": "Obstetric Emergencies Lavender 1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        802.69,
+        799.27,
+        812.91
+      ],
+      "text": "Child Birth Lavender 2-3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        825.41,
+        792.69,
+        835.64
+      ],
+      "text": "Newborn Metrics / APGAR & O2 Saturation Lavender 4",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        848.14,
+        792.69,
+        858.37
+      ],
+      "text": "Newborn Resuscitation Lavender 5",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        870.87,
+        777.96,
+        881.09
+      ],
+      "text": "Brief Resolved Unexplained Event Pink 1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        893.59,
+        777.96,
+        903.82
+      ],
+      "text": "Pediatric Respiratory Distress with Inspiratory Stridor Pink 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        916.32,
+        777.96,
+        926.55
+      ],
+      "text": "Neonatal and Young Infant Fever Pink 3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        939.05,
+        789.0,
+        949.28
+      ],
+      "text": "Normal Pediatric Vital Signs Pink 4 - 5",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0041",
+      "type": "text_line",
+      "box_1000": [
+        80.88,
+        961.78,
+        777.96,
+        972.0
+      ],
+      "text": "Pediatric Specific Equipment Sizes Pink 6",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "dbca2980c46d4a83ab70cd3a663afb55be1ae44e3492b7a068c43ad5b45f4248",
+    "native": {
+      "text": "Tabl e of Cont ent s\nProtocol Name Color and Number\nStroke Gold 10 - 13\nMedical Shock Gold 14 - 16\nAbdominal Pain Gold 17\nNausea and Vomiting Gold 18\nFever Gold 19 - 20\nTrauma Triage Green 1 - 2\nSpine Assessment & Management Green 3 - 5\nGlasgow Coma Scale Green 6\nChest Trauma Green 7\nHead Trauma Green 8 - 11\nHemorrhage Green 12\nHemorrhagic Shock Green 13 - 15\nBurn Green 16 - 17\nUniversal Pain Management Green 18 - 21\nTermination of Resuscitation for Traumatic Cardiac Arrest Green 22\nCrush Injury Green 23\nFacial / Dental Injury Green 24\nOphthalmology Green 25\nOpen Fractures Green 26\nStrangulation Green 27\nPoisoning / Overdose Yellow 1 - 3\nNaloxone Dispensation Yellow 4\nAlcohol Intoxication / Severe Alcohol Withdrawal Yellow 5 - 6\nNerve Agent / Organophosphate / Carbamate Poisoning Yellow 7\nCyanide / CO Exposure Yellow 8 - 9\nRadiation Injuries Yellow 10\nSevere Hypothermia WITH Signs of Life Yellow 11\nSevere Hypothermia WITHOUT Signs of Life Yellow 12\nHyperthermia - Heat Exhaustion / Heat Stroke Yellow 13-14\nDrowning/Submersion Injuries Yellow 15\nObstetric Emergencies Lavender 1\nChild Birth Lavender 2-3\nNewborn Metrics / APGAR & O2 Saturation Lavender 4\nNewborn Resuscitation Lavender 5\nBrief Resolved Unexplained Event Pink 1\nPediatric Respiratory Distress with Inspiratory Stridor Pink 2\nNeonatal and Young Infant Fever Pink 3\nNormal Pediatric Vital Signs Pink 4 - 5\nPediatric Specific Equipment Sizes Pink 6",
+      "body_text": "Hemorrhagic Shock Glasgow Coma Scale Chest Trauma Head Trauma Hemorrhage Burn Universal Pain Management Termination of Resuscitation for Traumatic Cardiac Arrest Poisoning / Overdose Nerve Agent / Organophosphate / Carbamate Poisoning Severe Hypothermia WITH Signs of Life Hyperthermia - Heat Exhaustion / Heat Stroke Drowning/Submersion Injuries Brief Resolved Unexplained Event Pediatric Respiratory Distress with Inspiratory Stridor Child Birth Newborn Resuscitation Normal Pediatric Vital Signs Green 8 - 11 Green 12 Green 13 - 15 Green 16 - 17 Green 18 - 21 Green 22 Green 23 Green 24 Yellow 1 - 3 Yellow 7 Yellow 8 - 9 Yellow 10 Yellow 12 Pink 1 Pink 2 Pink 3 Trauma Triage Spine Assessment & Management Green 3 - 5 Green 6 Green 7 Crush Injury Facial / Dental Injury Ophthalmology Green 25 Green 26 Green 27 Cyanide / CO Exposure Radiation Injuries Yellow 13-14 Yellow 15 Neonatal and Young Infant Fever Pink 4 - 5 Newborn Metrics / APGAR & O2 Saturation Naloxone Dispensation Yellow 4 Alcohol Intoxication / Severe Alcohol Withdrawal Yellow 5 - 6 Nausea and Vomiting Gold 19 - 20 Green 1 - 2 Open Fractures Fever Strangulation Stroke Gold 10 - 13 Medical Shock Gold 14 - 16 Abdominal Pain Gold 17 Gold 18 Yellow 11 Severe Hypothermia WITHOUT Signs of Life Obstetric Emergencies Lavender 1 Lavender 2-3 Lavender 4 Lavender 5",
+      "words": [
+        {
+          "text": "Protocol",
+          "box": [
+            162.63,
+            58.239,
+            206.506,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Name",
+          "box": [
+            210.155,
+            58.239,
+            240.07,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Color",
+          "box": [
+            414.495,
+            58.239,
+            442.507,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "and",
+          "box": [
+            446.22,
+            58.239,
+            465.141,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Number",
+          "box": [
+            468.454,
+            58.239,
+            509.299,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Tabl",
+          "box": [
+            229.05,
+            27.0,
+            266.535,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "e",
+          "box": [
+            268.875,
+            27.0,
+            278.883,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "of",
+          "box": [
+            283.815,
+            27.0,
+            299.673,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "Cont",
+          "box": [
+            306.675,
+            27.0,
+            346.194,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "ent",
+          "box": [
+            348.3,
+            27.0,
+            375.404,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "s",
+          "box": [
+            377.685,
+            27.0,
+            386.685,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "Hemorrhagic",
+          "box": [
+            48.6,
+            275.997,
+            94.856,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Shock",
+          "box": [
+            97.083,
+            275.997,
+            119.593,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Glasgow",
+          "box": [
+            48.6,
+            203.997,
+            80.088,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Coma",
+          "box": [
+            82.319,
+            203.997,
+            103.882,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Scale",
+          "box": [
+            106.133,
+            203.997,
+            126.371,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Chest",
+          "box": [
+            48.6,
+            221.997,
+            69.736,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Trauma",
+          "box": [
+            71.964,
+            221.997,
+            99.515,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Head",
+          "box": [
+            48.6,
+            239.997,
+            67.938,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Trauma",
+          "box": [
+            70.166,
+            239.997,
+            97.717,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Hemorrhage",
+          "box": [
+            48.6,
+            257.997,
+            93.532,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Burn",
+          "box": [
+            48.6,
+            293.997,
+            65.687,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Universal",
+          "box": [
+            48.6,
+            311.997,
+            82.291,
+            320.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pain",
+          "box": [
+            84.523,
+            311.997,
+            100.71,
+            320.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Management",
+          "box": [
+            102.937,
+            311.997,
+            150.169,
+            320.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Termination",
+          "box": [
+            48.6,
+            329.997,
+            90.357,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "of",
+          "box": [
+            92.585,
+            329.997,
+            99.34,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Resuscitation",
+          "box": [
+            101.592,
+            329.997,
+            150.146,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "for",
+          "box": [
+            152.419,
+            329.997,
+            161.871,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Traumatic",
+          "box": [
+            164.079,
+            329.997,
+            199.709,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Cardiac",
+          "box": [
+            201.982,
+            329.997,
+            229.825,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Arrest",
+          "box": [
+            232.052,
+            329.997,
+            253.616,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Poisoning",
+          "box": [
+            49.5,
+            437.997,
+            85.026,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            87.277,
+            437.997,
+            89.529,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Overdose",
+          "box": [
+            91.781,
+            437.997,
+            126.875,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Nerve",
+          "box": [
+            49.5,
+            491.727,
+            71.062,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Agent",
+          "box": [
+            73.314,
+            491.727,
+            94.479,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            96.731,
+            491.727,
+            98.983,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Organophosphate",
+          "box": [
+            101.235,
+            491.727,
+            166.055,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            168.283,
+            491.727,
+            170.535,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Carbamate",
+          "box": [
+            172.787,
+            491.727,
+            212.789,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Poisoning",
+          "box": [
+            215.061,
+            491.727,
+            250.587,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Severe",
+          "box": [
+            49.5,
+            545.727,
+            75.141,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Hypothermia",
+          "box": [
+            77.369,
+            545.727,
+            123.198,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "WITH",
+          "box": [
+            125.45,
+            545.727,
+            146.105,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Signs",
+          "box": [
+            148.357,
+            545.727,
+            168.594,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "of",
+          "box": [
+            170.822,
+            545.727,
+            177.577,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Life",
+          "box": [
+            179.829,
+            545.727,
+            192.865,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Hyperthermia",
+          "box": [
+            49.5,
+            581.727,
+            98.007,
+            589.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            100.235,
+            581.727,
+            102.932,
+            589.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Heat",
+          "box": [
+            105.185,
+            581.727,
+            122.271,
+            589.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Exhaustion",
+          "box": [
+            124.499,
+            581.727,
+            164.549,
+            589.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            166.821,
+            581.727,
+            169.073,
+            589.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Heat",
+          "box": [
+            171.325,
+            581.727,
+            188.411,
+            589.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Stroke",
+          "box": [
+            190.639,
+            581.727,
+            214.028,
+            589.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Drowning/Submersion",
+          "box": [
+            49.5,
+            599.727,
+            129.029,
+            607.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Injuries",
+          "box": [
+            131.257,
+            599.727,
+            157.302,
+            607.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Brief",
+          "box": [
+            48.6,
+            689.727,
+            65.213,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Resolved",
+          "box": [
+            67.465,
+            689.727,
+            101.184,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Unexplained",
+          "box": [
+            103.436,
+            689.727,
+            148.394,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Event",
+          "box": [
+            150.621,
+            689.727,
+            171.333,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pediatric",
+          "box": [
+            48.6,
+            707.727,
+            80.048,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Respiratory",
+          "box": [
+            82.275,
+            707.727,
+            123.601,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Distress",
+          "box": [
+            125.853,
+            707.727,
+            155.041,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "with",
+          "box": [
+            157.314,
+            707.727,
+            171.674,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Inspiratory",
+          "box": [
+            173.926,
+            707.727,
+            211.676,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Stridor",
+          "box": [
+            213.904,
+            707.727,
+            237.718,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Child",
+          "box": [
+            48.6,
+            635.727,
+            66.99,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Birth",
+          "box": [
+            69.217,
+            635.727,
+            85.83,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Newborn",
+          "box": [
+            49.5,
+            671.727,
+            81.847,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Resuscitation",
+          "box": [
+            84.074,
+            671.727,
+            132.628,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Normal",
+          "box": [
+            48.6,
+            743.727,
+            74.638,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pediatric",
+          "box": [
+            76.869,
+            743.727,
+            108.317,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Vital",
+          "box": [
+            110.544,
+            743.727,
+            126.118,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Signs",
+          "box": [
+            128.37,
+            743.727,
+            148.607,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pediatric",
+          "box": [
+            49.5,
+            761.727,
+            80.948,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Specific",
+          "box": [
+            83.175,
+            761.727,
+            111.492,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Equipment",
+          "box": [
+            113.744,
+            761.727,
+            152.421,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Sizes",
+          "box": [
+            154.673,
+            761.727,
+            174.457,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            442.89,
+            239.997,
+            465.38,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "8",
+          "box": [
+            467.563,
+            239.997,
+            472.066,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            474.318,
+            239.997,
+            477.015,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "11",
+          "box": [
+            479.268,
+            239.997,
+            487.664,
+            248.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            448.425,
+            257.997,
+            470.915,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "12",
+          "box": [
+            472.963,
+            257.997,
+            481.97,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            440.325,
+            275.997,
+            462.815,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "13",
+          "box": [
+            464.863,
+            275.997,
+            473.87,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            476.122,
+            275.997,
+            478.819,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "15",
+          "box": [
+            481.072,
+            275.997,
+            490.079,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            440.325,
+            293.997,
+            462.815,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "16",
+          "box": [
+            464.863,
+            293.997,
+            473.87,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            476.122,
+            293.997,
+            478.819,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "17",
+          "box": [
+            481.072,
+            293.997,
+            490.079,
+            302.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            440.325,
+            311.997,
+            462.815,
+            320.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "18",
+          "box": [
+            464.863,
+            311.997,
+            473.87,
+            320.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            476.122,
+            311.997,
+            478.819,
+            320.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "21",
+          "box": [
+            481.072,
+            311.997,
+            490.079,
+            320.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            448.425,
+            329.997,
+            470.915,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "22",
+          "box": [
+            472.963,
+            329.997,
+            481.97,
+            338.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            448.425,
+            347.997,
+            470.915,
+            356.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "23",
+          "box": [
+            472.963,
+            347.997,
+            481.97,
+            356.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            448.425,
+            365.997,
+            470.915,
+            374.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "24",
+          "box": [
+            472.963,
+            365.997,
+            481.97,
+            374.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Yellow",
+          "box": [
+            445.455,
+            437.997,
+            468.523,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "1",
+          "box": [
+            470.707,
+            437.997,
+            475.211,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            477.463,
+            437.997,
+            480.16,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "3",
+          "box": [
+            482.413,
+            437.997,
+            486.916,
+            446.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Yellow",
+          "box": [
+            450.9,
+            491.727,
+            473.968,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "7",
+          "box": [
+            476.557,
+            491.727,
+            481.061,
+            499.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Yellow",
+          "box": [
+            445.455,
+            509.727,
+            468.523,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "8",
+          "box": [
+            470.707,
+            509.727,
+            475.211,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            477.463,
+            509.727,
+            480.16,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "9",
+          "box": [
+            482.413,
+            509.727,
+            486.916,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Yellow",
+          "box": [
+            449.055,
+            527.727,
+            472.123,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "10",
+          "box": [
+            474.307,
+            527.727,
+            483.314,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Yellow",
+          "box": [
+            449.055,
+            563.727,
+            472.123,
+            571.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "12",
+          "box": [
+            474.307,
+            563.727,
+            483.314,
+            571.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pink",
+          "box": [
+            454.05,
+            689.727,
+            469.784,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "1",
+          "box": [
+            471.606,
+            689.727,
+            476.11,
+            697.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pink",
+          "box": [
+            454.05,
+            707.727,
+            469.784,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "2",
+          "box": [
+            471.606,
+            707.727,
+            476.11,
+            715.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pink",
+          "box": [
+            454.05,
+            725.727,
+            469.784,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "3",
+          "box": [
+            471.606,
+            725.727,
+            476.11,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pink",
+          "box": [
+            454.05,
+            761.727,
+            469.784,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "6",
+          "box": [
+            471.606,
+            761.727,
+            476.11,
+            769.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Trauma",
+          "box": [
+            48.6,
+            167.997,
+            76.151,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Triage",
+          "box": [
+            78.403,
+            167.997,
+            101.003,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Spine",
+          "box": [
+            48.6,
+            185.997,
+            69.291,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Assessment",
+          "box": [
+            71.518,
+            185.997,
+            115.611,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "&",
+          "box": [
+            117.884,
+            185.997,
+            123.287,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Management",
+          "box": [
+            125.538,
+            185.997,
+            172.77,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            444.825,
+            185.997,
+            467.315,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "3",
+          "box": [
+            469.363,
+            185.997,
+            473.866,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            476.118,
+            185.997,
+            478.815,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "5",
+          "box": [
+            481.068,
+            185.997,
+            485.572,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            450.45,
+            203.997,
+            472.94,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "6",
+          "box": [
+            475.213,
+            203.997,
+            479.716,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            450.45,
+            221.997,
+            472.94,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "7",
+          "box": [
+            475.213,
+            221.997,
+            479.716,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Crush",
+          "box": [
+            48.6,
+            347.997,
+            70.162,
+            356.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Injury",
+          "box": [
+            72.414,
+            347.997,
+            92.178,
+            356.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Facial",
+          "box": [
+            48.6,
+            365.997,
+            70.16,
+            374.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            72.367,
+            365.997,
+            74.619,
+            374.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Dental",
+          "box": [
+            76.871,
+            365.997,
+            100.259,
+            374.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Injury",
+          "box": [
+            102.49,
+            365.997,
+            122.254,
+            374.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Ophthalmology",
+          "box": [
+            48.6,
+            383.997,
+            103.011,
+            392.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            448.425,
+            383.997,
+            470.915,
+            392.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "25",
+          "box": [
+            472.963,
+            383.997,
+            481.97,
+            392.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            448.425,
+            401.997,
+            470.915,
+            410.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "26",
+          "box": [
+            472.963,
+            401.997,
+            481.97,
+            410.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            448.425,
+            419.997,
+            470.915,
+            428.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "27",
+          "box": [
+            472.963,
+            419.997,
+            481.97,
+            428.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Cyanide",
+          "box": [
+            49.5,
+            509.727,
+            79.169,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            81.421,
+            509.727,
+            83.673,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "CO",
+          "box": [
+            85.925,
+            509.727,
+            98.054,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Exposure",
+          "box": [
+            100.282,
+            509.727,
+            134.476,
+            517.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Radiation",
+          "box": [
+            49.5,
+            527.727,
+            83.652,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Injuries",
+          "box": [
+            85.88,
+            527.727,
+            111.925,
+            535.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Yellow",
+          "box": [
+            443.205,
+            581.727,
+            466.273,
+            589.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "13-14",
+          "box": [
+            468.457,
+            581.727,
+            489.149,
+            589.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Yellow",
+          "box": [
+            449.055,
+            599.727,
+            472.123,
+            607.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "15",
+          "box": [
+            474.307,
+            599.727,
+            483.314,
+            607.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Neonatal",
+          "box": [
+            48.6,
+            725.727,
+            80.995,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "and",
+          "box": [
+            83.227,
+            725.727,
+            96.737,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Young",
+          "box": [
+            98.989,
+            725.727,
+            121.661,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Infant",
+          "box": [
+            123.889,
+            725.727,
+            144.155,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Fever",
+          "box": [
+            146.407,
+            725.727,
+            167.089,
+            733.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pink",
+          "box": [
+            449.1,
+            743.727,
+            464.834,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "4",
+          "box": [
+            467.106,
+            743.727,
+            471.61,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            473.862,
+            743.727,
+            476.559,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "5",
+          "box": [
+            478.362,
+            743.727,
+            482.865,
+            751.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Newborn",
+          "box": [
+            49.5,
+            653.727,
+            81.847,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Metrics",
+          "box": [
+            84.074,
+            653.727,
+            110.112,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            112.385,
+            653.727,
+            114.637,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "APGAR",
+          "box": [
+            116.888,
+            653.727,
+            145.247,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "&",
+          "box": [
+            147.453,
+            653.727,
+            152.856,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "O2",
+          "box": [
+            155.108,
+            653.727,
+            165.913,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Saturation",
+          "box": [
+            168.165,
+            653.727,
+            205.044,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Naloxone",
+          "box": [
+            49.5,
+            455.727,
+            83.673,
+            463.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Dispensation",
+          "box": [
+            85.925,
+            455.727,
+            132.681,
+            463.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Yellow",
+          "box": [
+            450.9,
+            455.727,
+            473.968,
+            463.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "4",
+          "box": [
+            476.557,
+            455.727,
+            481.061,
+            463.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Alcohol",
+          "box": [
+            49.5,
+            473.727,
+            76.039,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Intoxication",
+          "box": [
+            78.27,
+            473.727,
+            119.199,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            121.45,
+            473.727,
+            123.702,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Severe",
+          "box": [
+            125.954,
+            473.727,
+            151.595,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Alcohol",
+          "box": [
+            153.823,
+            473.727,
+            180.362,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Withdrawal",
+          "box": [
+            182.593,
+            473.727,
+            222.567,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Yellow",
+          "box": [
+            445.455,
+            473.727,
+            468.523,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "5",
+          "box": [
+            470.707,
+            473.727,
+            475.211,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            477.463,
+            473.727,
+            480.16,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "6",
+          "box": [
+            482.413,
+            473.727,
+            486.916,
+            481.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Nausea",
+          "box": [
+            49.5,
+            131.997,
+            77.392,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "and",
+          "box": [
+            79.619,
+            131.997,
+            93.13,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Vomiting",
+          "box": [
+            95.382,
+            131.997,
+            126.377,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Gold",
+          "box": [
+            443.025,
+            149.997,
+            460.111,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "19",
+          "box": [
+            462.159,
+            149.997,
+            471.166,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            473.418,
+            149.997,
+            476.115,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "20",
+          "box": [
+            478.368,
+            149.997,
+            487.375,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            444.825,
+            167.997,
+            467.315,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "1",
+          "box": [
+            469.363,
+            167.997,
+            473.866,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            476.118,
+            167.997,
+            478.815,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "2",
+          "box": [
+            481.068,
+            167.997,
+            485.572,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Open",
+          "box": [
+            48.6,
+            401.997,
+            68.413,
+            410.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Fractures",
+          "box": [
+            70.664,
+            401.997,
+            104.81,
+            410.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Fever",
+          "box": [
+            48.6,
+            149.997,
+            69.282,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Strangulation",
+          "box": [
+            48.6,
+            419.997,
+            96.264,
+            428.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Stroke",
+          "box": [
+            49.5,
+            77.997,
+            72.889,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Gold",
+          "box": [
+            443.025,
+            77.997,
+            460.111,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "10",
+          "box": [
+            462.159,
+            77.997,
+            471.166,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            473.418,
+            77.997,
+            476.115,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "13",
+          "box": [
+            478.368,
+            77.997,
+            487.375,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Medical",
+          "box": [
+            49.5,
+            95.997,
+            77.364,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Shock",
+          "box": [
+            79.571,
+            95.997,
+            102.081,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Gold",
+          "box": [
+            443.025,
+            95.997,
+            460.111,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "14",
+          "box": [
+            462.159,
+            95.997,
+            471.166,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            473.418,
+            95.997,
+            476.115,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "16",
+          "box": [
+            478.368,
+            95.997,
+            487.375,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Abdominal",
+          "box": [
+            48.6,
+            113.997,
+            86.824,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Pain",
+          "box": [
+            89.031,
+            113.997,
+            105.218,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Gold",
+          "box": [
+            450.9,
+            113.997,
+            467.986,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "17",
+          "box": [
+            470.259,
+            113.997,
+            479.266,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Gold",
+          "box": [
+            450.9,
+            131.997,
+            467.986,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "18",
+          "box": [
+            470.259,
+            131.997,
+            479.266,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Yellow",
+          "box": [
+            449.325,
+            545.727,
+            472.393,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "11",
+          "box": [
+            474.307,
+            545.727,
+            482.703,
+            553.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Severe",
+          "box": [
+            49.5,
+            563.727,
+            75.141,
+            571.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Hypothermia",
+          "box": [
+            77.369,
+            563.727,
+            123.198,
+            571.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "WITHOUT",
+          "box": [
+            125.45,
+            563.727,
+            163.163,
+            571.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Signs",
+          "box": [
+            165.235,
+            563.727,
+            185.473,
+            571.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "of",
+          "box": [
+            187.745,
+            563.727,
+            194.501,
+            571.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Life",
+          "box": [
+            196.753,
+            563.727,
+            209.789,
+            571.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Obstetric",
+          "box": [
+            48.6,
+            617.727,
+            80.968,
+            625.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Emergencies",
+          "box": [
+            83.219,
+            617.727,
+            130.423,
+            625.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Lavender",
+          "box": [
+            445.05,
+            617.727,
+            478.819,
+            625.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "1",
+          "box": [
+            480.622,
+            617.727,
+            485.125,
+            625.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Lavender",
+          "box": [
+            441.45,
+            635.727,
+            475.219,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "2-3",
+          "box": [
+            477.472,
+            635.727,
+            489.156,
+            643.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Lavender",
+          "box": [
+            445.05,
+            653.727,
+            478.819,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "4",
+          "box": [
+            480.622,
+            653.727,
+            485.125,
+            661.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Lavender",
+          "box": [
+            445.05,
+            671.727,
+            478.819,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "5",
+          "box": [
+            480.622,
+            671.727,
+            485.125,
+            679.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0005.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 100.0,
+    "output_to_native_length_ratio": 1.0,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "pre_refinement_warnings": [
+      "low_native_similarity"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

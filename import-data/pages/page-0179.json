@@ -1,0 +1,4529 @@
+{
+  "id": "page-0179",
+  "pdf_page": 179,
+  "protocol_label": "Grey 22",
+  "kind": "protocol",
+  "chapter_id": "grey",
+  "topic_id": "grey-transport-protocol",
+  "title": "Transport Protocol",
+  "markdown": "# Transport Protocol\n\n### EMS Clinician Assesses Patient\n\n*   **Patient Accepts Treatment/Transport?**\n    *   **YES**: Patient Transported\n    *   **NO**: Decision-Making Capacity\\*?\n        *   **YES**: Patient WITH Decision-Making Capacity\\* NOT Transported\n        *   **NO**: Patient WITHOUT Decision-Making Capacity\\* Transported\n\n\\*A patient without decision-making capacity would be one who has one or more of the following: an altered mental status or intoxicated, confused, delirious, psychotic, comatose, unable to understand the language, or is a minor, etc. Additionally, a patient who demonstrates a suicidal/self harm gesture or admission, either verbally or in writing, shall be considered to be WITHOUT decision-making capacity.\n\n1. If there is a question of decision-making capacity or the patient does not appear to understand the consequences of his/her refusal of transport, then contact OLMC.\n2. The patient must be informed of the consequences of his/her refusal to be transported. This must be documented in the patient care report.\n3. This screening may typically arise when an ambulance is requested by someone other than the patient (i.e., the police, a bystander). The EMS run report must always be completed.\n4. If the patient refuses transport and is judged to be without decision-making capacity, the EMS clinician must speak directly with OLMC. If unable to reach OLMC, the patient is transported.\n5. **EMS System initiated patient sign offs are tremendously risky interactions and are not condoned by Maine EMS.**\n6. **The service is expected to review all patient sign offs through the service's quality assurance mechanism. Patient medical records must be completed for all of these interactions,and must include the following information:**\n    a. The patient must be calm, with decision-making capacity, sober, and alert with the absence of any acute medical/surgical or traumatic process that impairs the patient's decision-making capacity\n    b. Greater than 18 years, emancipated, or contact with guardian\n    c. Service(s) offered\n    d. Reason service(s) declined\n    e. Statement of risks and patient understanding of risk\n    f. Discussion of alternatives to service offered and potential consequences of declining offered service\n    g. Discussion with patient that EMS services may be accessed at any time, and that the patient had decision-making capacity.\n\n(continued)\n",
+  "plain_text": "Transport Protocol EMS Clinician Assesses Patient Patient Accepts Treatment/Transport? YES: Patient Transported NO: Decision-Making Capacity? YES: Patient WITH Decision-Making Capacity NOT Transported NO: Patient WITHOUT Decision-Making Capacity Transported A patient without decision-making capacity would be one who has one or more of the following: an altered mental status or intoxicated, confused, delirious, psychotic, comatose, unable to understand the language, or is a minor, etc. Additionally, a patient who demonstrates a suicidal/self harm gesture or admission, either verbally or in writing, shall be considered to be WITHOUT decision-making capacity. If there is a question of decision-making capacity or the patient does not appear to understand the consequences of his/her refusal of transport, then contact OLMC. The patient must be informed of the consequences of his/her refusal to be transported. This must be documented in the patient care report. This screening may typically arise when an ambulance is requested by someone other than the patient (i.e., the police, a bystander). The EMS run report must always be completed. If the patient refuses transport and is judged to be without decision-making capacity, the EMS clinician must speak directly with OLMC. If unable to reach OLMC, the patient is transported. EMS System initiated patient sign offs are tremendously risky interactions and are not condoned by Maine EMS. The service is expected to review all patient sign offs through the service's quality assurance mechanism. Patient medical records must be completed for all of these interactions,and must include the following information: The patient must be calm, with decision-making capacity, sober, and alert with the absence of any acute medical/surgical or traumatic process that impairs the patient's decision-making capacity Greater than 18 years, emancipated, or contact with guardian Service(s) offered Reason service(s) declined Statement of risks and patient understanding of risk Discussion of alternatives to service offered and potential consequences of declining offered service Discussion with patient that EMS services may be accessed at any time, and that the patient had decision-making capacity. (continued)",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        323.9,
+        45.49,
+        661.21,
+        70.74
+      ],
+      "text": "Tr anspor t Pr otocol #1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        350.66,
+        112.48,
+        633.06,
+        127.62
+      ],
+      "text": "EMS Clinician Assesses Patient",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        308.68,
+        180.66,
+        662.9,
+        195.81
+      ],
+      "text": "Patient Accepts Treatment/Transport?",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        375.07,
+        210.5,
+        577.09,
+        225.45
+      ],
+      "text": "YES NO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        127.5,
+        248.84,
+        851.46,
+        263.99
+      ],
+      "text": "Patient Transported Decision-Making Capacity*?",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        455.88,
+        289.76,
+        733.41,
+        302.39
+      ],
+      "text": "YES NO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        156.54,
+        326.96,
+        805.19,
+        342.11
+      ],
+      "text": "Patient WITH Patient WITHOUT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        95.0,
+        344.58,
+        843.53,
+        359.73
+      ],
+      "text": "Decision-Making Capacity* Decision-Making Capacity*",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        139.41,
+        362.25,
+        777.18,
+        377.4
+      ],
+      "text": "NOT Transported Transported",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        399.56,
+        898.78,
+        413.44
+      ],
+      "text": "*A patient without decision-making capacity would be one who has one or more of the following: an",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        415.75,
+        890.14,
+        429.64
+      ],
+      "text": "altered mental status or intoxicated, confused, delirious, psychotic, comatose, unable to understand",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        431.89,
+        907.52,
+        445.77
+      ],
+      "text": "the language, or is a minor, etc. Additionally, a patient who demonstrates a suicidal/self harm gesture",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        448.08,
+        863.76,
+        461.97
+      ],
+      "text": "or admission, either verbally or in writing, shall be considered to be WITHOUT decision-making",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        464.27,
+        119.4,
+        478.16
+      ],
+      "text": "capacity.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        70.6,
+        496.6,
+        791.69,
+        510.49
+      ],
+      "text": "1. If there is a question of decision-making capacity or the patient does not appear to",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        97.06,
+        512.74,
+        786.61,
+        526.62
+      ],
+      "text": "understand the consequences of his/her refusal of transport, then contact OLMC.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        70.6,
+        528.93,
+        830.08,
+        542.82
+      ],
+      "text": "2. The patient must be informed of the consequences of his/her refusal to be transported.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        97.06,
+        545.07,
+        541.91,
+        558.95
+      ],
+      "text": "This must be documented in the patient care report.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        70.6,
+        561.15,
+        901.99,
+        575.03
+      ],
+      "text": "3. This screening may typically arise when an ambulance is requested by someone other than the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        97.06,
+        577.06,
+        815.87,
+        590.94
+      ],
+      "text": "patient (i.e., the police, a bystander). The EMS run report must always be completed.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        70.6,
+        593.53,
+        815.88,
+        607.42
+      ],
+      "text": "4. If the patient refuses transport and is judged to be without decision-making capacity,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        97.06,
+        609.44,
+        856.64,
+        623.33
+      ],
+      "text": "the EMS clinician must speak directly with OLMC. If unable to reach OLMC, the patient is",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        97.06,
+        625.92,
+        203.31,
+        639.81
+      ],
+      "text": "transported.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        70.6,
+        641.83,
+        838.24,
+        655.72
+      ],
+      "text": "5. EMS System initiated patient sign offs ar e tr emendously r isky inter actions and ar e",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        97.06,
+        657.74,
+        357.57,
+        671.62
+      ],
+      "text": "not condoned by Maine EMS.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        70.6,
+        674.22,
+        833.89,
+        688.1
+      ],
+      "text": "6. The ser vice is expected to r eview all patient sign offs through the ser vice?s quality",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        97.06,
+        690.12,
+        837.98,
+        704.01
+      ],
+      "text": "assur ance mechanism. Patient medical r ecor ds must be completed for all of these",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        97.06,
+        706.6,
+        614.87,
+        720.49
+      ],
+      "text": "inter actions,and must include the following infor mation:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        123.53,
+        722.51,
+        812.55,
+        736.4
+      ],
+      "text": "a. The patient must be calm, with decision-making capacity, sober, and alert with",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        150.0,
+        738.99,
+        905.5,
+        752.88
+      ],
+      "text": "the absence of any acute medical/surgical or traumatic process that impairs the patient?s",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        150.0,
+        754.9,
+        365.9,
+        768.78
+      ],
+      "text": "decision-making capacity",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        123.53,
+        771.37,
+        668.6,
+        785.26
+      ],
+      "text": "b. Greater than 18 years, emancipated, or contact with guardian",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        123.53,
+        787.28,
+        291.05,
+        801.17
+      ],
+      "text": "c. Service(s) offered",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        123.53,
+        803.76,
+        368.48,
+        817.65
+      ],
+      "text": "d. Reason service(s) declined",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        123.53,
+        819.67,
+        586.96,
+        833.56
+      ],
+      "text": "e. Statement of risks and patient understanding of risk",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        123.53,
+        835.58,
+        773.28,
+        849.47
+      ],
+      "text": "f. Discussion of alternatives to service offered and potential consequences of",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        150.0,
+        852.06,
+        362.08,
+        865.94
+      ],
+      "text": "declining offered service",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        123.53,
+        867.97,
+        823.11,
+        881.85
+      ],
+      "text": "g. Discussion with patient that EMS services may be accessed at any time, and that",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        150.0,
+        884.44,
+        505.5,
+        898.33
+      ],
+      "text": "the patient had decision-making capacity.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        783.09,
+        924.92,
+        897.57,
+        940.07
+      ],
+      "text": "(continued)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0041",
+      "type": "text_line",
+      "box_1000": [
+        437.35,
+        950.49,
+        895.38,
+        965.64
+      ],
+      "text": "(Back to TOC) Grey 22",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "57c8bafd3a19c688cac658026915a5fc7a3b9a5ecc215ff8d61752ab674439e3",
+    "native": {
+      "text": "Tr anspor t Pr otocol #1\nEMS Clinician Assesses Patient\nPatient Accepts Treatment/Transport?\nYES NO\nPatient Transported Decision-Making Capacity*?\nYES NO\nPatient WITH Patient WITHOUT\nDecision-Making Capacity* Decision-Making Capacity*\nNOT Transported Transported\n*A patient without decision-making capacity would be one who has one or more of the following: an\naltered mental status or intoxicated, confused, delirious, psychotic, comatose, unable to understand\nthe language, or is a minor, etc. Additionally, a patient who demonstrates a suicidal/self harm gesture\nor admission, either verbally or in writing, shall be considered to be WITHOUT decision-making\ncapacity.\n1. If there is a question of decision-making capacity or the patient does not appear to\nunderstand the consequences of his/her refusal of transport, then contact OLMC.\n2. The patient must be informed of the consequences of his/her refusal to be transported.\nThis must be documented in the patient care report.\n3. This screening may typically arise when an ambulance is requested by someone other than the\npatient (i.e., the police, a bystander). The EMS run report must always be completed.\n4. If the patient refuses transport and is judged to be without decision-making capacity,\nthe EMS clinician must speak directly with OLMC. If unable to reach OLMC, the patient is\ntransported.\n5. EMS System initiated patient sign offs ar e tr emendously r isky inter actions and ar e\nnot condoned by Maine EMS.\n6. The ser vice is expected to r eview all patient sign offs through the ser vice?s quality\nassur ance mechanism. Patient medical r ecor ds must be completed for all of these\ninter actions,and must include the following infor mation:\na. The patient must be calm, with decision-making capacity, sober, and alert with\nthe absence of any acute medical/surgical or traumatic process that impairs the patient?s\ndecision-making capacity\nb. Greater than 18 years, emancipated, or contact with guardian\nc. Service(s) offered\nd. Reason service(s) declined\ne. Statement of risks and patient understanding of risk\nf. Discussion of alternatives to service offered and potential consequences of\ndeclining offered service\ng. Discussion with patient that EMS services may be accessed at any time, and that\nthe patient had decision-making capacity.\n(continued)\n(Back to TOC) Grey 22",
+      "body_text": "*A patient without decision-making capacity would be one who has one or more of the following: an altered mental status or intoxicated, confused, delirious, psychotic, comatose, unable to understand the language, or is a minor, etc. Additionally, a patient who demonstrates a suicidal/self harm gesture or admission, either verbally or in writing, shall be considered to be WITHOUT decision-making capacity. 1. If there is a question of decision-making capacity or the patient does not appear to understand the consequences of his/her refusal of transport, then contact OLMC. 2. The patient must be informed of the consequences of his/her refusal to be transported. This must be documented in the patient care report. 3. This screening may typically arise when an ambulance is requested by someone other than the patient (i.e., the police, a bystander). The EMS run report must always be completed. 4. If the patient refuses transport and is judged to be without decision-making capacity, the EMS clinician must speak directly with OLMC. If unable to reach OLMC, the patient is transported. 5. EMS System initiated patient sign offs ar e tr emendously r isky inter actions and ar e not condoned by Maine EMS. 6. The ser vice is expected to r eview all patient sign offs through the ser vice?s quality assur ance mechanism. Patient medical r ecor ds must be completed for all of these inter actions,and must include the following infor mation: a. The patient must be calm, with decision-making capacity, sober, and alert with the absence of any acute medical/surgical or traumatic process that impairs the patient?s decision-making capacity b. Greater than 18 years, emancipated, or contact with guardian c. Service(s) offered d. Reason service(s) declined e. Statement of risks and patient understanding of risk f. Discussion of alternatives to service offered and potential consequences of declining offered service g. Discussion with patient that EMS services may be accessed at any time, and that the patient had decision-making capacity. EMS Clinician Assesses Patient Patient Accepts Treatment/Transport? Patient Transported Decision-Making Capacity*? YES NO Patient WITH Decision-Making Capacity* NOT Transported Patient WITHOUT Decision-Making Capacity* Transported YES NO (continued)",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            267.66,
+            752.786,
+            298.314,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            302.49,
+            752.786,
+            313.145,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            316.485,
+            752.786,
+            344.1,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Grey",
+          "box": [
+            504.45,
+            752.786,
+            530.969,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "22",
+          "box": [
+            534.6,
+            752.786,
+            547.975,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Tr",
+          "box": [
+            198.225,
+            36.027,
+            217.138,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "anspor",
+          "box": [
+            219.901,
+            36.027,
+            283.553,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "t",
+          "box": [
+            286.317,
+            36.027,
+            291.876,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Pr",
+          "box": [
+            298.575,
+            36.027,
+            317.312,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "otocol",
+          "box": [
+            319.878,
+            36.027,
+            375.424,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#1",
+          "box": [
+            382.365,
+            36.027,
+            404.662,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "*A",
+          "box": [
+            27.0,
+            316.449,
+            39.835,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            43.11,
+            316.449,
+            79.261,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "without",
+          "box": [
+            82.935,
+            316.449,
+            123.163,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "decision-making",
+          "box": [
+            126.855,
+            316.449,
+            213.484,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "capacity",
+          "box": [
+            216.135,
+            316.449,
+            258.985,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "would",
+          "box": [
+            262.575,
+            316.449,
+            294.794,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            298.305,
+            316.449,
+            311.17,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "one",
+          "box": [
+            313.785,
+            316.449,
+            333.337,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "who",
+          "box": [
+            335.97,
+            316.449,
+            358.433,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "has",
+          "box": [
+            361.53,
+            316.449,
+            380.2,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "one",
+          "box": [
+            382.545,
+            316.449,
+            402.097,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "or",
+          "box": [
+            404.73,
+            316.449,
+            414.737,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "more",
+          "box": [
+            419.13,
+            316.449,
+            447.16,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            449.775,
+            316.449,
+            459.069,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            462.6,
+            316.449,
+            479.567,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "following:",
+          "box": [
+            482.395,
+            316.449,
+            534.813,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "an",
+          "box": [
+            537.745,
+            316.449,
+            550.052,
+            327.447
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "altered",
+          "box": [
+            27.0,
+            329.274,
+            63.434,
+            340.272
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "mental",
+          "box": [
+            66.915,
+            329.274,
+            102.681,
+            340.272
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "status",
+          "box": [
+            106.515,
+            329.274,
+            137.781,
+            340.272
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "or",
+          "box": [
+            140.13,
+            329.274,
+            150.137,
+            340.272
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "intoxicated,",
+          "box": [
+            154.485,
+            329.274,
+            215.595,
+            340.272
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "confused,",
+          "box": [
+            218.16,
+            329.274,
+            268.703,
+            340.272
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "delirious,",
+          "box": [
+            271.26,
+            329.274,
+            320.862,
+            340.272
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "psychotic,",
+          "box": [
+            323.46,
+            329.274,
+            375.766,
+            340.272
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "comatose,",
+          "box": [
+            378.315,
+            329.274,
+            430.448,
+            340.272
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "unable",
+          "box": [
+            433.035,
+            329.274,
+            469.574,
+            340.272
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "to",
+          "box": [
+            472.05,
+            329.274,
+            481.817,
+            340.272
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "understand",
+          "box": [
+            484.65,
+            329.274,
+            544.767,
+            340.272
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            27.0,
+            342.054,
+            43.967,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "language,",
+          "box": [
+            46.575,
+            342.054,
+            97.112,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "or",
+          "box": [
+            99.675,
+            342.054,
+            109.682,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "is",
+          "box": [
+            114.075,
+            342.054,
+            123.092,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "a",
+          "box": [
+            125.415,
+            342.054,
+            131.53,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "minor,",
+          "box": [
+            134.46,
+            342.054,
+            170.042,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "etc.",
+          "box": [
+            172.035,
+            342.054,
+            190.157,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Additionally,",
+          "box": [
+            193.14,
+            342.054,
+            260.691,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "a",
+          "box": [
+            262.71,
+            342.054,
+            268.825,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            271.755,
+            342.054,
+            307.906,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "who",
+          "box": [
+            311.58,
+            342.054,
+            334.043,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "demonstrates",
+          "box": [
+            337.14,
+            342.054,
+            408.848,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "a",
+          "box": [
+            411.21,
+            342.054,
+            417.325,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "suicidal/self",
+          "box": [
+            420.255,
+            342.054,
+            481.369,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "harm",
+          "box": [
+            485.1,
+            342.054,
+            512.612,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "gesture",
+          "box": [
+            516.6,
+            342.054,
+            555.401,
+            353.052
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "or",
+          "box": [
+            27.0,
+            354.879,
+            37.007,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "admission,",
+          "box": [
+            41.386,
+            354.879,
+            98.167,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "either",
+          "box": [
+            100.71,
+            354.879,
+            130.514,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "verbally",
+          "box": [
+            134.91,
+            354.879,
+            177.39,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "or",
+          "box": [
+            180.945,
+            354.879,
+            190.952,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "in",
+          "box": [
+            195.345,
+            354.879,
+            204.978,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "writing,",
+          "box": [
+            208.845,
+            354.879,
+            250.476,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "shall",
+          "box": [
+            253.035,
+            354.879,
+            277.018,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            280.845,
+            354.879,
+            293.71,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "considered",
+          "box": [
+            296.325,
+            354.879,
+            353.469,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "to",
+          "box": [
+            356.985,
+            354.879,
+            366.752,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            369.855,
+            354.879,
+            382.72,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "WITHOUT",
+          "box": [
+            385.335,
+            354.879,
+            439.114,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "decision-making",
+          "box": [
+            441.99,
+            354.879,
+            528.619,
+            365.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "capacity.",
+          "box": [
+            27.0,
+            367.704,
+            73.074,
+            378.702
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "1.",
+          "box": [
+            43.205,
+            393.309,
+            52.409,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "If",
+          "box": [
+            55.35,
+            393.309,
+            62.446,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "there",
+          "box": [
+            66.285,
+            393.309,
+            94.317,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "is",
+          "box": [
+            96.975,
+            393.309,
+            105.992,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "a",
+          "box": [
+            108.315,
+            393.309,
+            114.43,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "question",
+          "box": [
+            117.36,
+            393.309,
+            161.784,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            165.645,
+            393.309,
+            174.939,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "decision-making",
+          "box": [
+            178.785,
+            393.309,
+            265.414,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "capacity",
+          "box": [
+            268.11,
+            393.309,
+            310.96,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "or",
+          "box": [
+            314.55,
+            393.309,
+            324.557,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            328.905,
+            393.309,
+            345.872,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            348.525,
+            393.309,
+            384.676,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "does",
+          "box": [
+            388.35,
+            393.309,
+            412.83,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "not",
+          "box": [
+            415.17,
+            393.309,
+            431.664,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "appear",
+          "box": [
+            435.33,
+            393.309,
+            470.762,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "to",
+          "box": [
+            474.75,
+            393.309,
+            484.517,
+            404.307
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "understand",
+          "box": [
+            59.4,
+            406.089,
+            119.517,
+            417.087
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            123.03,
+            406.089,
+            139.997,
+            417.087
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "consequences",
+          "box": [
+            142.605,
+            406.089,
+            215.807,
+            417.087
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            218.16,
+            406.089,
+            227.454,
+            417.087
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "his/her",
+          "box": [
+            231.3,
+            406.089,
+            266.453,
+            417.087
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "refusal",
+          "box": [
+            270.855,
+            406.089,
+            306.553,
+            417.087
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            310.41,
+            406.089,
+            319.704,
+            417.087
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "transport,",
+          "box": [
+            323.55,
+            406.089,
+            376.049,
+            417.087
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "then",
+          "box": [
+            378.63,
+            406.089,
+            401.483,
+            417.087
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "contact",
+          "box": [
+            405.315,
+            406.089,
+            442.593,
+            417.087
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "OLMC.",
+          "box": [
+            446.265,
+            406.089,
+            481.403,
+            417.087
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "2.",
+          "box": [
+            43.205,
+            418.914,
+            52.409,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "The",
+          "box": [
+            55.35,
+            418.914,
+            75.181,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            77.805,
+            418.914,
+            113.956,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "must",
+          "box": [
+            117.63,
+            418.914,
+            142.908,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            146.61,
+            418.914,
+            159.475,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "informed",
+          "box": [
+            162.09,
+            418.914,
+            210.568,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            214.065,
+            418.914,
+            223.359,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            227.25,
+            418.914,
+            244.217,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "consequences",
+          "box": [
+            246.825,
+            418.914,
+            320.027,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            322.38,
+            418.914,
+            331.674,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "his/her",
+          "box": [
+            335.52,
+            418.914,
+            370.673,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "refusal",
+          "box": [
+            375.075,
+            418.914,
+            410.773,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "to",
+          "box": [
+            414.63,
+            418.914,
+            424.397,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            427.5,
+            418.914,
+            440.365,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "transported.",
+          "box": [
+            442.98,
+            418.914,
+            508.007,
+            429.912
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "This",
+          "box": [
+            59.4,
+            431.694,
+            82.133,
+            442.692
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "must",
+          "box": [
+            84.465,
+            431.694,
+            109.743,
+            442.692
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            113.4,
+            431.694,
+            126.265,
+            442.692
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "documented",
+          "box": [
+            128.88,
+            431.694,
+            193.394,
+            442.692
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "in",
+          "box": [
+            196.92,
+            431.694,
+            206.553,
+            442.692
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            210.375,
+            431.694,
+            227.342,
+            442.692
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            229.995,
+            431.694,
+            266.146,
+            442.692
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "care",
+          "box": [
+            269.82,
+            431.694,
+            292.72,
+            442.692
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "report.",
+          "box": [
+            295.38,
+            431.694,
+            331.65,
+            442.692
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "3.",
+          "box": [
+            43.205,
+            444.429,
+            52.409,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "This",
+          "box": [
+            55.35,
+            444.429,
+            78.083,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "screening",
+          "box": [
+            80.415,
+            444.429,
+            131.556,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "may",
+          "box": [
+            134.235,
+            444.429,
+            155.988,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "typically",
+          "box": [
+            159.525,
+            444.429,
+            203.693,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "arise",
+          "box": [
+            207.315,
+            444.429,
+            233.278,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "when",
+          "box": [
+            235.89,
+            444.429,
+            264.239,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "an",
+          "box": [
+            268.11,
+            444.429,
+            280.417,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "ambulance",
+          "box": [
+            284.22,
+            444.429,
+            342.755,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "is",
+          "box": [
+            345.42,
+            444.429,
+            354.437,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "requested",
+          "box": [
+            356.76,
+            444.429,
+            408.166,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "by",
+          "box": [
+            411.66,
+            444.429,
+            423.801,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "someone",
+          "box": [
+            427.365,
+            444.429,
+            474.497,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "other",
+          "box": [
+            477.0,
+            444.429,
+            503.745,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "than",
+          "box": [
+            508.05,
+            444.429,
+            531.209,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            535.05,
+            444.429,
+            552.017,
+            455.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            59.4,
+            457.029,
+            95.551,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "(i.e.,",
+          "box": [
+            99.225,
+            457.029,
+            121.568,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            124.11,
+            457.029,
+            141.077,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "police,",
+          "box": [
+            143.73,
+            457.029,
+            178.11,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "a",
+          "box": [
+            180.63,
+            457.029,
+            186.745,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "bystander).",
+          "box": [
+            189.675,
+            457.029,
+            249.22,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "The",
+          "box": [
+            252.225,
+            457.029,
+            272.056,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "EMS",
+          "box": [
+            274.68,
+            457.029,
+            299.183,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "run",
+          "box": [
+            300.69,
+            457.029,
+            318.964,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "report",
+          "box": [
+            322.785,
+            457.029,
+            355.182,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "must",
+          "box": [
+            358.875,
+            457.029,
+            384.153,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "always",
+          "box": [
+            387.855,
+            457.029,
+            423.959,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            426.285,
+            457.029,
+            439.15,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "completed.",
+          "box": [
+            441.765,
+            457.029,
+            499.311,
+            468.027
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "4.",
+          "box": [
+            43.205,
+            470.079,
+            52.409,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "If",
+          "box": [
+            55.35,
+            470.079,
+            62.446,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            66.285,
+            470.079,
+            83.252,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            85.905,
+            470.079,
+            122.056,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "refuses",
+          "box": [
+            125.73,
+            470.079,
+            164.179,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "transport",
+          "box": [
+            166.5,
+            470.079,
+            215.127,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "and",
+          "box": [
+            218.835,
+            470.079,
+            238.234,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "is",
+          "box": [
+            241.74,
+            470.079,
+            250.757,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "judged",
+          "box": [
+            253.08,
+            470.079,
+            287.918,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "to",
+          "box": [
+            291.42,
+            470.079,
+            301.187,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            304.245,
+            470.079,
+            317.11,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "without",
+          "box": [
+            319.77,
+            470.079,
+            359.998,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "decision-making",
+          "box": [
+            363.69,
+            470.079,
+            450.319,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "capacity,",
+          "box": [
+            452.7,
+            470.079,
+            499.318,
+            481.077
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            59.4,
+            482.679,
+            76.367,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "EMS",
+          "box": [
+            78.975,
+            482.679,
+            103.478,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "clinician",
+          "box": [
+            104.985,
+            482.679,
+            149.174,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "must",
+          "box": [
+            153.045,
+            482.679,
+            178.323,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "speak",
+          "box": [
+            181.98,
+            482.679,
+            211.266,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "directly",
+          "box": [
+            215.055,
+            482.679,
+            254.476,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "with",
+          "box": [
+            258.075,
+            482.679,
+            281.057,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "OLMC.",
+          "box": [
+            284.805,
+            482.679,
+            319.943,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "If",
+          "box": [
+            322.875,
+            482.679,
+            329.971,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "unable",
+          "box": [
+            333.855,
+            482.679,
+            370.394,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "to",
+          "box": [
+            373.005,
+            482.679,
+            382.772,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "reach",
+          "box": [
+            385.875,
+            482.679,
+            414.661,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "OLMC,",
+          "box": [
+            418.365,
+            482.679,
+            453.503,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            455.85,
+            482.679,
+            472.817,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            475.645,
+            482.679,
+            511.797,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "is",
+          "box": [
+            515.245,
+            482.679,
+            524.262,
+            493.677
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "transported.",
+          "box": [
+            59.4,
+            495.729,
+            124.427,
+            506.727
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "5.",
+          "box": [
+            43.205,
+            508.329,
+            52.409,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "EMS",
+          "box": [
+            55.53,
+            508.329,
+            80.515,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "System",
+          "box": [
+            82.485,
+            508.329,
+            120.116,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "initiated",
+          "box": [
+            124.65,
+            508.329,
+            171.272,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            175.185,
+            508.329,
+            213.643,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "sign",
+          "box": [
+            217.89,
+            508.329,
+            239.402,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "offs",
+          "box": [
+            243.495,
+            508.329,
+            264.586,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "ar",
+          "box": [
+            267.3,
+            508.329,
+            277.55,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "e",
+          "box": [
+            279.639,
+            508.329,
+            285.754,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "tr",
+          "box": [
+            288.81,
+            508.329,
+            296.925,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "emendously",
+          "box": [
+            299.013,
+            508.329,
+            365.58,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "r",
+          "box": [
+            369.315,
+            508.329,
+            372.977,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "isky",
+          "box": [
+            375.066,
+            508.329,
+            396.799,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "inter",
+          "box": [
+            400.545,
+            508.329,
+            425.929,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "actions",
+          "box": [
+            428.018,
+            508.329,
+            468.292,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "and",
+          "box": [
+            470.7,
+            508.329,
+            490.738,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "ar",
+          "box": [
+            494.55,
+            508.329,
+            504.8,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "e",
+          "box": [
+            506.889,
+            508.329,
+            513.004,
+            519.327
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "not",
+          "box": [
+            59.4,
+            520.929,
+            76.529,
+            531.927
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "condoned",
+          "box": [
+            80.775,
+            520.929,
+            134.239,
+            531.927
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "by",
+          "box": [
+            138.15,
+            520.929,
+            150.678,
+            531.927
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Maine",
+          "box": [
+            154.395,
+            520.929,
+            188.777,
+            531.927
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "EMS.",
+          "box": [
+            191.79,
+            520.929,
+            218.832,
+            531.927
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "6.",
+          "box": [
+            43.205,
+            533.979,
+            52.409,
+            544.977
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "The",
+          "box": [
+            55.35,
+            533.979,
+            75.977,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "ser",
+          "box": [
+            78.975,
+            533.979,
+            94.279,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "vice",
+          "box": [
+            96.475,
+            533.979,
+            118.919,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "is",
+          "box": [
+            121.95,
+            533.979,
+            131.321,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "expected",
+          "box": [
+            134.055,
+            533.979,
+            183.337,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "to",
+          "box": [
+            187.245,
+            533.979,
+            197.592,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "r",
+          "box": [
+            201.06,
+            533.979,
+            204.722,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "eview",
+          "box": [
+            206.811,
+            533.979,
+            237.735,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "all",
+          "box": [
+            242.1,
+            533.979,
+            255.002,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            259.29,
+            533.979,
+            297.748,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "sign",
+          "box": [
+            301.995,
+            533.979,
+            323.507,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "offs",
+          "box": [
+            327.6,
+            533.979,
+            348.691,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "through",
+          "box": [
+            351.405,
+            533.979,
+            395.182,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            399.285,
+            533.979,
+            417.187,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "ser",
+          "box": [
+            420.21,
+            533.979,
+            435.514,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "vice?s",
+          "box": [
+            437.71,
+            533.979,
+            468.893,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "quality",
+          "box": [
+            471.6,
+            533.979,
+            510.342,
+            544.977
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "assur",
+          "box": [
+            59.4,
+            546.579,
+            87.605,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "ance",
+          "box": [
+            89.694,
+            546.579,
+            115.523,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "mechanism.",
+          "box": [
+            118.53,
+            546.579,
+            185.832,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Patient",
+          "box": [
+            189.0,
+            546.579,
+            227.166,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "medical",
+          "box": [
+            231.435,
+            546.579,
+            274.383,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "r",
+          "box": [
+            278.685,
+            546.579,
+            282.347,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "ecor",
+          "box": [
+            284.436,
+            546.579,
+            306.904,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "ds",
+          "box": [
+            308.992,
+            546.579,
+            321.629,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "must",
+          "box": [
+            324.36,
+            546.579,
+            350.849,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            355.14,
+            546.579,
+            368.392,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "completed",
+          "box": [
+            371.385,
+            546.579,
+            428.625,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "for",
+          "box": [
+            432.54,
+            546.579,
+            447.311,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "all",
+          "box": [
+            452.25,
+            546.579,
+            465.152,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            469.35,
+            546.579,
+            479.04,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "these",
+          "box": [
+            483.3,
+            546.579,
+            512.844,
+            557.577
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "inter",
+          "box": [
+            59.4,
+            559.629,
+            84.784,
+            570.627
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "actions,and",
+          "box": [
+            86.873,
+            559.629,
+            150.284,
+            570.627
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "must",
+          "box": [
+            154.17,
+            559.629,
+            180.659,
+            570.627
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "include",
+          "box": [
+            184.905,
+            559.629,
+            226.363,
+            570.627
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            229.41,
+            559.629,
+            247.312,
+            570.627
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "following",
+          "box": [
+            250.335,
+            559.629,
+            302.557,
+            570.627
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "infor",
+          "box": [
+            305.46,
+            559.629,
+            331.438,
+            570.627
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "mation:",
+          "box": [
+            333.527,
+            559.629,
+            376.3,
+            570.627
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "a.",
+          "box": [
+            75.6,
+            572.229,
+            84.849,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "The",
+          "box": [
+            87.795,
+            572.229,
+            107.626,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            110.25,
+            572.229,
+            146.401,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "must",
+          "box": [
+            150.075,
+            572.229,
+            175.353,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            179.055,
+            572.229,
+            191.92,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "calm,",
+          "box": [
+            194.535,
+            572.229,
+            222.999,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "with",
+          "box": [
+            225.54,
+            572.229,
+            248.522,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "decision-making",
+          "box": [
+            252.27,
+            572.229,
+            338.899,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "capacity,",
+          "box": [
+            341.595,
+            572.229,
+            388.213,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "sober,",
+          "box": [
+            390.195,
+            572.229,
+            422.372,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "and",
+          "box": [
+            424.395,
+            572.229,
+            443.794,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "alert",
+          "box": [
+            447.3,
+            572.229,
+            471.025,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "with",
+          "box": [
+            474.3,
+            572.229,
+            497.282,
+            583.227
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            91.8,
+            585.279,
+            108.767,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "absence",
+          "box": [
+            111.375,
+            585.279,
+            153.782,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            156.42,
+            585.279,
+            165.714,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "any",
+          "box": [
+            169.605,
+            585.279,
+            188.28,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "acute",
+          "box": [
+            191.835,
+            585.279,
+            220.3,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "medical/surgical",
+          "box": [
+            222.93,
+            585.279,
+            308.043,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "or",
+          "box": [
+            311.895,
+            585.279,
+            321.902,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "traumatic",
+          "box": [
+            326.295,
+            585.279,
+            377.774,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "process",
+          "box": [
+            380.565,
+            585.279,
+            420.489,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "that",
+          "box": [
+            422.82,
+            585.279,
+            442.813,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "impairs",
+          "box": [
+            446.49,
+            585.279,
+            487.428,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            489.6,
+            585.279,
+            506.567,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient?s",
+          "box": [
+            508.95,
+            585.279,
+            554.165,
+            596.277
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "decision-making",
+          "box": [
+            91.8,
+            597.879,
+            178.429,
+            608.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "capacity",
+          "box": [
+            181.08,
+            597.879,
+            223.93,
+            608.877
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "b.",
+          "box": [
+            75.6,
+            610.929,
+            85.187,
+            621.927
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Greater",
+          "box": [
+            88.11,
+            610.929,
+            126.425,
+            621.927
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "than",
+          "box": [
+            130.815,
+            610.929,
+            153.974,
+            621.927
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "18",
+          "box": [
+            157.815,
+            610.929,
+            170.077,
+            621.927
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "years,",
+          "box": [
+            172.98,
+            610.929,
+            204.36,
+            621.927
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "emancipated,",
+          "box": [
+            206.91,
+            610.929,
+            277.694,
+            621.927
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "or",
+          "box": [
+            280.26,
+            610.929,
+            290.267,
+            621.927
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "contact",
+          "box": [
+            294.66,
+            610.929,
+            331.938,
+            621.927
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "with",
+          "box": [
+            335.61,
+            610.929,
+            358.592,
+            621.927
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "guardian",
+          "box": [
+            362.34,
+            610.929,
+            409.183,
+            621.927
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "c.",
+          "box": [
+            75.6,
+            623.529,
+            84.071,
+            634.527
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Service(s)",
+          "box": [
+            86.985,
+            623.529,
+            137.753,
+            634.527
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "offered",
+          "box": [
+            140.805,
+            623.529,
+            178.122,
+            634.527
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "d.",
+          "box": [
+            75.6,
+            636.579,
+            85.407,
+            647.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Reason",
+          "box": [
+            88.335,
+            636.579,
+            124.825,
+            647.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "service(s)",
+          "box": [
+            128.655,
+            636.579,
+            178.401,
+            647.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "declined",
+          "box": [
+            181.44,
+            636.579,
+            225.511,
+            647.577
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "e.",
+          "box": [
+            75.6,
+            649.179,
+            84.543,
+            660.177
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Statement",
+          "box": [
+            87.48,
+            649.179,
+            139.277,
+            660.177
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            142.965,
+            649.179,
+            152.259,
+            660.177
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "risks",
+          "box": [
+            156.105,
+            649.179,
+            181.691,
+            660.177
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "and",
+          "box": [
+            184.05,
+            649.179,
+            203.449,
+            660.177
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            206.91,
+            649.179,
+            243.061,
+            660.177
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "understanding",
+          "box": [
+            246.78,
+            649.179,
+            324.257,
+            660.177
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            326.925,
+            649.179,
+            336.219,
+            660.177
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "risk",
+          "box": [
+            340.065,
+            649.179,
+            359.22,
+            660.177
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "f.",
+          "box": [
+            75.6,
+            661.779,
+            82.718,
+            672.777
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Discussion",
+          "box": [
+            85.635,
+            661.779,
+            140.397,
+            672.777
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            144.27,
+            661.779,
+            153.564,
+            672.777
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "alternatives",
+          "box": [
+            157.41,
+            661.779,
+            219.833,
+            672.777
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "to",
+          "box": [
+            222.165,
+            661.779,
+            231.932,
+            672.777
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "service",
+          "box": [
+            235.035,
+            661.779,
+            272.581,
+            672.777
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "offered",
+          "box": [
+            275.22,
+            661.779,
+            312.537,
+            672.777
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "and",
+          "box": [
+            316.035,
+            661.779,
+            335.434,
+            672.777
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "potential",
+          "box": [
+            338.94,
+            661.779,
+            384.693,
+            672.777
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "consequences",
+          "box": [
+            388.53,
+            661.779,
+            461.732,
+            672.777
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            463.95,
+            661.779,
+            473.245,
+            672.777
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "declining",
+          "box": [
+            91.8,
+            674.829,
+            140.594,
+            685.827
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "offered",
+          "box": [
+            143.235,
+            674.829,
+            180.552,
+            685.827
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "service",
+          "box": [
+            184.05,
+            674.829,
+            221.596,
+            685.827
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "g.",
+          "box": [
+            75.6,
+            687.429,
+            84.575,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Discussion",
+          "box": [
+            87.525,
+            687.429,
+            142.287,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "with",
+          "box": [
+            146.115,
+            687.429,
+            169.097,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            172.845,
+            687.429,
+            208.996,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "that",
+          "box": [
+            212.67,
+            687.429,
+            232.663,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "EMS",
+          "box": [
+            236.34,
+            687.429,
+            260.843,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "services",
+          "box": [
+            262.35,
+            687.429,
+            305.166,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "may",
+          "box": [
+            307.485,
+            687.429,
+            329.238,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "be",
+          "box": [
+            332.82,
+            687.429,
+            345.685,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "accessed",
+          "box": [
+            348.345,
+            687.429,
+            393.169,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "at",
+          "box": [
+            396.675,
+            687.429,
+            405.816,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "any",
+          "box": [
+            409.455,
+            687.429,
+            428.13,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "time,",
+          "box": [
+            431.73,
+            687.429,
+            458.454,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "and",
+          "box": [
+            460.8,
+            687.429,
+            480.199,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "that",
+          "box": [
+            483.75,
+            687.429,
+            503.743,
+            698.427
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            91.8,
+            700.479,
+            108.767,
+            711.477
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient",
+          "box": [
+            111.375,
+            700.479,
+            147.526,
+            711.477
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "had",
+          "box": [
+            151.2,
+            700.479,
+            170.486,
+            711.477
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "decision-making",
+          "box": [
+            174.015,
+            700.479,
+            260.644,
+            711.477
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "capacity.",
+          "box": [
+            263.295,
+            700.479,
+            309.369,
+            711.477
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "EMS",
+          "box": [
+            214.605,
+            89.081,
+            241.336,
+            101.078
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Clinician",
+          "box": [
+            243.0,
+            89.081,
+            292.664,
+            101.078
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Assesses",
+          "box": [
+            296.865,
+            89.081,
+            345.821,
+            101.078
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Patient",
+          "box": [
+            348.345,
+            89.081,
+            387.431,
+            101.078
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Patient",
+          "box": [
+            188.91,
+            143.081,
+            227.996,
+            155.078
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Accepts",
+          "box": [
+            232.02,
+            143.081,
+            276.052,
+            155.078
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Treatment/Transport?",
+          "box": [
+            278.595,
+            143.081,
+            405.692,
+            155.078
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Patient",
+          "box": [
+            78.03,
+            197.081,
+            117.116,
+            209.078
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Transported",
+          "box": [
+            121.14,
+            197.081,
+            191.191,
+            209.078
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Decision-Making",
+          "box": [
+            361.125,
+            197.081,
+            456.919,
+            209.078
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Capacity*?",
+          "box": [
+            459.45,
+            197.081,
+            521.095,
+            209.078
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YES",
+          "box": [
+            229.545,
+            168.561,
+            248.688,
+            178.56
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "NO",
+          "box": [
+            337.77,
+            166.716,
+            353.177,
+            176.715
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Patient",
+          "box": [
+            95.805,
+            258.956,
+            134.891,
+            270.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "WITH",
+          "box": [
+            138.87,
+            258.956,
+            172.975,
+            270.953
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Decision-Making",
+          "box": [
+            58.14,
+            272.906,
+            153.934,
+            284.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Capacity*",
+          "box": [
+            156.825,
+            272.906,
+            210.468,
+            284.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "NOT",
+          "box": [
+            85.32,
+            286.901,
+            110.713,
+            298.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Transported",
+          "box": [
+            113.85,
+            286.901,
+            183.901,
+            298.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Patient",
+          "box": [
+            388.665,
+            258.956,
+            427.751,
+            270.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "WITHOUT",
+          "box": [
+            431.775,
+            258.956,
+            492.777,
+            270.953
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Decision-Making",
+          "box": [
+            364.14,
+            272.906,
+            459.934,
+            284.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Capacity*",
+          "box": [
+            462.6,
+            272.906,
+            516.243,
+            284.903
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Transported",
+          "box": [
+            405.585,
+            286.901,
+            475.636,
+            298.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YES",
+          "box": [
+            279.0,
+            229.491,
+            298.143,
+            239.49
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "NO",
+          "box": [
+            433.44,
+            229.491,
+            448.847,
+            239.49
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "(continued)",
+          "box": [
+            479.25,
+            732.536,
+            549.313,
+            744.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0179.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 97.1,
+    "output_to_native_length_ratio": 0.985,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

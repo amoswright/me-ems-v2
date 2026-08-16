@@ -1,0 +1,1802 @@
+{
+  "id": "page-0141",
+  "pdf_page": 141,
+  "protocol_label": "Pink 5",
+  "kind": "protocol",
+  "chapter_id": "pink",
+  "topic_id": "pink-normal-pediatric-vital-signs",
+  "title": "Normal Pediatric Vital Signs",
+  "markdown": "# Normal Pediatric Vital Signs\n\n![Visual reference from Normal Pediatric Vital Signs](../../assets/figures/page-0141-visual.webp)\n\n### Modified GCS for Infants and Children\n\n| | Child | Infant | Score |\n| :--- | :--- | :--- | :---: |\n| **EYE OPENING** | Spontaneous | Spontaneous | 4 |\n| | To speech | To speech | 3 |\n| | To pain only | To pain only | 2 |\n| | No response | No response | 1 |\n| **BEST VERBAL RESPONSE** | Oriented/Appropriate | Coos and babbles | 5 |\n| | Confused | Irritable, cries | 4 |\n| | Inappropriate words | Cries to pain | 3 |\n| | Incomprehensible sounds | Moans to pain | 2 |\n| | No response | No response | 1 |\n| **BEST MOTOR RESPONSE** | Obeys commands | Moves spontaneously/ purposefully | 6 |\n| | Localizes painful stimuli | Withdraws to touch | 5 |\n| | Withdraws in response to pain | Withdraws in response to pain | 4 |\n| | Flexion in response to pain | Abnormal flexion in response to pain | 3 |\n| | Extension in response to pain | Abnormal extension in response to pain | 2 |\n| | No response | No response | 1 |\n",
+  "plain_text": "Normal Pediatric Vital Signs Modified GCS for Infants and Children Child Infant Score EYE OPENING Spontaneous Spontaneous 4 To speech To speech 3 To pain only To pain only 2 No response No response 1 BEST VERBAL RESPONSE Oriented/Appropriate Coos and babbles 5 Confused Irritable, cries 4 Inappropriate words Cries to pain 3 Incomprehensible sounds Moans to pain 2 No response No response 1 BEST MOTOR RESPONSE Obeys commands Moves spontaneously/ purposefully 6 Localizes painful stimuli Withdraws to touch 5 Withdraws in response to pain Withdraws in response to pain 4 Flexion in response to pain Abnormal flexion in response to pain 3 Extension in response to pain Abnormal extension in response to pain 2 No response No response 1",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        272.57,
+        40.09,
+        771.11,
+        65.34
+      ],
+      "text": "Nor m al Pediatr ic Vital Signs, # 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        313.53,
+        136.11,
+        691.51,
+        151.26
+      ],
+      "text": "Modified GCS for Infants and Childr en",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        171.18,
+        893.61,
+        183.81
+      ],
+      "text": "Child Infant Score",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        196.47,
+        875.26,
+        209.09
+      ],
+      "text": "Spontaneous Spontaneous 4",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        219.19,
+        875.26,
+        231.82
+      ],
+      "text": "To speech To speech 3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        112.5,
+        230.01,
+        234.21,
+        243.9
+      ],
+      "text": "EYE OPENING",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        241.92,
+        875.26,
+        254.55
+      ],
+      "text": "To pain only To pain only 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        264.65,
+        875.26,
+        277.27
+      ],
+      "text": "No response No response 1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        287.38,
+        875.26,
+        300.0
+      ],
+      "text": "Oriented/Appropriate Coos and babbles 5",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        310.1,
+        875.26,
+        322.73
+      ],
+      "text": "Confused Irritable, cries 4",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        113.53,
+        329.84,
+        875.26,
+        345.45
+      ],
+      "text": "BEST VERBAL Inappropriate words Cries to pain 3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        126.91,
+        346.03,
+        219.33,
+        359.92
+      ],
+      "text": "RESPONSE",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        358.4,
+        875.26,
+        371.02
+      ],
+      "text": "Incomprehensible sounds Moans to pain 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        386.81,
+        875.26,
+        399.43
+      ],
+      "text": "No response No response 1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        418.06,
+        875.26,
+        430.68
+      ],
+      "text": "Obeys commands Moves spontaneously/ purposefully 6",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        446.47,
+        875.26,
+        459.09
+      ],
+      "text": "Localizes painful stimuli Withdraws to touch 5",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        468.0,
+        460.32,
+        480.62
+      ],
+      "text": "Withdraws in response to",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        503.68,
+        474.88,
+        875.26,
+        487.5
+      ],
+      "text": "Withdraws in response to pain 4",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        115.59,
+        482.72,
+        294.56,
+        497.14
+      ],
+      "text": "BEST MOTOR pain",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        126.91,
+        499.44,
+        219.33,
+        513.33
+      ],
+      "text": "RESPONSE",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        508.97,
+        875.26,
+        521.59
+      ],
+      "text": "Flexion in response to pain Abnormal flexion in response to pain 3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        538.34,
+        875.26,
+        552.84
+      ],
+      "text": "Extension in response to pain Abnormal extension in response to pain 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        261.03,
+        566.69,
+        875.26,
+        581.02
+      ],
+      "text": "No response No response 1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        452.06,
+        948.21,
+        910.9,
+        963.36
+      ],
+      "text": "(Back to TOC) Pink 5",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0141-visual",
+      "type": "diagram",
+      "path": "assets/figures/page-0141-visual.webp",
+      "alt": "Visual reference from Normal Pediatric Vital Signs",
+      "source_box_points": [
+        42,
+        72,
+        570.0,
+        744.0
+      ],
+      "reasons": [
+        "title",
+        "structured_visual"
+      ],
+      "sha256": "2cf91ced304bf504bd88436745cdc053ce19203ca86be9d3cd8c2e2708931777"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "1f68d3357ff0954732c3abc55f4c2095c6aa75332488d75ebbe991c1b70374d3",
+    "native": {
+      "text": "Nor m al Pediatr ic Vital Signs, # 2\nModified GCS for Infants and Childr en\nChild Infant Score\nSpontaneous Spontaneous 4\nTo speech To speech 3\nEYE OPENING\nTo pain only To pain only 2\nNo response No response 1\nOriented/Appropriate Coos and babbles 5\nConfused Irritable, cries 4\nBEST VERBAL Inappropriate words Cries to pain 3\nRESPONSE\nIncomprehensible sounds Moans to pain 2\nNo response No response 1\nObeys commands Moves spontaneously/ purposefully 6\nLocalizes painful stimuli Withdraws to touch 5\nWithdraws in response to\nWithdraws in response to pain 4\nBEST MOTOR pain\nRESPONSE\nFlexion in response to pain Abnormal flexion in response to pain 3\nExtension in response to pain Abnormal extension in response to pain 2\nNo response No response 1\n(Back to TOC) Pink 5",
+      "body_text": "Modified GCS for Infants and Childr en Child Infant Score EYE OPENING Spontaneous Spontaneous 4 To speech To speech 3 To pain only To pain only 2 No response No response 1 BEST VERBAL RESPONSE Oriented/Appropriate Coos and babbles 5 Confused Irritable, cries 4 Inappropriate words Cries to pain 3 Incomprehensible sounds Moans to pain 2 No response No response 1 BEST MOTOR RESPONSE Obeys commands Moves spontaneously/ purposefully 6 Localizes painful stimuli Withdraws to touch 5 Withdraws in response to Withdraws in response to pain 4 pain Flexion in response to pain Abnormal flexion in response to pain 3 Extension in response to pain Abnormal extension in response to pain 2 No response No response 1",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            276.66,
+            750.986,
+            307.314,
+            762.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.49,
+            750.986,
+            322.145,
+            762.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            325.485,
+            750.986,
+            353.101,
+            762.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pink",
+          "box": [
+            522.0,
+            750.986,
+            546.821,
+            762.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5",
+          "box": [
+            550.8,
+            750.986,
+            557.47,
+            762.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Nor",
+          "box": [
+            166.815,
+            31.752,
+            200.083,
+            51.75
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "m",
+          "box": [
+            202.846,
+            31.752,
+            219.505,
+            51.75
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "al",
+          "box": [
+            221.742,
+            31.752,
+            237.441,
+            51.75
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Pediatr",
+          "box": [
+            244.395,
+            31.752,
+            310.598,
+            51.75
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ic",
+          "box": [
+            313.362,
+            31.752,
+            329.756,
+            51.75
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Vital",
+          "box": [
+            334.845,
+            31.752,
+            377.472,
+            51.75
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Signs,",
+          "box": [
+            384.435,
+            31.752,
+            439.944,
+            51.75
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#",
+          "box": [
+            444.555,
+            31.752,
+            455.674,
+            51.75
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "2",
+          "box": [
+            460.8,
+            31.752,
+            471.919,
+            51.75
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Modified",
+          "box": [
+            191.88,
+            107.801,
+            245.295,
+            119.798
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "GCS",
+          "box": [
+            249.57,
+            107.801,
+            274.811,
+            119.798
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            276.93,
+            107.801,
+            293.044,
+            119.798
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Infants",
+          "box": [
+            298.485,
+            107.801,
+            342.103,
+            119.798
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            345.06,
+            107.801,
+            366.918,
+            119.798
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Childr",
+          "box": [
+            371.16,
+            107.801,
+            407.405,
+            119.798
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "en",
+          "box": [
+            409.683,
+            107.801,
+            423.202,
+            119.798
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Child",
+          "box": [
+            159.75,
+            135.576,
+            185.697,
+            145.575
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 9.999
+        },
+        {
+          "text": "Infant",
+          "box": [
+            308.25,
+            135.576,
+            338.339,
+            145.575
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 9.999
+        },
+        {
+          "text": "Score",
+          "box": [
+            518.85,
+            135.576,
+            546.887,
+            145.575
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 9.999
+        },
+        {
+          "text": "EYE",
+          "box": [
+            68.85,
+            182.169,
+            89.911,
+            193.167
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "OPENING",
+          "box": [
+            92.295,
+            182.169,
+            143.334,
+            193.167
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Spontaneous",
+          "box": [
+            159.75,
+            155.601,
+            221.5,
+            165.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Spontaneous",
+          "box": [
+            308.25,
+            155.601,
+            370.0,
+            165.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "4",
+          "box": [
+            530.1,
+            155.601,
+            535.659,
+            165.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "To",
+          "box": [
+            159.75,
+            173.601,
+            171.033,
+            183.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "speech",
+          "box": [
+            173.835,
+            173.601,
+            205.656,
+            183.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "To",
+          "box": [
+            308.25,
+            173.601,
+            319.533,
+            183.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "speech",
+          "box": [
+            322.335,
+            173.601,
+            354.156,
+            183.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "3",
+          "box": [
+            530.1,
+            173.601,
+            535.659,
+            183.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "To",
+          "box": [
+            159.75,
+            191.601,
+            171.033,
+            201.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "pain",
+          "box": [
+            173.835,
+            191.601,
+            194.356,
+            201.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "only",
+          "box": [
+            197.82,
+            191.601,
+            218.04,
+            201.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "To",
+          "box": [
+            308.25,
+            191.601,
+            319.533,
+            201.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "pain",
+          "box": [
+            322.335,
+            191.601,
+            342.856,
+            201.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "only",
+          "box": [
+            346.32,
+            191.601,
+            366.54,
+            201.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "2",
+          "box": [
+            530.1,
+            191.601,
+            535.659,
+            201.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "No",
+          "box": [
+            159.75,
+            209.601,
+            172.842,
+            219.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "response",
+          "box": [
+            175.635,
+            209.601,
+            218.625,
+            219.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "No",
+          "box": [
+            308.25,
+            209.601,
+            321.342,
+            219.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "response",
+          "box": [
+            324.135,
+            209.601,
+            367.125,
+            219.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "1",
+          "box": [
+            530.1,
+            209.601,
+            535.659,
+            219.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "BEST",
+          "box": [
+            69.48,
+            261.234,
+            96.004,
+            272.232
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "VERBAL",
+          "box": [
+            98.91,
+            261.234,
+            141.232,
+            272.232
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "RESPONSE",
+          "box": [
+            77.67,
+            274.059,
+            134.227,
+            285.057
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Oriented/Appropriate",
+          "box": [
+            159.75,
+            227.601,
+            262.621,
+            237.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Coos",
+          "box": [
+            308.25,
+            227.601,
+            330.723,
+            237.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "and",
+          "box": [
+            332.82,
+            227.601,
+            350.457,
+            237.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "babbles",
+          "box": [
+            353.655,
+            227.601,
+            391.135,
+            237.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "5",
+          "box": [
+            530.1,
+            227.601,
+            535.659,
+            237.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Confused",
+          "box": [
+            159.75,
+            245.601,
+            203.358,
+            255.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Irritable,",
+          "box": [
+            308.25,
+            245.601,
+            351.057,
+            255.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "cries",
+          "box": [
+            353.34,
+            245.601,
+            376.518,
+            255.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "4",
+          "box": [
+            530.1,
+            245.601,
+            535.659,
+            255.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Inappropriate",
+          "box": [
+            159.75,
+            263.601,
+            226.704,
+            273.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "words",
+          "box": [
+            229.095,
+            263.601,
+            259.227,
+            273.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Cries",
+          "box": [
+            308.25,
+            263.601,
+            332.643,
+            273.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "to",
+          "box": [
+            334.755,
+            263.601,
+            343.635,
+            273.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "pain",
+          "box": [
+            346.41,
+            263.601,
+            366.931,
+            273.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "3",
+          "box": [
+            530.1,
+            263.601,
+            535.659,
+            273.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Incomprehensible",
+          "box": [
+            159.75,
+            283.851,
+            246.744,
+            293.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "sounds",
+          "box": [
+            249.12,
+            283.851,
+            283.325,
+            293.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Moans",
+          "box": [
+            308.25,
+            283.851,
+            340.475,
+            293.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "to",
+          "box": [
+            342.585,
+            283.851,
+            351.465,
+            293.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "pain",
+          "box": [
+            354.24,
+            283.851,
+            374.761,
+            293.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "2",
+          "box": [
+            530.1,
+            283.851,
+            535.659,
+            293.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "No",
+          "box": [
+            159.75,
+            306.351,
+            172.842,
+            316.35
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "response",
+          "box": [
+            175.635,
+            306.351,
+            218.625,
+            316.35
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "No",
+          "box": [
+            308.25,
+            306.351,
+            321.342,
+            316.35
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "response",
+          "box": [
+            324.135,
+            306.351,
+            367.125,
+            316.35
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "1",
+          "box": [
+            530.1,
+            306.351,
+            535.659,
+            316.35
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "BEST",
+          "box": [
+            70.74,
+            382.734,
+            97.264,
+            393.732
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "MOTOR",
+          "box": [
+            100.125,
+            382.734,
+            141.442,
+            393.732
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "RESPONSE",
+          "box": [
+            77.67,
+            395.559,
+            134.227,
+            406.557
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Obeys",
+          "box": [
+            159.75,
+            331.101,
+            189.104,
+            341.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "commands",
+          "box": [
+            191.205,
+            331.101,
+            243.995,
+            341.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Moves",
+          "box": [
+            308.25,
+            331.101,
+            339.341,
+            341.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "spontaneously/",
+          "box": [
+            341.415,
+            331.101,
+            413.178,
+            341.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "purposefully",
+          "box": [
+            415.935,
+            331.101,
+            476.026,
+            341.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "6",
+          "box": [
+            530.1,
+            331.101,
+            535.659,
+            341.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Localizes",
+          "box": [
+            159.75,
+            353.601,
+            204.056,
+            363.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "painful",
+          "box": [
+            206.145,
+            353.601,
+            239.811,
+            363.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "stimuli",
+          "box": [
+            243.315,
+            353.601,
+            275.554,
+            363.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Withdraws",
+          "box": [
+            308.25,
+            353.601,
+            361.57,
+            363.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "to",
+          "box": [
+            363.69,
+            353.601,
+            372.57,
+            363.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "touch",
+          "box": [
+            375.345,
+            353.601,
+            401.257,
+            363.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "5",
+          "box": [
+            530.1,
+            353.601,
+            535.659,
+            363.6
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Withdraws",
+          "box": [
+            159.75,
+            370.656,
+            213.071,
+            380.655
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "in",
+          "box": [
+            215.19,
+            370.656,
+            223.948,
+            380.655
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "response",
+          "box": [
+            227.43,
+            370.656,
+            270.42,
+            380.655
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "to",
+          "box": [
+            272.835,
+            370.656,
+            281.715,
+            380.655
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Withdraws",
+          "box": [
+            308.25,
+            376.101,
+            361.57,
+            386.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "in",
+          "box": [
+            363.69,
+            376.101,
+            372.448,
+            386.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "response",
+          "box": [
+            375.93,
+            376.101,
+            418.92,
+            386.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "to",
+          "box": [
+            421.335,
+            376.101,
+            430.215,
+            386.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "pain",
+          "box": [
+            432.99,
+            376.101,
+            453.511,
+            386.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "4",
+          "box": [
+            530.1,
+            376.101,
+            535.659,
+            386.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "pain",
+          "box": [
+            159.75,
+            382.311,
+            180.271,
+            392.31
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Flexion",
+          "box": [
+            159.75,
+            403.101,
+            194.401,
+            413.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "in",
+          "box": [
+            197.865,
+            403.101,
+            206.623,
+            413.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "response",
+          "box": [
+            210.105,
+            403.101,
+            253.095,
+            413.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "to",
+          "box": [
+            255.51,
+            403.101,
+            264.39,
+            413.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "pain",
+          "box": [
+            267.21,
+            403.101,
+            287.731,
+            413.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Abnormal",
+          "box": [
+            308.25,
+            403.101,
+            355.654,
+            413.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "flexion",
+          "box": [
+            359.145,
+            403.101,
+            391.592,
+            413.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "in",
+          "box": [
+            395.055,
+            403.101,
+            403.813,
+            413.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "response",
+          "box": [
+            407.295,
+            403.101,
+            450.285,
+            413.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "to",
+          "box": [
+            452.7,
+            403.101,
+            461.58,
+            413.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "pain",
+          "box": [
+            464.4,
+            403.101,
+            484.921,
+            413.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "3",
+          "box": [
+            530.1,
+            403.101,
+            535.659,
+            413.1
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Extension",
+          "box": [
+            159.75,
+            427.851,
+            206.013,
+            437.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "in",
+          "box": [
+            209.475,
+            427.851,
+            218.233,
+            437.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "response",
+          "box": [
+            221.76,
+            427.851,
+            264.75,
+            437.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "to",
+          "box": [
+            267.12,
+            427.851,
+            276.0,
+            437.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "pain",
+          "box": [
+            278.82,
+            427.851,
+            299.341,
+            437.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "Abnormal",
+          "box": [
+            308.25,
+            427.851,
+            355.654,
+            437.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "extension",
+          "box": [
+            359.145,
+            427.851,
+            404.531,
+            437.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "in",
+          "box": [
+            408.015,
+            427.851,
+            416.773,
+            437.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "response",
+          "box": [
+            420.255,
+            427.851,
+            463.245,
+            437.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "to",
+          "box": [
+            465.3,
+            427.851,
+            474.18,
+            437.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "pain",
+          "box": [
+            477.0,
+            427.851,
+            497.521,
+            437.85
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "2",
+          "box": [
+            530.1,
+            426.366,
+            535.659,
+            436.365
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "No",
+          "box": [
+            159.75,
+            450.171,
+            172.842,
+            460.17
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "response",
+          "box": [
+            175.635,
+            450.171,
+            218.625,
+            460.17
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "No",
+          "box": [
+            308.25,
+            450.171,
+            321.342,
+            460.17
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "response",
+          "box": [
+            324.135,
+            450.171,
+            367.125,
+            460.17
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "1",
+          "box": [
+            530.1,
+            448.821,
+            535.659,
+            458.82
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0141.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 90.88,
+    "output_to_native_length_ratio": 0.976,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

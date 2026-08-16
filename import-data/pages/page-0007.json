@@ -1,0 +1,1520 @@
+{
+  "id": "page-0007",
+  "pdf_page": 7,
+  "protocol_label": null,
+  "kind": "toc",
+  "chapter_id": null,
+  "topic_id": null,
+  "title": "Table of Contents",
+  "markdown": "# Table of Contents\n\n![Visual reference from Table of Contents](../../assets/figures/page-0007-visual.webp)\n\n| Protocol Name | Color and Number |\n| :--- | :--- |\n| Operational K9 Burns | OD Green 16 |\n| Operational K9 Opioid Overdose | OD Green 17 |\n| Operational K9 CO/CN Exposure / Smoke Inhalation | OD Green 18 |\n| Operational K9 Nerve Agent / Organophosphate / Carbamate Exposure | OD Green 19 |\n| Operational K9 Heat Illness | OD Green 20 - 22 |\n| Operational K9 Anaphylaxis | OD Green 23 |\n| Operational K9 Gastric Dilation and Volvulus | OD Green 24 |\n| Operational K9 K9 M³ARCH² PEDALS | OD Green 25 |\n| Operational K9 Casualty Card | OD Green 26 |\n| Operational K9 Normal Vitals & Glasgow Coma Score | OD Green 27 |\n| Operational K9 Equipment Reference | OD Green 28 |\n| Operational K9 Formulary (for 30 kg K9) | OD Green 29 |\n",
+  "plain_text": "Table of Contents Protocol Name Color and Number Operational K9 Burns OD Green 16 Operational K9 Opioid Overdose OD Green 17 Operational K9 CO/CN Exposure / Smoke Inhalation OD Green 18 Operational K9 Nerve Agent / Organophosphate / Carbamate Exposure OD Green 19 Operational K9 Heat Illness OD Green 20 - 22 Operational K9 Anaphylaxis OD Green 23 Operational K9 Gastric Dilation and Volvulus OD Green 24 Operational K9 K9 M³ARCH² PEDALS OD Green 25 Operational K9 Casualty Card OD Green 26 Operational K9 Normal Vitals & Glasgow Coma Score OD Green 27 Operational K9 Equipment Reference OD Green 28 Operational K9 Formulary (for 30 kg K9) OD Green 29",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        374.26,
+        34.09,
+        631.84,
+        56.82
+      ],
+      "text": "Tabl e of Cont ent s",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        265.74,
+        73.53,
+        832.19,
+        87.42
+      ],
+      "text": "Protocol Name Color and Number",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        98.48,
+        799.3,
+        108.71
+      ],
+      "text": "Operational K9 Burns OD Green 16",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        121.21,
+        799.3,
+        131.44
+      ],
+      "text": "Operational K9 Opioid Overdose OD Green 17",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        143.94,
+        799.3,
+        154.16
+      ],
+      "text": "Operational K9 CO/CN Exposure / Smoke Inhalation OD Green 18",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        166.66,
+        799.3,
+        176.89
+      ],
+      "text": "Operational K9 Nerve Agent / Organophosphate / Carbamate Exposure OD Green 19",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        189.39,
+        812.55,
+        199.62
+      ],
+      "text": "Operational K9 Heat Illness OD Green 20 - 22",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        212.12,
+        799.3,
+        222.34
+      ],
+      "text": "Operational K9 Anaphylaxis OD Green 23",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        234.84,
+        799.3,
+        245.07
+      ],
+      "text": "Operational K9 Gastric Dilation and Volvulus OD Green 24",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        257.11,
+        799.3,
+        267.8
+      ],
+      "text": "Operational K9 K9 M 3 ARCH 2 PEDALS OD Green 25",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        280.3,
+        799.3,
+        290.53
+      ],
+      "text": "Operational K9 Casualty Card OD Green 26",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        302.86,
+        799.3,
+        313.08
+      ],
+      "text": "Operational K9 Normal Vitals & Glasgow Coma Score OD Green 27",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        325.41,
+        799.3,
+        335.98
+      ],
+      "text": "Operational K9 Equipment Reference OD Green 28",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        79.41,
+        348.14,
+        799.3,
+        358.71
+      ],
+      "text": "Operational K9 Formulary (for 30 kg K9) OD Green 29",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0007-visual",
+      "type": "diagram",
+      "path": "assets/figures/page-0007-visual.webp",
+      "alt": "Visual reference from Table of Contents",
+      "source_box_points": [
+        42,
+        72,
+        570.0,
+        744.0
+      ],
+      "reasons": [
+        "structured_visual"
+      ],
+      "sha256": "0eb7d1c798cfb414b49ea2490707fcfaefeb8ee0f492c25d47f923055412c842"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "69b13218987c220daa3809bae8c221c665cecf3e68941674661219964ecd05cc",
+    "native": {
+      "text": "Tabl e of Cont ent s\nProtocol Name Color and Number\nOperational K9 Burns OD Green 16\nOperational K9 Opioid Overdose OD Green 17\nOperational K9 CO/CN Exposure / Smoke Inhalation OD Green 18\nOperational K9 Nerve Agent / Organophosphate / Carbamate Exposure OD Green 19\nOperational K9 Heat Illness OD Green 20 - 22\nOperational K9 Anaphylaxis OD Green 23\nOperational K9 Gastric Dilation and Volvulus OD Green 24\nOperational K9 K9 M3ARCH2 PEDALS OD Green 25\nOperational K9 Casualty Card OD Green 26\nOperational K9 Normal Vitals & Glasgow Coma Score OD Green 27\nOperational K9 Equipment Reference OD Green 28\nOperational K9 Formulary (for 30 kg K9) OD Green 29",
+      "body_text": "Operational K9 Anaphylaxis OD Green 23 Operational K9 Gastric Dilation and Volvulus OD Green 24 Operational K9 K9 M Operational K9 Casualty Card OD Green 26 3 ARCH 2 Operational K9 Burns OD Green 16 Operational K9 Opioid Overdose OD Green 17 Operational K9 CO/CN Exposure / Smoke Inhalation OD Green 18 Operational K9 Nerve Agent / Organophosphate / Carbamate Exposure OD Green 19 Operational K9 Heat Illness OD Green 20 - 22 PEDALS OD Green 25 Operational K9 Normal Vitals & Glasgow Coma Score OD Green 27 Operational K9 Equipment Reference OD Green 28 Operational K9 Formulary (for 30 kg K9) OD Green 29",
+      "words": [
+        {
+          "text": "Protocol",
+          "box": [
+            162.63,
+            58.239,
+            206.506,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Name",
+          "box": [
+            210.155,
+            58.239,
+            240.07,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Color",
+          "box": [
+            414.495,
+            58.239,
+            442.507,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "and",
+          "box": [
+            446.22,
+            58.239,
+            465.141,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Number",
+          "box": [
+            468.454,
+            58.239,
+            509.299,
+            69.237
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 10.998
+        },
+        {
+          "text": "Tabl",
+          "box": [
+            229.05,
+            27.0,
+            266.535,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "e",
+          "box": [
+            268.875,
+            27.0,
+            278.883,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "of",
+          "box": [
+            283.815,
+            27.0,
+            299.673,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "Cont",
+          "box": [
+            306.675,
+            27.0,
+            346.194,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "ent",
+          "box": [
+            348.3,
+            27.0,
+            375.404,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "s",
+          "box": [
+            377.685,
+            27.0,
+            386.685,
+            45.0
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 18.0
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            167.997,
+            90.428,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            167.997,
+            102.541,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Anaphylaxis",
+          "box": [
+            104.793,
+            167.997,
+            148.419,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            167.997,
+            453.375,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            167.997,
+            477.892,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "23",
+          "box": [
+            480.164,
+            167.997,
+            489.172,
+            176.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            185.997,
+            90.428,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            185.997,
+            102.541,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Gastric",
+          "box": [
+            104.793,
+            185.997,
+            130.405,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Dilation",
+          "box": [
+            132.657,
+            185.997,
+            159.58,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "and",
+          "box": [
+            161.832,
+            185.997,
+            175.342,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Volvulus",
+          "box": [
+            177.594,
+            185.997,
+            207.71,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            185.997,
+            453.375,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            185.997,
+            477.892,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "24",
+          "box": [
+            480.164,
+            185.997,
+            489.172,
+            194.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            203.997,
+            90.428,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            203.997,
+            102.541,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            104.793,
+            203.997,
+            114.7,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "M",
+          "box": [
+            116.951,
+            203.997,
+            123.699,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            221.997,
+            90.428,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            221.997,
+            102.541,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Casualty",
+          "box": [
+            104.793,
+            221.997,
+            136.261,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Card",
+          "box": [
+            138.513,
+            221.997,
+            156.025,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            221.997,
+            453.375,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            221.997,
+            477.892,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "26",
+          "box": [
+            480.164,
+            221.997,
+            489.172,
+            230.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "3",
+          "box": [
+            123.66,
+            203.629,
+            126.813,
+            209.299
+          ],
+          "font": "Helvetica",
+          "size": 5.67
+        },
+        {
+          "text": "ARCH",
+          "box": [
+            126.81,
+            203.997,
+            149.716,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "2",
+          "box": [
+            149.67,
+            203.629,
+            152.823,
+            209.299
+          ],
+          "font": "Helvetica",
+          "size": 5.67
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            77.997,
+            90.428,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            77.997,
+            102.541,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Burns",
+          "box": [
+            104.793,
+            77.997,
+            125.931,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            77.997,
+            453.375,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            77.997,
+            477.892,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "16",
+          "box": [
+            480.164,
+            77.997,
+            489.172,
+            86.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            95.997,
+            90.428,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            95.997,
+            102.541,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Opioid",
+          "box": [
+            104.793,
+            95.997,
+            128.161,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Overdose",
+          "box": [
+            130.413,
+            95.997,
+            165.506,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            95.997,
+            453.375,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            95.997,
+            477.892,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "17",
+          "box": [
+            480.164,
+            95.997,
+            489.172,
+            104.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            113.997,
+            90.428,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            113.997,
+            102.541,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "CO/CN",
+          "box": [
+            107.045,
+            113.997,
+            133.102,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Exposure",
+          "box": [
+            135.354,
+            113.997,
+            169.548,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            171.776,
+            113.997,
+            174.028,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Smoke",
+          "box": [
+            176.279,
+            113.997,
+            201.467,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Inhalation",
+          "box": [
+            203.739,
+            113.997,
+            238.819,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            113.997,
+            453.375,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            113.997,
+            477.892,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "18",
+          "box": [
+            480.164,
+            113.997,
+            489.172,
+            122.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            131.997,
+            90.428,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            131.997,
+            102.541,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Nerve",
+          "box": [
+            104.793,
+            131.997,
+            126.355,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Agent",
+          "box": [
+            128.607,
+            131.997,
+            149.773,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            152.024,
+            131.997,
+            154.276,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Organophosphate",
+          "box": [
+            156.528,
+            131.997,
+            221.349,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "/",
+          "box": [
+            223.621,
+            131.997,
+            225.873,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Carbamate",
+          "box": [
+            228.125,
+            131.997,
+            268.127,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Exposure",
+          "box": [
+            270.355,
+            131.997,
+            304.549,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            131.997,
+            453.375,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            131.997,
+            477.892,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "19",
+          "box": [
+            480.164,
+            131.997,
+            489.172,
+            140.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            149.997,
+            90.428,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            149.997,
+            102.541,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Heat",
+          "box": [
+            104.793,
+            149.997,
+            121.88,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Illness",
+          "box": [
+            124.152,
+            149.997,
+            147.066,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            433.125,
+            149.997,
+            445.275,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            447.527,
+            149.997,
+            470.017,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "20",
+          "box": [
+            472.064,
+            149.997,
+            481.072,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "-",
+          "box": [
+            483.323,
+            149.997,
+            486.021,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "22",
+          "box": [
+            488.273,
+            149.997,
+            497.281,
+            158.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "PEDALS",
+          "box": [
+            155.072,
+            203.997,
+            187.014,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            203.997,
+            453.375,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            203.997,
+            477.892,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "25",
+          "box": [
+            480.164,
+            203.997,
+            489.172,
+            212.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            239.862,
+            90.428,
+            247.962
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            239.862,
+            102.541,
+            247.962
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Normal",
+          "box": [
+            104.793,
+            239.862,
+            130.831,
+            247.962
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Vitals",
+          "box": [
+            133.062,
+            239.862,
+            152.665,
+            247.962
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "&",
+          "box": [
+            154.938,
+            239.862,
+            160.34,
+            247.962
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Glasgow",
+          "box": [
+            162.592,
+            239.862,
+            194.08,
+            247.962
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Coma",
+          "box": [
+            196.312,
+            239.862,
+            217.874,
+            247.962
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Score",
+          "box": [
+            220.126,
+            239.862,
+            241.263,
+            247.962
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            239.862,
+            453.375,
+            247.962
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            239.862,
+            477.892,
+            247.962
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "27",
+          "box": [
+            480.164,
+            239.862,
+            489.172,
+            247.962
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            257.727,
+            90.428,
+            265.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            257.727,
+            102.541,
+            265.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Equipment",
+          "box": [
+            104.793,
+            257.727,
+            143.471,
+            265.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Reference",
+          "box": [
+            145.723,
+            257.727,
+            183.047,
+            265.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            257.997,
+            453.375,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            257.997,
+            477.892,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "28",
+          "box": [
+            480.164,
+            257.997,
+            489.172,
+            266.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Operational",
+          "box": [
+            48.6,
+            275.997,
+            90.428,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9",
+          "box": [
+            92.635,
+            275.997,
+            102.541,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Formulary",
+          "box": [
+            104.793,
+            275.997,
+            141.142,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "(for",
+          "box": [
+            143.414,
+            275.997,
+            155.544,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "30",
+          "box": [
+            157.776,
+            275.997,
+            166.784,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "kg",
+          "box": [
+            169.035,
+            275.997,
+            177.589,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "K9)",
+          "box": [
+            179.841,
+            275.997,
+            192.444,
+            284.097
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "OD",
+          "box": [
+            441.225,
+            275.727,
+            453.375,
+            283.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "Green",
+          "box": [
+            455.402,
+            275.727,
+            477.892,
+            283.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        },
+        {
+          "text": "29",
+          "box": [
+            480.164,
+            275.727,
+            489.172,
+            283.827
+          ],
+          "font": "Helvetica",
+          "size": 8.1
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0007.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 99.63,
+    "output_to_native_length_ratio": 1.0,
+    "native_dosage_tokens": [
+      "30kg"
+    ],
+    "output_dosage_tokens": [
+      "30kg"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

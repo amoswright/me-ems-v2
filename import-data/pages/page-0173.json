@@ -1,0 +1,4303 @@
+{
+  "id": "page-0173",
+  "pdf_page": 173,
+  "protocol_label": "Grey 16",
+  "kind": "protocol",
+  "chapter_id": "grey",
+  "topic_id": "grey-mass-casualty-disasters-hazmat",
+  "title": "Mass Casualty / Disasters/Hazmat",
+  "markdown": "# Mass Casualty / Disasters/Hazmat\n\n(Continued from previous page)\n\n**PRIMARY TRIAGE OFFICER** - Rapidly assesses all patients then assigns personnel to provide treatment to those patients in most need of immediate treatment, who will most benefit from immediate care with the resources available. Treatment is limited to:\n* Bleeding - hemorrhage control\n* Airway - reposition patient\n* Shock - elevate extremities\n\n**SECONDARY TRIAGE OFFICER** - Rapidly tags all patients, or assigns personnel to do tagging (with METTAGS, SMART Tags, or other locally approved Triage System) and supervises immobilization after classification, and oversees transfer to collection/treatment area.\n\nTag categories are:\n\n**RED (I):** Conditions requiring immediate transport by ambulance to prevent jeopardy to life or limb and which will not unduly deplete personnel/equipment resources (examples: progressive shock, major blood loss, major multiple injuries, severe respiratory distress. Cardiac arrest - only if personnel can be spared).\n\n**YELLOW (II):** Not requiring immediate transport to prevent jeopardy to life or limb, but eventually will require ambulance transport to hospital for attention.\n\n**GREEN (III):** Minor conditions probably not requiring ambulance transport to hospital.\n\n**BLACK (O):** Are obviously dead, or dying from lethal injuries, or requiring CPR when no personnel are available to do so without compromising other patients.\n\n**TREATMENT OFFICER** - Sets up / supervises patient collection / treatment area. Reassesses and re-tags (if necessary) patients, assigns patients and personnel to treatment areas. Prioritizes for transport. Coordinates with Loading/Transport Officer to make single radio transmission to receiving facility (pt. ID#, METTAG priority, nature of injury, ambulance, and ETA ONLY).\n\n**LOADING OFFICER** - Stages ambulances in holding area. Instructs crews to put all available equipment in equipment area. Assigns patients to vehicles. Directs drivers to hospital(s). Instructs not to contact hospital unless OLMC required for condition change. Notifies hospital, or coordinates communication to hospital notification times, patient ID#s and destination of all transporting vehicles.\n\nIn the event of a public health emergency or declared disaster, EMS clinicians may be asked to divert selected patients with certain conditions to hospital-established or state-established alternate care sites by OLMC.\n",
+  "plain_text": "Mass Casualty / Disasters/Hazmat (Continued from previous page) PRIMARY TRIAGE OFFICER - Rapidly assesses all patients then assigns personnel to provide treatment to those patients in most need of immediate treatment, who will most benefit from immediate care with the resources available. Treatment is limited to: Bleeding - hemorrhage control Airway - reposition patient Shock - elevate extremities SECONDARY TRIAGE OFFICER - Rapidly tags all patients, or assigns personnel to do tagging (with METTAGS, SMART Tags, or other locally approved Triage System) and supervises immobilization after classification, and oversees transfer to collection/treatment area. Tag categories are: RED (I): Conditions requiring immediate transport by ambulance to prevent jeopardy to life or limb and which will not unduly deplete personnel/equipment resources (examples: progressive shock, major blood loss, major multiple injuries, severe respiratory distress. Cardiac arrest - only if personnel can be spared). YELLOW (II): Not requiring immediate transport to prevent jeopardy to life or limb, but eventually will require ambulance transport to hospital for attention. GREEN (III): Minor conditions probably not requiring ambulance transport to hospital. BLACK (O): Are obviously dead, or dying from lethal injuries, or requiring CPR when no personnel are available to do so without compromising other patients. TREATMENT OFFICER - Sets up / supervises patient collection / treatment area. Reassesses and re-tags (if necessary) patients, assigns patients and personnel to treatment areas. Prioritizes for transport. Coordinates with Loading/Transport Officer to make single radio transmission to receiving facility (pt. ID#, METTAG priority, nature of injury, ambulance, and ETA ONLY). LOADING OFFICER - Stages ambulances in holding area. Instructs crews to put all available equipment in equipment area. Assigns patients to vehicles. Directs drivers to hospital(s). Instructs not to contact hospital unless OLMC required for condition change. Notifies hospital, or coordinates communication to hospital notification times, patient ID#s and destination of all transporting vehicles. In the event of a public health emergency or declared disaster, EMS clinicians may be asked to divert selected patients with certain conditions to hospital-established or state-established alternate care sites by OLMC.",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        231.03,
+        45.49,
+        776.14,
+        70.74
+      ],
+      "text": "M ass Casualty/Disaster s/HazM at #2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        51.47,
+        95.77,
+        366.72,
+        110.92
+      ],
+      "text": "(Continued fr om pr evious page)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        127.02,
+        845.35,
+        142.17
+      ],
+      "text": "PRIMARY TRIAGE OFFICER ? Rapidly assesses all patients then assigns personnel to",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        144.64,
+        875.02,
+        159.78
+      ],
+      "text": "provide treatment to those patients in most need of immediate treatment, who will most",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        162.31,
+        818.86,
+        177.45
+      ],
+      "text": "benefit from immediate care with the resources available. Treatment is limited to:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        81.62,
+        179.92,
+        380.92,
+        195.07
+      ],
+      "text": "- Bleeding ? hemorrhage control",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        81.62,
+        197.59,
+        345.99,
+        212.74
+      ],
+      "text": "- Airway ? reposition patient",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        81.62,
+        215.2,
+        346.79,
+        230.35
+      ],
+      "text": "- Shock ? elevate extremities",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        250.49,
+        922.52,
+        265.64
+      ],
+      "text": "SECONDARY TRIAGE OFFICER ? Rapidly tags all patients, or assigns personnel to do tagging",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        268.1,
+        858.63,
+        283.25
+      ],
+      "text": "(with METTAGS, SMART Tags, or other locally approved Triage System) and supervises",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        285.77,
+        856.08,
+        300.92
+      ],
+      "text": "immobilization after classification, and oversees transfer to collection/treatment area.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        321.06,
+        228.57,
+        336.2
+      ],
+      "text": "Tag categories are:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        356.28,
+        909.71,
+        371.43
+      ],
+      "text": "RED (I): Conditions requiring immediate transport by ambulance to prevent jeopardy to life",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        373.95,
+        855.42,
+        389.1
+      ],
+      "text": "or limb and which will not unduly deplete personnel/equipment resources (examples:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        391.57,
+        875.45,
+        406.71
+      ],
+      "text": "progressive shock, major blood loss, major multiple injuries, severe respiratory distress.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        409.24,
+        512.75,
+        424.39
+      ],
+      "text": "Cardiac arrest ? only if personnel can be spared).",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        444.52,
+        871.83,
+        459.67
+      ],
+      "text": "YELLOW (II): Not requiring immediate transport to prevent jeopardy to life or limb, but",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        462.14,
+        701.76,
+        477.28
+      ],
+      "text": "eventually will require ambulance transport to hospital for attention.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        497.42,
+        867.14,
+        512.57
+      ],
+      "text": "GREEN (III): Minor conditions probably not requiring ambulance transport to hospital.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        532.7,
+        873.55,
+        547.85
+      ],
+      "text": "BLACK (O): Are obviously dead, or dying from lethal injuries, or requiring CPR when no",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        550.32,
+        709.68,
+        565.46
+      ],
+      "text": "personnel are available to do so without compromising other patients.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        585.15,
+        906.78,
+        600.29
+      ],
+      "text": "TREATMENT OFFICER ? Sets up / supervises patient collection / treatment area. Reassesses",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        602.76,
+        847.27,
+        617.91
+      ],
+      "text": "and re-tags (if necessary) patients, assigns patients and personnel to treatment areas.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        620.37,
+        890.65,
+        635.52
+      ],
+      "text": "Prioritizes for transport. Coordinates with Loading/Transport Officer to make single radio",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        637.99,
+        918.41,
+        653.14
+      ],
+      "text": "transmission to receiving facility (pt. ID#, METTAG priority, nature of injury, ambulance, and",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        656.17,
+        163.27,
+        671.32
+      ],
+      "text": "ETA ONLY).",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        691.4,
+        917.72,
+        706.54
+      ],
+      "text": "LOADING OFFICER ? Stages ambulances in holding area. Instructs crews to put all available",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        709.01,
+        877.06,
+        724.16
+      ],
+      "text": "equipment in equipment area. Assigns patients to vehicles. Directs drivers to hospital(s).",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        726.62,
+        845.86,
+        741.77
+      ],
+      "text": "Instructs not to contact hospital unless OLMC required for condition change. Notifies",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        744.24,
+        861.05,
+        759.39
+      ],
+      "text": "hospital, or coordinates communication to hospital notification times, patient ID#s and",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        761.85,
+        420.73,
+        777.0
+      ],
+      "text": "destination of all transporting vehicles.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        814.69,
+        906.96,
+        829.84
+      ],
+      "text": "In the event of a public health emergency or declared disaster, EMS clinicians may be asked",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        832.31,
+        916.41,
+        847.45
+      ],
+      "text": "to divert selected patients with certain conditions to hospital-established or state-established",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        55.15,
+        849.92,
+        326.9,
+        865.07
+      ],
+      "text": "alternate care sites by OLMC.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        437.35,
+        950.49,
+        895.38,
+        965.64
+      ],
+      "text": "(Back to TOC) Grey 16",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "f8785c2135e24c3b9e263377738593eb466fa91b10d0dc452c8132f1fd6dace0",
+    "native": {
+      "text": "M ass Casualty/Disaster s/HazM at #2\n(Continued fr om pr evious page)\nPRIMARY TRIAGE OFFICER ? Rapidly assesses all patients then assigns personnel to\nprovide treatment to those patients in most need of immediate treatment, who will most\nbenefit from immediate care with the resources available. Treatment is limited to:\n- Bleeding ? hemorrhage control\n- Airway ? reposition patient\n- Shock ? elevate extremities\nSECONDARY TRIAGE OFFICER ? Rapidly tags all patients, or assigns personnel to do tagging\n(with METTAGS, SMART Tags, or other locally approved Triage System) and supervises\nimmobilization after classification, and oversees transfer to collection/treatment area.\nTag categories are:\nRED (I): Conditions requiring immediate transport by ambulance to prevent jeopardy to life\nor limb and which will not unduly deplete personnel/equipment resources (examples:\nprogressive shock, major blood loss, major multiple injuries, severe respiratory distress.\nCardiac arrest ? only if personnel can be spared).\nYELLOW (II): Not requiring immediate transport to prevent jeopardy to life or limb, but\neventually will require ambulance transport to hospital for attention.\nGREEN (III): Minor conditions probably not requiring ambulance transport to hospital.\nBLACK (O): Are obviously dead, or dying from lethal injuries, or requiring CPR when no\npersonnel are available to do so without compromising other patients.\nTREATMENT OFFICER ? Sets up / supervises patient collection / treatment area. Reassesses\nand re-tags (if necessary) patients, assigns patients and personnel to treatment areas.\nPrioritizes for transport. Coordinates with Loading/Transport Officer to make single radio\ntransmission to receiving facility (pt. ID#, METTAG priority, nature of injury, ambulance, and\nETA ONLY).\nLOADING OFFICER ? Stages ambulances in holding area. Instructs crews to put all available\nequipment in equipment area. Assigns patients to vehicles. Directs drivers to hospital(s).\nInstructs not to contact hospital unless OLMC required for condition change. Notifies\nhospital, or coordinates communication to hospital notification times, patient ID#s and\ndestination of all transporting vehicles.\nIn the event of a public health emergency or declared disaster, EMS clinicians may be asked\nto divert selected patients with certain conditions to hospital-established or state-established\nalternate care sites by OLMC.\n(Back to TOC) Grey 16",
+      "body_text": "PRIMARY TRIAGE OFFICER ? Rapidly assesses all patients then assigns personnel to provide treatment to those patients in most need of immediate treatment, who will most benefit from immediate care with the resources available. Treatment is limited to: - Bleeding ? hemorrhage control - Airway ? reposition patient - Shock ? elevate extremities SECONDARY TRIAGE OFFICER ? Rapidly tags all patients, or assigns personnel to do tagging (with METTAGS, SMART Tags, or other locally approved Triage System) and supervises immobilization after classification, and oversees transfer to collection/treatment area. Tag categories are: RED (I): Conditions requiring immediate transport by ambulance to prevent jeopardy to life or limb and which will not unduly deplete personnel/equipment resources (examples: progressive shock, major blood loss, major multiple injuries, severe respiratory distress. Cardiac arrest ? only if personnel can be spared). YELLOW (II): Not requiring immediate transport to prevent jeopardy to life or limb, but eventually will require ambulance transport to hospital for attention. GREEN (III): Minor conditions probably not requiring ambulance transport to hospital. BLACK (O): Are obviously dead, or dying from lethal injuries, or requiring CPR when no personnel are available to do so without compromising other patients. TREATMENT OFFICER ? Sets up / supervises patient collection / treatment area. Reassesses and re-tags (if necessary) patients, assigns patients and personnel to treatment areas. Prioritizes for transport. Coordinates with Loading/Transport Officer to make single radio transmission to receiving facility (pt. ID#, METTAG priority, nature of injury, ambulance, and ETA ONLY). LOADING OFFICER ? Stages ambulances in holding area. Instructs crews to put all available equipment in equipment area. Assigns patients to vehicles. Directs drivers to hospital(s). Instructs not to contact hospital unless OLMC required for condition change. Notifies hospital, or coordinates communication to hospital notification times, patient ID#s and destination of all transporting vehicles. In the event of a public health emergency or declared disaster, EMS clinicians may be asked to divert selected patients with certain conditions to hospital-established or state-established alternate care sites by OLMC. (Continued fr om pr evious page)",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            267.66,
+            752.786,
+            298.314,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            302.49,
+            752.786,
+            313.145,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            316.485,
+            752.786,
+            344.1,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Grey",
+          "box": [
+            504.45,
+            752.786,
+            530.969,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "16",
+          "box": [
+            534.6,
+            752.786,
+            547.975,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "M",
+          "box": [
+            141.39,
+            36.027,
+            158.048,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ass",
+          "box": [
+            160.146,
+            36.027,
+            190.426,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Casualty/Disaster",
+          "box": [
+            194.67,
+            36.027,
+            355.715,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "s/HazM",
+          "box": [
+            358.479,
+            36.027,
+            427.261,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "at",
+          "box": [
+            429.358,
+            36.027,
+            445.979,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#2",
+          "box": [
+            452.7,
+            36.027,
+            474.997,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "PRIMARY",
+          "box": [
+            33.75,
+            100.601,
+            91.279,
+            112.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "TRIAGE",
+          "box": [
+            94.68,
+            100.601,
+            141.823,
+            112.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "OFFICER",
+          "box": [
+            144.81,
+            100.601,
+            198.472,
+            112.598
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "?",
+          "box": [
+            201.42,
+            100.601,
+            208.09,
+            112.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Rapidly",
+          "box": [
+            210.555,
+            100.601,
+            253.339,
+            112.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "assesses",
+          "box": [
+            257.22,
+            100.601,
+            304.47,
+            112.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "all",
+          "box": [
+            307.035,
+            100.601,
+            320.173,
+            112.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            324.315,
+            100.601,
+            370.644,
+            112.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "then",
+          "box": [
+            373.185,
+            100.601,
+            398.115,
+            112.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "assigns",
+          "box": [
+            402.3,
+            100.601,
+            443.911,
+            112.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "personnel",
+          "box": [
+            446.49,
+            100.601,
+            502.829,
+            112.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            506.7,
+            100.601,
+            517.355,
+            112.598
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "provide",
+          "box": [
+            33.75,
+            114.551,
+            78.273,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "treatment",
+          "box": [
+            81.135,
+            114.551,
+            137.01,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            141.03,
+            114.551,
+            151.685,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "those",
+          "box": [
+            155.025,
+            114.551,
+            185.873,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            188.775,
+            114.551,
+            235.104,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            237.645,
+            114.551,
+            248.153,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "most",
+          "box": [
+            252.315,
+            114.551,
+            279.325,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "need",
+          "box": [
+            283.365,
+            114.551,
+            310.618,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            314.415,
+            114.551,
+            324.559,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "immediate",
+          "box": [
+            328.77,
+            114.551,
+            390.315,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "treatment,",
+          "box": [
+            393.21,
+            114.551,
+            453.31,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "who",
+          "box": [
+            455.85,
+            114.551,
+            480.358,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "will",
+          "box": [
+            483.75,
+            114.551,
+            504.312,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "most",
+          "box": [
+            508.5,
+            114.551,
+            535.51,
+            126.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "benefit",
+          "box": [
+            33.75,
+            128.546,
+            73.297,
+            140.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "from",
+          "box": [
+            77.265,
+            128.546,
+            104.148,
+            140.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "immediate",
+          "box": [
+            108.63,
+            128.546,
+            170.175,
+            140.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "care",
+          "box": [
+            173.07,
+            128.546,
+            198.051,
+            140.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            200.925,
+            128.546,
+            225.999,
+            140.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            230.04,
+            128.546,
+            248.549,
+            140.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "resources",
+          "box": [
+            251.415,
+            128.546,
+            307.417,
+            140.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available.",
+          "box": [
+            309.96,
+            128.546,
+            364.84,
+            140.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Treatment",
+          "box": [
+            368.1,
+            128.546,
+            427.104,
+            140.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "is",
+          "box": [
+            431.1,
+            128.546,
+            440.936,
+            140.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "limited",
+          "box": [
+            443.475,
+            128.546,
+            483.405,
+            140.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to:",
+          "box": [
+            486.9,
+            128.546,
+            501.145,
+            140.543
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            49.95,
+            142.496,
+            53.945,
+            154.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Bleeding",
+          "box": [
+            57.375,
+            142.496,
+            107.392,
+            154.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "?",
+          "box": [
+            110.34,
+            142.496,
+            117.01,
+            154.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hemorrhage",
+          "box": [
+            119.43,
+            142.496,
+            190.405,
+            154.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "control",
+          "box": [
+            193.32,
+            142.496,
+            233.121,
+            154.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            49.95,
+            156.491,
+            53.945,
+            168.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Airway",
+          "box": [
+            57.375,
+            156.491,
+            97.807,
+            168.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "?",
+          "box": [
+            101.745,
+            156.491,
+            108.415,
+            168.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reposition",
+          "box": [
+            110.835,
+            156.491,
+            168.105,
+            168.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            172.305,
+            156.491,
+            211.746,
+            168.488
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            49.95,
+            170.441,
+            53.945,
+            182.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Shock",
+          "box": [
+            57.375,
+            170.441,
+            90.342,
+            182.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "?",
+          "box": [
+            94.5,
+            170.441,
+            101.17,
+            182.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "elevate",
+          "box": [
+            103.635,
+            170.441,
+            144.076,
+            182.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "extremities",
+          "box": [
+            146.925,
+            170.441,
+            212.234,
+            182.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "SECONDARY",
+          "box": [
+            33.75,
+            198.386,
+            109.522,
+            210.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "TRIAGE",
+          "box": [
+            112.95,
+            198.386,
+            160.093,
+            210.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "OFFICER",
+          "box": [
+            163.035,
+            198.386,
+            216.697,
+            210.383
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "?",
+          "box": [
+            219.69,
+            198.386,
+            226.36,
+            210.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Rapidly",
+          "box": [
+            228.78,
+            198.386,
+            271.564,
+            210.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tags",
+          "box": [
+            275.49,
+            198.386,
+            298.921,
+            210.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "all",
+          "box": [
+            301.455,
+            198.386,
+            314.593,
+            210.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients,",
+          "box": [
+            318.78,
+            198.386,
+            367.859,
+            210.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            370.62,
+            198.386,
+            381.54,
+            210.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "assigns",
+          "box": [
+            386.325,
+            198.386,
+            427.936,
+            210.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "personnel",
+          "box": [
+            430.47,
+            198.386,
+            486.809,
+            210.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            490.95,
+            198.386,
+            501.605,
+            210.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "do",
+          "box": [
+            504.9,
+            198.386,
+            518.932,
+            210.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tagging",
+          "box": [
+            522.45,
+            198.386,
+            564.583,
+            210.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(with",
+          "box": [
+            33.75,
+            212.336,
+            62.977,
+            224.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "METTAGS,",
+          "box": [
+            67.005,
+            212.336,
+            126.356,
+            224.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "SMART",
+          "box": [
+            129.06,
+            212.336,
+            170.257,
+            224.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Tags,",
+          "box": [
+            173.385,
+            212.336,
+            202.213,
+            224.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            205.02,
+            212.336,
+            215.94,
+            224.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "other",
+          "box": [
+            220.725,
+            212.336,
+            249.906,
+            224.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "locally",
+          "box": [
+            254.655,
+            212.336,
+            291.282,
+            224.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "approved",
+          "box": [
+            295.2,
+            212.336,
+            348.945,
+            224.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Triage",
+          "box": [
+            352.755,
+            212.336,
+            389.358,
+            224.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "System)",
+          "box": [
+            392.265,
+            212.336,
+            436.484,
+            224.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            439.74,
+            212.336,
+            460.905,
+            224.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "supervises",
+          "box": [
+            464.4,
+            212.336,
+            525.482,
+            224.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "immobilization",
+          "box": [
+            33.75,
+            226.331,
+            120.371,
+            238.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "after",
+          "box": [
+            124.56,
+            226.331,
+            150.268,
+            238.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "classification,",
+          "box": [
+            155.025,
+            226.331,
+            232.94,
+            238.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            235.755,
+            226.331,
+            256.92,
+            238.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oversees",
+          "box": [
+            260.73,
+            226.331,
+            310.698,
+            238.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transfer",
+          "box": [
+            313.245,
+            226.331,
+            357.758,
+            238.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            362.52,
+            226.331,
+            373.175,
+            238.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "collection/treatment",
+          "box": [
+            376.56,
+            226.331,
+            491.216,
+            238.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "area.",
+          "box": [
+            495.0,
+            226.331,
+            523.918,
+            238.328
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Tag",
+          "box": [
+            33.75,
+            254.276,
+            54.046,
+            266.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "categories",
+          "box": [
+            56.925,
+            254.276,
+            115.166,
+            266.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are:",
+          "box": [
+            117.72,
+            254.276,
+            139.883,
+            266.273
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "RED",
+          "box": [
+            33.75,
+            282.176,
+            58.724,
+            294.173
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(I):",
+          "box": [
+            62.37,
+            282.176,
+            78.419,
+            294.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Conditions",
+          "box": [
+            81.63,
+            282.176,
+            143.345,
+            294.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "requiring",
+          "box": [
+            145.89,
+            282.176,
+            200.677,
+            294.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "immediate",
+          "box": [
+            203.625,
+            282.176,
+            265.17,
+            294.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transport",
+          "box": [
+            268.02,
+            282.176,
+            321.079,
+            294.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "by",
+          "box": [
+            325.125,
+            282.176,
+            338.368,
+            294.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ambulance",
+          "box": [
+            342.225,
+            282.176,
+            406.08,
+            294.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            409.005,
+            282.176,
+            419.66,
+            294.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "prevent",
+          "box": [
+            423.0,
+            282.176,
+            466.529,
+            294.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "jeopardy",
+          "box": [
+            470.25,
+            282.176,
+            520.206,
+            294.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            524.25,
+            282.176,
+            534.905,
+            294.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "life",
+          "box": [
+            538.2,
+            282.176,
+            556.741,
+            294.173
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            33.75,
+            296.171,
+            44.67,
+            308.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "limb",
+          "box": [
+            49.41,
+            296.171,
+            74.974,
+            308.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            78.795,
+            296.171,
+            99.96,
+            308.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "which",
+          "box": [
+            103.77,
+            296.171,
+            138.02,
+            308.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "will",
+          "box": [
+            142.11,
+            296.171,
+            162.673,
+            308.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            166.86,
+            296.171,
+            184.861,
+            308.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "unduly",
+          "box": [
+            188.865,
+            296.171,
+            228.797,
+            308.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "deplete",
+          "box": [
+            232.695,
+            296.171,
+            274.76,
+            308.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "personnel/equipment",
+          "box": [
+            277.65,
+            296.171,
+            399.816,
+            308.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "resources",
+          "box": [
+            403.83,
+            296.171,
+            459.832,
+            308.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(examples:",
+          "box": [
+            462.15,
+            296.171,
+            523.517,
+            308.168
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "progressive",
+          "box": [
+            33.75,
+            310.121,
+            99.908,
+            322.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "shock,",
+          "box": [
+            102.78,
+            310.121,
+            138.988,
+            322.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "major",
+          "box": [
+            142.02,
+            310.121,
+            174.628,
+            322.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "blood",
+          "box": [
+            179.415,
+            310.121,
+            211.019,
+            322.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "loss,",
+          "box": [
+            214.83,
+            310.121,
+            239.638,
+            322.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "major",
+          "box": [
+            242.415,
+            310.121,
+            275.023,
+            322.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "multiple",
+          "box": [
+            279.81,
+            310.121,
+            328.178,
+            322.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "injuries,",
+          "box": [
+            331.065,
+            310.121,
+            378.514,
+            322.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "severe",
+          "box": [
+            381.285,
+            310.121,
+            418.578,
+            322.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "respiratory",
+          "box": [
+            421.47,
+            310.121,
+            485.123,
+            322.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "distress.",
+          "box": [
+            488.7,
+            310.121,
+            535.773,
+            322.118
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Cardiac",
+          "box": [
+            33.75,
+            324.116,
+            77.471,
+            336.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "arrest",
+          "box": [
+            80.505,
+            324.116,
+            113.734,
+            336.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "?",
+          "box": [
+            117.72,
+            324.116,
+            124.39,
+            336.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "only",
+          "box": [
+            126.855,
+            324.116,
+            151.122,
+            336.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "if",
+          "box": [
+            155.025,
+            324.116,
+            162.198,
+            336.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "personnel",
+          "box": [
+            166.41,
+            324.116,
+            222.749,
+            336.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "can",
+          "box": [
+            226.935,
+            324.116,
+            246.264,
+            336.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            250.425,
+            324.116,
+            264.457,
+            336.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "spared).",
+          "box": [
+            267.345,
+            324.116,
+            313.8,
+            336.113
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "YELLOW",
+          "box": [
+            33.75,
+            352.061,
+            86.106,
+            364.058
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(II):",
+          "box": [
+            90.675,
+            352.061,
+            111.13,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Not",
+          "box": [
+            114.39,
+            352.061,
+            133.691,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "requiring",
+          "box": [
+            137.7,
+            352.061,
+            192.487,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "immediate",
+          "box": [
+            195.39,
+            352.061,
+            256.935,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transport",
+          "box": [
+            259.83,
+            352.061,
+            312.889,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            316.89,
+            352.061,
+            327.545,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "prevent",
+          "box": [
+            330.93,
+            352.061,
+            374.459,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "jeopardy",
+          "box": [
+            378.45,
+            352.061,
+            428.406,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            432.315,
+            352.061,
+            442.97,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "life",
+          "box": [
+            446.355,
+            352.061,
+            464.896,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            467.55,
+            352.061,
+            478.47,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "limb,",
+          "box": [
+            483.3,
+            352.061,
+            512.891,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "but",
+          "box": [
+            515.25,
+            352.061,
+            533.561,
+            364.058
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "eventually",
+          "box": [
+            33.75,
+            366.011,
+            92.845,
+            378.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "will",
+          "box": [
+            96.75,
+            366.011,
+            117.312,
+            378.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "require",
+          "box": [
+            121.455,
+            366.011,
+            164.664,
+            378.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ambulance",
+          "box": [
+            167.535,
+            366.011,
+            231.39,
+            378.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transport",
+          "box": [
+            234.315,
+            366.011,
+            287.374,
+            378.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            291.375,
+            366.011,
+            302.03,
+            378.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital",
+          "box": [
+            305.415,
+            366.011,
+            350.21,
+            378.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            354.375,
+            366.011,
+            369.608,
+            378.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "attention.",
+          "box": [
+            374.4,
+            366.011,
+            429.477,
+            378.008
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "GREEN",
+          "box": [
+            33.75,
+            393.956,
+            75.779,
+            405.953
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(III):",
+          "box": [
+            79.695,
+            393.956,
+            104.556,
+            405.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Minor",
+          "box": [
+            107.775,
+            393.956,
+            141.528,
+            405.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "conditions",
+          "box": [
+            146.295,
+            393.956,
+            206.79,
+            405.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "probably",
+          "box": [
+            209.34,
+            393.956,
+            260.243,
+            405.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            264.15,
+            393.956,
+            282.151,
+            405.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "requiring",
+          "box": [
+            286.155,
+            393.956,
+            340.942,
+            405.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ambulance",
+          "box": [
+            343.845,
+            393.956,
+            407.7,
+            405.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transport",
+          "box": [
+            410.625,
+            393.956,
+            463.684,
+            405.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            467.55,
+            393.956,
+            478.205,
+            405.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital.",
+          "box": [
+            481.5,
+            393.956,
+            530.687,
+            405.953
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "BLACK",
+          "box": [
+            33.75,
+            421.901,
+            74.463,
+            433.898
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "(O):",
+          "box": [
+            78.39,
+            421.901,
+            98.939,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Are",
+          "box": [
+            102.15,
+            421.901,
+            122.932,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "obviously",
+          "box": [
+            125.82,
+            421.901,
+            180.331,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dead,",
+          "box": [
+            184.23,
+            421.901,
+            215.465,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            218.25,
+            421.901,
+            229.17,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "dying",
+          "box": [
+            233.955,
+            421.901,
+            266.225,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "from",
+          "box": [
+            269.1,
+            421.901,
+            295.983,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "lethal",
+          "box": [
+            300.465,
+            421.901,
+            331.863,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "injuries,",
+          "box": [
+            336.06,
+            421.901,
+            383.509,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            386.28,
+            421.901,
+            397.2,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "requiring",
+          "box": [
+            401.985,
+            421.901,
+            456.772,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "CPR",
+          "box": [
+            459.45,
+            421.901,
+            482.719,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "when",
+          "box": [
+            485.1,
+            421.901,
+            516.03,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "no",
+          "box": [
+            520.2,
+            421.901,
+            534.61,
+            433.898
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "personnel",
+          "box": [
+            33.75,
+            435.851,
+            90.089,
+            447.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            94.23,
+            435.851,
+            113.307,
+            447.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available",
+          "box": [
+            116.19,
+            435.851,
+            167.984,
+            447.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            170.865,
+            435.851,
+            181.52,
+            447.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "do",
+          "box": [
+            184.905,
+            435.851,
+            198.937,
+            447.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "so",
+          "box": [
+            202.32,
+            435.851,
+            214.404,
+            447.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "without",
+          "box": [
+            217.755,
+            435.851,
+            261.647,
+            447.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "compromising",
+          "box": [
+            265.68,
+            435.851,
+            348.385,
+            447.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "other",
+          "box": [
+            351.315,
+            435.851,
+            380.496,
+            447.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients.",
+          "box": [
+            385.245,
+            435.851,
+            434.324,
+            447.848
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TREATMENT",
+          "box": [
+            33.75,
+            463.436,
+            110.074,
+            475.433
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "OFFICER",
+          "box": [
+            113.715,
+            463.436,
+            167.377,
+            475.433
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "?",
+          "box": [
+            170.325,
+            463.436,
+            176.995,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Sets",
+          "box": [
+            179.415,
+            463.436,
+            202.585,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "up",
+          "box": [
+            205.11,
+            463.436,
+            219.394,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "/",
+          "box": [
+            223.245,
+            463.436,
+            226.58,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "supervises",
+          "box": [
+            229.815,
+            463.436,
+            290.897,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            293.445,
+            463.436,
+            332.886,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "collection",
+          "box": [
+            336.87,
+            463.436,
+            391.124,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "/",
+          "box": [
+            395.325,
+            463.436,
+            398.66,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "treatment",
+          "box": [
+            401.895,
+            463.436,
+            457.77,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "area.",
+          "box": [
+            461.7,
+            463.436,
+            490.618,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Reassesses",
+          "box": [
+            493.65,
+            463.436,
+            554.949,
+            475.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            33.75,
+            477.386,
+            54.915,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "re-tags",
+          "box": [
+            58.725,
+            477.386,
+            98.305,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(if",
+          "box": [
+            100.845,
+            477.386,
+            112.172,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "necessary)",
+          "box": [
+            116.37,
+            477.386,
+            176.979,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients,",
+          "box": [
+            180.27,
+            477.386,
+            229.349,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "assigns",
+          "box": [
+            232.11,
+            477.386,
+            273.721,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            276.3,
+            477.386,
+            322.629,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            325.17,
+            477.386,
+            346.335,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "personnel",
+          "box": [
+            350.145,
+            477.386,
+            406.484,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            410.67,
+            477.386,
+            421.325,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "treatment",
+          "box": [
+            424.665,
+            477.386,
+            480.54,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "areas.",
+          "box": [
+            484.2,
+            477.386,
+            518.531,
+            489.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Prioritizes",
+          "box": [
+            33.75,
+            491.336,
+            93.515,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            96.03,
+            491.336,
+            111.263,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transport.",
+          "box": [
+            116.055,
+            491.336,
+            173.339,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Coordinates",
+          "box": [
+            176.535,
+            491.336,
+            245.266,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            247.815,
+            491.336,
+            272.889,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Loading/Transport",
+          "box": [
+            276.975,
+            491.336,
+            383.167,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Officer",
+          "box": [
+            387.18,
+            491.336,
+            425.102,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            429.885,
+            491.336,
+            440.54,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "make",
+          "box": [
+            443.925,
+            491.336,
+            475.584,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "single",
+          "box": [
+            478.35,
+            491.336,
+            512.185,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "radio",
+          "box": [
+            514.8,
+            491.336,
+            545.076,
+            503.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transmission",
+          "box": [
+            33.75,
+            505.286,
+            106.968,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            111.15,
+            505.286,
+            121.805,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "receiving",
+          "box": [
+            125.19,
+            505.286,
+            178.382,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "facility",
+          "box": [
+            181.26,
+            505.286,
+            219.967,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(pt.",
+          "box": [
+            223.875,
+            505.286,
+            242.951,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ID#,",
+          "box": [
+            246.195,
+            505.286,
+            269.362,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "METTAG",
+          "box": [
+            272.115,
+            505.286,
+            322.376,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "priority,",
+          "box": [
+            324.765,
+            505.286,
+            372.368,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "nature",
+          "box": [
+            374.535,
+            505.286,
+            413.073,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            415.98,
+            505.286,
+            426.124,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "injury,",
+          "box": [
+            430.335,
+            505.286,
+            469.005,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ambulance,",
+          "box": [
+            471.15,
+            505.286,
+            538.092,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            540.9,
+            505.286,
+            562.065,
+            517.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ETA",
+          "box": [
+            33.75,
+            519.686,
+            55.855,
+            531.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ONLY).",
+          "box": [
+            59.4,
+            519.686,
+            99.924,
+            531.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "LOADING",
+          "box": [
+            33.75,
+            547.586,
+            92.629,
+            559.583
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "OFFICER",
+          "box": [
+            95.625,
+            547.586,
+            149.287,
+            559.583
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "?",
+          "box": [
+            152.235,
+            547.586,
+            158.905,
+            559.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Stages",
+          "box": [
+            161.37,
+            547.586,
+            197.513,
+            559.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ambulances",
+          "box": [
+            200.025,
+            547.586,
+            269.63,
+            559.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            272.205,
+            547.586,
+            282.713,
+            559.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "holding",
+          "box": [
+            286.875,
+            547.586,
+            330.745,
+            559.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "area.",
+          "box": [
+            333.675,
+            547.586,
+            362.593,
+            559.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Instructs",
+          "box": [
+            365.805,
+            547.586,
+            416.982,
+            559.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "crews",
+          "box": [
+            419.535,
+            547.586,
+            453.735,
+            559.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            455.85,
+            547.586,
+            466.505,
+            559.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "put",
+          "box": [
+            470.25,
+            547.586,
+            488.561,
+            559.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "all",
+          "box": [
+            492.3,
+            547.586,
+            505.438,
+            559.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available",
+          "box": [
+            509.85,
+            547.586,
+            561.644,
+            559.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "equipment",
+          "box": [
+            33.75,
+            561.536,
+            95.062,
+            573.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            99.045,
+            561.536,
+            109.553,
+            573.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "equipment",
+          "box": [
+            113.76,
+            561.536,
+            175.072,
+            573.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "area.",
+          "box": [
+            179.1,
+            561.536,
+            208.018,
+            573.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Assigns",
+          "box": [
+            211.23,
+            561.536,
+            254.546,
+            573.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            257.085,
+            561.536,
+            303.414,
+            573.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            305.955,
+            561.536,
+            316.61,
+            573.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "vehicles.",
+          "box": [
+            319.995,
+            561.536,
+            369.494,
+            573.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Directs",
+          "box": [
+            372.69,
+            561.536,
+            413.449,
+            573.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "drivers",
+          "box": [
+            415.98,
+            561.536,
+            457.494,
+            573.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            459.9,
+            561.536,
+            470.555,
+            573.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital(s).",
+          "box": [
+            473.85,
+            561.536,
+            536.759,
+            573.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Instructs",
+          "box": [
+            33.75,
+            575.486,
+            84.927,
+            587.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "not",
+          "box": [
+            87.435,
+            575.486,
+            105.436,
+            587.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            109.44,
+            575.486,
+            120.095,
+            587.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "contact",
+          "box": [
+            123.48,
+            575.486,
+            164.151,
+            587.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital",
+          "box": [
+            168.165,
+            575.486,
+            212.96,
+            587.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "unless",
+          "box": [
+            217.125,
+            575.486,
+            254.033,
+            587.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "OLMC",
+          "box": [
+            256.59,
+            575.486,
+            292.886,
+            587.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "required",
+          "box": [
+            294.705,
+            575.486,
+            344.336,
+            587.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "for",
+          "box": [
+            348.165,
+            575.486,
+            363.398,
+            587.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "condition",
+          "box": [
+            368.19,
+            575.486,
+            421.617,
+            587.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "change.",
+          "box": [
+            425.79,
+            575.486,
+            469.895,
+            587.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Notifies",
+          "box": [
+            472.95,
+            575.486,
+            517.665,
+            587.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital,",
+          "box": [
+            33.75,
+            589.436,
+            82.937,
+            601.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            85.725,
+            589.436,
+            96.645,
+            601.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "coordinates",
+          "box": [
+            101.385,
+            589.436,
+            168.896,
+            601.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "communication",
+          "box": [
+            171.45,
+            589.436,
+            260.225,
+            601.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            264.42,
+            589.436,
+            275.075,
+            601.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital",
+          "box": [
+            278.46,
+            589.436,
+            323.255,
+            601.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "notification",
+          "box": [
+            327.42,
+            589.436,
+            392.614,
+            601.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "times,",
+          "box": [
+            396.81,
+            589.436,
+            431.378,
+            601.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patient",
+          "box": [
+            434.16,
+            589.436,
+            473.601,
+            601.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ID#s",
+          "box": [
+            477.45,
+            589.436,
+            503.28,
+            601.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            505.8,
+            589.436,
+            526.965,
+            601.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "destination",
+          "box": [
+            33.75,
+            603.386,
+            97.045,
+            615.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            101.205,
+            603.386,
+            111.349,
+            615.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "all",
+          "box": [
+            115.56,
+            603.386,
+            128.698,
+            615.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "transporting",
+          "box": [
+            132.885,
+            603.386,
+            205.082,
+            615.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "vehicles.",
+          "box": [
+            207.99,
+            603.386,
+            257.489,
+            615.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "In",
+          "box": [
+            33.75,
+            645.236,
+            44.826,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            49.005,
+            645.236,
+            67.514,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "event",
+          "box": [
+            70.38,
+            645.236,
+            100.895,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            104.895,
+            645.236,
+            115.039,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            119.25,
+            645.236,
+            125.92,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "public",
+          "box": [
+            129.105,
+            645.236,
+            165.0,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "health",
+          "box": [
+            168.075,
+            645.236,
+            203.481,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "emergency",
+          "box": [
+            207.54,
+            645.236,
+            269.653,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            273.555,
+            645.236,
+            284.475,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "declared",
+          "box": [
+            289.26,
+            645.236,
+            338.166,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "disaster,",
+          "box": [
+            342.0,
+            645.236,
+            390.297,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EMS",
+          "box": [
+            392.49,
+            645.236,
+            419.221,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clinicians",
+          "box": [
+            420.84,
+            645.236,
+            476.114,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            478.35,
+            645.236,
+            502.078,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            506.25,
+            645.236,
+            520.282,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "asked",
+          "box": [
+            522.9,
+            645.236,
+            555.058,
+            657.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            33.75,
+            659.186,
+            44.405,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "divert",
+          "box": [
+            47.745,
+            659.186,
+            80.944,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "selected",
+          "box": [
+            84.96,
+            659.186,
+            130.04,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            133.875,
+            659.186,
+            180.204,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            182.745,
+            659.186,
+            207.818,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "certain",
+          "box": [
+            211.86,
+            659.186,
+            251.324,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "conditions",
+          "box": [
+            255.51,
+            659.186,
+            316.005,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            318.555,
+            659.186,
+            329.21,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hospital-established",
+          "box": [
+            332.595,
+            659.186,
+            446.379,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            450.0,
+            659.186,
+            460.92,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "state-established",
+          "box": [
+            465.75,
+            659.186,
+            560.841,
+            671.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "alternate",
+          "box": [
+            33.75,
+            673.136,
+            85.561,
+            685.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "care",
+          "box": [
+            88.425,
+            673.136,
+            113.406,
+            685.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "sites",
+          "box": [
+            116.28,
+            673.136,
+            142.058,
+            685.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "by",
+          "box": [
+            144.585,
+            673.136,
+            157.828,
+            685.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "OLMC.",
+          "box": [
+            161.73,
+            673.136,
+            200.062,
+            685.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(Continued",
+          "box": [
+            31.5,
+            75.851,
+            97.907,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "fr",
+          "box": [
+            102.15,
+            75.851,
+            111.028,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "om",
+          "box": [
+            113.189,
+            75.851,
+            130.535,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "pr",
+          "box": [
+            135.495,
+            75.851,
+            147.23,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "evious",
+          "box": [
+            149.508,
+            75.851,
+            189.085,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "page)",
+          "box": [
+            192.06,
+            75.851,
+            224.432,
+            87.848
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0173.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 99.6,
+    "output_to_native_length_ratio": 0.992,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

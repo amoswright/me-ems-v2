@@ -1,0 +1,3290 @@
+{
+  "id": "page-0221",
+  "pdf_page": 221,
+  "protocol_label": "OD Green 27",
+  "kind": "protocol",
+  "chapter_id": "od-green",
+  "topic_id": "od-green-operational-k9-normal-vitals-and-glasgow-coma-score",
+  "title": "Operational K9 Normal Vitals & Glasgow Coma Score",
+  "markdown": "# Operational K9 Normal Vitals & Glasgow Coma Score\n\n![Visual reference from Operational K9 Normal Vitals & Glasgow Coma Score](../../assets/figures/page-0221-visual.webp)\n\n| Parameter | Normal Value |\n| :--- | :--- |\n| **RR** | 10 - 40 breaths/minute |\n| **HR** | 60 - 80 bpm (up to 130 post exercise) |\n| **Capillary Refill** | less than 2 sec. |\n| **Rectal Temp** | 100 -102.5 F (103-106 F post exercise) |\n| **LOC** | Bright, alert, responsive (BAR) |\n| **BP** | 120/75 mmHg |\n| **Blood Glucose** | 70 - 120 mg/dL |\n| **SpO2** | greater than 94% |\n| **EtCO2** | 35 - 45 mmHg |\n\n### K9 Modified Glasgow Coma Score\n\n| Motor Activity | |\n| :--- | :---: |\n| Normal gait, normal spinal reflexes | 6 |\n| Hemiparesis, tetraparesis, or decerebrate activity | 5 |\n| Recumbent, intermittent extensor rigidity | 4 |\n| Recumbent, constant extensor rigidity | 3 |\n| Recubment, constant extensor rigidity with opisthotonus | 2 |\n| Recumbent, hypotonia of muscles, depressed or absent spinal reflexes | 1 |\n\n| Brain Stem Reflexes | |\n| :--- | :---: |\n| Normal pupillary light reflexes and oculocephalic reflexes | 6 |\n| Slow pupillary light reflexes and normal to reduced oculocephalic reflexes | 5 |\n| Bilateral unresponsive miosis with normal to reduced oculocephalic reflexes | 4 |\n| Pinpoint pupils with reduced or absent oculocephalic reflexes | 3 |\n| Unilateral, unresponsive mydriasis with reduced or absent oculocephalic reflexes | 2 |\n| Bilateral, unresponsive mydriasis with reduced or absent oculocephalic reflexes | 1 |\n\n| Level of Consciousness | |\n| :--- | :---: |\n| Occasional periods of alertness and responsive to environment | 6 |\n| Depression or delirium, capable of responding to environment but response may be inappropriate | 5 |\n| Stupor, responsive to visual stimuli | 4 |\n| Stupor, responsive to auditory stimuli | 3 |\n| Stupor, responsive only to noxious stimuli | 2 |\n| Coma, unresponsive to repeated noxious stimuli | 1 |\n\n| Score Interpretation | |\n| :--- | :---: |\n| Grave | 3-6 |\n| Guarded | 9-14 |\n| Good | 15-18 |\n\nSource: www.K9tecc.org\n",
+  "plain_text": "Operational K9 Normal Vitals & Glasgow Coma Score Parameter Normal Value RR 10 - 40 breaths/minute HR 60 - 80 bpm (up to 130 post exercise) Capillary Refill less than 2 sec. Rectal Temp 100 -102.5 F (103-106 F post exercise) LOC Bright, alert, responsive (BAR) BP 120/75 mmHg Blood Glucose 70 - 120 mg/dL SpO2 greater than 94% EtCO2 35 - 45 mmHg K9 Modified Glasgow Coma Score Motor Activity Normal gait, normal spinal reflexes 6 Hemiparesis, tetraparesis, or decerebrate activity 5 Recumbent, intermittent extensor rigidity 4 Recumbent, constant extensor rigidity 3 Recubment, constant extensor rigidity with opisthotonus 2 Recumbent, hypotonia of muscles, depressed or absent spinal reflexes 1 Brain Stem Reflexes Normal pupillary light reflexes and oculocephalic reflexes 6 Slow pupillary light reflexes and normal to reduced oculocephalic reflexes 5 Bilateral unresponsive miosis with normal to reduced oculocephalic reflexes 4 Pinpoint pupils with reduced or absent oculocephalic reflexes 3 Unilateral, unresponsive mydriasis with reduced or absent oculocephalic reflexes 2 Bilateral, unresponsive mydriasis with reduced or absent oculocephalic reflexes 1 Level of Consciousness Occasional periods of alertness and responsive to environment 6 Depression or delirium, capable of responding to environment but response may be inappropriate 5 Stupor, responsive to visual stimuli 4 Stupor, responsive to auditory stimuli 3 Stupor, responsive only to noxious stimuli 2 Coma, unresponsive to repeated noxious stimuli 1 Score Interpretation Grave 3-6 Guarded 9-14 Good 15-18 Source: www.K9tecc.org",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        252.21,
+        12.51,
+        783.48,
+        37.76
+      ],
+      "text": "K9 Nor m al Vitals & Glasgow Com a",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        475.15,
+        41.85,
+        561.42,
+        67.1
+      ],
+      "text": "Scor e",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        140.59,
+        84.86,
+        676.16,
+        100.01
+      ],
+      "text": "Par ameter Nor mal Value",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        179.49,
+        108.16,
+        713.2,
+        123.31
+      ],
+      "text": "RR 10 - 40 breaths/minute",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        178.38,
+        131.51,
+        779.61,
+        146.66
+      ],
+      "text": "HR 60 - 80 bpm (up to 130 post exercise)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        118.24,
+        154.81,
+        677.3,
+        169.95
+      ],
+      "text": "Capillar y Refill less than 2 sec.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        132.5,
+        178.16,
+        779.76,
+        193.31
+      ],
+      "text": "Rectal Temp 100 -102.5 F (103-106 F post exercise)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        172.65,
+        201.45,
+        748.52,
+        216.6
+      ],
+      "text": "LOC Bright, alert, responsive (BAR)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        180.51,
+        224.75,
+        673.12,
+        239.9
+      ],
+      "text": "BP 120/75 mmHg",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        123.31,
+        248.1,
+        674.63,
+        263.25
+      ],
+      "text": "Blood Glucose 70 - 120 mg/dL",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        168.09,
+        271.4,
+        688.38,
+        286.54
+      ],
+      "text": "SpO2 greater than 94%",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        163.31,
+        294.75,
+        672.9,
+        309.9
+      ],
+      "text": "EtCO2 35 - 45 mmHg",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        354.78,
+        324.18,
+        683.06,
+        339.33
+      ],
+      "text": "K9 Modified Glasgow Coma Scor e",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        347.53,
+        247.85,
+        362.68
+      ],
+      "text": "Motor Activity",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        370.83,
+        921.19,
+        385.98
+      ],
+      "text": "Normal gait, normal spinal reflexes 6",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        394.18,
+        921.19,
+        409.33
+      ],
+      "text": "Hemiparesis, tetraparesis, or decerebrate activity 5",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        417.48,
+        921.19,
+        432.62
+      ],
+      "text": "Recumbent, intermittent extensor rigidity 4",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        440.83,
+        921.19,
+        455.98
+      ],
+      "text": "Recumbent, constant extensor rigidity 3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        464.12,
+        921.19,
+        479.27
+      ],
+      "text": "Recubment, constant extensor rigidity with opisthotonus 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        487.42,
+        921.19,
+        502.57
+      ],
+      "text": "Recumbent, hypotonia of muscles, depressed or absent spinal reflexes 1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        510.77,
+        305.67,
+        525.92
+      ],
+      "text": "Br ain Stem Reflexes",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        534.07,
+        921.19,
+        549.21
+      ],
+      "text": "Normal pupillary light reflexes and oculocephalic reflexes 6",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        557.31,
+        921.19,
+        572.45
+      ],
+      "text": "Slow pupillary light reflexes and normal to reduced oculocephalic reflexes 5",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        580.6,
+        921.19,
+        595.75
+      ],
+      "text": "Bilateral unresponsive miosis with normal to reduced oculocephalic reflexes 4",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        603.9,
+        921.19,
+        619.04
+      ],
+      "text": "Pinpoint pupils with reduced or absent oculocephalic reflexes 3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        627.19,
+        921.19,
+        642.34
+      ],
+      "text": "Unilateral, unresponsive mydriasis with reduced or absent oculocephalic reflexes 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        650.49,
+        921.19,
+        665.64
+      ],
+      "text": "Bilateral, unresponsive mydriasis with reduced or absent oculocephalic reflexes 1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        673.78,
+        332.99,
+        688.93
+      ],
+      "text": "Level of Consciousness",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        697.08,
+        921.19,
+        712.23
+      ],
+      "text": "Occasional periods of alertness and responsive to environment 6",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        720.37,
+        921.19,
+        735.52
+      ],
+      "text": "Depression or delirium, capable of responding to environment but response may be 5",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        737.99,
+        236.98,
+        753.14
+      ],
+      "text": "inappropriate",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        761.28,
+        921.19,
+        776.43
+      ],
+      "text": "Stupor, responsive to visual stimuli 4",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        784.58,
+        921.19,
+        799.73
+      ],
+      "text": "Stupor, responsive to auditory stimuli 3",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        807.87,
+        921.19,
+        823.02
+      ],
+      "text": "Stupor, responsive only to noxious stimuli 2",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        106.62,
+        831.17,
+        921.19,
+        846.32
+      ],
+      "text": "Coma, unresponsive to repeated noxious stimuli 1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        783.09,
+        854.19,
+        909.39,
+        866.82
+      ],
+      "text": "S core Interpretation",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        798.53,
+        874.38,
+        914.95,
+        884.48
+      ],
+      "text": "Grave 3-6",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        790.44,
+        891.99,
+        918.58,
+        902.09
+      ],
+      "text": "Guarded 9-14",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        374.63,
+        909.04,
+        922.21,
+        926.43
+      ],
+      "text": "Source: www.K9tecc.org Good 15-18",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        452.06,
+        936.85,
+        911.56,
+        954.84
+      ],
+      "text": "(Back to TOC) OD Green 27",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0221-visual",
+      "type": "diagram",
+      "path": "assets/figures/page-0221-visual.webp",
+      "alt": "Visual reference from Operational K9 Normal Vitals & Glasgow Coma Score",
+      "source_box_points": [
+        42,
+        72,
+        570.0,
+        744.0
+      ],
+      "reasons": [
+        "title"
+      ],
+      "sha256": "96bf5dae55dda65bac239071d305730587f62ea39e1931d0c08c37a5e2f9b04d"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "ad7a5361cdfcfb33f6dcd921a37eefca3bcc422c49484c4e536c3c201d6b3371",
+    "native": {
+      "text": "K9 Nor m al Vitals & Glasgow Com a\nScor e\nPar ameter Nor mal Value\nRR 10 - 40 breaths/minute\nHR 60 - 80 bpm (up to 130 post exercise)\nCapillar y Refill less than 2 sec.\nRectal Temp 100 -102.5 F (103-106 F post exercise)\nLOC Bright, alert, responsive (BAR)\nBP 120/75 mmHg\nBlood Glucose 70 - 120 mg/dL\nSpO2 greater than 94%\nEtCO2 35 - 45 mmHg\nK9 Modified Glasgow Coma Scor e\nMotor Activity\nNormal gait, normal spinal reflexes 6\nHemiparesis, tetraparesis, or decerebrate activity 5\nRecumbent, intermittent extensor rigidity 4\nRecumbent, constant extensor rigidity 3\nRecubment, constant extensor rigidity with opisthotonus 2\nRecumbent, hypotonia of muscles, depressed or absent spinal reflexes 1\nBr ain Stem Reflexes\nNormal pupillary light reflexes and oculocephalic reflexes 6\nSlow pupillary light reflexes and normal to reduced oculocephalic reflexes 5\nBilateral unresponsive miosis with normal to reduced oculocephalic reflexes 4\nPinpoint pupils with reduced or absent oculocephalic reflexes 3\nUnilateral, unresponsive mydriasis with reduced or absent oculocephalic reflexes 2\nBilateral, unresponsive mydriasis with reduced or absent oculocephalic reflexes 1\nLevel of Consciousness\nOccasional periods of alertness and responsive to environment 6\nDepression or delirium, capable of responding to environment but response may be 5\ninappropriate\nStupor, responsive to visual stimuli 4\nStupor, responsive to auditory stimuli 3\nStupor, responsive only to noxious stimuli 2\nComa, unresponsive to repeated noxious stimuli 1\nScore Interpretation\nGrave 3-6\nGuarded 9-14\nSource: www.K9tecc.org Good 15-18\n(Back to TOC) OD Green 27",
+      "body_text": "(Back to TOC) OD Green 27 Source: www.K9tecc.org RR 10 - 40 breaths/minute HR 60 - 80 bpm (up to 130 post exercise) Capillar y Refill less than 2 sec. Rectal Temp 100 -102.5 F (103-106 F post exercise) LOC Bright, alert, responsive (BAR) BP 120/75 mmHg Blood Glucose 70 - 120 mg/dL SpO2 greater than 94% EtCO2 35 - 45 mmHg K9 Modified Glasgow Coma Scor e Motor Activity Normal gait, normal spinal reflexes 6 Hemiparesis, tetraparesis, or decerebrate activity 5 Recumbent, intermittent extensor rigidity 4 Recumbent, constant extensor rigidity 3 Recubment, constant extensor rigidity with opisthotonus 2 Recumbent, hypotonia of muscles, depressed or absent spinal reflexes 1 Br ain Stem Reflexes Normal pupillary light reflexes and oculocephalic reflexes 6 Slow pupillary light reflexes and normal to reduced oculocephalic reflexes 5 Bilateral unresponsive miosis with normal to reduced oculocephalic reflexes 4 Pinpoint pupils with reduced or absent oculocephalic reflexes 3 Unilateral, unresponsive mydriasis with reduced or absent oculocephalic reflexes 2 Bilateral, unresponsive mydriasis with reduced or absent oculocephalic reflexes 1 Level of Consciousness Occasional periods of alertness and responsive to environment 6 Depression or delirium, capable of responding to environment but response may be 5 inappropriate Stupor, responsive to visual stimuli 4 Stupor, responsive to auditory stimuli 3 Stupor, responsive only to noxious stimuli 2 Coma, unresponsive to repeated noxious stimuli 1 S core Interpretation Grave 3-6 Guarded 9-14 Good 15-18",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            276.66,
+            741.986,
+            307.314,
+            753.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.49,
+            741.986,
+            322.145,
+            753.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            325.485,
+            741.986,
+            353.101,
+            753.983
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "OD",
+          "box": [
+            485.55,
+            744.236,
+            503.117,
+            756.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Green",
+          "box": [
+            506.7,
+            744.236,
+            540.429,
+            756.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "27",
+          "box": [
+            544.5,
+            744.236,
+            557.875,
+            756.233
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "K9",
+          "box": [
+            154.35,
+            9.904,
+            179.468,
+            29.902
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Nor",
+          "box": [
+            184.725,
+            9.904,
+            217.993,
+            29.902
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "m",
+          "box": [
+            220.756,
+            9.904,
+            237.415,
+            29.902
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "al",
+          "box": [
+            239.652,
+            9.904,
+            255.351,
+            29.902
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Vitals",
+          "box": [
+            262.305,
+            9.904,
+            316.692,
+            29.902
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "&",
+          "box": [
+            320.94,
+            9.904,
+            334.279,
+            29.902
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Glasgow",
+          "box": [
+            340.965,
+            9.904,
+            418.071,
+            29.902
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Com",
+          "box": [
+            426.06,
+            9.904,
+            466.132,
+            29.902
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "a",
+          "box": [
+            468.369,
+            9.904,
+            479.488,
+            29.902
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Scor",
+          "box": [
+            290.79,
+            33.147,
+            329.71,
+            53.145
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "e",
+          "box": [
+            332.474,
+            33.147,
+            343.592,
+            53.145
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Source:",
+          "box": [
+            229.275,
+            721.736,
+            271.652,
+            733.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "www.K9tecc.org",
+          "box": [
+            274.86,
+            721.736,
+            368.836,
+            733.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Par",
+          "box": [
+            86.04,
+            67.211,
+            104.638,
+            79.208
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ameter",
+          "box": [
+            106.915,
+            67.211,
+            148.36,
+            79.208
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Nor",
+          "box": [
+            330.705,
+            67.211,
+            351.391,
+            79.208
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "mal",
+          "box": [
+            353.669,
+            67.211,
+            375.344,
+            79.208
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Value",
+          "box": [
+            380.07,
+            67.211,
+            413.807,
+            79.208
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "RR",
+          "box": [
+            109.845,
+            85.661,
+            126.989,
+            97.658
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "10",
+          "box": [
+            308.475,
+            85.661,
+            321.85,
+            97.658
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            324.99,
+            85.661,
+            328.985,
+            97.658
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "40",
+          "box": [
+            331.83,
+            85.661,
+            345.205,
+            97.658
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "breaths/minute",
+          "box": [
+            348.39,
+            85.661,
+            436.477,
+            97.658
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "HR",
+          "box": [
+            109.17,
+            104.156,
+            127.655,
+            116.153
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "60",
+          "box": [
+            267.435,
+            104.156,
+            280.81,
+            116.153
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            283.95,
+            104.156,
+            287.945,
+            116.153
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "80",
+          "box": [
+            290.79,
+            104.156,
+            304.165,
+            116.153
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bpm",
+          "box": [
+            307.35,
+            104.156,
+            332.068,
+            116.153
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(up",
+          "box": [
+            339.66,
+            104.156,
+            358.098,
+            116.153
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            361.89,
+            104.156,
+            372.545,
+            116.153
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "130",
+          "box": [
+            375.93,
+            104.156,
+            396.01,
+            116.153
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "post",
+          "box": [
+            399.15,
+            104.156,
+            422.186,
+            116.153
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "exercise)",
+          "box": [
+            426.24,
+            104.156,
+            477.124,
+            116.153
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Capillar",
+          "box": [
+            72.36,
+            122.606,
+            119.156,
+            134.603
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "y",
+          "box": [
+            121.551,
+            122.606,
+            127.55,
+            134.603
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Refill",
+          "box": [
+            131.625,
+            122.606,
+            162.713,
+            134.603
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "less",
+          "box": [
+            330.075,
+            122.606,
+            351.629,
+            134.603
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            354.15,
+            122.606,
+            379.413,
+            134.603
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            383.625,
+            122.606,
+            390.295,
+            134.603
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "sec.",
+          "box": [
+            393.435,
+            122.606,
+            414.509,
+            134.603
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Rectal",
+          "box": [
+            81.09,
+            141.101,
+            117.206,
+            153.098
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Temp",
+          "box": [
+            121.905,
+            141.101,
+            154.486,
+            153.098
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "100",
+          "box": [
+            267.3,
+            141.101,
+            287.38,
+            153.098
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-102.5",
+          "box": [
+            290.565,
+            141.101,
+            324.504,
+            153.098
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "F",
+          "box": [
+            327.645,
+            141.101,
+            334.975,
+            153.098
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(103-106",
+          "box": [
+            337.86,
+            141.101,
+            385.93,
+            153.098
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "F",
+          "box": [
+            389.115,
+            141.101,
+            396.445,
+            153.098
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "post",
+          "box": [
+            399.285,
+            141.101,
+            422.321,
+            153.098
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "exercise)",
+          "box": [
+            426.33,
+            141.101,
+            477.214,
+            153.098
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "LOC",
+          "box": [
+            105.66,
+            159.551,
+            131.606,
+            171.548
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Bright,",
+          "box": [
+            286.47,
+            159.551,
+            325.43,
+            171.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "alert,",
+          "box": [
+            328.23,
+            159.551,
+            358.338,
+            171.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "responsive",
+          "box": [
+            361.125,
+            159.551,
+            423.152,
+            171.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(BAR)",
+          "box": [
+            426.015,
+            159.551,
+            458.095,
+            171.548
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "BP",
+          "box": [
+            110.475,
+            178.001,
+            126.536,
+            189.998
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "120/75",
+          "box": [
+            332.955,
+            178.001,
+            369.902,
+            189.998
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mmHg",
+          "box": [
+            373.095,
+            178.001,
+            411.949,
+            189.998
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Blood",
+          "box": [
+            75.465,
+            196.496,
+            109.125,
+            208.493
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Glucose",
+          "box": [
+            113.355,
+            196.496,
+            160.997,
+            208.493
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "70",
+          "box": [
+            330.975,
+            196.496,
+            344.35,
+            208.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            347.535,
+            196.496,
+            351.53,
+            208.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "120",
+          "box": [
+            354.375,
+            196.496,
+            374.455,
+            208.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mg/dL",
+          "box": [
+            377.595,
+            196.496,
+            412.873,
+            208.493
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "SpO2",
+          "box": [
+            102.87,
+            214.946,
+            133.75,
+            226.943
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "greater",
+          "box": [
+            323.325,
+            214.946,
+            363.013,
+            226.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            367.785,
+            214.946,
+            393.048,
+            226.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "94%",
+          "box": [
+            397.215,
+            214.946,
+            421.29,
+            226.943
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EtCO2",
+          "box": [
+            99.945,
+            233.441,
+            136.639,
+            245.438
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "35",
+          "box": [
+            333.09,
+            233.441,
+            346.465,
+            245.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "-",
+          "box": [
+            349.605,
+            233.441,
+            353.6,
+            245.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "45",
+          "box": [
+            356.445,
+            233.441,
+            369.82,
+            245.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mmHg",
+          "box": [
+            372.96,
+            233.441,
+            411.814,
+            245.438
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "K9",
+          "box": [
+            217.125,
+            256.751,
+            232.602,
+            268.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Modified",
+          "box": [
+            235.755,
+            256.751,
+            289.17,
+            268.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Glasgow",
+          "box": [
+            293.4,
+            256.751,
+            342.385,
+            268.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Coma",
+          "box": [
+            347.13,
+            256.751,
+            380.751,
+            268.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Scor",
+          "box": [
+            384.39,
+            256.751,
+            409.085,
+            268.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "e",
+          "box": [
+            411.363,
+            256.751,
+            418.033,
+            268.748
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Motor",
+          "box": [
+            65.25,
+            275.246,
+            99.994,
+            287.243
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Activity",
+          "box": [
+            105.39,
+            275.246,
+            151.687,
+            287.243
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Normal",
+          "box": [
+            65.25,
+            293.696,
+            107.621,
+            305.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "gait,",
+          "box": [
+            111.78,
+            293.696,
+            136.385,
+            305.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "normal",
+          "box": [
+            139.185,
+            293.696,
+            180.256,
+            305.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "spinal",
+          "box": [
+            184.41,
+            293.696,
+            218.181,
+            305.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reflexes",
+          "box": [
+            222.39,
+            293.696,
+            268.272,
+            305.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6",
+          "box": [
+            557.1,
+            293.696,
+            563.77,
+            305.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Hemiparesis,",
+          "box": [
+            65.25,
+            312.191,
+            140.547,
+            324.188
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "tetraparesis,",
+          "box": [
+            143.325,
+            312.191,
+            214.675,
+            324.188
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            217.485,
+            312.191,
+            228.406,
+            324.188
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "decerebrate",
+          "box": [
+            233.145,
+            312.191,
+            301.756,
+            324.188
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "activity",
+          "box": [
+            304.65,
+            312.191,
+            346.139,
+            324.188
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5",
+          "box": [
+            557.1,
+            312.191,
+            563.77,
+            324.188
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Recumbent,",
+          "box": [
+            65.25,
+            330.641,
+            133.119,
+            342.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "intermittent",
+          "box": [
+            135.9,
+            330.641,
+            204.426,
+            342.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "extensor",
+          "box": [
+            208.44,
+            330.641,
+            256.399,
+            342.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "rigidity",
+          "box": [
+            261.18,
+            330.641,
+            302.383,
+            342.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4",
+          "box": [
+            557.1,
+            330.641,
+            563.77,
+            342.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Recumbent,",
+          "box": [
+            65.25,
+            349.136,
+            133.119,
+            361.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "constant",
+          "box": [
+            135.9,
+            349.136,
+            183.82,
+            361.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "extensor",
+          "box": [
+            187.83,
+            349.136,
+            235.789,
+            361.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "rigidity",
+          "box": [
+            240.57,
+            349.136,
+            281.773,
+            361.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3",
+          "box": [
+            557.1,
+            349.136,
+            563.77,
+            361.133
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Recubment,",
+          "box": [
+            65.25,
+            367.586,
+            133.119,
+            379.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "constant",
+          "box": [
+            135.9,
+            367.586,
+            183.82,
+            379.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "extensor",
+          "box": [
+            187.83,
+            367.586,
+            235.789,
+            379.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "rigidity",
+          "box": [
+            240.57,
+            367.586,
+            281.773,
+            379.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            285.66,
+            367.586,
+            310.734,
+            379.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "opisthotonus",
+          "box": [
+            314.82,
+            367.586,
+            389.385,
+            379.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            557.1,
+            367.586,
+            563.77,
+            379.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Recumbent,",
+          "box": [
+            65.25,
+            386.036,
+            133.119,
+            398.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "hypotonia",
+          "box": [
+            135.9,
+            386.036,
+            193.498,
+            398.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            196.695,
+            386.036,
+            206.839,
+            398.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "muscles,",
+          "box": [
+            211.05,
+            386.036,
+            260.091,
+            398.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "depressed",
+          "box": [
+            262.89,
+            386.036,
+            320.028,
+            398.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            323.865,
+            386.036,
+            334.786,
+            398.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "absent",
+          "box": [
+            339.525,
+            386.036,
+            376.435,
+            398.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "spinal",
+          "box": [
+            380.475,
+            386.036,
+            414.246,
+            398.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reflexes",
+          "box": [
+            418.41,
+            386.036,
+            464.292,
+            398.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            557.1,
+            386.036,
+            563.77,
+            398.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Br",
+          "box": [
+            65.25,
+            404.531,
+            77.305,
+            416.528
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "ain",
+          "box": [
+            79.582,
+            404.531,
+            97.664,
+            416.528
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Stem",
+          "box": [
+            102.105,
+            404.531,
+            130.598,
+            416.528
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Reflexes",
+          "box": [
+            135.54,
+            404.531,
+            187.069,
+            416.528
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Normal",
+          "box": [
+            65.25,
+            422.981,
+            107.621,
+            434.978
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pupillary",
+          "box": [
+            111.78,
+            422.981,
+            163.919,
+            434.978
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "light",
+          "box": [
+            167.85,
+            422.981,
+            192.81,
+            434.978
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reflexes",
+          "box": [
+            196.785,
+            422.981,
+            242.667,
+            434.978
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            245.25,
+            422.981,
+            266.415,
+            434.978
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oculocephalic",
+          "box": [
+            270.225,
+            422.981,
+            348.927,
+            434.978
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reflexes",
+          "box": [
+            351.945,
+            422.981,
+            397.827,
+            434.978
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6",
+          "box": [
+            557.1,
+            422.981,
+            563.77,
+            434.978
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Slow",
+          "box": [
+            65.25,
+            441.386,
+            90.966,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pupillary",
+          "box": [
+            95.76,
+            441.386,
+            147.899,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "light",
+          "box": [
+            151.785,
+            441.386,
+            176.745,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reflexes",
+          "box": [
+            180.765,
+            441.386,
+            226.647,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            229.185,
+            441.386,
+            250.35,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "normal",
+          "box": [
+            254.16,
+            441.386,
+            295.231,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            299.43,
+            441.386,
+            310.085,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reduced",
+          "box": [
+            313.47,
+            441.386,
+            359.515,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oculocephalic",
+          "box": [
+            363.33,
+            441.386,
+            442.032,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reflexes",
+          "box": [
+            445.05,
+            441.386,
+            490.932,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5",
+          "box": [
+            557.1,
+            441.386,
+            563.77,
+            453.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Bilateral",
+          "box": [
+            65.25,
+            459.836,
+            112.888,
+            471.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "unresponsive",
+          "box": [
+            117.045,
+            459.836,
+            194.426,
+            471.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "miosis",
+          "box": [
+            197.325,
+            459.836,
+            234.673,
+            471.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            237.195,
+            459.836,
+            262.269,
+            471.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "normal",
+          "box": [
+            266.355,
+            459.836,
+            307.426,
+            471.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.58,
+            459.836,
+            322.235,
+            471.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reduced",
+          "box": [
+            325.62,
+            459.836,
+            371.665,
+            471.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oculocephalic",
+          "box": [
+            375.48,
+            459.836,
+            454.182,
+            471.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reflexes",
+          "box": [
+            457.2,
+            459.836,
+            503.082,
+            471.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4",
+          "box": [
+            557.1,
+            459.836,
+            563.77,
+            471.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pinpoint",
+          "box": [
+            65.25,
+            478.286,
+            113.039,
+            490.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pupils",
+          "box": [
+            117.045,
+            478.286,
+            152.94,
+            490.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            155.475,
+            478.286,
+            180.549,
+            490.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reduced",
+          "box": [
+            184.59,
+            478.286,
+            230.635,
+            490.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            234.495,
+            478.286,
+            245.416,
+            490.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "absent",
+          "box": [
+            250.155,
+            478.286,
+            287.065,
+            490.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oculocephalic",
+          "box": [
+            291.105,
+            478.286,
+            369.807,
+            490.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reflexes",
+          "box": [
+            372.825,
+            478.286,
+            418.707,
+            490.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3",
+          "box": [
+            557.1,
+            478.286,
+            563.77,
+            490.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Unilateral,",
+          "box": [
+            65.25,
+            496.736,
+            125.659,
+            508.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "unresponsive",
+          "box": [
+            128.43,
+            496.736,
+            205.811,
+            508.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mydriasis",
+          "box": [
+            208.71,
+            496.736,
+            265.323,
+            508.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            267.84,
+            496.736,
+            292.914,
+            508.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reduced",
+          "box": [
+            297.0,
+            496.736,
+            343.045,
+            508.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            346.86,
+            496.736,
+            357.781,
+            508.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "absent",
+          "box": [
+            362.565,
+            496.736,
+            399.475,
+            508.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oculocephalic",
+          "box": [
+            403.47,
+            496.736,
+            482.172,
+            508.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reflexes",
+          "box": [
+            485.1,
+            496.736,
+            530.982,
+            508.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            557.1,
+            496.736,
+            563.77,
+            508.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Bilateral,",
+          "box": [
+            65.25,
+            515.186,
+            117.28,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "unresponsive",
+          "box": [
+            120.06,
+            515.186,
+            197.441,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mydriasis",
+          "box": [
+            200.295,
+            515.186,
+            256.908,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            259.47,
+            515.186,
+            284.544,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reduced",
+          "box": [
+            288.585,
+            515.186,
+            334.63,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            338.49,
+            515.186,
+            349.411,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "absent",
+          "box": [
+            354.15,
+            515.186,
+            391.06,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "oculocephalic",
+          "box": [
+            395.1,
+            515.186,
+            473.802,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "reflexes",
+          "box": [
+            476.55,
+            515.186,
+            522.432,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            557.1,
+            515.186,
+            563.77,
+            527.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Level",
+          "box": [
+            65.25,
+            533.636,
+            96.488,
+            545.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            101.16,
+            533.636,
+            111.731,
+            545.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Consciousness",
+          "box": [
+            116.37,
+            533.636,
+            203.791,
+            545.633
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "Occasional",
+          "box": [
+            65.25,
+            552.086,
+            126.052,
+            564.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "periods",
+          "box": [
+            130.23,
+            552.086,
+            173.789,
+            564.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            176.31,
+            552.086,
+            186.454,
+            564.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "alertness",
+          "box": [
+            190.665,
+            552.086,
+            243.012,
+            564.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            245.565,
+            552.086,
+            266.73,
+            564.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "responsive",
+          "box": [
+            270.54,
+            552.086,
+            332.567,
+            564.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            335.43,
+            552.086,
+            346.085,
+            564.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "environment",
+          "box": [
+            349.47,
+            552.086,
+            423.216,
+            564.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6",
+          "box": [
+            557.1,
+            552.086,
+            563.77,
+            564.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Depression",
+          "box": [
+            65.25,
+            570.536,
+            128.088,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            132.255,
+            570.536,
+            143.176,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "delirium,",
+          "box": [
+            147.96,
+            570.536,
+            201.076,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "capable",
+          "box": [
+            203.85,
+            570.536,
+            248.378,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            251.28,
+            570.536,
+            261.424,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "responding",
+          "box": [
+            265.635,
+            570.536,
+            330.759,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            333.675,
+            570.536,
+            344.33,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "environment",
+          "box": [
+            347.715,
+            570.536,
+            421.461,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "but",
+          "box": [
+            425.475,
+            570.536,
+            443.786,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "response",
+          "box": [
+            447.795,
+            570.536,
+            499.393,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            502.2,
+            570.536,
+            525.929,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            529.65,
+            570.536,
+            543.682,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5",
+          "box": [
+            557.1,
+            570.536,
+            563.77,
+            582.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "inappropriate",
+          "box": [
+            65.25,
+            584.486,
+            145.033,
+            596.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Stupor,",
+          "box": [
+            65.25,
+            602.936,
+            106.771,
+            614.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "responsive",
+          "box": [
+            108.945,
+            602.936,
+            170.972,
+            614.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            173.835,
+            602.936,
+            184.49,
+            614.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "visual",
+          "box": [
+            187.875,
+            602.936,
+            220.989,
+            614.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "stimuli",
+          "box": [
+            225.18,
+            602.936,
+            263.872,
+            614.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4",
+          "box": [
+            557.1,
+            602.936,
+            563.77,
+            614.933
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Stupor,",
+          "box": [
+            65.25,
+            621.386,
+            106.771,
+            633.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "responsive",
+          "box": [
+            108.945,
+            621.386,
+            170.972,
+            633.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            173.835,
+            621.386,
+            184.49,
+            633.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "auditory",
+          "box": [
+            187.875,
+            621.386,
+            236.003,
+            633.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "stimuli",
+          "box": [
+            239.895,
+            621.386,
+            278.587,
+            633.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "3",
+          "box": [
+            557.1,
+            621.386,
+            563.77,
+            633.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Stupor,",
+          "box": [
+            65.25,
+            639.836,
+            106.771,
+            651.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "responsive",
+          "box": [
+            108.945,
+            639.836,
+            170.972,
+            651.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "only",
+          "box": [
+            173.835,
+            639.836,
+            198.102,
+            651.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            202.005,
+            639.836,
+            212.66,
+            651.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "noxious",
+          "box": [
+            216.045,
+            639.836,
+            261.778,
+            651.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "stimuli",
+          "box": [
+            264.33,
+            639.836,
+            303.022,
+            651.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            557.1,
+            639.836,
+            563.77,
+            651.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Coma,",
+          "box": [
+            65.25,
+            658.286,
+            100.724,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "unresponsive",
+          "box": [
+            103.5,
+            658.286,
+            180.881,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            183.735,
+            658.286,
+            194.39,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "repeated",
+          "box": [
+            197.775,
+            658.286,
+            247.468,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "noxious",
+          "box": [
+            251.28,
+            658.286,
+            297.013,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "stimuli",
+          "box": [
+            299.565,
+            658.286,
+            338.257,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "1",
+          "box": [
+            557.1,
+            658.286,
+            563.77,
+            670.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "S",
+          "box": [
+            479.25,
+            676.521,
+            485.919,
+            686.52
+          ],
+          "font": "Helvetica",
+          "size": 9.999
+        },
+        {
+          "text": "core",
+          "box": [
+            484.65,
+            678.109,
+            501.42,
+            686.105
+          ],
+          "font": "Helvetica",
+          "size": 7.996
+        },
+        {
+          "text": "Interpretation",
+          "box": [
+            503.1,
+            678.109,
+            556.545,
+            686.105
+          ],
+          "font": "Helvetica",
+          "size": 7.996
+        },
+        {
+          "text": "Grave",
+          "box": [
+            488.7,
+            692.509,
+            511.445,
+            700.505
+          ],
+          "font": "Helvetica",
+          "size": 7.996
+        },
+        {
+          "text": "3-6",
+          "box": [
+            548.55,
+            692.509,
+            559.949,
+            700.505
+          ],
+          "font": "Helvetica",
+          "size": 7.996
+        },
+        {
+          "text": "Guarded",
+          "box": [
+            483.75,
+            706.459,
+            516.442,
+            714.455
+          ],
+          "font": "Helvetica",
+          "size": 7.996
+        },
+        {
+          "text": "9-14",
+          "box": [
+            546.3,
+            706.459,
+            562.172,
+            714.455
+          ],
+          "font": "Helvetica",
+          "size": 7.996
+        },
+        {
+          "text": "Good",
+          "box": [
+            490.05,
+            719.959,
+            509.441,
+            727.955
+          ],
+          "font": "Helvetica",
+          "size": 7.996
+        },
+        {
+          "text": "15-18",
+          "box": [
+            544.05,
+            719.959,
+            564.394,
+            727.955
+          ],
+          "font": "Helvetica",
+          "size": 7.996
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0221.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "glm_ocr",
+    "canonical_override_reason": "GLM preserved the normal-vitals table as Markdown",
+    "glm_ocr": "raw/glm_ocr/page-0221.json"
+  },
+  "qa": {
+    "native_similarity": 98.23,
+    "output_to_native_length_ratio": 0.995,
+    "native_dosage_tokens": [
+      "120mg",
+      "45mmhg",
+      "75mmhg",
+      "80bpm"
+    ],
+    "output_dosage_tokens": [
+      "120mg",
+      "45mmhg",
+      "75mmhg",
+      "80bpm"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

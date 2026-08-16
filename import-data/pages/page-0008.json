@@ -1,0 +1,2707 @@
+{
+  "id": "page-0008",
+  "pdf_page": 8,
+  "protocol_label": null,
+  "kind": "legend",
+  "chapter_id": null,
+  "topic_id": null,
+  "title": "Legend",
+  "markdown": "# Legend\n\n> ### LEGEND\n>\n> * **[E]** Denotes the scope of care for the Emergency Medical Technician (EMT)\n> * **[A]** Denotes the scope of care for the Advanced Emergency Medical Technician (AEMT)\n> * **[P]** Denotes the scope of care for the Paramedic\n> * **[PEARL]** Denotes a PEARL - i.e. key points/info specific to patients within the protocol\n> * **[Telephone]** Contact On-Line Medical Control\n> * **[H]** Denotes a potentially complex patient. Please call an OLMC consult to collaborate your efforts\n> * **[Pediatric]** Denotes a pediatric-specific therapy or medication dose\n> * **Blue Underline** - Text formatted as a hyperlink\n\nThese protocols are a \"living document\" maintained electronically by Maine EMS and may be edited or updated, as required, at any time. A detailed review and editing of these protocols will occur on a biennial time frame and an updated version will be released every other year.\n\nAll licensed clinicians who practice within the Maine EMS system are required to be familiar with the contents of this document pertinent to their level of training. For the latest corrections/updates to these protocols, please visit the Maine EMS website at: http://www.maine.gov/ems.\n\nThere are protocols within this document that are the result of the collaboration between the Northern New England States (Maine, New Hampshire and Vermont) to provide uniform, evidence-based care to our patients. These protocols are identified by a joint statement at the bottom of the protocol.\n",
+  "plain_text": "Legend ### LEGEND [E] Denotes the scope of care for the Emergency Medical Technician (EMT) [A] Denotes the scope of care for the Advanced Emergency Medical Technician (AEMT) [P] Denotes the scope of care for the Paramedic [PEARL] Denotes a PEARL - i.e. key points/info specific to patients within the protocol [Telephone] Contact On-Line Medical Control [H] Denotes a potentially complex patient. Please call an OLMC consult to collaborate your efforts [Pediatric] Denotes a pediatric-specific therapy or medication dose Blue Underline - Text formatted as a hyperlink These protocols are a \"living document\" maintained electronically by Maine EMS and may be edited or updated, as required, at any time. A detailed review and editing of these protocols will occur on a biennial time frame and an updated version will be released every other year. All licensed clinicians who practice within the Maine EMS system are required to be familiar with the contents of this document pertinent to their level of training. For the latest corrections/updates to these protocols, please visit the Maine EMS website at: http://www.maine.gov/ems. There are protocols within this document that are the result of the collaboration between the Northern New England States (Maine, New Hampshire and Vermont) to provide uniform, evidence-based care to our patients. These protocols are identified by a joint statement at the bottom of the protocol.",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        425.74,
+        38.42,
+        545.37,
+        61.15
+      ],
+      "text": "LEGEND",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        89.93,
+        67.74,
+        760.16,
+        85.55
+      ],
+      "text": "E Denotes the scope of care for the Emergency Medical Technician (EMT)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        89.19,
+        107.51,
+        791.32,
+        125.32
+      ],
+      "text": "A Denotes the scope of care for the Advanced Emergency Medical Technician",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        154.41,
+        123.7,
+        218.35,
+        137.59
+      ],
+      "text": "(AEMT)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        90.15,
+        147.28,
+        529.05,
+        165.09
+      ],
+      "text": "P Denotes the scope of care for the Paramedic",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        154.41,
+        187.06,
+        802.31,
+        200.94
+      ],
+      "text": "Denotes a PEARL - i.e. key points/info specific to patients within the protocol",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        154.41,
+        227.17,
+        430.32,
+        241.06
+      ],
+      "text": "Contact On-Line Medical Control",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        154.41,
+        262.68,
+        847.16,
+        276.57
+      ],
+      "text": "Denotes a potentially complex patient. Please call an OLMC consult to collaborate",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        154.41,
+        278.82,
+        256.12,
+        292.7
+      ],
+      "text": "your efforts",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        154.41,
+        316.03,
+        629.27,
+        329.92
+      ],
+      "text": "Denotes a pediatric-specific therapy or medication dose",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        132.35,
+        364.95,
+        527.09,
+        378.84
+      ],
+      "text": "Blue Underline - Text formatted as a hyperlink",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        420.2,
+        911.16,
+        435.35
+      ],
+      "text": "These protocols are a \"living document\" maintained electronically by Maine EMS and may be",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        437.82,
+        901.77,
+        452.96
+      ],
+      "text": "edited or updated, as required, at any time. A detailed review and editing of these protocols",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        455.49,
+        861.65,
+        470.64
+      ],
+      "text": "will occur on a biennial time frame and an updated version will be released every other",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        473.1,
+        90.24,
+        488.25
+      ],
+      "text": "year.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        508.39,
+        904.6,
+        523.53
+      ],
+      "text": "All licensed clinicians who practice within the Maine EMS system are required to be familiar",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        526.06,
+        821.95,
+        541.2
+      ],
+      "text": "with the contents of this document pertinent to their level of training. For the latest",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        543.67,
+        760.7,
+        558.82
+      ],
+      "text": "corrections/updates to these protocols, please visit the Maine EMS website at:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        561.28,
+        301.55,
+        576.43
+      ],
+      "text": "http://www.maine.gov/ems.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        596.51,
+        911.13,
+        611.66
+      ],
+      "text": "There are protocols within this document that are the result of the collaboration between the",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        614.12,
+        874.1,
+        629.27
+      ],
+      "text": "Northern New England States (Maine, New Hampshire and Vermont) to provide uniform,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        631.74,
+        878.06,
+        646.89
+      ],
+      "text": "evidence-based care to our patients. These protocols are identified by a joint statement at",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        44.12,
+        649.35,
+        291.83,
+        664.5
+      ],
+      "text": "the bottom of the protocol.",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [],
+  "sources": {
+    "page_image_sha256": "a83c4e2f138cd72c714a661cd9b94bf6d5464d3166e1a52dbb711d028195b187",
+    "native": {
+      "text": "LEGEND\nDenotes the scope of care for the Emergency Medical Technician (EMT)\nE\nDenotes the scope of care for the Advanced Emergency Medical Technician\nA\n(AEMT)\nDenotes the scope of care for the Paramedic\nP\nDenotes a PEARL - i.e. key points/info specific to patients within the protocol\nContact On-Line Medical Control\nDenotes a potentially complex patient. Please call an OLMC consult to collaborate\nyour efforts\nDenotes a pediatric-specific therapy or medication dose\nBlue Underline - Text formatted as a hyperlink\nThese protocols are a \"living document\" maintained electronically by Maine EMS and may be\nedited or updated, as required, at any time. A detailed review and editing of these protocols\nwill occur on a biennial time frame and an updated version will be released every other\nyear.\nAll licensed clinicians who practice within the Maine EMS system are required to be familiar\nwith the contents of this document pertinent to their level of training. For the latest\ncorrections/updates to these protocols, please visit the Maine EMS website at:\nhttp://www.maine.gov/ems.\nThere are protocols within this document that are the result of the collaboration between the\nNorthern New England States (Maine, New Hampshire and Vermont) to provide uniform,\nevidence-based care to our patients. These protocols are identified by a joint statement at\nthe bottom of the protocol.",
+      "body_text": "These protocols are a \"living document\" maintained electronically by Maine EMS and may be edited or updated, as required, at any time. A detailed review and editing of these protocols will occur on a biennial time frame and an updated version will be released every other year. All licensed clinicians who practice within the Maine EMS system are required to be familiar with the contents of this document pertinent to their level of training. For the latest corrections/updates to these protocols, please visit the Maine EMS website at: http://www.maine.gov/ems. There are protocols within this document that are the result of the collaboration between the Northern New England States (Maine, New Hampshire and Vermont) to provide uniform, evidence-based care to our patients. These protocols are identified by a joint statement at the bottom of the protocol. Denotes the scope of care for the Advanced Emergency Medical Technician A (AEMT) Denotes the scope of care for the Paramedic P Denotes a PEARL - i.e. key points/info specific to patients within the protocol Contact On-Line Medical Control Blue Underline - Text formatted as a hyperlink Denotes a potentially complex patient. Please call an OLMC consult to collaborate your efforts Denotes a pediatric-specific therapy or medication dose",
+      "words": [
+        {
+          "text": "These",
+          "box": [
+            27.0,
+            332.801,
+            60.472,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocols",
+          "box": [
+            63.315,
+            332.801,
+            116.596,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            119.16,
+            332.801,
+            138.237,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            141.075,
+            332.801,
+            147.745,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "\"living",
+          "box": [
+            150.975,
+            332.801,
+            188.385,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "document\"",
+          "box": [
+            191.295,
+            332.801,
+            252.964,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "maintained",
+          "box": [
+            256.725,
+            332.801,
+            321.924,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "electronically",
+          "box": [
+            325.755,
+            332.801,
+            402.466,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "by",
+          "box": [
+            406.35,
+            332.801,
+            419.593,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Maine",
+          "box": [
+            423.495,
+            332.801,
+            459.752,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EMS",
+          "box": [
+            462.6,
+            332.801,
+            489.331,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            490.95,
+            332.801,
+            512.115,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "may",
+          "box": [
+            515.7,
+            332.801,
+            539.428,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            543.6,
+            332.801,
+            557.632,
+            344.798
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "edited",
+          "box": [
+            27.0,
+            346.751,
+            61.82,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "or",
+          "box": [
+            65.61,
+            346.751,
+            76.53,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "updated,",
+          "box": [
+            81.315,
+            346.751,
+            131.516,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "as",
+          "box": [
+            134.325,
+            346.751,
+            147.078,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "required,",
+          "box": [
+            149.58,
+            346.751,
+            203.238,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            206.055,
+            346.751,
+            216.028,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "any",
+          "box": [
+            220.05,
+            346.751,
+            240.426,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "time.",
+          "box": [
+            244.305,
+            346.751,
+            273.459,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "A",
+          "box": [
+            279.81,
+            346.751,
+            287.812,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "detailed",
+          "box": [
+            291.375,
+            346.751,
+            336.788,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "review",
+          "box": [
+            340.605,
+            346.751,
+            378.43,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            383.22,
+            346.751,
+            404.385,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "editing",
+          "box": [
+            408.195,
+            346.751,
+            448.289,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            450.9,
+            346.751,
+            461.044,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "these",
+          "box": [
+            465.3,
+            346.751,
+            495.644,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocols",
+          "box": [
+            498.6,
+            346.751,
+            551.881,
+            358.748
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "will",
+          "box": [
+            27.0,
+            360.746,
+            47.563,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "occur",
+          "box": [
+            51.705,
+            360.746,
+            82.048,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "on",
+          "box": [
+            86.85,
+            360.746,
+            100.446,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            104.625,
+            360.746,
+            111.295,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "biennial",
+          "box": [
+            114.48,
+            360.746,
+            160.837,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "time",
+          "box": [
+            165.015,
+            360.746,
+            191.083,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "frame",
+          "box": [
+            193.995,
+            360.746,
+            228.837,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            231.705,
+            360.746,
+            252.87,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "an",
+          "box": [
+            256.68,
+            360.746,
+            270.105,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "updated",
+          "box": [
+            274.275,
+            360.746,
+            320.449,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "version",
+          "box": [
+            324.27,
+            360.746,
+            366.021,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "will",
+          "box": [
+            370.215,
+            360.746,
+            390.777,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            394.965,
+            360.746,
+            408.997,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "released",
+          "box": [
+            411.885,
+            360.746,
+            459.36,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "every",
+          "box": [
+            463.05,
+            360.746,
+            494.374,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "other",
+          "box": [
+            498.15,
+            360.746,
+            527.331,
+            372.743
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "year.",
+          "box": [
+            27.0,
+            374.696,
+            55.225,
+            386.693
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "All",
+          "box": [
+            27.0,
+            402.641,
+            41.844,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "licensed",
+          "box": [
+            45.99,
+            402.641,
+            92.119,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "clinicians",
+          "box": [
+            95.94,
+            402.641,
+            151.214,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "who",
+          "box": [
+            153.765,
+            402.641,
+            178.273,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "practice",
+          "box": [
+            181.62,
+            402.641,
+            227.929,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "within",
+          "box": [
+            230.85,
+            402.641,
+            267.375,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            271.53,
+            402.641,
+            290.039,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Maine",
+          "box": [
+            292.95,
+            402.641,
+            329.207,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EMS",
+          "box": [
+            332.055,
+            402.641,
+            358.786,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "system",
+          "box": [
+            360.45,
+            402.641,
+            398.342,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            402.795,
+            402.641,
+            421.872,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "required",
+          "box": [
+            424.755,
+            402.641,
+            474.386,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            477.9,
+            402.641,
+            488.555,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            491.85,
+            402.641,
+            505.882,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "familiar",
+          "box": [
+            508.95,
+            402.641,
+            553.615,
+            414.638
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            27.0,
+            416.636,
+            52.074,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            56.115,
+            416.636,
+            74.624,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "contents",
+          "box": [
+            77.49,
+            416.636,
+            126.317,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            128.88,
+            416.636,
+            139.024,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "this",
+          "box": [
+            143.235,
+            416.636,
+            164.91,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "document",
+          "box": [
+            167.445,
+            416.636,
+            223.966,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "pertinent",
+          "box": [
+            227.97,
+            416.636,
+            280.587,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            284.58,
+            416.636,
+            295.235,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "their",
+          "box": [
+            298.62,
+            416.636,
+            324.713,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "level",
+          "box": [
+            329.49,
+            416.636,
+            355.431,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            359.595,
+            416.636,
+            369.739,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "training.",
+          "box": [
+            373.95,
+            416.636,
+            423.524,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "For",
+          "box": [
+            429.885,
+            416.636,
+            447.402,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            451.8,
+            416.636,
+            470.309,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "latest",
+          "box": [
+            473.395,
+            416.636,
+            503.031,
+            428.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "corrections/updates",
+          "box": [
+            27.0,
+            430.586,
+            140.56,
+            442.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            143.1,
+            430.586,
+            153.755,
+            442.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "these",
+          "box": [
+            157.14,
+            430.586,
+            187.484,
+            442.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocols,",
+          "box": [
+            190.35,
+            430.586,
+            246.381,
+            442.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "please",
+          "box": [
+            249.165,
+            430.586,
+            285.507,
+            442.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "visit",
+          "box": [
+            288.36,
+            430.586,
+            311.732,
+            442.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            315.765,
+            430.586,
+            334.274,
+            442.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Maine",
+          "box": [
+            337.14,
+            430.586,
+            373.397,
+            442.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "EMS",
+          "box": [
+            376.245,
+            430.586,
+            402.976,
+            442.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "website",
+          "box": [
+            404.64,
+            430.586,
+            448.676,
+            442.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at:",
+          "box": [
+            451.35,
+            430.586,
+            465.547,
+            442.583
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "http://www.maine.gov/ems.",
+          "box": [
+            27.0,
+            444.536,
+            184.55,
+            456.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "There",
+          "box": [
+            27.0,
+            472.436,
+            60.711,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            63.585,
+            472.436,
+            82.662,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocols",
+          "box": [
+            85.5,
+            472.436,
+            138.781,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "within",
+          "box": [
+            141.345,
+            472.436,
+            177.87,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "this",
+          "box": [
+            182.07,
+            472.436,
+            203.745,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "document",
+          "box": [
+            206.28,
+            472.436,
+            262.801,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "that",
+          "box": [
+            266.805,
+            472.436,
+            288.616,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            292.635,
+            472.436,
+            311.712,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            314.595,
+            472.436,
+            333.104,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "result",
+          "box": [
+            335.97,
+            472.436,
+            368.01,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            372.015,
+            472.436,
+            382.159,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            386.37,
+            472.436,
+            404.879,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "collaboration",
+          "box": [
+            407.745,
+            472.436,
+            483.005,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "between",
+          "box": [
+            486.9,
+            472.436,
+            534.645,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            539.1,
+            472.436,
+            557.609,
+            484.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Northern",
+          "box": [
+            27.0,
+            486.386,
+            79.2,
+            498.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "New",
+          "box": [
+            83.385,
+            486.386,
+            107.509,
+            498.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "England",
+          "box": [
+            112.275,
+            486.386,
+            158.828,
+            498.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "States",
+          "box": [
+            162.675,
+            486.386,
+            196.472,
+            498.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(Maine,",
+          "box": [
+            198.99,
+            486.386,
+            242.487,
+            498.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "New",
+          "box": [
+            245.295,
+            486.386,
+            269.419,
+            498.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Hampshire",
+          "box": [
+            274.23,
+            486.386,
+            338.265,
+            498.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "and",
+          "box": [
+            341.145,
+            486.386,
+            362.31,
+            498.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Vermont)",
+          "box": [
+            366.12,
+            486.386,
+            419.673,
+            498.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            422.955,
+            486.386,
+            433.61,
+            498.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "provide",
+          "box": [
+            436.95,
+            486.386,
+            481.473,
+            498.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "uniform,",
+          "box": [
+            484.2,
+            486.386,
+            534.952,
+            498.383
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "evidence-based",
+          "box": [
+            27.0,
+            500.336,
+            114.637,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "care",
+          "box": [
+            118.44,
+            500.336,
+            143.421,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            146.295,
+            500.336,
+            156.95,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "our",
+          "box": [
+            160.335,
+            500.336,
+            178.869,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients.",
+          "box": [
+            183.645,
+            500.336,
+            232.724,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "These",
+          "box": [
+            239.04,
+            500.336,
+            272.512,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocols",
+          "box": [
+            275.4,
+            500.336,
+            328.681,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            331.245,
+            500.336,
+            350.322,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "identified",
+          "box": [
+            353.16,
+            500.336,
+            407.825,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "by",
+          "box": [
+            411.66,
+            500.336,
+            424.903,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "a",
+          "box": [
+            428.805,
+            500.336,
+            435.475,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "joint",
+          "box": [
+            438.66,
+            500.336,
+            463.979,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "statement",
+          "box": [
+            468.0,
+            500.336,
+            523.519,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "at",
+          "box": [
+            527.4,
+            500.336,
+            537.373,
+            512.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            27.0,
+            514.286,
+            45.509,
+            526.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bottom",
+          "box": [
+            48.375,
+            514.286,
+            87.79,
+            526.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            92.25,
+            514.286,
+            102.394,
+            526.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            106.605,
+            514.286,
+            125.114,
+            526.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "protocol.",
+          "box": [
+            127.98,
+            514.286,
+            178.598,
+            526.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Denotes",
+          "box": [
+            94.5,
+            53.649,
+            136.969,
+            64.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            139.275,
+            53.649,
+            156.242,
+            64.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "scope",
+          "box": [
+            158.895,
+            53.649,
+            188.477,
+            64.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            191.115,
+            53.649,
+            200.409,
+            64.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "care",
+          "box": [
+            204.255,
+            53.649,
+            227.155,
+            64.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "for",
+          "box": [
+            229.77,
+            53.649,
+            243.73,
+            64.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            248.13,
+            53.649,
+            265.097,
+            64.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Emergency",
+          "box": [
+            267.75,
+            53.649,
+            325.652,
+            64.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Medical",
+          "box": [
+            329.22,
+            53.649,
+            369.735,
+            64.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Technician",
+          "box": [
+            373.59,
+            53.649,
+            430.017,
+            64.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "(EMT)",
+          "box": [
+            433.845,
+            53.649,
+            465.219,
+            64.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "E",
+          "box": [
+            55.035,
+            56.754,
+            62.371,
+            67.752
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Denotes",
+          "box": [
+            94.5,
+            85.149,
+            136.969,
+            96.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            139.275,
+            85.149,
+            156.242,
+            96.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "scope",
+          "box": [
+            158.895,
+            85.149,
+            188.477,
+            96.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            191.115,
+            85.149,
+            200.409,
+            96.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "care",
+          "box": [
+            204.255,
+            85.149,
+            227.155,
+            96.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "for",
+          "box": [
+            229.77,
+            85.149,
+            243.73,
+            96.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            248.13,
+            85.149,
+            265.097,
+            96.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Advanced",
+          "box": [
+            267.75,
+            85.149,
+            318.541,
+            96.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Emergency",
+          "box": [
+            322.02,
+            85.149,
+            379.922,
+            96.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Medical",
+          "box": [
+            383.535,
+            85.149,
+            424.05,
+            96.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Technician",
+          "box": [
+            427.86,
+            85.149,
+            484.287,
+            96.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "A",
+          "box": [
+            54.585,
+            88.254,
+            61.921,
+            99.252
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "(AEMT)",
+          "box": [
+            94.5,
+            97.974,
+            133.628,
+            108.972
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Denotes",
+          "box": [
+            94.5,
+            116.649,
+            136.969,
+            127.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            139.275,
+            116.649,
+            156.242,
+            127.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "scope",
+          "box": [
+            158.895,
+            116.649,
+            188.477,
+            127.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "of",
+          "box": [
+            191.115,
+            116.649,
+            200.409,
+            127.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "care",
+          "box": [
+            204.255,
+            116.649,
+            227.155,
+            127.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "for",
+          "box": [
+            229.77,
+            116.649,
+            243.73,
+            127.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            248.13,
+            116.649,
+            265.097,
+            127.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Paramedic",
+          "box": [
+            267.75,
+            116.649,
+            323.778,
+            127.647
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "P",
+          "box": [
+            55.17,
+            119.754,
+            62.506,
+            130.752
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Denotes",
+          "box": [
+            94.5,
+            148.149,
+            136.969,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "a",
+          "box": [
+            139.275,
+            148.149,
+            145.39,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "PEARL",
+          "box": [
+            148.32,
+            148.149,
+            182.893,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "-",
+          "box": [
+            186.525,
+            148.149,
+            190.187,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "i.e.",
+          "box": [
+            192.78,
+            148.149,
+            208.168,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "key",
+          "box": [
+            211.095,
+            148.149,
+            228.699,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "points/info",
+          "box": [
+            232.29,
+            148.149,
+            288.564,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "specific",
+          "box": [
+            291.69,
+            148.149,
+            331.293,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "to",
+          "box": [
+            334.035,
+            148.149,
+            343.802,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patients",
+          "box": [
+            346.905,
+            148.149,
+            389.37,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "within",
+          "box": [
+            391.725,
+            148.149,
+            425.204,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "the",
+          "box": [
+            429.03,
+            148.149,
+            445.997,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "protocol",
+          "box": [
+            448.65,
+            148.149,
+            491.014,
+            159.147
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Contact",
+          "box": [
+            94.5,
+            179.919,
+            132.894,
+            190.917
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "On-Line",
+          "box": [
+            136.575,
+            179.919,
+            178.819,
+            190.917
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Medical",
+          "box": [
+            181.44,
+            179.919,
+            221.955,
+            190.917
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Control",
+          "box": [
+            225.765,
+            179.919,
+            263.354,
+            190.917
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Blue",
+          "box": [
+            81.0,
+            289.044,
+            104.696,
+            300.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Underline",
+          "box": [
+            107.325,
+            289.044,
+            160.036,
+            300.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "-",
+          "box": [
+            162.675,
+            289.044,
+            166.337,
+            300.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Text",
+          "box": [
+            168.93,
+            289.044,
+            190.532,
+            300.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "formatted",
+          "box": [
+            194.22,
+            289.044,
+            245.81,
+            300.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "as",
+          "box": [
+            249.3,
+            289.044,
+            260.991,
+            300.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "a",
+          "box": [
+            263.295,
+            289.044,
+            269.41,
+            300.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "hyperlink",
+          "box": [
+            272.385,
+            289.044,
+            322.581,
+            300.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "LEGEND",
+          "box": [
+            260.55,
+            30.429,
+            333.769,
+            48.429
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "Denotes",
+          "box": [
+            94.5,
+            208.044,
+            136.969,
+            219.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "a",
+          "box": [
+            139.275,
+            208.044,
+            145.39,
+            219.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "potentially",
+          "box": [
+            148.32,
+            208.044,
+            203.844,
+            219.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "complex",
+          "box": [
+            207.45,
+            208.044,
+            251.037,
+            219.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "patient.",
+          "box": [
+            254.745,
+            208.044,
+            294.769,
+            219.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Please",
+          "box": [
+            297.72,
+            208.044,
+            330.924,
+            219.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "call",
+          "box": [
+            333.585,
+            208.044,
+            351.043,
+            219.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "an",
+          "box": [
+            354.87,
+            208.044,
+            367.177,
+            219.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "OLMC",
+          "box": [
+            371.025,
+            208.044,
+            404.296,
+            219.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "consult",
+          "box": [
+            405.945,
+            208.044,
+            443.094,
+            219.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "to",
+          "box": [
+            446.805,
+            208.044,
+            456.572,
+            219.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "collaborate",
+          "box": [
+            459.45,
+            208.044,
+            518.46,
+            219.042
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "your",
+          "box": [
+            94.5,
+            220.824,
+            117.593,
+            231.822
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "efforts",
+          "box": [
+            121.95,
+            220.824,
+            156.745,
+            231.822
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "Denotes",
+          "box": [
+            94.5,
+            250.299,
+            136.969,
+            261.297
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "a",
+          "box": [
+            139.275,
+            250.299,
+            145.39,
+            261.297
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "pediatric-specific",
+          "box": [
+            148.32,
+            250.299,
+            238.304,
+            261.297
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "therapy",
+          "box": [
+            241.11,
+            250.299,
+            281.248,
+            261.297
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "or",
+          "box": [
+            284.805,
+            250.299,
+            294.812,
+            261.297
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "medication",
+          "box": [
+            299.205,
+            250.299,
+            357.096,
+            261.297
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        },
+        {
+          "text": "dose",
+          "box": [
+            360.945,
+            250.299,
+            385.114,
+            261.297
+          ],
+          "font": "Helvetica",
+          "size": 10.998
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0008.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 98.51,
+    "output_to_native_length_ratio": 1.027,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

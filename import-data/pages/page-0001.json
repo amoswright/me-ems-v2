@@ -1,0 +1,457 @@
+{
+  "id": "page-0001",
+  "pdf_page": 1,
+  "protocol_label": null,
+  "kind": "front_matter",
+  "chapter_id": null,
+  "topic_id": null,
+  "title": "2025 Maine EMS Prehospital Protocols",
+  "markdown": "# 2025 Maine EMS Prehospital Protocols\n\n![Visual reference from 2025 Maine EMS Prehospital Protocols](../../assets/figures/page-0001-visual.webp)\n\nMAINE\nEMS\n\nPREHOSPITAL TREATMENT PROTOCOLS\n\nEffective\nDecember 1, 2025\n\nMaine Emergency Medical Services\n152 State House Station\nAugusta, Maine 04333\nTEL (207) 626-3860 TTY (207) 287-3659\nFAX (207) 287-6251\n\nver 10.29\n",
+  "plain_text": "2025 Maine EMS Prehospital Protocols MAINE EMS PREHOSPITAL TREATMENT PROTOCOLS Effective December 1, 2025 Maine Emergency Medical Services 152 State House Station Augusta, Maine 04333 TEL (207) 626-3860 TTY (207) 287-3659 FAX (207) 287-6251 ver 10.29",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        452.57,
+        484.06,
+        558.45,
+        505.52
+      ],
+      "text": "Effective",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        391.4,
+        509.8,
+        619.6,
+        531.26
+      ],
+      "text": "December 1, 2025",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        349.93,
+        553.67,
+        661.12,
+        568.82
+      ],
+      "text": "Maine Emergency Medical Services",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        399.34,
+        571.51,
+        611.73,
+        586.66
+      ],
+      "text": "152 State House Station",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        407.5,
+        589.69,
+        603.55,
+        604.84
+      ],
+      "text": "Augusta, Maine 04333",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        324.93,
+        607.87,
+        686.22,
+        623.02
+      ],
+      "text": "TEL (207) 626-3860 TTY (207) 287-3659",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        417.35,
+        626.06,
+        593.7,
+        641.2
+      ],
+      "text": "FAX (207) 287-6251",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        772.9,
+        943.14,
+        819.77,
+        953.24
+      ],
+      "text": "ver 10.29",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0001-visual",
+      "type": "figure",
+      "path": "assets/figures/page-0001-visual.webp",
+      "alt": "Visual reference from 2025 Maine EMS Prehospital Protocols",
+      "source_box_points": [
+        126.0,
+        72.0,
+        492.75,
+        342.0
+      ],
+      "reasons": [
+        "embedded_images"
+      ],
+      "sha256": "cc4e04cb1b09bf2284e2b11dd5e0c043198b61d5dae92d67eb4983901688b875"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "3b44dbd6cf4a7f53464a45694522e5dd91e4a54ca2fe4b0c7567551f6b077378",
+    "native": {
+      "text": "Effective\nDecember 1, 2025\nMaine Emergency Medical Services\n152 State House Station\nAugusta, Maine 04333\nTEL (207) 626-3860 TTY (207) 287-3659\nFAX (207) 287-6251\nver 10.29",
+      "body_text": "Effective December 1, 2025 Maine Emergency Medical Services 152 State House Station Augusta, Maine 04333 TEL (207) 626-3860 TTY (207) 287-3659 FAX (207) 287-6251 ver 10.29",
+      "words": [
+        {
+          "text": "Effective",
+          "box": [
+            276.975,
+            383.377,
+            341.771,
+            400.373
+          ],
+          "font": "Helvetica",
+          "size": 16.997
+        },
+        {
+          "text": "December",
+          "box": [
+            239.535,
+            403.762,
+            317.8,
+            420.758
+          ],
+          "font": "Helvetica",
+          "size": 16.997
+        },
+        {
+          "text": "1,",
+          "box": [
+            322.517,
+            403.762,
+            336.683,
+            420.758
+          ],
+          "font": "Helvetica",
+          "size": 16.997
+        },
+        {
+          "text": "2025",
+          "box": [
+            341.422,
+            403.762,
+            379.195,
+            420.758
+          ],
+          "font": "Helvetica",
+          "size": 16.997
+        },
+        {
+          "text": "Maine",
+          "box": [
+            214.155,
+            438.506,
+            246.762,
+            450.503
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Emergency",
+          "box": [
+            250.127,
+            438.506,
+            310.737,
+            450.503
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Medical",
+          "box": [
+            314.101,
+            438.506,
+            355.37,
+            450.503
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Services",
+          "box": [
+            358.669,
+            438.506,
+            404.606,
+            450.503
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "152",
+          "box": [
+            244.395,
+            452.636,
+            264.406,
+            464.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "State",
+          "box": [
+            267.722,
+            452.636,
+            295.735,
+            464.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "House",
+          "box": [
+            299.109,
+            452.636,
+            333.749,
+            464.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Station",
+          "box": [
+            337.061,
+            452.636,
+            374.378,
+            464.633
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Augusta,",
+          "box": [
+            249.39,
+            467.036,
+            296.742,
+            479.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Maine",
+          "box": [
+            300.093,
+            467.036,
+            332.7,
+            479.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "04333",
+          "box": [
+            336.02,
+            467.036,
+            369.372,
+            479.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TEL",
+          "box": [
+            198.855,
+            481.436,
+            220.826,
+            493.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(207)",
+          "box": [
+            223.7,
+            481.436,
+            251.673,
+            493.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "626-3860",
+          "box": [
+            254.993,
+            481.436,
+            305.652,
+            493.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TTY",
+          "box": [
+            312.322,
+            481.436,
+            334.922,
+            493.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(207)",
+          "box": [
+            338.018,
+            481.436,
+            365.99,
+            493.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "287-3659",
+          "box": [
+            369.31,
+            481.436,
+            419.969,
+            493.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "FAX",
+          "box": [
+            255.42,
+            495.836,
+            278.057,
+            507.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(207)",
+          "box": [
+            281.392,
+            495.836,
+            309.364,
+            507.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "287-6251",
+          "box": [
+            312.685,
+            495.836,
+            363.343,
+            507.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "ver",
+          "box": [
+            473.017,
+            746.965,
+            482.721,
+            754.965
+          ],
+          "font": "GYRAWM+MinionPro-It",
+          "size": 8.0
+        },
+        {
+          "text": "10.29",
+          "box": [
+            484.553,
+            746.965,
+            501.697,
+            754.965
+          ],
+          "font": "ZLILSK+MinionPro-It",
+          "size": 8.0
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0001.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 79.53,
+    "output_to_native_length_ratio": 1.515,
+    "native_dosage_tokens": [],
+    "output_dosage_tokens": [],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "pre_refinement_warnings": [
+      "suspicious_output_expansion"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

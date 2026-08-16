@@ -1,0 +1,4919 @@
+{
+  "id": "page-0073",
+  "pdf_page": 73,
+  "protocol_label": "Red 36",
+  "kind": "protocol",
+  "chapter_id": "red",
+  "topic_id": "red-hyperkalemia",
+  "title": "Hyperkalemia",
+  "markdown": "# Hyperkalemia\n\n![Visual reference from Hyperkalemia](../../assets/figures/page-0073-visual.webp)\n\n> Hyperkalemia (elevated serum potassium levels) can become a life-threatening electrolyte disturbance which causes changes in the electrical system of the heart potentially leading to fatal arrhythmias. While serum electrolyte values are not routinely available in the prehospital setting, a paramedic can identify the electrical changes on ECG and initiate prompt treatment.\n>\n> Patients at highest risk of cardiac consequences of hyperkalemia are those in renal failure: either end stage kidney disease requiring dialysis or with acute decompensations in renal function. The most common at-risk patient is the dialysis dependent patient who has missed one or more scheduled dialysis sessions and thus has accumulated dangerously high levels of electrolytes, including potassium. There are also a number of prescription medications that can alter serum potassium levels such as diuretics, blood pressure medications, chemotherapy agents, and more.\n>\n> Electrocardiographic signs of hyperkalemia include the following:\n>\n> * Peaked T-Wave (tall and symmetric)\n> * Widened QRS\n> * Widened QRS and lengthened QT interval\n\n1. Obtain 12-lead ECG and evaluate for signs of hyperkalemia, including peaked T waves, widened QRS, lengthened QT interval, loss of P waves.\n2. Perform continuous cardiac monitoring.\n3. Establish 2 points of IV/IO access.\n4. If ECG changes suggestive of hyperkalemia are noted, administer:\n    a. IV/IO fluid bolus: 500 - 1000 mL (NS or LR)\n    b. Calcium gluconate - NOTE: DO NOT administer calcium through same IV/IO as sodium bicarbonate\n        i. Adult: 2 grams diluted in 50-100 mL IVF IV/IO over 15 minutes, via pump\n        ii. Pediatric: 60 mg/kg diluted in 50-100 mL IVF (with MAX dose of 2 grams) IV/IO over 15 minutes, via pump\n    c. Sodium bicarbonate - NOTE: DO NOT administer sodium bicarbonate through same IV/IO as Calcium\n        i. Adult: 50mEq IV/IO\n        ii. Pediatric: 1mEq/kg IV/IO over 5 minutes with MAX dose of 50mEq (8.4% sodium bicarbonate must be diluted with D5W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age.)\n    d. Albuterol\n        i. Adult: 15 mg via nebulizer\n        ii. Pediatric:\n            1. Pediatric less than 25 kg: 2.5 mg via nebulizer\n            2. Pediatric greater than 25 kg: 5 mg via nebulizer\n5. Repeat 12-lead ECG after treatment to evaluate for improvement.\n6. Consult OLMC with questions or to discuss repeat doses if ECG not improved.\n\n(Continued)\n",
+  "plain_text": "Hyperkalemia Hyperkalemia (elevated serum potassium levels) can become a life-threatening electrolyte disturbance which causes changes in the electrical system of the heart potentially leading to fatal arrhythmias. While serum electrolyte values are not routinely available in the prehospital setting, a paramedic can identify the electrical changes on ECG and initiate prompt treatment. Patients at highest risk of cardiac consequences of hyperkalemia are those in renal failure: either end stage kidney disease requiring dialysis or with acute decompensations in renal function. The most common at-risk patient is the dialysis dependent patient who has missed one or more scheduled dialysis sessions and thus has accumulated dangerously high levels of electrolytes, including potassium. There are also a number of prescription medications that can alter serum potassium levels such as diuretics, blood pressure medications, chemotherapy agents, and more. Electrocardiographic signs of hyperkalemia include the following: Peaked T-Wave (tall and symmetric) Widened QRS Widened QRS and lengthened QT interval Obtain 12-lead ECG and evaluate for signs of hyperkalemia, including peaked T waves, widened QRS, lengthened QT interval, loss of P waves. Perform continuous cardiac monitoring. Establish 2 points of IV/IO access. If ECG changes suggestive of hyperkalemia are noted, administer: IV/IO fluid bolus: 500 - 1000 mL (NS or LR) Calcium gluconate - NOTE: DO NOT administer calcium through same IV/IO as sodium bicarbonate Adult: 2 grams diluted in 50-100 mL IVF IV/IO over 15 minutes, via pump Pediatric: 60 mg/kg diluted in 50-100 mL IVF (with MAX dose of 2 grams) IV/IO over 15 minutes, via pump Sodium bicarbonate - NOTE: DO NOT administer sodium bicarbonate through same IV/IO as Calcium Adult: 50mEq IV/IO Pediatric: 1mEq/kg IV/IO over 5 minutes with MAX dose of 50mEq (8.4% sodium bicarbonate must be diluted with D5W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age.) Albuterol Adult: 15 mg via nebulizer Pediatric: Pediatric less than 25 kg: 2.5 mg via nebulizer Pediatric greater than 25 kg: 5 mg via nebulizer Repeat 12-lead ECG after treatment to evaluate for improvement. Consult OLMC with questions or to discuss repeat doses if ECG not improved. (Continued)",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        388.6,
+        35.88,
+        655.33,
+        61.12
+      ],
+      "text": "Hyper kalem ia #1",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        95.59,
+        96.09,
+        837.77,
+        109.47
+      ],
+      "text": "Hyperkalemia (elevated serum potassium levels) can become a life-threatening electrolyte",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        95.59,
+        111.66,
+        891.55,
+        125.04
+      ],
+      "text": "disturbance which causes changes in the electrical system of the heart potentially leading to fatal",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        95.59,
+        127.29,
+        914.77,
+        140.67
+      ],
+      "text": "arrhythmias. While serum electrolyte values are not routinely available in the prehospital setting, a",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        95.59,
+        142.85,
+        789.6,
+        156.24
+      ],
+      "text": "paramedic can identify the electrical changes on ECG and initiate prompt treatment.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        95.59,
+        173.99,
+        892.51,
+        187.37
+      ],
+      "text": "Patients at highest risk of cardiac consequences of hyperkalemia are those in renal failure: either",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        95.59,
+        189.56,
+        894.47,
+        202.94
+      ],
+      "text": "end stage kidney disease requiring dialysis or with acute decompensations in renal function. The",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        95.59,
+        205.18,
+        843.4,
+        218.57
+      ],
+      "text": "most common at-risk patient is the dialysis dependent patient who has missed one or more",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        95.59,
+        220.75,
+        860.32,
+        234.13
+      ],
+      "text": "scheduled dialysis sessions and thus has accumulated dangerously high levels of electrolytes,",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        95.59,
+        236.32,
+        876.38,
+        249.7
+      ],
+      "text": "including potassium. There are also a number of prescription medications that can alter serum",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        95.59,
+        251.89,
+        889.76,
+        265.27
+      ],
+      "text": "potassium levels such as diuretics, blood pressure medications, chemotherapy agents, and more.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        95.59,
+        283.08,
+        638.72,
+        296.46
+      ],
+      "text": "Electrocardiographic signs of hyperkalemia include the following:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        201.69,
+        429.51,
+        307.31,
+        440.88
+      ],
+      "text": "Peaked T-Wave",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        554.71,
+        437.01,
+        786.66,
+        448.38
+      ],
+      "text": "Widened QRS and lengthened QT",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        225.22,
+        442.69,
+        469.11,
+        454.8
+      ],
+      "text": "(tall and Widened QRS",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        643.46,
+        450.25,
+        697.07,
+        461.61
+      ],
+      "text": "interval",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        214.56,
+        455.93,
+        293.94,
+        467.3
+      ],
+      "text": "symmetric)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        161.76,
+        505.38,
+        890.99,
+        520.02
+      ],
+      "text": "1.Obtain 12-lead ECG and evaluate for signs of hyperkalemia, including peaked T",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        188.24,
+        522.42,
+        738.17,
+        537.06
+      ],
+      "text": "waves, widened QRS, lengthened QT interval, loss of P waves.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        161.76,
+        539.47,
+        547.02,
+        554.11
+      ],
+      "text": "2. Perform continuous cardiac monitoring.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        161.76,
+        556.51,
+        481.46,
+        571.16
+      ],
+      "text": "3. Establish 2 points of IV/IO access.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        161.76,
+        573.05,
+        771.28,
+        587.69
+      ],
+      "text": "4. If ECG changes suggestive of hyperkalemia are noted, administer:",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        188.24,
+        590.09,
+        594.59,
+        604.73
+      ],
+      "text": "a. IV/IO fluid bolus: 500 - 1000 mL (NS or LR)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        188.24,
+        607.14,
+        915.0,
+        621.78
+      ],
+      "text": "b. Calcium gluconate - NOTE : DO NOT administer calcium through same IV/IO as",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        214.71,
+        624.18,
+        395.6,
+        638.83
+      ],
+      "text": "sodium bicarbonate",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        214.71,
+        641.23,
+        895.3,
+        655.87
+      ],
+      "text": "i. Adult : 2 grams diluted in 50-100 mL IVF IV/IO over 15 minutes, via pump",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0027",
+      "type": "text_line",
+      "box_1000": [
+        214.71,
+        658.28,
+        894.91,
+        672.92
+      ],
+      "text": "ii. Pediatr ic : 60 mg/kg diluted in 50-100 mL IVF (with MAX dose of 2 grams)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0028",
+      "type": "text_line",
+      "box_1000": [
+        241.18,
+        675.32,
+        534.2,
+        689.96
+      ],
+      "text": "IV/IO over 15 minutes, via pump",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0029",
+      "type": "text_line",
+      "box_1000": [
+        188.24,
+        692.93,
+        833.32,
+        707.58
+      ],
+      "text": "c. Sodium bicarbonate - NOTE : DO NOT administer sodium bicarbonate",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0030",
+      "type": "text_line",
+      "box_1000": [
+        101.4,
+        703.57,
+        491.16,
+        726.3
+      ],
+      "text": "P through same IV/IO as Calcium",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0031",
+      "type": "text_line",
+      "box_1000": [
+        214.71,
+        727.03,
+        415.68,
+        741.67
+      ],
+      "text": "i. Adult : 50mEq IV/IO",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0032",
+      "type": "text_line",
+      "box_1000": [
+        214.71,
+        744.07,
+        835.7,
+        758.71
+      ],
+      "text": "ii. Pediatr ic : 1mEq/kg IV/IO over 5 minutes with MAX dose of 50mEq",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0033",
+      "type": "text_line",
+      "box_1000": [
+        241.18,
+        760.71,
+        803.04,
+        775.86
+      ],
+      "text": "(8.4% sodium bicarbonate must be diluted with D W to 4.2%",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0034",
+      "type": "text_line",
+      "box_1000": [
+        702.35,
+        767.16,
+        709.98,
+        777.76
+      ],
+      "text": "5",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0035",
+      "type": "text_line",
+      "box_1000": [
+        241.18,
+        778.33,
+        923.43,
+        793.48
+      ],
+      "text": "[0.5 mEq/mL] prior to administration in patients less than 2 years of age.)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0036",
+      "type": "text_line",
+      "box_1000": [
+        188.24,
+        796.34,
+        293.63,
+        810.98
+      ],
+      "text": "d. Albuterol",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0037",
+      "type": "text_line",
+      "box_1000": [
+        214.71,
+        813.39,
+        475.42,
+        828.03
+      ],
+      "text": "i. Adult : 15 mg via nebulizer",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0038",
+      "type": "text_line",
+      "box_1000": [
+        214.71,
+        830.43,
+        329.75,
+        845.08
+      ],
+      "text": "ii. Pediatr ic :",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0039",
+      "type": "text_line",
+      "box_1000": [
+        241.18,
+        847.48,
+        671.23,
+        862.12
+      ],
+      "text": "1. Pediatric less than 25 kg: 2.5 mg via nebulizer",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0040",
+      "type": "text_line",
+      "box_1000": [
+        241.18,
+        864.53,
+        687.4,
+        879.17
+      ],
+      "text": "2. Pediatric greater than 25 kg: 5 mg via nebulizer",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0041",
+      "type": "text_line",
+      "box_1000": [
+        161.76,
+        881.57,
+        766.09,
+        896.21
+      ],
+      "text": "5. Repeat 12-lead ECG after treatment to evaluate for improvement.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0042",
+      "type": "text_line",
+      "box_1000": [
+        161.76,
+        898.62,
+        874.35,
+        913.26
+      ],
+      "text": "6. Consult OLMC with questions or to discuss repeat doses if ECG not improved.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0043",
+      "type": "text_line",
+      "box_1000": [
+        789.71,
+        913.56,
+        906.56,
+        928.7
+      ],
+      "text": "(Continued)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0044",
+      "type": "text_line",
+      "box_1000": [
+        452.06,
+        939.12,
+        927.74,
+        954.27
+      ],
+      "text": "(Back to TOC) Red 36",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0073-visual",
+      "type": "figure",
+      "path": "assets/figures/page-0073-visual.webp",
+      "alt": "Visual reference from Hyperkalemia",
+      "source_box_points": [
+        99.0,
+        227.7,
+        517.05,
+        343.8
+      ],
+      "reasons": [
+        "embedded_images"
+      ],
+      "sha256": "d5a7b527c4d9b471d9eaf90bbe2c732bf2920e3b10b3070d076ee55dfee16224"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "79f1eba294fa3ddda742ba72eac3796648e18c10599dd861f41a53f1e1eadf2c",
+    "native": {
+      "text": "Hyper kalem ia #1\nHyperkalemia (elevated serum potassium levels) can become a life-threatening electrolyte\ndisturbance which causes changes in the electrical system of the heart potentially leading to fatal\narrhythmias. While serum electrolyte values are not routinely available in the prehospital setting, a\nparamedic can identify the electrical changes on ECG and initiate prompt treatment.\nPatients at highest risk of cardiac consequences of hyperkalemia are those in renal failure: either\nend stage kidney disease requiring dialysis or with acute decompensations in renal function. The\nmost common at-risk patient is the dialysis dependent patient who has missed one or more\nscheduled dialysis sessions and thus has accumulated dangerously high levels of electrolytes,\nincluding potassium. There are also a number of prescription medications that can alter serum\npotassium levels such as diuretics, blood pressure medications, chemotherapy agents, and more.\nElectrocardiographic signs of hyperkalemia include the following:\nPeaked T-Wave\nWidened QRS and lengthened QT\n(tall and Widened QRS\ninterval\nsymmetric)\n1.Obtain 12-lead ECG and evaluate for signs of hyperkalemia, including peaked T\nwaves, widened QRS, lengthened QT interval, loss of P waves.\n2. Perform continuous cardiac monitoring.\n3. Establish 2 points of IV/IO access.\n4. If ECG changes suggestive of hyperkalemia are noted, administer:\na. IV/IO fluid bolus: 500 - 1000 mL (NS or LR)\nb. Calcium gluconate - NOTE: DO NOT administer calcium through same IV/IO as\nsodium bicarbonate\ni. Adult: 2 grams diluted in 50-100 mL IVF IV/IO over 15 minutes, via pump\nii. Pediatr ic: 60 mg/kg diluted in 50-100 mL IVF (with MAX dose of 2 grams)\nIV/IO over 15 minutes, via pump\nc. Sodium bicarbonate - NOTE: DO NOT administer sodium bicarbonate\nP\nthrough same IV/IO as Calcium\ni. Adult: 50mEq IV/IO\nii. Pediatr ic: 1mEq/kg IV/IO over 5 minutes with MAX dose of 50mEq\n(8.4% sodium bicarbonate must be diluted with D W to 4.2%\n5\n[0.5 mEq/mL] prior to administration in patients less than 2 years of age.)\nd. Albuterol\ni. Adult: 15 mg via nebulizer\nii. Pediatr ic:\n1. Pediatric less than 25 kg: 2.5 mg via nebulizer\n2. Pediatric greater than 25 kg: 5 mg via nebulizer\n5. Repeat 12-lead ECG after treatment to evaluate for improvement.\n6. Consult OLMC with questions or to discuss repeat doses if ECG not improved.\n(Continued)\n(Back to TOC) Red 36",
+      "body_text": "(Back to TOC) Red 36 Hyperkalemia (elevated serum potassium levels) can become a life-threatening electrolyte disturbance which causes changes in the electrical system of the heart potentially leading to fatal arrhythmias. While serum electrolyte values are not routinely available in the prehospital setting, a paramedic can identify the electrical changes on ECG and initiate prompt treatment. Patients at highest risk of cardiac consequences of hyperkalemia are those in renal failure: either end stage kidney disease requiring dialysis or with acute decompensations in renal function. The most common at-risk patient is the dialysis dependent patient who has missed one or more scheduled dialysis sessions and thus has accumulated dangerously high levels of electrolytes, including potassium. There are also a number of prescription medications that can alter serum potassium levels such as diuretics, blood pressure medications, chemotherapy agents, and more. Electrocardiographic signs of hyperkalemia include the following: 1.Obtain 12-lead ECG and evaluate for signs of hyperkalemia, including peaked T waves, widened QRS, lengthened QT interval, loss of P waves. 2. Perform continuous cardiac monitoring. 3. Establish 2 points of IV/IO access. 4. If ECG changes suggestive of hyperkalemia are noted, administer: a. IV/IO fluid bolus: 500 - 1000 mL (NS or LR) b. Calcium gluconate - NOTE : DO NOT administer calcium through same IV/IO as sodium bicarbonate i. Adult : 2 grams diluted in 50-100 mL IVF IV/IO over 15 minutes, via pump ii. Pediatr ic : 60 mg/kg diluted in 50-100 mL IVF (with MAX dose of 2 grams) IV/IO over 15 minutes, via pump c. Sodium bicarbonate - NOTE : DO NOT administer sodium bicarbonate through same IV/IO as Calcium i. Adult : 50mEq IV/IO ii. Pediatr ic : 1mEq/kg IV/IO over 5 minutes with MAX dose of 50mEq (8.4% sodium bicarbonate must be diluted with D 5 W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age.) d. Albuterol i. Adult : 15 mg via nebulizer ii. Pediatr ic : 1. Pediatric less than 25 kg: 2.5 mg via nebulizer 2. Pediatric greater than 25 kg: 5 mg via nebulizer 5. Repeat 12-lead ECG after treatment to evaluate for improvement. 6. Consult OLMC with questions or to discuss repeat doses if ECG not improved. P Peaked T-Wave Widened QRS and lengthened QT (tall and Widened QRS interval symmetric) (Continued)",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            276.66,
+            743.786,
+            307.314,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            311.49,
+            743.786,
+            322.145,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            325.485,
+            743.786,
+            353.101,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Red",
+          "box": [
+            529.65,
+            743.786,
+            550.369,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "36",
+          "box": [
+            554.4,
+            743.786,
+            567.775,
+            755.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Hyper",
+          "box": [
+            237.825,
+            28.413,
+            294.61,
+            48.411
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "kalem",
+          "box": [
+            297.175,
+            28.413,
+            353.69,
+            48.411
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "ia",
+          "box": [
+            355.927,
+            28.413,
+            373.441,
+            48.411
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "#1",
+          "box": [
+            378.765,
+            28.413,
+            401.062,
+            48.411
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Hyperkalemia",
+          "box": [
+            58.5,
+            76.106,
+            130.36,
+            86.704
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "(elevated",
+          "box": [
+            133.2,
+            76.106,
+            178.255,
+            86.704
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "serum",
+          "box": [
+            181.62,
+            76.106,
+            212.615,
+            86.704
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "potassium",
+          "box": [
+            216.585,
+            76.106,
+            267.404,
+            86.704
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "levels)",
+          "box": [
+            271.35,
+            76.106,
+            303.502,
+            86.704
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "can",
+          "box": [
+            306.405,
+            76.106,
+            323.48,
+            86.704
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "become",
+          "box": [
+            327.195,
+            76.106,
+            366.603,
+            86.704
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "a",
+          "box": [
+            369.135,
+            76.106,
+            375.027,
+            86.704
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "life-threatening",
+          "box": [
+            377.865,
+            76.106,
+            456.856,
+            86.704
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "electrolyte",
+          "box": [
+            459.45,
+            76.106,
+            512.714,
+            86.704
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "disturbance",
+          "box": [
+            58.5,
+            88.436,
+            119.033,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "which",
+          "box": [
+            121.545,
+            88.436,
+            151.802,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "causes",
+          "box": [
+            155.43,
+            88.436,
+            188.984,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "changes",
+          "box": [
+            191.205,
+            88.436,
+            232.517,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "in",
+          "box": [
+            234.765,
+            88.436,
+            244.047,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "the",
+          "box": [
+            247.77,
+            88.436,
+            264.121,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "electrical",
+          "box": [
+            266.625,
+            88.436,
+            312.114,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "system",
+          "box": [
+            315.855,
+            88.436,
+            349.317,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "of",
+          "box": [
+            353.25,
+            88.436,
+            362.208,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "the",
+          "box": [
+            365.94,
+            88.436,
+            382.291,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "heart",
+          "box": [
+            384.795,
+            88.436,
+            411.096,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "potentially",
+          "box": [
+            414.675,
+            88.436,
+            468.179,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "leading",
+          "box": [
+            471.6,
+            88.436,
+            509.143,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "to",
+          "box": [
+            511.65,
+            88.436,
+            521.062,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "fatal",
+          "box": [
+            523.8,
+            88.436,
+            545.627,
+            99.034
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "arrhythmias.",
+          "box": [
+            58.5,
+            100.811,
+            124.502,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "While",
+          "box": [
+            127.35,
+            100.811,
+            157.738,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "serum",
+          "box": [
+            160.29,
+            100.811,
+            191.285,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "electrolyte",
+          "box": [
+            195.21,
+            100.811,
+            248.474,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "values",
+          "box": [
+            251.01,
+            100.811,
+            283.769,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "are",
+          "box": [
+            286.02,
+            100.811,
+            302.87,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "not",
+          "box": [
+            305.415,
+            100.811,
+            321.312,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "routinely",
+          "box": [
+            324.855,
+            100.811,
+            370.693,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "available",
+          "box": [
+            374.175,
+            100.811,
+            419.923,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "in",
+          "box": [
+            422.46,
+            100.811,
+            431.742,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "the",
+          "box": [
+            435.42,
+            100.811,
+            451.771,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "prehospital",
+          "box": [
+            454.05,
+            100.811,
+            510.778,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "setting,",
+          "box": [
+            514.35,
+            100.811,
+            551.135,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "a",
+          "box": [
+            553.95,
+            100.811,
+            559.842,
+            111.409
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "paramedic",
+          "box": [
+            58.5,
+            113.141,
+            112.801,
+            123.739
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "can",
+          "box": [
+            115.47,
+            113.141,
+            132.545,
+            123.739
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "identify",
+          "box": [
+            136.26,
+            113.141,
+            174.887,
+            123.739
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "the",
+          "box": [
+            178.335,
+            113.141,
+            194.686,
+            123.739
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "electrical",
+          "box": [
+            197.19,
+            113.141,
+            242.679,
+            123.739
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "changes",
+          "box": [
+            246.42,
+            113.141,
+            287.732,
+            123.739
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "on",
+          "box": [
+            289.98,
+            113.141,
+            301.988,
+            123.739
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "ECG",
+          "box": [
+            305.685,
+            113.141,
+            326.93,
+            123.739
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "and",
+          "box": [
+            328.995,
+            113.141,
+            347.69,
+            123.739
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "initiate",
+          "box": [
+            351.045,
+            113.141,
+            387.165,
+            123.739
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "prompt",
+          "box": [
+            389.7,
+            113.141,
+            426.563,
+            123.739
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "treatment.",
+          "box": [
+            430.155,
+            113.141,
+            483.234,
+            123.739
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "Patients",
+          "box": [
+            58.5,
+            137.801,
+            99.104,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "at",
+          "box": [
+            101.34,
+            137.801,
+            110.15,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "highest",
+          "box": [
+            113.67,
+            137.801,
+            149.611,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "risk",
+          "box": [
+            153.18,
+            137.801,
+            171.638,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "of",
+          "box": [
+            175.275,
+            137.801,
+            184.233,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "cardiac",
+          "box": [
+            187.965,
+            137.801,
+            225.296,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "consequences",
+          "box": [
+            227.97,
+            137.801,
+            298.505,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "of",
+          "box": [
+            300.78,
+            137.801,
+            309.738,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "hyperkalemia",
+          "box": [
+            313.47,
+            137.801,
+            383.445,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "are",
+          "box": [
+            386.28,
+            137.801,
+            403.13,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "those",
+          "box": [
+            405.675,
+            137.801,
+            432.921,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "in",
+          "box": [
+            435.465,
+            137.801,
+            444.747,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "renal",
+          "box": [
+            448.425,
+            137.801,
+            474.241,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "failure:",
+          "box": [
+            477.9,
+            137.801,
+            514.79,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "either",
+          "box": [
+            517.5,
+            137.801,
+            546.218,
+            148.399
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "end",
+          "box": [
+            58.5,
+            150.131,
+            76.898,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "stage",
+          "box": [
+            80.235,
+            150.131,
+            106.203,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "kidney",
+          "box": [
+            108.765,
+            150.131,
+            142.555,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "disease",
+          "box": [
+            145.98,
+            150.131,
+            182.96,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "requiring",
+          "box": [
+            185.535,
+            150.131,
+            233.923,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "dialysis",
+          "box": [
+            236.52,
+            150.131,
+            274.911,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "or",
+          "box": [
+            277.155,
+            150.131,
+            286.799,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "with",
+          "box": [
+            291.015,
+            150.131,
+            313.163,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "acute",
+          "box": [
+            316.755,
+            150.131,
+            344.185,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "decompensations",
+          "box": [
+            346.725,
+            150.131,
+            435.159,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "in",
+          "box": [
+            437.4,
+            150.131,
+            446.682,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "renal",
+          "box": [
+            450.0,
+            150.131,
+            475.816,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "function.",
+          "box": [
+            479.7,
+            150.131,
+            525.41,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "The",
+          "box": [
+            528.3,
+            150.131,
+            547.413,
+            160.729
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "most",
+          "box": [
+            58.5,
+            162.506,
+            82.353,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "common",
+          "box": [
+            85.86,
+            162.506,
+            129.224,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "at-risk",
+          "box": [
+            132.93,
+            162.506,
+            164.057,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "patient",
+          "box": [
+            167.76,
+            162.506,
+            202.595,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "is",
+          "box": [
+            206.145,
+            162.506,
+            214.834,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "the",
+          "box": [
+            217.035,
+            162.506,
+            233.386,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "dialysis",
+          "box": [
+            235.935,
+            162.506,
+            274.326,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "dependent",
+          "box": [
+            276.57,
+            162.506,
+            329.601,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "patient",
+          "box": [
+            333.18,
+            162.506,
+            368.015,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "who",
+          "box": [
+            371.565,
+            162.506,
+            393.216,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "has",
+          "box": [
+            396.18,
+            162.506,
+            414.173,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "missed",
+          "box": [
+            416.43,
+            162.506,
+            450.953,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "one",
+          "box": [
+            454.05,
+            162.506,
+            472.893,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "or",
+          "box": [
+            475.65,
+            162.506,
+            485.294,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "more",
+          "box": [
+            489.15,
+            162.506,
+            516.161,
+            173.104
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "scheduled",
+          "box": [
+            58.5,
+            174.836,
+            108.971,
+            185.434
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "dialysis",
+          "box": [
+            112.32,
+            174.836,
+            150.711,
+            185.434
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "sessions",
+          "box": [
+            152.955,
+            174.836,
+            194.602,
+            185.434
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "and",
+          "box": [
+            196.875,
+            174.836,
+            215.57,
+            185.434
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "thus",
+          "box": [
+            218.925,
+            174.836,
+            241.41,
+            185.434
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "has",
+          "box": [
+            243.675,
+            174.836,
+            261.668,
+            185.434
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "accumulated",
+          "box": [
+            263.88,
+            174.836,
+            327.982,
+            185.434
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "dangerously",
+          "box": [
+            331.38,
+            174.836,
+            392.944,
+            185.434
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "high",
+          "box": [
+            396.405,
+            174.836,
+            418.116,
+            185.434
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "levels",
+          "box": [
+            421.695,
+            174.836,
+            450.837,
+            185.434
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "of",
+          "box": [
+            452.7,
+            174.836,
+            461.658,
+            185.434
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "electrolytes,",
+          "box": [
+            465.75,
+            174.836,
+            526.517,
+            185.434
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "including",
+          "box": [
+            58.5,
+            187.166,
+            106.575,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "potassium.",
+          "box": [
+            109.125,
+            187.166,
+            164.075,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "There",
+          "box": [
+            166.95,
+            187.166,
+            196.724,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "are",
+          "box": [
+            199.26,
+            187.166,
+            216.11,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "also",
+          "box": [
+            218.655,
+            187.166,
+            238.58,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "a",
+          "box": [
+            241.56,
+            187.166,
+            247.452,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "number",
+          "box": [
+            250.29,
+            187.166,
+            289.567,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "of",
+          "box": [
+            293.76,
+            187.166,
+            302.718,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "prescription",
+          "box": [
+            306.45,
+            187.166,
+            367.619,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "medications",
+          "box": [
+            371.34,
+            187.166,
+            433.365,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "that",
+          "box": [
+            435.645,
+            187.166,
+            454.914,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "can",
+          "box": [
+            458.1,
+            187.166,
+            475.175,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "alter",
+          "box": [
+            478.8,
+            187.166,
+            500.88,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "serum",
+          "box": [
+            505.35,
+            187.166,
+            536.345,
+            197.764
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "potassium",
+          "box": [
+            58.5,
+            199.496,
+            109.319,
+            210.094
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "levels",
+          "box": [
+            113.265,
+            199.496,
+            142.407,
+            210.094
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "such",
+          "box": [
+            144.63,
+            199.496,
+            167.141,
+            210.094
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "as",
+          "box": [
+            170.73,
+            199.496,
+            181.996,
+            210.094
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "diuretics,",
+          "box": [
+            184.23,
+            199.496,
+            231.572,
+            210.094
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "blood",
+          "box": [
+            234.045,
+            199.496,
+            261.957,
+            210.094
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "pressure",
+          "box": [
+            265.365,
+            199.496,
+            309.593,
+            210.094
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "medications,",
+          "box": [
+            312.12,
+            199.496,
+            376.571,
+            210.094
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "chemotherapy",
+          "box": [
+            379.08,
+            199.496,
+            451.497,
+            210.094
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "agents,",
+          "box": [
+            454.95,
+            199.496,
+            490.374,
+            210.094
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "and",
+          "box": [
+            492.75,
+            199.496,
+            511.445,
+            210.094
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "more.",
+          "box": [
+            514.8,
+            199.496,
+            544.535,
+            210.094
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "Electrocardiographic",
+          "box": [
+            58.5,
+            224.201,
+            164.662,
+            234.799
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "signs",
+          "box": [
+            167.355,
+            224.201,
+            193.36,
+            234.799
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "of",
+          "box": [
+            195.615,
+            224.201,
+            204.573,
+            234.799
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "hyperkalemia",
+          "box": [
+            208.26,
+            224.201,
+            278.235,
+            234.799
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "include",
+          "box": [
+            281.115,
+            224.201,
+            318.964,
+            234.799
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "the",
+          "box": [
+            321.48,
+            224.201,
+            337.831,
+            234.799
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "following:",
+          "box": [
+            340.38,
+            224.201,
+            390.897,
+            234.799
+          ],
+          "font": "Helvetica",
+          "size": 10.597
+        },
+        {
+          "text": "1.Obtain",
+          "box": [
+            99.0,
+            400.259,
+            147.063,
+            411.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "12-lead",
+          "box": [
+            151.11,
+            400.259,
+            190.454,
+            411.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "ECG",
+          "box": [
+            194.175,
+            400.259,
+            217.426,
+            411.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "and",
+          "box": [
+            219.69,
+            400.259,
+            240.146,
+            411.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "evaluate",
+          "box": [
+            243.855,
+            400.259,
+            290.629,
+            411.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "for",
+          "box": [
+            293.4,
+            400.259,
+            308.121,
+            411.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "signs",
+          "box": [
+            312.75,
+            400.259,
+            341.212,
+            411.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "of",
+          "box": [
+            343.665,
+            400.259,
+            353.468,
+            411.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "hyperkalemia,",
+          "box": [
+            357.525,
+            400.259,
+            437.414,
+            411.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "including",
+          "box": [
+            440.145,
+            400.259,
+            492.754,
+            411.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "peaked",
+          "box": [
+            495.45,
+            400.259,
+            534.626,
+            411.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "T",
+          "box": [
+            538.2,
+            400.259,
+            545.285,
+            411.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "waves,",
+          "box": [
+            115.2,
+            413.759,
+            152.286,
+            425.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "widened",
+          "box": [
+            154.98,
+            413.759,
+            202.141,
+            425.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "QRS,",
+          "box": [
+            205.83,
+            413.759,
+            231.576,
+            425.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "lengthened",
+          "box": [
+            234.135,
+            413.759,
+            295.441,
+            425.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "QT",
+          "box": [
+            299.16,
+            413.759,
+            314.741,
+            425.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "interval,",
+          "box": [
+            317.79,
+            413.759,
+            364.326,
+            425.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "loss",
+          "box": [
+            367.02,
+            413.759,
+            388.34,
+            425.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "of",
+          "box": [
+            390.78,
+            413.759,
+            400.583,
+            425.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "P",
+          "box": [
+            404.64,
+            413.759,
+            412.375,
+            425.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "waves.",
+          "box": [
+            414.675,
+            413.759,
+            451.761,
+            425.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "2.",
+          "box": [
+            99.0,
+            427.259,
+            108.708,
+            438.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "Perform",
+          "box": [
+            111.78,
+            427.259,
+            156.433,
+            438.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "continuous",
+          "box": [
+            160.785,
+            427.259,
+            223.035,
+            438.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "cardiac",
+          "box": [
+            225.495,
+            427.259,
+            266.35,
+            438.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "monitoring.",
+          "box": [
+            269.28,
+            427.259,
+            334.778,
+            438.855
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "3.",
+          "box": [
+            99.0,
+            440.759,
+            108.708,
+            452.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "Establish",
+          "box": [
+            111.78,
+            440.759,
+            160.96,
+            452.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "2",
+          "box": [
+            164.925,
+            440.759,
+            171.373,
+            452.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "points",
+          "box": [
+            174.42,
+            440.759,
+            209.189,
+            452.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "of",
+          "box": [
+            211.635,
+            440.759,
+            221.438,
+            452.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            225.495,
+            440.759,
+            254.203,
+            452.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "access.",
+          "box": [
+            256.815,
+            440.759,
+            294.653,
+            452.355
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "4.",
+          "box": [
+            99.0,
+            453.854,
+            108.708,
+            465.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "If",
+          "box": [
+            111.78,
+            453.854,
+            119.263,
+            465.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "ECG",
+          "box": [
+            123.345,
+            453.854,
+            146.596,
+            465.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "changes",
+          "box": [
+            148.86,
+            453.854,
+            194.065,
+            465.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "suggestive",
+          "box": [
+            196.56,
+            453.854,
+            253.454,
+            465.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "of",
+          "box": [
+            256.23,
+            453.854,
+            266.033,
+            465.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "hyperkalemia",
+          "box": [
+            270.09,
+            453.854,
+            346.673,
+            465.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "are",
+          "box": [
+            349.785,
+            453.854,
+            368.225,
+            465.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "noted,",
+          "box": [
+            371.025,
+            453.854,
+            405.714,
+            465.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "administer:",
+          "box": [
+            408.42,
+            453.854,
+            472.021,
+            465.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "a.",
+          "box": [
+            115.2,
+            467.354,
+            124.953,
+            478.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            128.025,
+            467.354,
+            157.781,
+            478.95
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.597
+        },
+        {
+          "text": "fluid",
+          "box": [
+            160.92,
+            467.354,
+            186.318,
+            478.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "bolus:",
+          "box": [
+            190.035,
+            467.354,
+            223.261,
+            478.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "500",
+          "box": [
+            228.6,
+            467.354,
+            248.017,
+            478.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "-",
+          "box": [
+            251.055,
+            467.354,
+            254.917,
+            478.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "1000",
+          "box": [
+            257.67,
+            467.354,
+            283.571,
+            478.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "mL",
+          "box": [
+            286.605,
+            467.354,
+            304.01,
+            478.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "(NS",
+          "box": [
+            307.8,
+            467.354,
+            328.402,
+            478.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "or",
+          "box": [
+            330.03,
+            467.354,
+            340.583,
+            478.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "LR)",
+          "box": [
+            345.195,
+            467.354,
+            363.889,
+            478.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "b.",
+          "box": [
+            115.2,
+            480.854,
+            125.309,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "Calcium",
+          "box": [
+            128.385,
+            480.854,
+            172.068,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "gluconate",
+          "box": [
+            176.4,
+            480.854,
+            230.311,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "-",
+          "box": [
+            233.1,
+            480.854,
+            236.962,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "NOTE",
+          "box": [
+            239.715,
+            480.854,
+            273.284,
+            492.45
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.597
+        },
+        {
+          "text": ":",
+          "box": [
+            273.15,
+            480.854,
+            276.374,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "DO",
+          "box": [
+            279.495,
+            480.854,
+            296.95,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "NOT",
+          "box": [
+            299.52,
+            480.854,
+            324.065,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "administer",
+          "box": [
+            327.105,
+            480.854,
+            385.881,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "calcium",
+          "box": [
+            390.51,
+            480.854,
+            432.78,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "through",
+          "box": [
+            437.13,
+            480.854,
+            480.669,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "same",
+          "box": [
+            484.2,
+            480.854,
+            513.368,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            516.15,
+            480.854,
+            544.858,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "as",
+          "box": [
+            547.65,
+            480.854,
+            559.978,
+            492.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "sodium",
+          "box": [
+            131.4,
+            494.354,
+            171.176,
+            505.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "bicarbonate",
+          "box": [
+            175.455,
+            494.354,
+            242.107,
+            505.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "i.",
+          "box": [
+            131.4,
+            507.854,
+            138.334,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "Adult",
+          "box": [
+            144.45,
+            507.854,
+            175.518,
+            519.45
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.597
+        },
+        {
+          "text": ":",
+          "box": [
+            176.985,
+            507.854,
+            180.209,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "2",
+          "box": [
+            183.33,
+            507.854,
+            189.778,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "grams",
+          "box": [
+            192.825,
+            507.854,
+            227.815,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "diluted",
+          "box": [
+            230.265,
+            507.854,
+            268.676,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "in",
+          "box": [
+            272.385,
+            507.854,
+            282.542,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "50-100",
+          "box": [
+            286.56,
+            507.854,
+            322.542,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "mL",
+          "box": [
+            325.62,
+            507.854,
+            343.025,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "IVF",
+          "box": [
+            346.815,
+            507.854,
+            365.985,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            368.775,
+            507.854,
+            398.531,
+            519.45
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.597
+        },
+        {
+          "text": "over",
+          "box": [
+            401.625,
+            507.854,
+            424.873,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "15",
+          "box": [
+            429.525,
+            507.854,
+            442.457,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "minutes,",
+          "box": [
+            445.5,
+            507.854,
+            493.641,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "via",
+          "box": [
+            496.35,
+            507.854,
+            513.221,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "pump",
+          "box": [
+            516.15,
+            507.854,
+            547.924,
+            519.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "ii.",
+          "box": [
+            131.4,
+            521.354,
+            142.043,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "Pediatr",
+          "box": [
+            145.125,
+            521.354,
+            186.145,
+            532.95
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.597
+        },
+        {
+          "text": "ic",
+          "box": [
+            188.35,
+            521.354,
+            198.232,
+            532.95
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.597
+        },
+        {
+          "text": ":",
+          "box": [
+            198.585,
+            521.354,
+            201.809,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "60",
+          "box": [
+            204.885,
+            521.354,
+            217.817,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "mg/kg",
+          "box": [
+            220.905,
+            521.354,
+            254.562,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "diluted",
+          "box": [
+            257.355,
+            521.354,
+            295.766,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "in",
+          "box": [
+            299.475,
+            521.354,
+            309.632,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "50-100",
+          "box": [
+            313.65,
+            521.354,
+            349.632,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "mL",
+          "box": [
+            352.71,
+            521.354,
+            370.115,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "IVF",
+          "box": [
+            373.905,
+            521.354,
+            393.075,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "(with",
+          "box": [
+            395.865,
+            521.354,
+            424.117,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "MAX",
+          "box": [
+            428.04,
+            521.354,
+            454.828,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "dose",
+          "box": [
+            457.65,
+            521.354,
+            483.142,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "of",
+          "box": [
+            486.0,
+            521.354,
+            495.803,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "2",
+          "box": [
+            499.5,
+            521.354,
+            505.948,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "grams)",
+          "box": [
+            509.4,
+            521.354,
+            547.687,
+            532.95
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            147.6,
+            534.854,
+            177.356,
+            546.45
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.597
+        },
+        {
+          "text": "over",
+          "box": [
+            180.45,
+            534.854,
+            203.698,
+            546.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "15",
+          "box": [
+            208.35,
+            534.854,
+            221.282,
+            546.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "minutes,",
+          "box": [
+            224.325,
+            534.854,
+            272.466,
+            546.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "via",
+          "box": [
+            275.175,
+            534.854,
+            292.046,
+            546.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "pump",
+          "box": [
+            295.155,
+            534.854,
+            326.929,
+            546.45
+          ],
+          "font": "Helvetica",
+          "size": 11.597
+        },
+        {
+          "text": "c.",
+          "box": [
+            115.2,
+            548.804,
+            124.13,
+            560.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "Sodium",
+          "box": [
+            127.215,
+            548.804,
+            168.066,
+            560.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "bicarbonate",
+          "box": [
+            172.395,
+            548.804,
+            239.047,
+            560.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "-",
+          "box": [
+            241.83,
+            548.804,
+            245.692,
+            560.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "NOTE",
+          "box": [
+            248.445,
+            548.804,
+            282.014,
+            560.4
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.596
+        },
+        {
+          "text": ":",
+          "box": [
+            281.88,
+            548.804,
+            285.104,
+            560.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "DO",
+          "box": [
+            288.225,
+            548.804,
+            305.68,
+            560.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "NOT",
+          "box": [
+            308.25,
+            548.804,
+            332.795,
+            560.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "administer",
+          "box": [
+            335.835,
+            548.804,
+            394.611,
+            560.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "sodium",
+          "box": [
+            399.24,
+            548.804,
+            439.016,
+            560.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "bicarbonate",
+          "box": [
+            443.34,
+            548.804,
+            509.992,
+            560.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "through",
+          "box": [
+            131.4,
+            562.304,
+            174.939,
+            573.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "same",
+          "box": [
+            178.875,
+            562.304,
+            208.043,
+            573.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            210.825,
+            562.304,
+            239.533,
+            573.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "as",
+          "box": [
+            242.1,
+            562.304,
+            254.428,
+            573.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "Calcium",
+          "box": [
+            256.905,
+            562.304,
+            300.588,
+            573.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "i.",
+          "box": [
+            131.4,
+            575.804,
+            138.334,
+            587.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "Adult",
+          "box": [
+            144.45,
+            575.804,
+            175.518,
+            587.4
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.596
+        },
+        {
+          "text": ":",
+          "box": [
+            176.985,
+            575.804,
+            180.209,
+            587.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "50mEq",
+          "box": [
+            183.33,
+            575.804,
+            220.931,
+            587.4
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            224.64,
+            575.804,
+            254.396,
+            587.4
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.596
+        },
+        {
+          "text": "ii.",
+          "box": [
+            131.4,
+            589.304,
+            142.043,
+            600.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "Pediatr",
+          "box": [
+            145.125,
+            589.304,
+            186.145,
+            600.9
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.596
+        },
+        {
+          "text": "ic",
+          "box": [
+            188.35,
+            589.304,
+            198.232,
+            600.9
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.596
+        },
+        {
+          "text": ":",
+          "box": [
+            198.585,
+            589.304,
+            201.809,
+            600.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "1mEq/kg",
+          "box": [
+            204.885,
+            589.304,
+            253.131,
+            600.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "IV/IO",
+          "box": [
+            255.96,
+            589.304,
+            285.716,
+            600.9
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.596
+        },
+        {
+          "text": "over",
+          "box": [
+            288.855,
+            589.304,
+            312.103,
+            600.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "5",
+          "box": [
+            316.71,
+            589.304,
+            323.158,
+            600.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "minutes",
+          "box": [
+            326.205,
+            589.304,
+            371.687,
+            600.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "with",
+          "box": [
+            374.175,
+            589.304,
+            398.411,
+            600.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "MAX",
+          "box": [
+            402.345,
+            589.304,
+            429.133,
+            600.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "dose",
+          "box": [
+            432.045,
+            589.304,
+            457.537,
+            600.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "of",
+          "box": [
+            460.35,
+            589.304,
+            470.153,
+            600.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "50mEq",
+          "box": [
+            473.85,
+            589.304,
+            511.451,
+            600.9
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "(8.4%",
+          "box": [
+            147.6,
+            602.486,
+            179.263,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "sodium",
+          "box": [
+            182.475,
+            602.486,
+            223.621,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "bicarbonate",
+          "box": [
+            228.06,
+            602.486,
+            297.013,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "must",
+          "box": [
+            299.925,
+            602.486,
+            327.506,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "be",
+          "box": [
+            331.515,
+            602.486,
+            345.547,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "diluted",
+          "box": [
+            348.39,
+            602.486,
+            388.123,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "with",
+          "box": [
+            391.95,
+            602.486,
+            417.024,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "D",
+          "box": [
+            421.11,
+            602.486,
+            429.772,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "5",
+          "box": [
+            429.84,
+            607.591,
+            434.509,
+            615.988
+          ],
+          "font": "Helvetica",
+          "size": 8.397
+        },
+        {
+          "text": "W",
+          "box": [
+            434.52,
+            602.486,
+            445.845,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            450.0,
+            602.486,
+            460.655,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4.2%",
+          "box": [
+            463.95,
+            602.486,
+            491.459,
+            614.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "[0.5",
+          "box": [
+            147.6,
+            616.436,
+            168.715,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "mEq/mL]",
+          "box": [
+            171.855,
+            616.436,
+            223.629,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "prior",
+          "box": [
+            227.745,
+            616.436,
+            255.517,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            260.28,
+            616.436,
+            270.935,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "administration",
+          "box": [
+            274.32,
+            616.436,
+            358.773,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "in",
+          "box": [
+            362.97,
+            616.436,
+            373.478,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "patients",
+          "box": [
+            377.685,
+            616.436,
+            424.014,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "less",
+          "box": [
+            426.555,
+            616.436,
+            448.109,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "than",
+          "box": [
+            450.45,
+            616.436,
+            475.713,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            479.7,
+            616.436,
+            486.37,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "years",
+          "box": [
+            489.6,
+            616.436,
+            521.087,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            523.8,
+            616.436,
+            533.944,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "age.)",
+          "box": [
+            538.2,
+            616.436,
+            565.141,
+            628.433
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "d.",
+          "box": [
+            115.2,
+            630.704,
+            125.543,
+            642.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "Albuterol",
+          "box": [
+            128.655,
+            630.704,
+            179.701,
+            642.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "i.",
+          "box": [
+            131.4,
+            644.204,
+            138.334,
+            655.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "Adult",
+          "box": [
+            144.45,
+            644.204,
+            175.518,
+            655.8
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.596
+        },
+        {
+          "text": ":",
+          "box": [
+            176.985,
+            644.204,
+            180.209,
+            655.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "15",
+          "box": [
+            183.33,
+            644.204,
+            196.262,
+            655.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "mg",
+          "box": [
+            199.305,
+            644.204,
+            216.71,
+            655.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "via",
+          "box": [
+            219.51,
+            644.204,
+            236.381,
+            655.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "nebulizer",
+          "box": [
+            239.49,
+            644.204,
+            290.955,
+            655.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "ii.",
+          "box": [
+            131.4,
+            657.704,
+            142.043,
+            669.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "Pediatr",
+          "box": [
+            145.125,
+            657.704,
+            186.145,
+            669.3
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.596
+        },
+        {
+          "text": "ic",
+          "box": [
+            188.35,
+            657.704,
+            198.232,
+            669.3
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.596
+        },
+        {
+          "text": ":",
+          "box": [
+            198.585,
+            657.704,
+            201.809,
+            669.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "1.",
+          "box": [
+            147.6,
+            671.204,
+            157.308,
+            682.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "Pediatric",
+          "box": [
+            160.38,
+            671.204,
+            209.888,
+            682.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "less",
+          "box": [
+            212.85,
+            671.204,
+            233.684,
+            682.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "than",
+          "box": [
+            236.115,
+            671.204,
+            260.538,
+            682.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "25",
+          "box": [
+            264.6,
+            671.204,
+            277.532,
+            682.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "kg:",
+          "box": [
+            280.575,
+            671.204,
+            296.709,
+            682.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "2.5",
+          "box": [
+            299.835,
+            671.204,
+            316.086,
+            682.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "mg",
+          "box": [
+            319.14,
+            671.204,
+            336.545,
+            682.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "via",
+          "box": [
+            339.345,
+            671.204,
+            356.216,
+            682.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "nebulizer",
+          "box": [
+            359.325,
+            671.204,
+            410.79,
+            682.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "2.",
+          "box": [
+            147.6,
+            684.704,
+            157.308,
+            696.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "Pediatric",
+          "box": [
+            160.38,
+            684.704,
+            209.888,
+            696.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "greater",
+          "box": [
+            212.85,
+            684.704,
+            251.214,
+            696.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "than",
+          "box": [
+            255.825,
+            684.704,
+            280.248,
+            696.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "25",
+          "box": [
+            284.31,
+            684.704,
+            297.242,
+            696.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "kg:",
+          "box": [
+            300.285,
+            684.704,
+            316.419,
+            696.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "5",
+          "box": [
+            319.545,
+            684.704,
+            325.993,
+            696.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "mg",
+          "box": [
+            329.04,
+            684.704,
+            346.445,
+            696.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "via",
+          "box": [
+            349.245,
+            684.704,
+            366.116,
+            696.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "nebulizer",
+          "box": [
+            369.225,
+            684.704,
+            420.69,
+            696.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "5.",
+          "box": [
+            99.0,
+            698.204,
+            108.708,
+            709.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "Repeat",
+          "box": [
+            111.78,
+            698.204,
+            148.322,
+            709.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "12-lead",
+          "box": [
+            152.235,
+            698.204,
+            191.579,
+            709.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "ECG",
+          "box": [
+            195.255,
+            698.204,
+            218.506,
+            709.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "after",
+          "box": [
+            220.77,
+            698.204,
+            245.619,
+            709.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "treatment",
+          "box": [
+            250.245,
+            698.204,
+            304.251,
+            709.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "to",
+          "box": [
+            308.16,
+            698.204,
+            318.459,
+            709.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "evaluate",
+          "box": [
+            321.705,
+            698.204,
+            368.479,
+            709.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "for",
+          "box": [
+            371.25,
+            698.204,
+            385.971,
+            709.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "improvement.",
+          "box": [
+            390.6,
+            698.204,
+            468.847,
+            709.8
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "6.",
+          "box": [
+            99.0,
+            711.704,
+            108.708,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "Consult",
+          "box": [
+            111.78,
+            711.704,
+            152.134,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "OLMC",
+          "box": [
+            156.015,
+            711.704,
+            191.1,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "with",
+          "box": [
+            192.87,
+            711.704,
+            217.106,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "questions",
+          "box": [
+            221.04,
+            711.704,
+            274.722,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "or",
+          "box": [
+            277.2,
+            711.704,
+            287.753,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "to",
+          "box": [
+            292.365,
+            711.704,
+            302.664,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "discuss",
+          "box": [
+            305.91,
+            711.704,
+            346.072,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "repeat",
+          "box": [
+            348.525,
+            711.704,
+            383.159,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "doses",
+          "box": [
+            387.045,
+            711.704,
+            418.093,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "if",
+          "box": [
+            420.57,
+            711.704,
+            427.504,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "ECG",
+          "box": [
+            431.55,
+            711.704,
+            454.801,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "not",
+          "box": [
+            456.75,
+            711.704,
+            474.144,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "improved.",
+          "box": [
+            478.35,
+            711.704,
+            535.103,
+            723.3
+          ],
+          "font": "Helvetica",
+          "size": 11.596
+        },
+        {
+          "text": "P",
+          "box": [
+            62.055,
+            557.226,
+            74.061,
+            575.226
+          ],
+          "font": "Helvetica",
+          "size": 18.0
+        },
+        {
+          "text": "Peaked",
+          "box": [
+            123.435,
+            340.173,
+            153.742,
+            349.173
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "T-Wave",
+          "box": [
+            156.6,
+            340.173,
+            188.075,
+            349.173
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "Widened",
+          "box": [
+            339.48,
+            346.113,
+            377.737,
+            355.113
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "QRS",
+          "box": [
+            380.61,
+            346.113,
+            399.19,
+            355.113
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "and",
+          "box": [
+            400.455,
+            346.113,
+            416.327,
+            355.113
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "lengthened",
+          "box": [
+            419.175,
+            346.113,
+            466.745,
+            355.113
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "QT",
+          "box": [
+            469.35,
+            346.113,
+            481.437,
+            355.113
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "(tall",
+          "box": [
+            137.835,
+            350.613,
+            153.97,
+            359.613
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "and",
+          "box": [
+            157.095,
+            350.613,
+            172.966,
+            359.613
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "Widened",
+          "box": [
+            227.385,
+            351.198,
+            265.642,
+            360.198
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "QRS",
+          "box": [
+            268.515,
+            351.198,
+            287.096,
+            360.198
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "interval",
+          "box": [
+            393.795,
+            356.598,
+            426.605,
+            365.598
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "symmetric)",
+          "box": [
+            131.31,
+            361.098,
+            179.892,
+            370.098
+          ],
+          "font": "Helvetica",
+          "size": 9.0
+        },
+        {
+          "text": "(Continued)",
+          "box": [
+            483.3,
+            723.536,
+            554.817,
+            735.533
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0073.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 97.6,
+    "output_to_native_length_ratio": 0.981,
+    "native_dosage_tokens": [
+      "1000ml",
+      "100ml",
+      "15mg",
+      "2.5mg",
+      "25kg",
+      "2grams",
+      "5mg",
+      "60mg/kg"
+    ],
+    "output_dosage_tokens": [
+      "1000ml",
+      "100ml",
+      "15mg",
+      "2.5mg",
+      "25kg",
+      "2grams",
+      "5mg",
+      "60mg/kg"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}

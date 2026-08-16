@@ -1,0 +1,1892 @@
+{
+  "id": "page-0183",
+  "pdf_page": 183,
+  "protocol_label": "Grey 26",
+  "kind": "protocol",
+  "chapter_id": "grey",
+  "topic_id": "grey-defibrillation-cardioversion-settings",
+  "title": "Defibrillation / Cardioversion Settings",
+  "markdown": "# Defibrillation / Cardioversion Settings\n\n![Visual reference from Defibrillation / Cardioversion Settings](../../assets/figures/page-0183-visual.webp)\n\n## DEFIBRILLATION SETTINGS\\*\n\n| | Initial | Second | Third | Fourth | Subsequent |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| **Adult** | Per device recommendations\\*<br>If unknown, use maximum | | Maximum available energy | | |\n| **Pediatric** | 2 J/kg | 4 J/kg | 6 J/kg | 8 J/kg | Max 10 J/kg |\n\n\\* Each device manufacturer recommends initial adult defibrillation settings. Please follow the recommendation of your device manufacturer.  \n\\*\\* All settings are biphasic. If using monophasic machine refer to manufacturer recommendations.\n\n## CARDIOVERSION SETTINGS\\*\n\n| | Initial | Second | Third | Subsequent |\n| :--- | :--- | :--- | :--- | :--- |\n| **Adult VT (wide regular)** | 100 J | 150 J | 200 J | Maximum available energy |\n| **Adult SVT (narrow regular)** | 50 J | 100 J | 120-150 J | Maximum available energy |\n| **Adult A-fib (narrow irregular)** | 120-200 J | 200 J | Maximum available energy | |\n| **Pediatric** | 0.5-1.0 J/kg | 2 J/kg | 2 J/kg | 2 J/kg |\n\n\\* All settings are biphasic. If using monophasic machine refer to manufacturer recommendations.\n",
+  "plain_text": "Defibrillation / Cardioversion Settings DEFIBRILLATION SETTINGS Initial Second Third Fourth Subsequent Adult Per device recommendations If unknown, use maximum Maximum available energy Pediatric 2 J/kg 4 J/kg 6 J/kg 8 J/kg Max 10 J/kg Each device manufacturer recommends initial adult defibrillation settings. Please follow the recommendation of your device manufacturer. All settings are biphasic. If using monophasic machine refer to manufacturer recommendations. CARDIOVERSION SETTINGS Initial Second Third Subsequent Adult VT (wide regular) 100 J 150 J 200 J Maximum available energy Adult SVT (narrow regular) 50 J 100 J 120-150 J Maximum available energy Adult A-fib (narrow irregular) 120-200 J 200 J Maximum available energy Pediatric 0.5-1.0 J/kg 2 J/kg 2 J/kg 2 J/kg All settings are biphasic. If using monophasic machine refer to manufacturer recommendations.",
+  "blocks": [
+    {
+      "id": "block-0001",
+      "type": "text_line",
+      "box_1000": [
+        222.57,
+        45.49,
+        793.62,
+        70.74
+      ],
+      "text": "Defibr illation/Car diover sion Settings",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0002",
+      "type": "text_line",
+      "box_1000": [
+        366.84,
+        106.85,
+        652.88,
+        122.0
+      ],
+      "text": "DEFIBRILLATION SETTINGS*",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0003",
+      "type": "text_line",
+      "box_1000": [
+        177.79,
+        171.34,
+        856.41,
+        186.49
+      ],
+      "text": "Initial Second Third Fourth Subsequent",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0004",
+      "type": "text_line",
+      "box_1000": [
+        216.76,
+        214.41,
+        313.96,
+        229.56
+      ],
+      "text": "Per device",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0005",
+      "type": "text_line",
+      "box_1000": [
+        59.48,
+        232.02,
+        767.21,
+        247.17
+      ],
+      "text": "Adult recommendations* If Maximum available energy",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0006",
+      "type": "text_line",
+      "box_1000": [
+        148.53,
+        249.69,
+        379.56,
+        264.84
+      ],
+      "text": "unknown, use maximum",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0007",
+      "type": "text_line",
+      "box_1000": [
+        43.15,
+        292.76,
+        857.61,
+        307.91
+      ],
+      "text": "Pediatric 2 J/kg 4 J/kg 6 J/kg 8 J/kg Max 10 J/kg",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0008",
+      "type": "text_line",
+      "box_1000": [
+        84.56,
+        362.99,
+        862.13,
+        378.14
+      ],
+      "text": "* Each device manufacturer recommends initial adult defibrillation settings. Please",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0009",
+      "type": "text_line",
+      "box_1000": [
+        111.03,
+        379.52,
+        648.58,
+        394.67
+      ],
+      "text": "follow the recommendation of your device manufacturer.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0010",
+      "type": "text_line",
+      "box_1000": [
+        84.56,
+        396.06,
+        825.45,
+        411.2
+      ],
+      "text": "** All settings are biphasic. If using monophasic machine refer to manufacturer",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0011",
+      "type": "text_line",
+      "box_1000": [
+        111.03,
+        413.73,
+        286.21,
+        428.87
+      ],
+      "text": "recommendations.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0012",
+      "type": "text_line",
+      "box_1000": [
+        357.5,
+        522.76,
+        640.23,
+        537.91
+      ],
+      "text": "CARDIOVERSION SETTINGS*",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0013",
+      "type": "text_line",
+      "box_1000": [
+        323.6,
+        569.24,
+        798.91,
+        584.39
+      ],
+      "text": "Initial Second Third Subsequent",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0014",
+      "type": "text_line",
+      "box_1000": [
+        144.56,
+        617.53,
+        839.04,
+        632.68
+      ],
+      "text": "Adult VT (wide Maximum available",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0015",
+      "type": "text_line",
+      "box_1000": [
+        329.34,
+        626.62,
+        597.67,
+        641.77
+      ],
+      "text": "100 J 150 J 200 J",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0016",
+      "type": "text_line",
+      "box_1000": [
+        176.03,
+        635.15,
+        776.99,
+        650.29
+      ],
+      "text": "regular) energy",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0017",
+      "type": "text_line",
+      "box_1000": [
+        168.16,
+        674.92,
+        839.04,
+        690.07
+      ],
+      "text": "Adult SVT Maximum available",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0018",
+      "type": "text_line",
+      "box_1000": [
+        334.78,
+        684.01,
+        617.16,
+        699.16
+      ],
+      "text": "50 J 100 J 120-150 J",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0019",
+      "type": "text_line",
+      "box_1000": [
+        135.07,
+        692.53,
+        776.99,
+        707.68
+      ],
+      "text": "(narrow regular) energy",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0020",
+      "type": "text_line",
+      "box_1000": [
+        163.24,
+        723.21,
+        263.5,
+        738.36
+      ],
+      "text": "Adult A-fib",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0021",
+      "type": "text_line",
+      "box_1000": [
+        175.51,
+        740.83,
+        816.7,
+        755.98
+      ],
+      "text": "(narrow 120-200 J 200 J Maximum available energy",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0022",
+      "type": "text_line",
+      "box_1000": [
+        168.24,
+        758.44,
+        259.33,
+        773.59
+      ],
+      "text": "irregular)",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0023",
+      "type": "text_line",
+      "box_1000": [
+        172.13,
+        798.21,
+        771.58,
+        813.36
+      ],
+      "text": "Pediatric 0.5-1.0 J/kg 2 J/kg 2 J/kg 2 J/kg",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0024",
+      "type": "text_line",
+      "box_1000": [
+        134.19,
+        853.9,
+        731.6,
+        869.04
+      ],
+      "text": "* All settings are biphasic. If using monophasic machine refer to",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0025",
+      "type": "text_line",
+      "box_1000": [
+        160.66,
+        870.37,
+        471.8,
+        885.52
+      ],
+      "text": "manufacturer recommendations.",
+      "source": "pdf-native-text-geometry"
+    },
+    {
+      "id": "block-0026",
+      "type": "text_line",
+      "box_1000": [
+        437.35,
+        950.49,
+        895.38,
+        965.64
+      ],
+      "text": "(Back to TOC) Grey 26",
+      "source": "pdf-native-text-geometry"
+    }
+  ],
+  "assets": [
+    {
+      "id": "page-0183-visual",
+      "type": "diagram",
+      "path": "assets/figures/page-0183-visual.webp",
+      "alt": "Visual reference from Defibrillation / Cardioversion Settings",
+      "source_box_points": [
+        42,
+        72,
+        570.0,
+        744.0
+      ],
+      "reasons": [
+        "title",
+        "structured_visual"
+      ],
+      "sha256": "bb0b2b2b11c167f94b6c4fe61dfc107a8c669ed2d0135fa83b841b42bd5b6472"
+    }
+  ],
+  "sources": {
+    "page_image_sha256": "e09e221d1e25f4631e777b9fd0bcd28985ddba214c23a8aa141562c1ce97fba6",
+    "native": {
+      "text": "Defibr illation/Car diover sion Settings\nDEFIBRILLATION SETTINGS*\nInitial Second Third Fourth Subsequent\nPer device\nAdult recommendations* If Maximum available energy\nunknown, use maximum\nPediatric 2 J/kg 4 J/kg 6 J/kg 8 J/kg Max 10 J/kg\n* Each device manufacturer recommends initial adult defibrillation settings. Please\nfollow the recommendation of your device manufacturer.\n** All settings are biphasic. If using monophasic machine refer to manufacturer\nrecommendations.\nCARDIOVERSION SETTINGS*\nInitial Second Third Subsequent\nAdult VT (wide Maximum available\n100 J 150 J 200 J\nregular) energy\nAdult SVT Maximum available\n50 J 100 J 120-150 J\n(narrow regular) energy\nAdult A-fib\n(narrow 120-200 J 200 J Maximum available energy\nirregular)\nPediatric 0.5-1.0 J/kg 2 J/kg 2 J/kg 2 J/kg\n* All settings are biphasic. If using monophasic machine refer to\nmanufacturer recommendations.\n(Back to TOC) Grey 26",
+      "body_text": "Initial Second Third Fourth Subsequent Per device Adult recommendations* If Maximum available energy unknown, use maximum Pediatric 2 J/kg 4 J/kg 6 J/kg 8 J/kg Max 10 J/kg DEFIBRILLATION SETTINGS* * Each device manufacturer recommends initial adult defibrillation settings. Please follow the recommendation of your device manufacturer. ** All settings are biphasic. If using monophasic machine refer to manufacturer recommendations. Initial Second Third Subsequent Adult VT (wide Maximum available 100 J 150 J 200 J regular) energy Adult SVT Maximum available 50 J 100 J 120-150 J (narrow regular) energy Adult A-fib (narrow 120-200 J 200 J Maximum available energy irregular) Pediatric 0.5-1.0 J/kg 2 J/kg 2 J/kg 2 J/kg CARDIOVERSION SETTINGS* * All settings are biphasic. If using monophasic machine refer to manufacturer recommendations.",
+      "words": [
+        {
+          "text": "(Back",
+          "box": [
+            267.66,
+            752.786,
+            298.314,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            302.49,
+            752.786,
+            313.145,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "TOC)",
+          "box": [
+            316.485,
+            752.786,
+            344.1,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Grey",
+          "box": [
+            504.45,
+            752.786,
+            530.969,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "26",
+          "box": [
+            534.6,
+            752.786,
+            547.975,
+            764.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Defibr",
+          "box": [
+            136.215,
+            36.027,
+            194.161,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "illation/Car",
+          "box": [
+            196.924,
+            36.027,
+            300.604,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "diover",
+          "box": [
+            303.368,
+            36.027,
+            362.123,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "sion",
+          "box": [
+            364.887,
+            36.027,
+            402.965,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Settings",
+          "box": [
+            409.995,
+            36.027,
+            485.698,
+            56.025
+          ],
+          "font": "Helvetica",
+          "size": 19.998
+        },
+        {
+          "text": "Initial",
+          "box": [
+            108.81,
+            135.701,
+            142.274,
+            147.698
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Second",
+          "box": [
+            182.115,
+            135.701,
+            222.301,
+            147.698
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Third",
+          "box": [
+            268.155,
+            135.701,
+            299.282,
+            147.698
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Fourth",
+          "box": [
+            364.275,
+            135.701,
+            401.958,
+            147.698
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Subsequent",
+          "box": [
+            458.55,
+            135.701,
+            524.125,
+            147.698
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Per",
+          "box": [
+            132.66,
+            169.811,
+            150.321,
+            181.808
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "device",
+          "box": [
+            155.115,
+            169.811,
+            192.141,
+            181.808
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Adult",
+          "box": [
+            36.401,
+            183.761,
+            66.649,
+            195.758
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "recommendations*",
+          "box": [
+            101.385,
+            183.761,
+            209.928,
+            195.758
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            214.38,
+            183.761,
+            222.121,
+            195.758
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Maximum",
+          "box": [
+            314.235,
+            183.761,
+            371.842,
+            195.758
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available",
+          "box": [
+            376.29,
+            183.761,
+            428.084,
+            195.758
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "energy",
+          "box": [
+            430.965,
+            183.761,
+            469.534,
+            195.758
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "unknown,",
+          "box": [
+            90.9,
+            197.756,
+            149.234,
+            209.753
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "use",
+          "box": [
+            152.055,
+            197.756,
+            171.753,
+            209.753
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "maximum",
+          "box": [
+            174.6,
+            197.756,
+            232.288,
+            209.753
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pediatric",
+          "box": [
+            26.406,
+            231.866,
+            77.622,
+            243.863
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            110.61,
+            231.866,
+            117.28,
+            243.863
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J/kg",
+          "box": [
+            120.42,
+            231.866,
+            141.729,
+            243.863
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "4",
+          "box": [
+            187.065,
+            231.866,
+            193.735,
+            243.863
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J/kg",
+          "box": [
+            196.92,
+            231.866,
+            218.229,
+            243.863
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "6",
+          "box": [
+            268.605,
+            231.866,
+            275.275,
+            243.863
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J/kg",
+          "box": [
+            278.415,
+            231.866,
+            299.724,
+            243.863
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "8",
+          "box": [
+            368.1,
+            231.866,
+            374.77,
+            243.863
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J/kg",
+          "box": [
+            377.955,
+            231.866,
+            399.264,
+            243.863
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Max",
+          "box": [
+            458.55,
+            231.866,
+            482.558,
+            243.863
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "10",
+          "box": [
+            486.9,
+            231.866,
+            500.275,
+            243.863
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J/kg",
+          "box": [
+            503.55,
+            231.866,
+            524.859,
+            243.863
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "DEFIBRILLATION",
+          "box": [
+            224.505,
+            84.626,
+            329.894,
+            96.623
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "SETTINGS*",
+          "box": [
+            333.855,
+            84.626,
+            399.56,
+            96.623
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "*",
+          "box": [
+            51.75,
+            287.486,
+            56.417,
+            299.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Each",
+          "box": [
+            60.84,
+            287.486,
+            87.643,
+            299.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "device",
+          "box": [
+            91.71,
+            287.486,
+            128.736,
+            299.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "manufacturer",
+          "box": [
+            131.625,
+            287.486,
+            210.064,
+            299.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "recommends",
+          "box": [
+            214.875,
+            287.486,
+            289.971,
+            299.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "initial",
+          "box": [
+            292.5,
+            287.486,
+            325.395,
+            299.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "adult",
+          "box": [
+            329.58,
+            287.486,
+            358.366,
+            299.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "defibrillation",
+          "box": [
+            362.385,
+            287.486,
+            437.024,
+            299.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "settings.",
+          "box": [
+            441.225,
+            287.486,
+            488.288,
+            299.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Please",
+          "box": [
+            491.4,
+            287.486,
+            527.625,
+            299.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "follow",
+          "box": [
+            67.95,
+            300.581,
+            102.099,
+            312.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "the",
+          "box": [
+            106.875,
+            300.581,
+            125.384,
+            312.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "recommendation",
+          "box": [
+            128.25,
+            300.581,
+            225.643,
+            312.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "of",
+          "box": [
+            229.86,
+            300.581,
+            240.004,
+            312.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "your",
+          "box": [
+            244.215,
+            300.581,
+            269.409,
+            312.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "device",
+          "box": [
+            274.185,
+            300.581,
+            311.211,
+            312.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "manufacturer.",
+          "box": [
+            314.1,
+            300.581,
+            396.933,
+            312.578
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "**",
+          "box": [
+            51.75,
+            313.676,
+            62.415,
+            325.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "All",
+          "box": [
+            66.825,
+            313.676,
+            81.669,
+            325.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "settings",
+          "box": [
+            85.86,
+            313.676,
+            130.173,
+            325.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            132.705,
+            313.676,
+            151.782,
+            325.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "biphasic.",
+          "box": [
+            154.665,
+            313.676,
+            206.085,
+            325.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            209.295,
+            313.676,
+            217.036,
+            325.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "using",
+          "box": [
+            221.265,
+            313.676,
+            252.54,
+            325.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "monophasic",
+          "box": [
+            255.465,
+            313.676,
+            325.372,
+            325.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "machine",
+          "box": [
+            328.41,
+            313.676,
+            378.266,
+            325.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            381.15,
+            313.676,
+            407.952,
+            325.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            412.695,
+            313.676,
+            423.35,
+            325.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "manufacturer",
+          "box": [
+            426.735,
+            313.676,
+            505.174,
+            325.673
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "recommendations.",
+          "box": [
+            67.95,
+            327.671,
+            175.161,
+            339.668
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Initial",
+          "box": [
+            198.045,
+            450.836,
+            231.509,
+            462.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Second",
+          "box": [
+            262.575,
+            450.836,
+            302.761,
+            462.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Third",
+          "box": [
+            334.395,
+            450.836,
+            365.522,
+            462.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Subsequent",
+          "box": [
+            423.36,
+            450.836,
+            488.935,
+            462.833
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Adult",
+          "box": [
+            88.47,
+            489.086,
+            118.719,
+            501.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "VT",
+          "box": [
+            122.715,
+            489.086,
+            138.141,
+            501.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(wide",
+          "box": [
+            141.3,
+            489.086,
+            173.665,
+            501.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Maximum",
+          "box": [
+            399.78,
+            489.086,
+            457.387,
+            501.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available",
+          "box": [
+            461.7,
+            489.086,
+            513.494,
+            501.083
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "100",
+          "box": [
+            201.555,
+            496.286,
+            221.635,
+            508.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J",
+          "box": [
+            224.775,
+            496.286,
+            230.773,
+            508.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "150",
+          "box": [
+            269.28,
+            496.286,
+            289.36,
+            508.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J",
+          "box": [
+            292.5,
+            496.286,
+            298.498,
+            508.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "200",
+          "box": [
+            336.555,
+            496.286,
+            356.635,
+            508.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J",
+          "box": [
+            359.775,
+            496.286,
+            365.773,
+            508.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "regular)",
+          "box": [
+            107.73,
+            503.036,
+            153.993,
+            515.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "energy",
+          "box": [
+            436.95,
+            503.036,
+            475.52,
+            515.033
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Adult",
+          "box": [
+            102.915,
+            534.536,
+            133.164,
+            546.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "SVT",
+          "box": [
+            137.205,
+            534.536,
+            158.917,
+            546.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Maximum",
+          "box": [
+            399.78,
+            534.536,
+            457.387,
+            546.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available",
+          "box": [
+            461.7,
+            534.536,
+            513.494,
+            546.533
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "50",
+          "box": [
+            204.885,
+            541.736,
+            218.26,
+            553.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J",
+          "box": [
+            221.445,
+            541.736,
+            227.443,
+            553.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "100",
+          "box": [
+            269.28,
+            541.736,
+            289.36,
+            553.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J",
+          "box": [
+            292.5,
+            541.736,
+            298.498,
+            553.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "120-150",
+          "box": [
+            324.63,
+            541.736,
+            368.546,
+            553.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J",
+          "box": [
+            371.7,
+            541.736,
+            377.699,
+            553.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(narrow",
+          "box": [
+            82.665,
+            548.486,
+            127.971,
+            560.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "regular)",
+          "box": [
+            132.75,
+            548.486,
+            179.013,
+            560.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "energy",
+          "box": [
+            436.95,
+            548.486,
+            475.52,
+            560.483
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Adult",
+          "box": [
+            99.9,
+            572.786,
+            130.149,
+            584.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "A-fib",
+          "box": [
+            134.145,
+            572.786,
+            161.263,
+            584.783
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "(narrow",
+          "box": [
+            107.415,
+            586.736,
+            152.721,
+            598.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "120-200",
+          "box": [
+            189.63,
+            586.736,
+            233.546,
+            598.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J",
+          "box": [
+            236.7,
+            586.736,
+            242.699,
+            598.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "200",
+          "box": [
+            269.28,
+            586.736,
+            289.36,
+            598.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J",
+          "box": [
+            292.5,
+            586.736,
+            298.498,
+            598.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Maximum",
+          "box": [
+            344.7,
+            586.736,
+            402.307,
+            598.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "available",
+          "box": [
+            406.755,
+            586.736,
+            458.549,
+            598.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "energy",
+          "box": [
+            461.25,
+            586.736,
+            499.819,
+            598.733
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "irregular)",
+          "box": [
+            102.96,
+            600.686,
+            158.712,
+            612.683
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "Pediatric",
+          "box": [
+            105.345,
+            632.186,
+            156.561,
+            644.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "0.5-1.0",
+          "box": [
+            184.5,
+            632.186,
+            221.873,
+            644.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J/kg",
+          "box": [
+            225.045,
+            632.186,
+            246.354,
+            644.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            267.57,
+            632.186,
+            274.24,
+            644.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J/kg",
+          "box": [
+            277.38,
+            632.186,
+            298.689,
+            644.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            334.845,
+            632.186,
+            341.515,
+            644.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J/kg",
+          "box": [
+            344.655,
+            632.186,
+            365.964,
+            644.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "2",
+          "box": [
+            441.135,
+            632.186,
+            447.805,
+            644.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "J/kg",
+          "box": [
+            450.9,
+            632.186,
+            472.209,
+            644.183
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "CARDIOVERSION",
+          "box": [
+            218.79,
+            414.026,
+            322.163,
+            426.023
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "SETTINGS*",
+          "box": [
+            326.115,
+            414.026,
+            391.82,
+            426.023
+          ],
+          "font": "Helvetica-Oblique",
+          "size": 11.997
+        },
+        {
+          "text": "*",
+          "box": [
+            82.125,
+            676.286,
+            86.792,
+            688.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "All",
+          "box": [
+            91.215,
+            676.286,
+            106.059,
+            688.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "settings",
+          "box": [
+            110.25,
+            676.286,
+            154.563,
+            688.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "are",
+          "box": [
+            157.095,
+            676.286,
+            176.172,
+            688.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "biphasic.",
+          "box": [
+            179.055,
+            676.286,
+            230.475,
+            688.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "If",
+          "box": [
+            233.685,
+            676.286,
+            241.426,
+            688.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "using",
+          "box": [
+            245.655,
+            676.286,
+            276.93,
+            688.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "monophasic",
+          "box": [
+            279.81,
+            676.286,
+            349.717,
+            688.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "machine",
+          "box": [
+            352.755,
+            676.286,
+            402.611,
+            688.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "refer",
+          "box": [
+            405.495,
+            676.286,
+            432.297,
+            688.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "to",
+          "box": [
+            437.085,
+            676.286,
+            447.74,
+            688.283
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "manufacturer",
+          "box": [
+            98.325,
+            689.336,
+            176.764,
+            701.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        },
+        {
+          "text": "recommendations.",
+          "box": [
+            181.53,
+            689.336,
+            288.741,
+            701.333
+          ],
+          "font": "Helvetica",
+          "size": 11.997
+        }
+      ],
+      "pdf_size_points": [
+        612.0,
+        792.0
+      ]
+    },
+    "hunyuan": {
+      "doc_parse": "raw/doc_parse/page-0183.json",
+      "spotting_json": null,
+      "layout_parse": null
+    },
+    "canonical_text_source": "hunyuanocr-1.5",
+    "canonical_override_reason": null,
+    "glm_ocr": null
+  },
+  "qa": {
+    "native_similarity": 88.32,
+    "output_to_native_length_ratio": 0.979,
+    "native_dosage_tokens": [
+      "1.0j/kg",
+      "100j",
+      "10j/kg",
+      "150j",
+      "200j",
+      "2j/kg",
+      "4j/kg",
+      "50j",
+      "6j/kg",
+      "8j/kg"
+    ],
+    "output_dosage_tokens": [
+      "1.0j/kg",
+      "100j",
+      "10j/kg",
+      "150j",
+      "200j",
+      "2j/kg",
+      "4j/kg",
+      "50j",
+      "6j/kg",
+      "8j/kg"
+    ],
+    "missing_dosage_tokens": [],
+    "issues": [],
+    "warnings": [],
+    "reviewed": true,
+    "review_type": "gemini_pdf_visual_plus_automated_fidelity",
+    "review_basis": [
+      "Gemini 3.5 Flash visual transcription of oracle PDF",
+      "existing OCR comparison",
+      "native PDF text comparison",
+      "dosage-token QA",
+      "strict Markdown validation",
+      "visual asset preservation"
+    ],
+    "markdown_refinement_model": "gemini-3.5-flash"
+  }
+}
