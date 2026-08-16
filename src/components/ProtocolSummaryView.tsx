@@ -1,4 +1,5 @@
 import React from 'react';
+import { Baby } from 'lucide-react';
 import type { Protocol } from '@/types/protocol';
 import { renderProtocolHtml } from '@/utils/renderProtocolHtml';
 import { MermaidDiagram } from '@/components/MermaidDiagram';
@@ -448,12 +449,29 @@ function ArchetypeIcon({ archetype, level }: { archetype: ArchetypeKey; level: s
 
 // Split on route abbreviations (compound first so IV/IM/IO isn't split into IV + IM + IO)
 const ROUTE_SPLIT_RE = /\b(IV\/IM\/IO|IV\/IO|IM\/IO|NEB|IM|IV|IO|PO|SL|IN|SQ|ET)\b/g;
-const ROUTE_SET = new Set(['IV/IM/IO','IV/IO','IM/IO','NEB','IM','IV','IO','PO','SL','IN','SQ','ET']);
+
+// Each route gets a consistent color across the whole app so the eye learns to jump
+// straight to the right one — same palette as the route-badge legend in the style guide.
+const ROUTE_COLORS: Record<string, string> = {
+  IV: 'bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300',
+  IM: 'bg-purple-100 dark:bg-purple-900/50 text-purple-700 dark:text-purple-300',
+  IO: 'bg-red-100 dark:bg-red-900/50 text-red-700 dark:text-red-300',
+  PO: 'bg-green-100 dark:bg-green-900/50 text-green-700 dark:text-green-300',
+  IN: 'bg-teal-100 dark:bg-teal-900/50 text-teal-700 dark:text-teal-300',
+  SL: 'bg-amber-100 dark:bg-amber-900/50 text-amber-700 dark:text-amber-300',
+  SQ: 'bg-pink-100 dark:bg-pink-900/50 text-pink-700 dark:text-pink-300',
+  NEB: 'bg-indigo-100 dark:bg-indigo-900/50 text-indigo-700 dark:text-indigo-300',
+  ET: 'bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300',
+  // Compound routes (offer a choice of sites) stay neutral rather than picking one color
+  'IV/IO': 'bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300',
+  'IM/IO': 'bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300',
+  'IV/IM/IO': 'bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300',
+};
 
 function routePillsOf(text: string): React.ReactNode[] {
   return text.split(ROUTE_SPLIT_RE).map((part, i) =>
-    ROUTE_SET.has(part)
-      ? <span key={i} className="inline-block bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 text-[11px] font-mono font-semibold px-1.5 py-px rounded mx-0.5 leading-none align-middle">{part}</span>
+    ROUTE_COLORS[part]
+      ? <span key={i} className={`inline-block ${ROUTE_COLORS[part]} text-[11px] font-mono font-semibold px-1.5 py-px rounded mx-0.5 leading-none align-middle`}>{part}</span>
       : part
   );
 }
@@ -478,7 +496,8 @@ function MedDetailLine({ line }: { line: string }) {
     const qualifier = pedsM[2]?.trim();
     return (
       <div className="flex items-baseline gap-2">
-        <span className="shrink-0 bg-emerald-100 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300 text-[11px] font-bold px-1.5 py-0.5 rounded-md leading-none whitespace-nowrap">
+        <span className="shrink-0 inline-flex items-center gap-1 bg-emerald-100 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300 text-[11px] font-bold px-1.5 py-0.5 rounded-md leading-none whitespace-nowrap">
+          <Baby size={11} className="shrink-0" aria-hidden="true" />
           {qualifier ? `Peds ${qualifier}` : 'Peds'}
         </span>
         <span className="text-[14px] text-gray-600 dark:text-gray-300">{routePillsOf(pedsM[3])}</span>

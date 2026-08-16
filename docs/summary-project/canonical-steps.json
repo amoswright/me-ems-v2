@@ -1,0 +1,20 @@
+{
+  "_readme": "Normalized step text -> canonical {label, detail?}. Normalize by: lowercase, strip punctuation, collapse whitespace, O2/O₂ treated the same. Check here before writing a new summary for a generic action step. Many of these already get an auto-label from the archetype system in ProtocolSummaryView.tsx even with no summary at all (see detectArchetype) -- entries here exist where a consistent label and/or detail is still worth pinning down explicitly, or where the archetype regex doesn't match the exact wording used.",
+  "request als": { "label": "Request ALS" },
+  "request als if available": { "label": "Request ALS" },
+  "aemt to request als": { "label": "Request ALS" },
+  "cardiac monitor": { "label": "Cardiac Monitor" },
+  "establish iv en route": { "label": "Establish IV", "detail": "IV" },
+  "establish iv": { "label": "Establish IV", "detail": "IV" },
+  "iv en route": { "label": "Establish IV", "detail": "IV" },
+  "iv io en route": { "label": "Establish IV/IO", "detail": "IV/IO" },
+  "establish iv io without interrupting chest compressions": { "label": "IV/IO Access", "detail": "IV/IO — do not interrupt compressions" },
+  "o2 as appropriate": { "label": "Supplemental O₂" },
+  "perform 12 lead ecg if so trained": { "label": "12-Lead ECG" },
+  "obtain a 12 lead ecg if so trained": { "label": "12-Lead ECG" },
+  "manage airway as appropriate see airway algorithm blue 2": { "label": "Manage Airway", "detail": "See Airway Algorithm, Blue 2" },
+  "manage airway as needed refer to airway algorithm blue 2": { "label": "Manage Airway", "detail": "See Airway Algorithm, Blue 2" },
+  "airway management per airway algorithm blue 2": { "label": "Manage Airway", "detail": "See Airway Algorithm, Blue 2" },
+  "transport": { "label": "Transport" },
+  "secure the tube in place": { "label": "Secure Tube" }
+}

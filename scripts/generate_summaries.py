@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 """
+DEPRECATED — do not run. Calls the Anthropic API, which is billed per call.
+
+Summaries are now written by hand, one protocol at a time, in a Claude Code session — see
+docs/summary-project/STYLE_GUIDE.md. This file is kept only as a reference for the original
+label/detail conventions (the SYSTEM_PROMPT below), which the style guide carries forward.
+
 Generate AI summaries for protocol steps using Claude.
 
 Usage:
