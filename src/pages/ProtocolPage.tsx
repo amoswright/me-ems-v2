@@ -270,10 +270,13 @@ export function ProtocolPage() {
               }
             }
 
-            // Build one group per level with all its intro items and steps
+            // Build one group per level with all its intro items and steps. PEARLS items are
+            // pulled out of introItems and rendered after the numbered steps instead of before —
+            // in the source document PEARLS notes almost always follow that level's steps.
             const groups = levelOrder.map(level => ({
               level,
-              introItems: protocol.intro.filter(item => item.providerLevel === level),
+              introItems: protocol.intro.filter(item => item.providerLevel === level && item.type !== 'pearls'),
+              pearlsItems: protocol.intro.filter(item => item.providerLevel === level && item.type === 'pearls'),
               stepItems: protocol.steps.filter(step => step.providerLevel === level),
             }));
 
@@ -281,7 +284,7 @@ export function ProtocolPage() {
               const s = LEVEL_STYLES[group.level] ?? LEVEL_STYLES.ALL;
               const isHighlighted = providerLevel !== 'ALL' && levelIncludes(group.level, providerLevel);
               const colors = getProviderLevelColors(group.level);
-              const { introItems, stepItems } = group;
+              const { introItems, pearlsItems, stepItems } = group;
 
               return (
                 <React.Fragment key={gi}>
@@ -331,31 +334,24 @@ export function ProtocolPage() {
                         ))}
                       </ol>
                     )}
+                    {/* PEARLS notes for this level, in their original document position */}
+                    {pearlsItems.map((pearl, pi) => (
+                      <div key={`p-${pi}`} className="bg-amber-50 dark:bg-amber-900/10 border border-amber-200 dark:border-amber-800 rounded-xl p-4 mt-3">
+                        <div className="flex items-center gap-2 mb-3">
+                          <span className="bg-gradient-to-r from-amber-500 to-yellow-400 text-white text-[10px] font-extrabold tracking-widest uppercase px-3 py-1.5 rounded-xl shadow-sm">
+                            {pearl.pearlsTitle ? `PEARLS: ${pearl.pearlsTitle}` : 'PEARLS'}
+                          </span>
+                        </div>
+                        <div className="text-sm text-gray-700 dark:text-gray-300 space-y-2">
+                          {renderProtocolHtml(pearl.html)}
+                        </div>
+                      </div>
+                    ))}
                   </div>
                 </React.Fragment>
               );
             });
           })()}
-
-          {/* PEARLS sections */}
-          {protocol.pearls.length > 0 && (
-            <div className="mt-6">
-              {protocol.pearls.map((pearl, i) => (
-                <div key={i} className="bg-amber-50 dark:bg-amber-900/10 border border-amber-200 dark:border-amber-800 rounded-xl p-4 mb-4">
-                  <div className="flex items-center gap-2 mb-3">
-                    <span className="bg-gradient-to-r from-amber-500 to-yellow-400 text-white text-[10px] font-extrabold tracking-widest uppercase px-3 py-1.5 rounded-xl shadow-sm">
-                      {pearl.title ? `PEARLS: ${pearl.title}` : 'PEARLS'}
-                    </span>
-                  </div>
-                  <div className="text-sm text-gray-700 dark:text-gray-300 space-y-2">
-                    {pearl.html.map((h, j) => (
-                      <div key={j}>{renderProtocolHtml(h)}</div>
-                    ))}
-                  </div>
-                </div>
-              ))}
-            </div>
-          )}
 
           {/* View Original buttons */}
           {protocol.pages.some(p => p.jpgReference) && (

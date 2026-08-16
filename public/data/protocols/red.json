@@ -1549,6 +1549,12 @@
         "type": "content",
         "providerLevel": "ALL",
         "html": "<p><em>If ANY concerning signs or symptoms, then:</em></p>"
+      },
+      {
+        "type": "pearls",
+        "providerLevel": "PARAMEDIC",
+        "html": "<p>* Transplanted, denervated hearts will not respond to atropine. Proceed to pacing, vasopressor infusion, or both</p>\n<ul>\n<li>Examples of circumstances leading to increased vagal tone include the following: cholinergic medications (phenylephrine, neostigmine), sedatives (morphine) and nasopharyngeal or esophageal stimulation (eg. due to gastric reflux, breath holding, vomiting, coughing, intubation, placement of nasopharyngeal tube, suctioning, etc.)</li>\n<li><strong>Consider causes of bradycardia:</strong> MI, hypoxia, pacemaker failure, hypothermia, sinus bradycardia, sick sinus syndrome, AV blocks, overdose (calcium channel blockers, beta-blockers, digoxin, organophosphates), hyperkalemia (in wide complex).</li>\n<li>\n<p>Application of <strong>TCP</strong> should be considered if deterioration is anticipated because of the following:\n    a. Observed sinus pauses\n    b. Episodes of 2^nd degree Type II, or 3^rd degree AV Block</p>\n</li>\n<li>\n<p>Consider anterior-posterior placement favorable to anterior-apex placement</p>\n</li>\n<li><strong>Pre-medication</strong> for TCP is preferably via the IV route. If unable to obtain IV, may try IN route in the cooperative patient with goal of ultimately obtaining IV/IO access.</li>\n<li><strong>Bradycardia in the Post-Arrest Patient:</strong> Post-ROSC bradycardia is a peri-arrest state. For the patient who has achieved ROSC and becomes bradycardic, be very cautious. Typically, these causes do not respond durably to transcutaneous pacing alone. In addition to transcutaneous pacing, consider early initiation of NOREPInephrine and refer to the post arrest protocol. Check mechanical capture every 2 minutes and restart CPR if no pulse is detected.</li>\n</ul>",
+        "pearlsTitle": null
       }
     ],
     "steps": [
@@ -1613,15 +1619,7 @@
         "html": "If continued signs or symptoms, consider:<ol type=\"a\"><li>Repeat atropine, or</li><li>EPINEPHrine IV infusion, which may typically be dosed the following way:<ol type=\"i\"><li><strong>Preparation</strong> - Add 1mL (1mg) of EPINEPHrine [1mg/mL] to 250 mL bag NS. This results in a 1mg/250mL = 4 mcg/mL mix.</li><li><strong>Dose</strong> - Start at 0.05 mcg/kg/min. Titrate by 0.05 mcg/kg/min every 5 min. Titrate to desired desired effect which may include resolution of bradycardia, SPB of &gt; 90 mmHg and/or MAP &gt; 65 mmHg. <strong>Usual dose</strong> is 0.05-0.5 mcg/kg/min. Absolute maximum dose is 0.5 mcg/kg/min</li></ol></li><li>EPINEPHrine infusions must be administered via a Maine EMS-approved medication pump</li></ol>"
       }
     ],
-    "pearls": [
-      {
-        "title": null,
-        "html": [
-          "<p>* Transplanted, denervated hearts will not respond to atropine. Proceed to pacing, vasopressor infusion, or both</p>",
-          "<ul>\n<li>Examples of circumstances leading to increased vagal tone include the following: cholinergic medications (phenylephrine, neostigmine), sedatives (morphine) and nasopharyngeal or esophageal stimulation (eg. due to gastric reflux, breath holding, vomiting, coughing, intubation, placement of nasopharyngeal tube, suctioning, etc.)</li>\n<li><strong>Consider causes of bradycardia:</strong> MI, hypoxia, pacemaker failure, hypothermia, sinus bradycardia, sick sinus syndrome, AV blocks, overdose (calcium channel blockers, beta-blockers, digoxin, organophosphates), hyperkalemia (in wide complex).</li>\n<li>\n<p>Application of <strong>TCP</strong> should be considered if deterioration is anticipated because of the following:\n    a. Observed sinus pauses\n    b. Episodes of 2^nd degree Type II, or 3^rd degree AV Block</p>\n</li>\n<li>\n<p>Consider anterior-posterior placement favorable to anterior-apex placement</p>\n</li>\n<li><strong>Pre-medication</strong> for TCP is preferably via the IV route. If unable to obtain IV, may try IN route in the cooperative patient with goal of ultimately obtaining IV/IO access.</li>\n<li><strong>Bradycardia in the Post-Arrest Patient:</strong> Post-ROSC bradycardia is a peri-arrest state. For the patient who has achieved ROSC and becomes bradycardic, be very cautious. Typically, these causes do not respond durably to transcutaneous pacing alone. In addition to transcutaneous pacing, consider early initiation of NOREPInephrine and refer to the post arrest protocol. Check mechanical capture every 2 minutes and restart CPR if no pulse is detected.</li>\n</ul>"
-        ]
-      }
-    ],
+    "pearls": [],
     "pages": [
       {
         "pageId": "red_066",
@@ -1746,7 +1744,14 @@
     "id": "red_069",
     "title": "Cardiogenic Shock",
     "category": "red",
-    "intro": [],
+    "intro": [
+      {
+        "type": "pearls",
+        "providerLevel": "PARAMEDIC",
+        "html": "<ul>\n<li>Pediatric patients suffering from suspected cardiogenic shock should receive fluid boluses of 10 mL/kg with frequent reassessment for tolerance and need for additional fluids.</li>\n<li>Pediatric patients rarely require vasopressors. If the patient is not responding to or tolerating intravenous fluids, consult OLMC.</li>\n</ul>",
+        "pearlsTitle": "Cardiogenic Shock"
+      }
+    ],
     "steps": [
       {
         "num": 1,
@@ -1789,14 +1794,7 @@
         "html": "NOREPInephrine IV infusion:<ol type=\"a\"><li>Preparation - mix NOREPInephrine 8 mg in 250 mL NS.</li><li>Dosing - Starting dose is NOREPInephrine 0.03 mcg/kg/min. Titrate by 0.03 mcg/kg/min every 3-5 minutes. Usual dose is 0.03-0.25 mcg/kg/min. Usual max dose is 0.6 mcg/kg/min. Absolute max dose is 3 mcg/kg/min</li><li>Titrate to maintain systolic BP greater than 100 mmHg</li><li>NOREPInephrine infusions in adults and pediatrics must be administered via a Maine EMS-approved medication pump</li></ol>"
       }
     ],
-    "pearls": [
-      {
-        "title": "Cardiogenic Shock",
-        "html": [
-          "<ul>\n<li>Pediatric patients suffering from suspected cardiogenic shock should receive fluid boluses of 10 mL/kg with frequent reassessment for tolerance and need for additional fluids.</li>\n<li>Pediatric patients rarely require vasopressors. If the patient is not responding to or tolerating intravenous fluids, consult OLMC.</li>\n</ul>"
-        ]
-      }
-    ],
+    "pearls": [],
     "pages": [
       {
         "pageId": "red_069",
@@ -1814,6 +1812,12 @@
         "type": "content",
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
         "html": "<p>NOTE: At any time, if relevant signs/symptoms found, go to appropriate protocol.</p>"
+      },
+      {
+        "type": "pearls",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<ul>\n<li>Syncope is defined as loss of consciousness accompanied by loss of postural tone.</li>\n<li>All of these patients should be transported for emergency evaluation.</li>\n<li>Up to one third of syncope in adults older than 60 is caused by cardiac disorders.</li>\n<li>12-lead ECGs and cardiac monitoring are important for this patient population. The ECG should be evaluated for potential causes of syncope such as: ischemia, QT prolongation, Brugada Syndrome, pre-excitation, arrhythmia and hypertrophic cardiomyopathy.</li>\n</ul>\n<p><strong>A NORMAL ECG DOES NOT RULE OUT CARDIAC CAUSE OF SYNCOPE.</strong></p>\n<p>* Because of proximity to the event, EMS clinicians may be the only clinicians able to capture cardiac causes of syncope.\n* Consider other causes including GI bleed, ectopic pregnancy, seizure, stroke, hypoglycemia, shock, toxicologic (i.e. alcohol), pulmonary embolism, and medications.</p>",
+        "pearlsTitle": "Syncope"
       }
     ],
     "steps": [
@@ -1868,16 +1872,7 @@
         "html": "AEMT to request ALS"
       }
     ],
-    "pearls": [
-      {
-        "title": "Syncope",
-        "html": [
-          "<ul>\n<li>Syncope is defined as loss of consciousness accompanied by loss of postural tone.</li>\n<li>All of these patients should be transported for emergency evaluation.</li>\n<li>Up to one third of syncope in adults older than 60 is caused by cardiac disorders.</li>\n<li>12-lead ECGs and cardiac monitoring are important for this patient population. The ECG should be evaluated for potential causes of syncope such as: ischemia, QT prolongation, Brugada Syndrome, pre-excitation, arrhythmia and hypertrophic cardiomyopathy.</li>\n</ul>",
-          "<p><strong>A NORMAL ECG DOES NOT RULE OUT CARDIAC CAUSE OF SYNCOPE.</strong></p>",
-          "<p>* Because of proximity to the event, EMS clinicians may be the only clinicians able to capture cardiac causes of syncope.\n* Consider other causes including GI bleed, ectopic pregnancy, seizure, stroke, hypoglycemia, shock, toxicologic (i.e. alcohol), pulmonary embolism, and medications.</p>"
-        ]
-      }
-    ],
+    "pearls": [],
     "pages": [
       {
         "pageId": "red_070",
@@ -1915,6 +1910,12 @@
         "type": "content",
         "providerLevel": "ALL",
         "html": "<h3>Patient Management</h3>"
+      },
+      {
+        "type": "pearls",
+        "providerLevel": "ALL",
+        "html": "<ul>\n<li>You do not need to disconnect the controller or batteries in order to defibrillate or cardiovert.</li>\n<li>You do not need to disconnect the controller or batteries in order to acquire a 12-lead ECG.</li>\n<li>Automatic non-invasive cuff blood pressures may be difficult to obtain due to the narrow pulse pressure created by the continuous flow pump.</li>\n<li>Flow through many VAD devices is not pulsatile and patients may not have a palpable pulse or accurate pulse oximetry. The blood pressure, if measurable, may not be an accurate measure of perfusion. Although automatic non-invasive blood pressure cuffs are often ineffective in measuring systolic and diastolic pressure, if they do obtain a measurement, the MAP is usually accurate. Doppler's may be more accurate at determining both pulse and blood pressure and, if available, should be used.</li>\n<li>Patient may be awake with a functioning pump in VF, VT, PEA or asystole. If the patient is responsive <strong>AND</strong> the encountered rhythm is thought to be new, ACLS therapies, including defibrillation may be attempted, however chest compressions are not necessary if the patient is awake and alert. Evaluate clinical condition and provide care in consultation with VAD coordinator.</li>\n<li>The patient's emergency travel bag should accompany him/her at all times. If feasible, bring the patient's Power Module, cable and Display Module with patient to the hospital.</li>\n<li>The most common cause for VAD alarms are low batteries or battery failures.</li>\n<li>\n<p>Primary pump failure is a very rare occurrence. The most common VAD complications, in descending occurrence, are:</p>\n<ul>\n<li>Infection</li>\n<li>Bleeding</li>\n<li>Arrhythmias</li>\n<li>CHF</li>\n<li>Aortic Insufficiency</li>\n<li>Stroke/TIA</li>\n<li>Cardiac Tamponade</li>\n</ul>\n</li>\n<li>\n<p>Follow the protocol most appropriate, based on the patient's clinical condition.</p>\n</li>\n<li>For questions, contact OLMC and the patient's VAD Coordinator.</li>\n<li>All patients with a VAD are anticoagulated, typically with warfarin (Coumadin).</li>\n</ul>",
+        "pearlsTitle": "VADs"
       }
     ],
     "steps": [
@@ -1964,14 +1965,7 @@
         "html": "Perform 12-lead ECG."
       }
     ],
-    "pearls": [
-      {
-        "title": "VADs",
-        "html": [
-          "<ul>\n<li>You do not need to disconnect the controller or batteries in order to defibrillate or cardiovert.</li>\n<li>You do not need to disconnect the controller or batteries in order to acquire a 12-lead ECG.</li>\n<li>Automatic non-invasive cuff blood pressures may be difficult to obtain due to the narrow pulse pressure created by the continuous flow pump.</li>\n<li>Flow through many VAD devices is not pulsatile and patients may not have a palpable pulse or accurate pulse oximetry. The blood pressure, if measurable, may not be an accurate measure of perfusion. Although automatic non-invasive blood pressure cuffs are often ineffective in measuring systolic and diastolic pressure, if they do obtain a measurement, the MAP is usually accurate. Doppler's may be more accurate at determining both pulse and blood pressure and, if available, should be used.</li>\n<li>Patient may be awake with a functioning pump in VF, VT, PEA or asystole. If the patient is responsive <strong>AND</strong> the encountered rhythm is thought to be new, ACLS therapies, including defibrillation may be attempted, however chest compressions are not necessary if the patient is awake and alert. Evaluate clinical condition and provide care in consultation with VAD coordinator.</li>\n<li>The patient's emergency travel bag should accompany him/her at all times. If feasible, bring the patient's Power Module, cable and Display Module with patient to the hospital.</li>\n<li>The most common cause for VAD alarms are low batteries or battery failures.</li>\n<li>\n<p>Primary pump failure is a very rare occurrence. The most common VAD complications, in descending occurrence, are:</p>\n<ul>\n<li>Infection</li>\n<li>Bleeding</li>\n<li>Arrhythmias</li>\n<li>CHF</li>\n<li>Aortic Insufficiency</li>\n<li>Stroke/TIA</li>\n<li>Cardiac Tamponade</li>\n</ul>\n</li>\n<li>\n<p>Follow the protocol most appropriate, based on the patient's clinical condition.</p>\n</li>\n<li>For questions, contact OLMC and the patient's VAD Coordinator.</li>\n<li>All patients with a VAD are anticoagulated, typically with warfarin (Coumadin).</li>\n</ul>"
-        ]
-      }
-    ],
+    "pearls": [],
     "pages": [
       {
         "pageId": "red_071",

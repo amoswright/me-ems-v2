@@ -184,6 +184,12 @@
         "type": "content",
         "providerLevel": "ALL",
         "html": "<p>Only patients in a seated position (e.g., a vehicle) are candidates for self-extrication. Proper methods of self-extrication limit patient movement as much as possible. For instance, patient movement should be limited to standing and pivoting to the stretcher. Please use caution when considering self-extrication and recognize that some vehicles are difficult to self-extricate from. Use judgment when considering self-extrication, recalling the goal of minimizing spine movement. If, in your judgment, self-extrication would lead to more spine motion than an alternate method of extrication, proceed with the alternate method.</p>"
+      },
+      {
+        "type": "pearls",
+        "providerLevel": "ALL",
+        "html": "<p><strong>Role of Backboards</strong> - While the MDPB is attempting to limit the use of backboards, prehospital and hospital clinicians should recognize that there remain circumstances in which use of a backboard is appropriate. Backboards should be reserved to extricate patients from vehicles or other situations when they are unable to extricate themselves (critical patients, patients with lower extremity injuries, severe head injuries, etc.). In most instances, once on the EMS stretcher, the backboard is redundant and can be removed. However, in some settings, it may be appropriate for the backboard to remain. Those settings include, but are not limited to the following:</p>\n<ol start=\"1\"><li>Cases in which the backboard is being utilized as an element of the splinting strategy (e.g., multiple long bone fractures),</li><li>Cases in which the patient is at risk for vomiting but unable to protect their own airway (e.g., intoxication, head injury) and may need to be turned to the side for airway protection during transport,</li><li>Cases in which the patient is unresponsive or agitated (e.g., head injury),</li><li>Cases in which removal of the backboard would otherwise delay transport to definitive care in a critical patient.</li></ol>\n\n<p><strong>Preferred Position</strong> - The preferred position for all patients with concern for spinal injury is <strong>flat and supine</strong>. There should only be two circumstances under which raising the head of the bed should be considered:\n    a. Severe respiratory distress. Populations at risk for developing respiratory distress when laying flat include the elderly with underlying lung disease, patients with morbid obesity and late-term pregnant patients,\n    b. Suspected severe traumatic brain injury. Under these circumstances, consider raising the head of the bed to a <strong>MAXIMUM of 30 degrees</strong>.</p>\n<p><strong>Inter-Facility Transport</strong> - Long backboards do not have a role in the transport of patients between hospitals EVEN IF SPINE INJURY IS DIAGNOSED. Use of backboards during inter-facility transport is associated with increased pain and potential for pressure sores and ulcers. Patients should instead be managed with a cervical collar (if appropriate) and firmly secured to the EMS stretcher. If a sending facility has placed the patient on a backboard or requests use of a backboard, EMS clinicians should discuss the option of foregoing backboard use with the sending physician. If a back board is used, it must be padded adequately to maximize patient comfort.</p>\n<p><strong>Penetrating Injury</strong> - The incidence of incomplete, unstable spine injury in penetrating trauma is low. Spinal immobilization on a backboard is associated with an increased risk of death in patients with penetrating spine injuries to the neck, especially gunshot wounds, due to unrecognized hemorrhage and airway compromise. Spine immobilization does not appear to prevent progression of neurologic injury in cases of penetrating cervical trauma and may negatively affect patients with vascular and airway injuries.</p>\n<p>Penetrating trauma such as a gunshot wound or stab wound should not be immobilized on a backboard and should instead be secured firmly to the EMS stretcher. Emphasis should be on airway and breathing management, treatment of shock, and rapid transport following the MEMS Trauma Triage protocol, <strong>Green 1</strong>.</p>\n<p><strong>Special Patient Populations</strong></p>\n<ul>\n<li>Caution should be exercised in older patients (i.e. 65 years and older) and in very young patients (i.e. less than 3 years of age), as spinal assessment may be less sensitive in discerning spinal fractures in these populations. However, age alone should not be a factor in decision-making for prehospital spinal care, rather the patient's ability to reliably provide a history should be considered.</li>\n<li>In children using a booster seat or lap/shoulder belt during a motor vehicle collision, consider allowing the patient to self-extricate after applying a cervical collar, if needed. For the infant or toddler who is already strapped in a car seat with a built-in harness, extricate the child while strapped in his/her car seat.</li>\n<li>Children who do not require spinal immobilization or lying flat may be safely transported when restrained in an age-appropriate car seat. Children who do require spinal immobilization or lying flat should be directly secured to the stretcher.</li>\n</ul>\n<p><strong>Helmet Use</strong> - Padding should be applied, if necessary, to maintain neutral cervical spine positioning depending on the type of sports helmet and presence or absence of shoulder pads.</p>\n<p><strong>Management</strong> - In patients who have suffered a potential spinal injury and need to be moved onto or off of a backboard, consider using the lift and slide technique rather than the log roll technique, when feasible.</p>",
+        "pearlsTitle": "Spine Management"
       }
     ],
     "steps": [
@@ -203,23 +209,7 @@
         "html": "The patient ambulates as <em>little</em> as possible. Ultimately, the EMS stretcher should be in close proximity to the patient."
       }
     ],
-    "pearls": [
-      {
-        "title": "Spine Management",
-        "html": [
-          "<p><strong>Role of Backboards</strong> - While the MDPB is attempting to limit the use of backboards, prehospital and hospital clinicians should recognize that there remain circumstances in which use of a backboard is appropriate. Backboards should be reserved to extricate patients from vehicles or other situations when they are unable to extricate themselves (critical patients, patients with lower extremity injuries, severe head injuries, etc.). In most instances, once on the EMS stretcher, the backboard is redundant and can be removed. However, in some settings, it may be appropriate for the backboard to remain. Those settings include, but are not limited to the following:</p>",
-          "<ol start=\"1\"><li>Cases in which the backboard is being utilized as an element of the splinting strategy (e.g., multiple long bone fractures),</li><li>Cases in which the patient is at risk for vomiting but unable to protect their own airway (e.g., intoxication, head injury) and may need to be turned to the side for airway protection during transport,</li><li>Cases in which the patient is unresponsive or agitated (e.g., head injury),</li><li>Cases in which removal of the backboard would otherwise delay transport to definitive care in a critical patient.</li></ol>",
-          "<p><strong>Preferred Position</strong> - The preferred position for all patients with concern for spinal injury is <strong>flat and supine</strong>. There should only be two circumstances under which raising the head of the bed should be considered:\n    a. Severe respiratory distress. Populations at risk for developing respiratory distress when laying flat include the elderly with underlying lung disease, patients with morbid obesity and late-term pregnant patients,\n    b. Suspected severe traumatic brain injury. Under these circumstances, consider raising the head of the bed to a <strong>MAXIMUM of 30 degrees</strong>.</p>",
-          "<p><strong>Inter-Facility Transport</strong> - Long backboards do not have a role in the transport of patients between hospitals EVEN IF SPINE INJURY IS DIAGNOSED. Use of backboards during inter-facility transport is associated with increased pain and potential for pressure sores and ulcers. Patients should instead be managed with a cervical collar (if appropriate) and firmly secured to the EMS stretcher. If a sending facility has placed the patient on a backboard or requests use of a backboard, EMS clinicians should discuss the option of foregoing backboard use with the sending physician. If a back board is used, it must be padded adequately to maximize patient comfort.</p>",
-          "<p><strong>Penetrating Injury</strong> - The incidence of incomplete, unstable spine injury in penetrating trauma is low. Spinal immobilization on a backboard is associated with an increased risk of death in patients with penetrating spine injuries to the neck, especially gunshot wounds, due to unrecognized hemorrhage and airway compromise. Spine immobilization does not appear to prevent progression of neurologic injury in cases of penetrating cervical trauma and may negatively affect patients with vascular and airway injuries.</p>",
-          "<p>Penetrating trauma such as a gunshot wound or stab wound should not be immobilized on a backboard and should instead be secured firmly to the EMS stretcher. Emphasis should be on airway and breathing management, treatment of shock, and rapid transport following the MEMS Trauma Triage protocol, <strong>Green 1</strong>.</p>",
-          "<p><strong>Special Patient Populations</strong></p>",
-          "<ul>\n<li>Caution should be exercised in older patients (i.e. 65 years and older) and in very young patients (i.e. less than 3 years of age), as spinal assessment may be less sensitive in discerning spinal fractures in these populations. However, age alone should not be a factor in decision-making for prehospital spinal care, rather the patient's ability to reliably provide a history should be considered.</li>\n<li>In children using a booster seat or lap/shoulder belt during a motor vehicle collision, consider allowing the patient to self-extricate after applying a cervical collar, if needed. For the infant or toddler who is already strapped in a car seat with a built-in harness, extricate the child while strapped in his/her car seat.</li>\n<li>Children who do not require spinal immobilization or lying flat may be safely transported when restrained in an age-appropriate car seat. Children who do require spinal immobilization or lying flat should be directly secured to the stretcher.</li>\n</ul>",
-          "<p><strong>Helmet Use</strong> - Padding should be applied, if necessary, to maintain neutral cervical spine positioning depending on the type of sports helmet and presence or absence of shoulder pads.</p>",
-          "<p><strong>Management</strong> - In patients who have suffered a potential spinal injury and need to be moved onto or off of a backboard, consider using the lift and slide technique rather than the log roll technique, when feasible.</p>"
-        ]
-      }
-    ],
+    "pearls": [],
     "pages": [
       {
         "pageId": "green_097",
@@ -273,6 +263,12 @@
         "type": "content",
         "providerLevel": "PARAMEDIC",
         "html": "<p><strong>NOTE:</strong> Chest decompression will be performed on the involved side using a Maine EMS-approved device. Chest decompression should be preferentially performed at the fourth or fifth intercostal space on the anterior axillary line. The second or third intercostal space on the mid-clavicular line may be used, if necessary.</p>"
+      },
+      {
+        "type": "pearls",
+        "providerLevel": "PARAMEDIC",
+        "html": "<ul>\n<li>The fourth to fifth intercostal space on the anterior axillary line is preferred to the second or third intercostal space on the mid-clavicular line because of significant failure rates of the mid-clavicular approach (24-54% failure rate at the mid-clavicular line vs. 8-22% of the time for anterior axillary approach). This is, in part, due to a larger average depth to the thoracic cavity at the mid-clavicular line vs the anterior axillary line.</li>\n<li>All needle decompressions are at risk of kinking/clotting or not reaching the thoracic cavity. Patients undergoing needle decompression should be monitored for change in symptoms after the procedure. If concern for needle decompression failure arises, <strong>DO NOT</strong> remove previous catheter(s), repeat the procedure and continue monitoring. If the initial procedure site was the mid-clavicular line, consider repeating at the anterior axillary line.</li>\n</ul>",
+        "pearlsTitle": "Chest Trauma"
       }
     ],
     "steps": [
@@ -332,14 +328,7 @@
         "html": "For presumed TENSION pneumothorax ONLY, perform chest decompression. Assume tension pneumothorax in a) ALL traumatic arrests, b) chest trauma with increasing respiratory distress/hypoxia, and c) chest trauma with otherwise unexplained shock or hypotension."
       }
     ],
-    "pearls": [
-      {
-        "title": "Chest Trauma",
-        "html": [
-          "<ul>\n<li>The fourth to fifth intercostal space on the anterior axillary line is preferred to the second or third intercostal space on the mid-clavicular line because of significant failure rates of the mid-clavicular approach (24-54% failure rate at the mid-clavicular line vs. 8-22% of the time for anterior axillary approach). This is, in part, due to a larger average depth to the thoracic cavity at the mid-clavicular line vs the anterior axillary line.</li>\n<li>All needle decompressions are at risk of kinking/clotting or not reaching the thoracic cavity. Patients undergoing needle decompression should be monitored for change in symptoms after the procedure. If concern for needle decompression failure arises, <strong>DO NOT</strong> remove previous catheter(s), repeat the procedure and continue monitoring. If the initial procedure site was the mid-clavicular line, consider repeating at the anterior axillary line.</li>\n</ul>"
-        ]
-      }
-    ],
+    "pearls": [],
     "pages": [
       {
         "pageId": "green_101",
@@ -412,6 +401,12 @@
         "type": "content",
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
         "html": "<pre><code>b. For SBP below goal for age, give 20 mL/kg IV bolus. May repeat x 2 up to a total of 60 mL/kg to achieve goal SBP. If needing the third bolus, please consult OLMC.\n</code></pre>"
+      },
+      {
+        "type": "pearls",
+        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
+        "html": "<ul>\n<li>A single episode of SBP &lt;90 mmHg is independently associated with at least a doubling of mortality. Repeated episodes of hypotension can increase the risk of dying by as much as <em>eight</em> times. Hypotension kills neurons!</li>\n<li>In the context of Head Trauma, do not allow permissive hypotension below 90 mmHg (in adults) and do not wait for the patient to become hypotensive. If the SBP is dropping, or if there are any other signs of compensated shock such as increasing heart rate with decreasing SBP, begin aggressive treatment before the patient becomes hypotensive.</li>\n<li>In TBI, treatment of acute hypertension is <strong>NOT</strong> recommended.</li>\n<li>IV fluids should be restricted to a minimal \"keep open\" rate in patients with, SBP \u2265 100 mmHg (infants/young children) SBP \u2265 130 mmHg (older children/adolescents), and SBP \u2265 140 mmHg in adults.</li>\n</ul>",
+        "pearlsTitle": "Management of Hypotension/Blood Pressure"
       },
       {
         "type": "content",
@@ -566,14 +561,7 @@
         "html": "For Nausea and Vomiting, refer to Nausea/Vomiting protocol, <strong>Gold 18</strong>. <strong>Please Note:</strong> IV/IO ondansetron is the preferred route for patients with moderate to severe head injuries."
       }
     ],
-    "pearls": [
-      {
-        "title": "Management of Hypotension/Blood Pressure",
-        "html": [
-          "<ul>\n<li>A single episode of SBP &lt;90 mmHg is independently associated with at least a doubling of mortality. Repeated episodes of hypotension can increase the risk of dying by as much as <em>eight</em> times. Hypotension kills neurons!</li>\n<li>In the context of Head Trauma, do not allow permissive hypotension below 90 mmHg (in adults) and do not wait for the patient to become hypotensive. If the SBP is dropping, or if there are any other signs of compensated shock such as increasing heart rate with decreasing SBP, begin aggressive treatment before the patient becomes hypotensive.</li>\n<li>In TBI, treatment of acute hypertension is <strong>NOT</strong> recommended.</li>\n<li>IV fluids should be restricted to a minimal \"keep open\" rate in patients with, SBP \u2265 100 mmHg (infants/young children) SBP \u2265 130 mmHg (older children/adolescents), and SBP \u2265 140 mmHg in adults.</li>\n</ul>"
-        ]
-      }
-    ],
+    "pearls": [],
     "pages": [
       {
         "pageId": "green_102",

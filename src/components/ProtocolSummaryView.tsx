@@ -670,7 +670,8 @@ export function ProtocolSummaryView({ protocol }: { protocol: Protocol }) {
 
   const groups = levelOrder.map(level => ({
     level,
-    introItems: protocol.intro.filter(item => item.providerLevel === level),
+    introItems: protocol.intro.filter(item => item.providerLevel === level && item.type !== 'pearls'),
+    pearlsItems: protocol.intro.filter(item => item.providerLevel === level && item.type === 'pearls'),
     steps: protocol.steps.filter(step => step.providerLevel === level),
   }));
 
@@ -691,22 +692,19 @@ export function ProtocolSummaryView({ protocol }: { protocol: Protocol }) {
           {group.steps.map((step, si) => (
             <StepCard key={`s-${step.num}-${si}`} num={step.num} liHtml={step.html} level={group.level} summary={step.summary} />
           ))}
+          {group.pearlsItems.map((pearl, pi) => (
+            <div key={`p-${pi}`} className="bg-amber-50 dark:bg-amber-900/10 border border-amber-200 dark:border-amber-800 rounded-xl p-4 mb-4 mt-3">
+              <div className="flex items-center gap-2 mb-3">
+                <span className="bg-gradient-to-r from-amber-500 to-yellow-400 text-white text-[10px] font-extrabold tracking-widest uppercase px-3 py-1.5 rounded-xl">
+                  {pearl.pearlsTitle ? `PEARLS: ${pearl.pearlsTitle}` : 'PEARLS'}
+                </span>
+              </div>
+              <div className="space-y-2">
+                <InfoCard html={pearl.html} level="PEARLS" />
+              </div>
+            </div>
+          ))}
         </React.Fragment>
-      ))}
-
-      {protocol.pearls.map((pearl, i) => (
-        <div key={i} className="bg-amber-50 dark:bg-amber-900/10 border border-amber-200 dark:border-amber-800 rounded-xl p-4 mb-4 mt-6">
-          <div className="flex items-center gap-2 mb-3">
-            <span className="bg-gradient-to-r from-amber-500 to-yellow-400 text-white text-[10px] font-extrabold tracking-widest uppercase px-3 py-1.5 rounded-xl">
-              {pearl.title ? `PEARLS: ${pearl.title}` : 'PEARLS'}
-            </span>
-          </div>
-          <div className="space-y-2">
-            {pearl.html.map((h, j) => (
-              <InfoCard key={j} html={h} level="PEARLS" />
-            ))}
-          </div>
-        </div>
       ))}
     </div>
   );

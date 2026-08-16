@@ -53,11 +53,12 @@ export interface ProtocolStep {
 
 // Non-step content (intro text, mermaid diagrams, tables, bullet lists)
 export interface ProtocolIntroItem {
-  type: 'content' | 'mermaid' | 'table' | 'list' | 'tool';
+  type: 'content' | 'mermaid' | 'table' | 'list' | 'tool' | 'pearls';
   providerLevel: ProviderLevel;
   html: string;
   tool?: string;           // interactive tool id, e.g. 'stroke-fast'
   summary?: StepSummary;  // optional summary label+detail for summary tab display
+  pearlsTitle?: string;    // type === 'pearls' only, e.g. "Allergy/Anaphylaxis" from "PEARLS for Allergy/Anaphylaxis"
 }
 
 // A PEARLS section

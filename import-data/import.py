@@ -227,9 +227,13 @@ def rewrite_asset_paths(html: str) -> str:
     return re.sub(r'(?:\.\./)*assets/figures/', '/assets/figures/', html)
 
 
-def extract_pearls(markdown_text: str):
-    """Pull out '> ### PEARLS for X' blockquote sections. Returns (remaining_markdown, pearls_list)."""
-    pearls = []
+def extract_pearls(markdown_text: str, pearls_out: list):
+    """Pull out '> ### PEARLS for X' blockquote sections, rendering each to HTML and appending
+    {'title', 'html'} to `pearls_out` (shared across a whole protocol so indices stay unique).
+    Each block is replaced in-place with a <div data-pearls-idx="N"> placeholder so it keeps its
+    original position in the document instead of being moved to the end of the protocol —
+    segment_to_intro_and_steps swaps the placeholder back out for a real 'pearls' intro item
+    once the surrounding markdown has been rendered."""
 
     def _consume(m):
         title = (m.group('title') or '').strip() or None
@@ -241,14 +245,11 @@ def extract_pearls(markdown_text: str):
         body_md = '\n'.join(stripped).strip()
         html = md_to_html(body_md)
         html = rewrite_asset_paths(html)
-        # split into paragraph/list-level chunks for ProtocolPearl.html: string[]
-        soup = BeautifulSoup(html, 'html.parser')
-        chunks = [str(el) for el in soup.contents if str(el).strip()]
-        pearls.append({'title': title, 'html': chunks if chunks else [html]})
-        return ''
+        idx = len(pearls_out)
+        pearls_out.append({'title': title, 'html': html})
+        return f'\n\n<div data-pearls-idx="{idx}"></div>\n\n'
 
-    remaining = PEARLS_BLOCK_RE.sub(_consume, markdown_text)
-    return remaining, pearls
+    return PEARLS_BLOCK_RE.sub(_consume, markdown_text)
 
 
 def split_by_provider(markdown_text: str, carry_level: str = 'ALL'):
@@ -278,7 +279,7 @@ def split_by_provider(markdown_text: str, carry_level: str = 'ALL'):
     return segments
 
 
-def segment_to_intro_and_steps(provider_level: str, segment_md: str, level_counters: dict):
+def segment_to_intro_and_steps(provider_level: str, segment_md: str, level_counters: dict, pearls_list: list):
     """Render one provider-level segment; split its top-level <ol> into ProtocolStep entries,
     everything else becomes ProtocolIntroItem entries, in original order.
 
@@ -314,6 +315,14 @@ def segment_to_intro_and_steps(provider_level: str, segment_md: str, level_count
             intro_items.append({'type': 'table', 'providerLevel': provider_level, 'html': str(el)})
         elif tag in ('ul', 'ol'):
             intro_items.append({'type': 'list', 'providerLevel': provider_level, 'html': str(el)})
+        elif tag == 'div' and el.get('data-pearls-idx') is not None:
+            pearl = pearls_list[int(el['data-pearls-idx'])]
+            intro_items.append({
+                'type': 'pearls',
+                'providerLevel': provider_level,
+                'html': pearl['html'],
+                'pearlsTitle': pearl['title'],
+            })
         else:
             text = str(el).strip()
             plain = el.get_text(strip=True) if hasattr(el, 'get_text') else text
@@ -381,23 +390,22 @@ def main():
 
             all_intro = []
             all_steps = []
-            all_pearls = []
             page_refs = []
             level_counters = {}
+            pearls_list = []
 
             carry_level = 'ALL'
             for page_idx, page in enumerate(group):
                 page_md = re.sub(r'^#\s+.*\n+', '', page['markdown'], count=1)
                 page_md = re.sub(r'^\(continued\)\s*\n+', '', page_md, count=1, flags=re.IGNORECASE)
-                remaining_md, pearls = extract_pearls(page_md)
-                all_pearls.extend(pearls)
+                remaining_md = extract_pearls(page_md, pearls_list)
 
                 # Only carry the previous page's provider level into a continuation page
                 # (one with no heading of its own) — the first page always starts at ALL.
                 seed_level = carry_level if page_idx > 0 else 'ALL'
                 segments = split_by_provider(remaining_md, seed_level)
                 for level, seg_md in segments:
-                    intro_items, steps = segment_to_intro_and_steps(level, seg_md, level_counters)
+                    intro_items, steps = segment_to_intro_and_steps(level, seg_md, level_counters, pearls_list)
                     all_intro.extend(intro_items)
                     all_steps.extend(steps)
                 if segments:
@@ -421,7 +429,7 @@ def main():
                 'category': cid,
                 'intro': all_intro,
                 'steps': all_steps,
-                'pearls': [pe for pe in all_pearls if pe],
+                'pearls': [],
                 'pages': [
                     {'pageId': pr['pageId'], 'pageNumber': pr['protocolPageNumber'], 'jpgReference': pr['jpgFile']}
                     for pr in page_refs
@@ -463,16 +471,13 @@ def main():
             texts = []
             levels = set()
             for item in p['intro']:
+                if item.get('pearlsTitle'):
+                    texts.append(item['pearlsTitle'])
                 texts.append(BeautifulSoup(item['html'], 'html.parser').get_text(' ', strip=True))
                 levels.add(item['providerLevel'])
             for step in p['steps']:
                 texts.append(BeautifulSoup(step['html'], 'html.parser').get_text(' ', strip=True))
                 levels.add(step['providerLevel'])
-            for pearl in p['pearls']:
-                if pearl.get('title'):
-                    texts.append(pearl['title'])
-                for h in pearl['html']:
-                    texts.append(BeautifulSoup(h, 'html.parser').get_text(' ', strip=True))
             content = ' '.join(t for t in texts if t)
             search_index.append({
                 'id': p['id'],
