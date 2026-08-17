@@ -37,10 +37,13 @@ export interface PageReference {
   protocolPageNumber: string; // 'Blue 6'
 }
 
-// AI-generated summary for a step (stored in JSON, editable)
+// Hand-authored summary for a step (see docs/summary-project/STYLE_GUIDE.md)
+export type SummaryCategory = 'medication' | 'procedure' | 'assessment' | 'communication' | 'decision';
+
 export interface StepSummary {
   label: string;    // short headline, 3-6 words
   detail?: string;  // 1-2 lines: key doses, decision logic, or clinical note
+  category?: SummaryCategory;  // drives the Summary tab icon — see CategoryIcon
 }
 
 // A single numbered step (one <li> from the unified protocol list)

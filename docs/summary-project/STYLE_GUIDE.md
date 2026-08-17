@@ -8,10 +8,34 @@ one-protocol-at-a-time human-reviewed process.
 
 ## Where summaries live
 
-`step.summary = { label, detail? }` on each `ProtocolStep`, and the same on `ProtocolIntroItem`
-(for PEARLS boxes and other intro content worth summarizing). Written directly into
+`step.summary = { label, detail?, category? }` on each `ProtocolStep`, and the same on
+`ProtocolIntroItem` (for non-PEARLS intro content worth summarizing — PEARLS boxes always render
+full text in the Summary tab already and don't take a summary). Written directly into
 `public/data/protocols/{category}.json`. No `import.py` rerun needed — summaries are additive to
 the already-imported step data, not part of the import pipeline.
+
+## Category (drives the Summary tab icon)
+
+Every summary should set `category` to one of six values. This is what selects the icon in
+`CategoryIcon` (`src/components/ProtocolSummaryView.tsx`) — set explicitly by you, not guessed
+from the step text, so two steps that describe the same kind of action always get the same icon
+even if worded completely differently. Leaving `category` off falls back to the older
+text-regex-guessed icon, which is inconsistent — always set it.
+
+| category | means | examples |
+|---|---|---|
+| `medication` | anything administered to the patient with a dose/route | drugs, O2, IV fluids, nebulized treatments |
+| `procedure` | a physical skill or device applied to the patient | IV/IO access, intubation, BVM ventilation, CPAP application, CPR, defibrillation, hemorrhage control, spinal immobilization, airway management |
+| `assessment` | gathering information | vitals, cardiac monitor, 12-lead ECG, GCS, blood glucose check, pain scale, reassessment |
+| `communication` | talking to someone outside the patient | request ALS, contact OLMC, notify/alert hospital, transport |
+| `decision` | a conditional/branch point with no direct patient action of its own | "if X, consider Y", multi-option branches |
+| (none) | steps that don't fit cleanly, or where guessing would be worse than no icon | — |
+
+The line between `medication` and `procedure` is the one to get right: if the step's core
+content is a dose or route (even for something like O2 or a fluid bolus), it's `medication`.
+If it's a technique or device with no dose to report, it's `procedure` — including cases where
+the technique's purpose is to deliver O2 (BVM, CPAP), since the step itself has no dose/route to
+show.
 
 ## Before writing a protocol's summaries: check canonical-steps.json
 

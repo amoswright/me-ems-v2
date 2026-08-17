@@ -306,7 +306,8 @@
         "providerLevel": "EMT_ADVANCED_EMT",
         "html": "O2 as appropriate.",
         "summary": {
-          "label": "Supplemental O\u2082"
+          "label": "Supplemental O\u2082",
+          "category": "medication"
         }
       },
       {
@@ -315,7 +316,8 @@
         "html": "If needed, assist ventilation with positive pressure ventilation using 100% O2.",
         "summary": {
           "label": "Assist Ventilations (PPV)",
-          "detail": "100% O2, if needed"
+          "detail": "100% O2, if needed",
+          "category": "procedure"
         }
       },
       {
@@ -323,7 +325,8 @@
         "providerLevel": "EMT_ADVANCED_EMT",
         "html": "Request ALS. (see Definitions, <strong>Purple 1</strong>)",
         "summary": {
-          "label": "Request ALS"
+          "label": "Request ALS",
+          "category": "communication"
         }
       },
       {
@@ -332,7 +335,8 @@
         "html": "Ipratropium bromide 0.5 mg / albuterol sulfate 2.5 mg nebulizer if greater than one (1) year of age with continued respiratory distress. Every 5 minutes, may repeat x 2 as needed for ongoing symptoms.",
         "summary": {
           "label": "DuoNeb Nebulizer",
-          "detail": "Ipratropium 0.5 mg / Albuterol 2.5 mg NEB\nAge >1yr \u00b7 repeat q5min \u00d72"
+          "detail": "Ipratropium 0.5 mg / Albuterol 2.5 mg NEB\nAge >1yr \u00b7 repeat q5min \u00d72",
+          "category": "medication"
         }
       },
       {
@@ -341,7 +345,8 @@
         "html": "For severe respiratory distress, EPINEPHrine:<ol><li><strong>Adult</strong> - EPINEPHrine 0.3 mg <strong>IM</strong> of 1mg/1mL every 20 minutes.</li><li><strong>Pediatric</strong> - EPINEPHrine dose which is as follows: less than 25 kg, 0.15 mg <strong>IM</strong> [0.15 mL of 1mg/mL], greater than 25 kg, 0.3 mg <strong>IM</strong> [0.3 mL of 1mg/mL] in anterolateral thigh every 20 minutes.</li></ol>",
         "summary": {
           "label": "Epinephrine IM",
-          "detail": "Adult: 0.3 mg IM q20min\nPeds <25kg: 0.15 mg IM\nPeds \u226525kg: 0.3 mg IM"
+          "detail": "Adult: 0.3 mg IM q20min\nPeds <25kg: 0.15 mg IM\nPeds \u226525kg: 0.3 mg IM",
+          "category": "medication"
         }
       },
       {
@@ -350,7 +355,8 @@
         "html": "Consider CPAP* in patients greater than 18 yo if no improvement after three nebulizers.",
         "summary": {
           "label": "Consider CPAP",
-          "detail": ">18yo, no improvement after 3 nebs"
+          "detail": ">18yo, no improvement after 3 nebs",
+          "category": "procedure"
         }
       },
       {
@@ -359,7 +365,8 @@
         "html": "If CPAP is initiated, do the following:<ol type=\"a\"><li>Ensure ALS has been requested (see Definitions, <strong>Purple 1</strong>). ALS clinicians bring additional therapies to support the management of patients requiring CPAP.</li><li>Contact OLMC for the following treatment option:<ol type=\"i\"><li>Ipratropium bromide 0.5 mg / albuterol sulfate 2.5 mg nebulizer every five minutes while the patient remains on CPAP.</li></ol></li></ol>",
         "summary": {
           "label": "CPAP Bundle",
-          "detail": "Confirm ALS requested\nOLMC option: DuoNeb NEB q5min while on CPAP"
+          "detail": "Confirm ALS requested\nOLMC option: DuoNeb NEB q5min while on CPAP",
+          "category": "procedure"
         }
       },
       {
@@ -367,7 +374,8 @@
         "providerLevel": "ADVANCED_EMT",
         "html": "Cardiac monitor",
         "summary": {
-          "label": "Cardiac Monitor"
+          "label": "Cardiac Monitor",
+          "category": "assessment"
         }
       },
       {
@@ -376,7 +384,8 @@
         "html": "Manage airway as needed, refer to Airway Algorithm, <strong>Blue 2</strong>.",
         "summary": {
           "label": "Manage Airway",
-          "detail": "See Airway Algorithm, Blue 2"
+          "detail": "See Airway Algorithm, Blue 2",
+          "category": "procedure"
         }
       },
       {
@@ -385,7 +394,8 @@
         "html": "<strong>Adult/Pediatric</strong><ol type=\"a\"><li>Albuterol 2.5 mg by nebulization. May repeat 1 time; <strong>or</strong></li><li>Ipratropium bromide 0.5 mg / albuterol sulfate 2.5 mg nebulizer if greater than one (1) year of age and in continued respiratory distress. May repeat every five minutes x 2.</li></ol>",
         "summary": {
           "label": "Albuterol / DuoNeb",
-          "detail": "Albuterol: 2.5 mg NEB, may repeat \u00d71\nor DuoNeb: 0.5/2.5 mg NEB, repeat q5min \u00d72"
+          "detail": "Albuterol: 2.5 mg NEB, may repeat \u00d71\nor DuoNeb: 0.5/2.5 mg NEB, repeat q5min \u00d72",
+          "category": "medication"
         }
       },
       {
@@ -394,7 +404,8 @@
         "html": "Dexamethasone<ol type=\"a\"><li><strong>Adult</strong>:<ol type=\"i\"><li>16 mg <strong>PO</strong> x 1 if patient can tolerate oral medications, is not in overt respiratory distress, and is not requiring an airway management technique that obscures access to the mouth (e.g., O2 mask or CPAP),</li><li>16 mg <strong>IV/IM/IO</strong> x 1, if the patient cannot tolerate oral medications, or has any of the above conditions.</li></ol></li><li><strong>Pediatric</strong>:<ol type=\"i\"><li>0.6 mg/kg (single MAX dose of 16 mg) <strong>PO</strong> x 1, if patient can tolerate oral medications, is not in overt respiratory distress, and is not requiring an airway management technique that obscures access to the mouth (e.g., O2 mask or CPAP),</li><li>0.6 mg/kg (single MAX dose of 16 mg) <strong>IV/IM/IO</strong> x 1, if the patient cannot tolerate oral medications, or has any of the above conditions.</li></ol></li></ol>",
         "summary": {
           "label": "Dexamethasone",
-          "detail": "Adult: 16 mg PO or IV/IM/IO \u00d71\nPeds: 0.6 mg/kg (max 16 mg) PO or IV/IM/IO \u00d71"
+          "detail": "Adult: 16 mg PO or IV/IM/IO \u00d71\nPeds: 0.6 mg/kg (max 16 mg) PO or IV/IM/IO \u00d71",
+          "category": "medication"
         }
       },
       {
@@ -403,7 +414,8 @@
         "html": "For patients not improving with the above measures, consider the following OPTIONS:<ol type=\"a\"><li>Repeated or continuous albuterol by nebulization or inhaler.</li><li>For patients in status asthmaticus:<ol type=\"i\"><li>EPINEPHrine<ol><li><strong>Adult</strong>: EPINEPHrine 0.3 mg <strong>IM</strong> of 1mg/1mL every 20 minutes.</li><li><strong>Pediatric</strong>: EPINEPHrine dose which is as follows:<ol type=\"a\"><li>Less than 25 kg, 0.15 mg <strong>IM</strong> [0.15mL of 1mg/mL] in anterolateral thigh every 20 minutes,</li><li>Greater than 25 kg, 0.3 mg <strong>IM</strong> [0.3 mL of 1mg/mL] in anterolateral thigh every 20 minutes.</li></ol></li></ol></li><li>Magnesium Sulfate<ol><li><strong>Adult</strong>: Magnesium Sulfate 2 grams <strong>IV/IO</strong>, diluted in 50-100 mL of IVF (D5W preferred), over 15 minutes, delivered via medication pump.</li><li><strong>Pediatric</strong>: Magnesium Sulfate 50 mg/kg <strong>IV/IO</strong> with a MAX dose of 2 grams, diluted in 50-100 mL of IVF (D5W preferred), over 15 minutes, delivered via medication pump.</li></ol></li></ol></li></ol>",
         "summary": {
           "label": "Status Asthmaticus Options",
-          "detail": "Albuterol: repeated/continuous NEB or inhaler\nAdult: Epi 0.3 mg IM q20min\nPeds <25kg: Epi 0.15 mg IM\nPeds \u226525kg: Epi 0.3 mg IM\nAdult: Mag Sulfate 2g IV/IO over 15min\nPeds: Mag Sulfate 50 mg/kg (max 2g) IV/IO over 15min"
+          "detail": "Albuterol: repeated/continuous NEB or inhaler\nAdult: Epi 0.3 mg IM q20min\nPeds <25kg: Epi 0.15 mg IM\nPeds \u226525kg: Epi 0.3 mg IM\nAdult: Mag Sulfate 2g IV/IO over 15min\nPeds: Mag Sulfate 50 mg/kg (max 2g) IV/IO over 15min",
+          "category": "medication"
         }
       }
     ],

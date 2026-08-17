@@ -1,6 +1,6 @@
 import React from 'react';
 import { Baby } from 'lucide-react';
-import type { Protocol } from '@/types/protocol';
+import type { Protocol, SummaryCategory, StepSummary } from '@/types/protocol';
 import { renderProtocolHtml } from '@/utils/renderProtocolHtml';
 import { MermaidDiagram } from '@/components/MermaidDiagram';
 import { extractMermaidContent } from '@/utils/parseMermaid';
@@ -138,7 +138,59 @@ function iconStroke(level: string): string {
   return '#94a3b8';
 }
 
-// ─── Archetype SVG icons ───────────────────────────────────────────────────
+// ─── Category icons (hand-authored summaries only — see StepSummary.category) ──
+//
+// One bold, solid-fill glyph per category, deliberately coarse (6 categories, not 28)
+// so the same icon shows up for every medication regardless of drug name, every
+// procedure regardless of which one, etc. Unlike ArchetypeIcon below, this is driven
+// by an explicit field the summary author sets — not a guess from step text — so it
+// can't silently diverge between two steps that say almost the same thing.
+
+const CATEGORY_ICON_BG: Record<SummaryCategory | 'default', string> = {
+  medication: 'bg-purple-100 dark:bg-purple-900/40',
+  procedure: 'bg-orange-100 dark:bg-orange-900/40',
+  assessment: 'bg-teal-100 dark:bg-teal-900/40',
+  communication: 'bg-pink-100 dark:bg-pink-900/40',
+  decision: 'bg-gray-200 dark:bg-gray-700',
+  default: 'bg-gray-200 dark:bg-gray-700',
+};
+
+function CategoryIcon({ category }: { category?: SummaryCategory }) {
+  const bg = CATEGORY_ICON_BG[category ?? 'default'];
+  return (
+    <div className={`flex items-center justify-center rounded-xl flex-shrink-0 ${bg}`} style={{ width: 52, height: 52 }}>
+      <svg width="40" height="40" viewBox="0 0 24 24">
+        {category === 'medication' && (
+          <g transform="rotate(35 12 12)">
+            <rect x="2.5" y="8.5" width="19" height="7" rx="3.5" fill="#7F77DD" stroke="#3C3489" strokeWidth={1} />
+            <rect x="2.5" y="8.5" width="9.5" height="7" rx="3.5" fill="#3C3489" />
+            <line x1="12" y1="8.5" x2="12" y2="15.5" stroke="#EEEDFE" strokeWidth={0.8} />
+          </g>
+        )}
+        {category === 'procedure' && (
+          <path d="M10 4h4v6h6v4h-6v6h-4v-6H4v-4h6V4Z" fill="#D85A30" />
+        )}
+        {category === 'assessment' && (
+          <>
+            <path d="M12 21C7 17 2 13 2 8.5 2 5 5 3 8 3c2 0 3.5 1 4 2.5C12.5 4 14 3 16 3c3 0 6 2 6 5.5C22 13 17 17 12 21Z" fill="#1D9E75" />
+            <path d="M4 12h4l1.5-4.5 2 8 1.5-5.5 1.5 2h5" stroke="#E1F5EE" strokeWidth={1.8} fill="none" strokeLinecap="round" strokeLinejoin="round" />
+          </>
+        )}
+        {category === 'communication' && (
+          <path d="M6 3c-2 0-3 1-3 3 0 8 7 15 15 15 2 0 3-1 3-3v-2.3c0-.9-.6-1.6-1.4-1.8l-3.2-.8c-.7-.2-1.4.1-1.8.7l-.9 1.3c-2.2-1-4-2.8-5-5l1.3-.9c.6-.4.9-1.1.7-1.8L9.9 4.4C9.7 3.6 9 3 8.1 3H6Z" fill="#D4537E" />
+        )}
+        {category === 'decision' && (
+          <path d="M12 3v7M12 10 6 18M12 10l6 8" stroke="#444441" strokeWidth={4.2} fill="none" strokeLinecap="round" strokeLinejoin="round" />
+        )}
+        {!category && (
+          <path d="M4 12.5l5 5L20 6" stroke="#888780" strokeWidth={3.4} fill="none" strokeLinecap="round" strokeLinejoin="round" />
+        )}
+      </svg>
+    </div>
+  );
+}
+
+// ─── Archetype SVG icons (fallback for steps with no hand-authored summary) ───
 
 function ArchetypeIcon({ archetype, level }: { archetype: ArchetypeKey; level: string }) {
   const s = LEVEL_STYLES[level] ?? LEVEL_STYLES.ALL;
@@ -471,7 +523,7 @@ const ROUTE_COLORS: Record<string, string> = {
 function routePillsOf(text: string): React.ReactNode[] {
   return text.split(ROUTE_SPLIT_RE).map((part, i) =>
     ROUTE_COLORS[part]
-      ? <span key={i} className={`inline-block ${ROUTE_COLORS[part]} text-[11px] font-mono font-semibold px-1.5 py-px rounded mx-0.5 leading-none align-middle`}>{part}</span>
+      ? <span key={i} className={`inline-block ${ROUTE_COLORS[part]} text-[13px] font-mono font-bold px-2 py-0.5 rounded-md mx-0.5 leading-none align-middle`}>{part}</span>
       : part
   );
 }
@@ -481,11 +533,11 @@ function MedDetailLine({ line }: { line: string }) {
   const adultM = line.match(/^(Adult)\s*(\([^)]+\))?\s*:\s*(.+)/i);
   if (adultM) {
     return (
-      <div className="flex items-baseline gap-2">
-        <span className="shrink-0 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 text-[11px] font-bold px-1.5 py-0.5 rounded-md leading-none">
+      <div className="flex items-center gap-2.5 py-0.5">
+        <span className="shrink-0 bg-blue-100 dark:bg-blue-900/50 text-blue-700 dark:text-blue-300 text-[13px] font-bold px-2.5 py-1 rounded-lg leading-none">
           Adult{adultM[2] ? ` ${adultM[2]}` : ''}
         </span>
-        <span className="text-[14px] text-gray-600 dark:text-gray-300">{routePillsOf(adultM[3])}</span>
+        <span className="text-[15px] text-gray-700 dark:text-gray-200">{routePillsOf(adultM[3])}</span>
       </div>
     );
   }
@@ -495,12 +547,12 @@ function MedDetailLine({ line }: { line: string }) {
   if (pedsM) {
     const qualifier = pedsM[2]?.trim();
     return (
-      <div className="flex items-baseline gap-2">
-        <span className="shrink-0 inline-flex items-center gap-1 bg-emerald-100 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300 text-[11px] font-bold px-1.5 py-0.5 rounded-md leading-none whitespace-nowrap">
-          <Baby size={11} className="shrink-0" aria-hidden="true" />
+      <div className="flex items-center gap-2.5 py-0.5">
+        <span className="shrink-0 inline-flex items-center gap-1 bg-emerald-100 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300 text-[13px] font-bold px-2.5 py-1 rounded-lg leading-none whitespace-nowrap">
+          <Baby size={13} className="shrink-0" aria-hidden="true" />
           {qualifier ? `Peds ${qualifier}` : 'Peds'}
         </span>
-        <span className="text-[14px] text-gray-600 dark:text-gray-300">{routePillsOf(pedsM[3])}</span>
+        <span className="text-[15px] text-gray-700 dark:text-gray-200">{routePillsOf(pedsM[3])}</span>
       </div>
     );
   }
@@ -509,8 +561,8 @@ function MedDetailLine({ line }: { line: string }) {
   const drugM = line.match(/^([A-Za-z][^:]{2,25}):\s*(.+)/);
   if (drugM) {
     return (
-      <div className="text-[14px] text-gray-600 dark:text-gray-300">
-        <span className="font-semibold text-gray-800 dark:text-gray-100">{drugM[1]}:</span>{' '}
+      <div className="text-[15px] text-gray-700 dark:text-gray-200 py-0.5">
+        <span className="font-semibold text-gray-900 dark:text-gray-100">{drugM[1]}:</span>{' '}
         {routePillsOf(drugM[2])}
       </div>
     );
@@ -577,7 +629,7 @@ function RouteIconStack({ routes }: { routes: RouteIcon[] }) {
 
 // ─── Step card ─────────────────────────────────────────────────────────────
 
-function StepCard({ num, liHtml, level, summary }: { num: number; liHtml: string; level: string; summary?: { label: string; detail?: string } }) {
+function StepCard({ num, liHtml, level, summary }: { num: number; liHtml: string; level: string; summary?: StepSummary }) {
   const s = LEVEL_STYLES[level] ?? LEVEL_STYLES.ALL;
   const archetype = detectArchetype(liHtml);
   const isMatched = archetype.key !== 'default';
@@ -590,13 +642,15 @@ function StepCard({ num, liHtml, level, summary }: { num: number; liHtml: string
   const detailHtml = summary ? null : getDetailHtml(liHtml);
   const detailText = summary?.detail ?? null;
 
-  // Route icons only for unmatched steps without AI summary
+  // Route icons only for unmatched steps without a hand-authored summary
   const routes = (isMatched || summary) ? [] : detectRoutes(liHtml);
 
   return (
     <div className={`flex items-start gap-4 bg-white dark:bg-gray-800 rounded-xl shadow-sm border-l-4 ${s.border} p-4 mb-2.5 relative`}>
       <span className="absolute top-2 right-3 text-[11px] font-bold text-gray-400 opacity-40 select-none">{num}</span>
-      {routes.length > 0
+      {summary?.category
+        ? <CategoryIcon category={summary.category} />
+        : routes.length > 0
         ? <RouteIconStack routes={routes} />
         : <ArchetypeIcon archetype={archetype.key} level={level} />
       }
@@ -630,7 +684,7 @@ function LevelDivider({ level }: { level: string }) {
 
 // ─── Info card (for content/pearls sections) ───────────────────────────────
 
-function InfoCard({ html, level, summary }: { html: string; level: string; summary?: { label: string; detail?: string } }) {
+function InfoCard({ html, level, summary }: { html: string; level: string; summary?: StepSummary }) {
   const s = LEVEL_STYLES[level] ?? LEVEL_STYLES.ALL;
 
   if (summary) {
@@ -638,7 +692,7 @@ function InfoCard({ html, level, summary }: { html: string; level: string; summa
     const archetype = detectArchetype(html);
     return (
       <div className={`flex items-start gap-4 bg-white dark:bg-gray-800 rounded-xl shadow-sm border-l-4 ${s.border} p-4 mb-2.5`}>
-        <ArchetypeIcon archetype={archetype.key} level={level} />
+        {summary.category ? <CategoryIcon category={summary.category} /> : <ArchetypeIcon archetype={archetype.key} level={level} />}
         <div className="flex-1 min-w-0 pt-0.5">
           <p className="font-bold text-gray-900 dark:text-white text-[18px] leading-snug">{summary.label}</p>
           {summary.detail && <MedDetail text={summary.detail} />}
