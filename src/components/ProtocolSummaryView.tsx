@@ -710,15 +710,26 @@ function InfoCard({ html, level, summary }: { html: string; level: string; summa
   );
 }
 
+// Canonical EMT < Advanced EMT < Paramedic ordering — see levelRank in ProtocolPage.tsx for why.
+const LEVEL_RANK: Record<string, number> = {
+  EMT: 0,
+  EMT_ADVANCED_EMT: 0,
+  EMT_ADVANCED_EMT_PARAMEDIC: 0,
+  ADVANCED_EMT: 1,
+  ADVANCED_EMT_PARAMEDIC: 1,
+  PARAMEDIC: 2,
+};
+function levelRank(level: string): number {
+  return LEVEL_RANK[level] ?? 1;
+}
+
 // ─── Main component ────────────────────────────────────────────────────────
 
 export function ProtocolSummaryView({ protocol }: { protocol: Protocol }) {
-  // Group by provider level, ordered by first appearance in steps (ALL always leads, since
-  // it's conventionally the header/description block). Levels that only appear in standalone
-  // intro content (e.g. a PEARLS note with no matching steps) are appended last. This mirrors
-  // ProtocolPage.tsx's Full Text view so both views present content in the same order, and so
-  // intro text tagged for a specific level renders directly above that level's steps rather
-  // than always at the very top.
+  // Group by provider level, always in EMT → Advanced EMT → Paramedic order (ALL leads, as the
+  // header/description block) — matching the color bar that runs top-to-bottom on the source
+  // page regardless of which levels happen to have numbered steps. This mirrors ProtocolPage.tsx's
+  // Full Text view so both views present content in the same order.
   const seenLevels = new Set<string>();
   const levelOrder: string[] = [];
   const hasAll =
@@ -740,13 +751,19 @@ export function ProtocolSummaryView({ protocol }: { protocol: Protocol }) {
       levelOrder.push(item.providerLevel);
     }
   }
+  const restLevels = levelOrder.filter(l => l !== 'ALL');
+  restLevels.sort((a, b) => levelRank(a) - levelRank(b));
+  const sortedLevelOrder = hasAll ? ['ALL', ...restLevels] : restLevels;
 
-  const groups = levelOrder.map(level => ({
+  // PEARLS boxes are collected separately and rendered after every level group — in the source
+  // document they always sit below the whole EMT/AEMT/Paramedic color bar, never nested inside
+  // one level's colored region.
+  const groups = sortedLevelOrder.map(level => ({
     level,
     introItems: protocol.intro.filter(item => item.providerLevel === level && item.type !== 'pearls'),
-    pearlsItems: protocol.intro.filter(item => item.providerLevel === level && item.type === 'pearls'),
     steps: protocol.steps.filter(step => step.providerLevel === level),
   }));
+  const pearlsItems = protocol.intro.filter(item => item.type === 'pearls');
 
   return (
     <div>
@@ -765,19 +782,19 @@ export function ProtocolSummaryView({ protocol }: { protocol: Protocol }) {
           {group.steps.map((step, si) => (
             <StepCard key={`s-${step.num}-${si}`} num={step.num} liHtml={step.html} level={group.level} summary={step.summary} />
           ))}
-          {group.pearlsItems.map((pearl, pi) => (
-            <div key={`p-${pi}`} className="bg-amber-50 dark:bg-amber-900/10 border border-amber-200 dark:border-amber-800 rounded-xl p-4 mb-4 mt-3">
-              <div className="flex items-center gap-2 mb-3">
-                <span className="bg-gradient-to-r from-amber-500 to-yellow-400 text-white text-[10px] font-extrabold tracking-widest uppercase px-3 py-1.5 rounded-xl">
-                  {pearl.pearlsTitle ? `PEARLS: ${pearl.pearlsTitle}` : 'PEARLS'}
-                </span>
-              </div>
-              <div className="space-y-2">
-                <InfoCard html={pearl.html} level="PEARLS" />
-              </div>
-            </div>
-          ))}
         </React.Fragment>
+      ))}
+      {pearlsItems.map((pearl, pi) => (
+        <div key={`p-${pi}`} className="bg-amber-50 dark:bg-amber-900/10 border border-amber-200 dark:border-amber-800 rounded-xl p-4 mb-4">
+          <div className="flex items-center gap-2 mb-3">
+            <span className="bg-gradient-to-r from-amber-500 to-yellow-400 text-white text-[10px] font-extrabold tracking-widest uppercase px-3 py-1.5 rounded-xl">
+              {pearl.pearlsTitle ? `PEARLS: ${pearl.pearlsTitle}` : 'PEARLS'}
+            </span>
+          </div>
+          <div className="space-y-2">
+            <InfoCard html={pearl.html} level="PEARLS" />
+          </div>
+        </div>
       ))}
     </div>
   );

@@ -25,6 +25,21 @@ const LEVEL_STYLES: Record<string, { border: string; iconBg: string; pillGrad: s
   ALL:                         { border: 'border-l-gray-200',   iconBg: 'bg-gray-50 dark:bg-gray-800',        pillGrad: '',                                              label: '' },
 };
 
+// Canonical EMT < Advanced EMT < Paramedic ordering, used to sort provider-level groups so a
+// level with no steps of its own (e.g. an EMT-only intro note) still lands at its correct rank
+// instead of trailing after every level that does have steps.
+const LEVEL_RANK: Record<string, number> = {
+  EMT: 0,
+  EMT_ADVANCED_EMT: 0,
+  EMT_ADVANCED_EMT_PARAMEDIC: 0,
+  ADVANCED_EMT: 1,
+  ADVANCED_EMT_PARAMEDIC: 1,
+  PARAMEDIC: 2,
+};
+function levelRank(level: string): number {
+  return LEVEL_RANK[level] ?? 1;
+}
+
 export function ProtocolPage() {
   const { protocolId } = useParams<{ protocolId: string }>();
   const { protocol, loading, error } = useProtocol(protocolId);
@@ -241,12 +256,12 @@ export function ProtocolPage() {
       {/* Full Text view */}
       {viewMode === 'fulltext' && (
         <div onClick={handleProtocolClick}>
-          {/* Unified stream: intro items + steps, grouped by provider level.
-              Level order follows the sequence steps actually progress through (ALL always
-              leads, since it's conventionally the header/description block), so groups render
-              in the order the source document presents them even when a protocol interleaves
-              levels unusually. Levels that only appear in standalone intro content (e.g. a
-              PEARLS note with no matching steps) are appended last. */}
+          {/* Unified stream: intro items + steps, grouped by provider level, always in EMT →
+              Advanced EMT → Paramedic order (ALL leads, as the header/description block) —
+              matching the color bar that runs top-to-bottom on the source page regardless of
+              which levels happen to have numbered steps. A level with only intro content (no
+              steps of its own, e.g. an EMT-only "Transport Destination" note) still sorts to
+              its correct rank rather than trailing after every level that does have steps. */}
           {(() => {
             const seenLevels = new Set<string>();
             const levelOrder: string[] = [];
@@ -269,22 +284,26 @@ export function ProtocolPage() {
                 levelOrder.push(item.providerLevel);
               }
             }
+            const restLevels = levelOrder.filter(l => l !== 'ALL');
+            restLevels.sort((a, b) => levelRank(a) - levelRank(b));
+            const sortedLevelOrder = hasAll ? ['ALL', ...restLevels] : restLevels;
 
             // Build one group per level with all its intro items and steps. PEARLS items are
-            // pulled out of introItems and rendered after the numbered steps instead of before —
-            // in the source document PEARLS notes almost always follow that level's steps.
-            const groups = levelOrder.map(level => ({
+            // collected separately (not per group) and rendered as their own section after every
+            // level group — in the source document a PEARLS box always sits below the whole
+            // EMT/AEMT/Paramedic color bar, never nested inside one level's colored region.
+            const groups = sortedLevelOrder.map(level => ({
               level,
               introItems: protocol.intro.filter(item => item.providerLevel === level && item.type !== 'pearls'),
-              pearlsItems: protocol.intro.filter(item => item.providerLevel === level && item.type === 'pearls'),
               stepItems: protocol.steps.filter(step => step.providerLevel === level),
             }));
+            const pearlsItems = protocol.intro.filter(item => item.type === 'pearls');
 
-            return groups.map((group, gi) => {
+            return <>{groups.map((group, gi) => {
               const s = LEVEL_STYLES[group.level] ?? LEVEL_STYLES.ALL;
               const isHighlighted = providerLevel !== 'ALL' && levelIncludes(group.level, providerLevel);
               const colors = getProviderLevelColors(group.level);
-              const { introItems, pearlsItems, stepItems } = group;
+              const { introItems, stepItems } = group;
 
               return (
                 <React.Fragment key={gi}>
@@ -334,23 +353,24 @@ export function ProtocolPage() {
                         ))}
                       </ol>
                     )}
-                    {/* PEARLS notes for this level, in their original document position */}
-                    {pearlsItems.map((pearl, pi) => (
-                      <div key={`p-${pi}`} className="bg-amber-50 dark:bg-amber-900/10 border border-amber-200 dark:border-amber-800 rounded-xl p-4 mt-3">
-                        <div className="flex items-center gap-2 mb-3">
-                          <span className="bg-gradient-to-r from-amber-500 to-yellow-400 text-white text-[10px] font-extrabold tracking-widest uppercase px-3 py-1.5 rounded-xl shadow-sm">
-                            {pearl.pearlsTitle ? `PEARLS: ${pearl.pearlsTitle}` : 'PEARLS'}
-                          </span>
-                        </div>
-                        <div className="text-sm text-gray-700 dark:text-gray-300 space-y-2">
-                          {renderProtocolHtml(pearl.html)}
-                        </div>
-                      </div>
-                    ))}
                   </div>
                 </React.Fragment>
               );
-            });
+            })}
+            {/* PEARLS boxes always sit below the whole EMT/AEMT/Paramedic color bar in the
+                source document, never nested inside one level's colored region. */}
+            {pearlsItems.map((pearl, pi) => (
+              <div key={`p-${pi}`} className="bg-amber-50 dark:bg-amber-900/10 border border-amber-200 dark:border-amber-800 rounded-xl p-4 mb-4">
+                <div className="flex items-center gap-2 mb-3">
+                  <span className="bg-gradient-to-r from-amber-500 to-yellow-400 text-white text-[10px] font-extrabold tracking-widest uppercase px-3 py-1.5 rounded-xl shadow-sm">
+                    {pearl.pearlsTitle ? `PEARLS: ${pearl.pearlsTitle}` : 'PEARLS'}
+                  </span>
+                </div>
+                <div className="text-sm text-gray-700 dark:text-gray-300 space-y-2">
+                  {renderProtocolHtml(pearl.html)}
+                </div>
+              </div>
+            ))}</>;
           })()}
 
           {/* View Original buttons */}
