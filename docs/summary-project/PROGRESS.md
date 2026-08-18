@@ -3,7 +3,7 @@
 Tracks per-protocol progress on rewriting Summary-tab step summaries (see STYLE_GUIDE.md).
 Status: `pending` / `in-progress` / `done`. Update this file as each protocol is completed and commit alongside the data change.
 
-**126 protocols total. 9 done.**
+**126 protocols total. 11 done.**
 
 | status | id | title | steps | pearls | meds |
 |---|---|---|---|---|---|
@@ -22,9 +22,9 @@ Status: `pending` / `in-progress` / `done`. Update this file as each protocol is
 | done | `blue_036_037` | Tracheostomy Care | 18 | 2 | yes |
 | pending | `red_038` | Chest Pain - General | 0 | 0 |  |
 | done | `red_039_040_041` | Chest Pain - Suspected Cardiac Origin / STEMI Criteria | 17 | 0 | yes |
-| pending | `red_042` | Guidelines to the Prehospital Use of 12-Lead ECGs by the ALS Clinician | 4 | 0 |  |
+| done | `red_042` | Guidelines to the Prehospital Use of 12-Lead ECGs by the ALS Clinician | 4 | 0 |  |
 | pending | `red_043` | Chest Pain - Fibrinolytic Checklist | 0 | 0 |  |
-| pending | `red_044` | Chest Pain - Uncertain Etiology | 10 | 0 |  |
+| done | `red_044` | Chest Pain - Uncertain Etiology | 10 | 0 |  |
 | pending | `red_045` | Cardiac Arrest Overview | 0 | 0 |  |
 | pending | `red_046_047_048_049` | Adult Cardiac Arrest | 26 | 2 | yes |
 | pending | `red_050` | Refractory VF / VT | 3 | 0 |  |

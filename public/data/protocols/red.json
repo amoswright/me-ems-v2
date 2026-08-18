@@ -293,22 +293,42 @@
       {
         "num": 1,
         "providerLevel": "ALL",
-        "html": "Prehospital 12-lead ECG is now a standard of care for increasing diagnostic information regarding the chest pain/cardiac arrest patient"
+        "html": "Prehospital 12-lead ECG is now a standard of care for increasing diagnostic information regarding the chest pain/cardiac arrest patient",
+        "summary": {
+          "label": "Standard of Care",
+          "category": "assessment",
+          "detail": "12-lead ECG for chest pain / cardiac arrest patients"
+        }
       },
       {
         "num": 2,
         "providerLevel": "ALL",
-        "html": "Acquisition of a 12-lead ECG should be done in all patients with chest pain or a potential cardiac complaint/diagnosis such as syncope or shortness of breath. Given the frequency of atypical presentation in the elderly, responders must have a high index of suspicion in the elderly patient"
+        "html": "Acquisition of a 12-lead ECG should be done in all patients with chest pain or a potential cardiac complaint/diagnosis such as syncope or shortness of breath. Given the frequency of atypical presentation in the elderly, responders must have a high index of suspicion in the elderly patient",
+        "summary": {
+          "label": "Who Gets a 12-Lead",
+          "category": "assessment",
+          "detail": "Chest pain, syncope, SOB \u2014 high suspicion in elderly (atypical presentation)"
+        }
       },
       {
         "num": 3,
         "providerLevel": "ALL",
-        "html": "Transmission of 12-lead ECG or presentation of prehospital 12-lead ECG to treating clinicians at the receiving ED is intended to augment patient triage and facilitate rapid identification of a potential thrombolytic or emergent catheterization candidate"
+        "html": "Transmission of 12-lead ECG or presentation of prehospital 12-lead ECG to treating clinicians at the receiving ED is intended to augment patient triage and facilitate rapid identification of a potential thrombolytic or emergent catheterization candidate",
+        "summary": {
+          "label": "Transmit/Present to ED",
+          "category": "communication",
+          "detail": "Augments triage; helps identify thrombolytic/cath candidates"
+        }
       },
       {
         "num": 4,
         "providerLevel": "ALL",
-        "html": "In the case of STEMI, notify the receiving ED immediately"
+        "html": "In the case of STEMI, notify the receiving ED immediately",
+        "summary": {
+          "label": "Notify ED (STEMI)",
+          "category": "communication",
+          "detail": "Notify receiving ED immediately"
+        }
       }
     ],
     "pearls": [],
@@ -386,52 +406,96 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "Administer O2 only to patients with dyspnea, hypoxia (SpO2 less than 94%), or signs of heart failure at a rate to keep O2 sats greater than or equal to 94% and less than 99% (avoid hyperoxia)."
+        "html": "Administer O2 only to patients with dyspnea, hypoxia (SpO2 less than 94%), or signs of heart failure at a rate to keep O2 sats greater than or equal to 94% and less than 99% (avoid hyperoxia).",
+        "summary": {
+          "label": "Titrated O\u2082 (if indicated)",
+          "category": "medication",
+          "detail": "Only if dyspnea, SpO2<94%, or HF signs; target 94-99%"
+        }
       },
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "Transport in position of comfort."
+        "html": "Transport in position of comfort.",
+        "summary": {
+          "label": "Transport (Position of Comfort)",
+          "category": "communication"
+        }
       },
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "Request ALS."
+        "html": "Request ALS.",
+        "summary": {
+          "label": "Request ALS",
+          "category": "communication"
+        }
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "If available and so trained, perform 12-lead ECG. EMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the EMT in obtaining the 12-lead ECG is to present it to the Paramedic and/or receiving facility."
+        "html": "If available and so trained, perform 12-lead ECG. EMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the EMT in obtaining the 12-lead ECG is to present it to the Paramedic and/or receiving facility.",
+        "summary": {
+          "label": "12-Lead ECG",
+          "category": "assessment",
+          "detail": "EMT: obtain and present to Paramedic/facility, not for interpretation"
+        }
       },
       {
         "num": 5,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Establish IV at TKO."
+        "html": "Establish IV at TKO.",
+        "summary": {
+          "label": "Establish IV (TKO)",
+          "category": "procedure",
+          "detail": "IV, TKO rate"
+        }
       },
       {
         "num": 6,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Request ALS."
+        "html": "Request ALS.",
+        "summary": {
+          "label": "Request ALS",
+          "category": "communication"
+        }
       },
       {
         "num": 7,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Cardiac monitor and 12-lead ECG. AEMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the AEMT in obtaining the 12-lead ECG is to present it to the Paramedic and/or receiving facility."
+        "html": "Cardiac monitor and 12-lead ECG. AEMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the AEMT in obtaining the 12-lead ECG is to present it to the Paramedic and/or receiving facility.",
+        "summary": {
+          "label": "Cardiac Monitor + 12-Lead ECG",
+          "category": "assessment",
+          "detail": "AEMT: obtain/present, not for interpretation"
+        }
       },
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "If 12-lead ECG indicates STEMI, refer to Chest Pain-Suspected Cardiac Origin protocol, Red 2."
+        "html": "If 12-lead ECG indicates STEMI, refer to Chest Pain-Suspected Cardiac Origin protocol, Red 2.",
+        "summary": {
+          "label": "STEMI? Refer to Red 2",
+          "category": "decision"
+        }
       },
       {
         "num": 9,
         "providerLevel": "PARAMEDIC",
-        "html": "For chest pain in a stable patient with normal level of consciousness, refer to the Universal Pain Management protocol, Green 18 for analgesia options."
+        "html": "For chest pain in a stable patient with normal level of consciousness, refer to the Universal Pain Management protocol, Green 18 for analgesia options.",
+        "summary": {
+          "label": "Pain? Refer to Green 18",
+          "category": "decision"
+        }
       },
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "For nausea and vomiting, refer to the Nausea and Vomiting protocol, Gold 18."
+        "html": "For nausea and vomiting, refer to the Nausea and Vomiting protocol, Gold 18.",
+        "summary": {
+          "label": "N/V? Refer to Gold 18",
+          "category": "decision"
+        }
       }
     ],
     "pearls": [],
