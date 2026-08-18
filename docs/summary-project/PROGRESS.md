@@ -3,13 +3,13 @@
 Tracks per-protocol progress on rewriting Summary-tab step summaries (see STYLE_GUIDE.md).
 Status: `pending` / `in-progress` / `done`. Update this file as each protocol is completed and commit alongside the data change.
 
-**126 protocols total. 1 done.**
+**126 protocols total. 2 done.**
 
 | status | id | title | steps | pearls | meds |
 |---|---|---|---|---|---|
 | pending | `brown_009_010_011_012_013_014` | Foreword | 2 | 0 |  |
 | pending | `purple_015_016_017_018_019_020_021_022` | Definitions | 2 | 0 | yes |
-| pending | `blue_023` | Pre-Intubation Checklist | 7 | 0 |  |
+| done | `blue_023` | Pre-Intubation Checklist | 7 | 0 |  |
 | pending | `blue_024` | Airway Algorithm | 0 | 0 |  |
 | pending | `blue_025` | Confirmation and Monitoring of Advanced Airways | 5 | 0 |  |
 | pending | `blue_026` | Failed Intubation Algorithm | 0 | 0 |  |

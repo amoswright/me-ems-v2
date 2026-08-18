@@ -14,37 +14,65 @@
       {
         "num": 1,
         "providerLevel": "ALL",
-        "html": "<strong>Airway adjuncts ready</strong>"
+        "html": "<strong>Airway adjuncts ready</strong>",
+        "summary": {
+          "label": "Airway Adjuncts Ready",
+          "category": "assessment"
+        }
       },
       {
         "num": 2,
         "providerLevel": "ALL",
-        "html": "<strong>Intubation equipment ready</strong>"
+        "html": "<strong>Intubation equipment ready</strong>",
+        "summary": {
+          "label": "Intubation Equipment Ready",
+          "category": "assessment"
+        }
       },
       {
         "num": 3,
         "providerLevel": "ALL",
-        "html": "<strong>Back-up equipment ready</strong>"
+        "html": "<strong>Back-up equipment ready</strong>",
+        "summary": {
+          "label": "Back-up Equipment Ready",
+          "category": "assessment"
+        }
       },
       {
         "num": 4,
         "providerLevel": "ALL",
-        "html": "<strong>Team ready</strong>"
+        "html": "<strong>Team ready</strong>",
+        "summary": {
+          "label": "Team Ready",
+          "category": "assessment"
+        }
       },
       {
         "num": 5,
         "providerLevel": "ALL",
-        "html": "<strong>Plan discussed</strong>"
+        "html": "<strong>Plan discussed</strong>",
+        "summary": {
+          "label": "Plan Discussed",
+          "category": "assessment"
+        }
       },
       {
         "num": 6,
         "providerLevel": "ALL",
-        "html": "<strong>Patient ready</strong>"
+        "html": "<strong>Patient ready</strong>",
+        "summary": {
+          "label": "Patient Ready",
+          "category": "assessment"
+        }
       },
       {
         "num": 7,
         "providerLevel": "ALL",
-        "html": "<strong>Post-intubation medications ready</strong>"
+        "html": "<strong>Post-intubation medications ready</strong>",
+        "summary": {
+          "label": "Post-Intubation Meds Ready",
+          "category": "assessment"
+        }
       }
     ],
     "pearls": [],
