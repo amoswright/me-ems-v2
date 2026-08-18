@@ -15,14 +15,15 @@
         "html": "<p><strong>The cardiac monitor/defibrillator should be brought to the patient's side during the initial assessment.</strong></p>"
       },
       {
-        "type": "list",
+        "type": "mermaid",
         "providerLevel": "ALL",
-        "html": "<ul>\n<li><strong>Chest Pain</strong><ul>\n<li>Suspected Cardiac Origin, follow <strong>Red 2</strong></li>\n<li>Traumatic, follow Chest Trauma protocol, <strong>Green 7</strong></li>\n<li>Uncertain Etiology, follow <strong>Red 7</strong></li>\n</ul>\n</li>\n</ul>"
+        "html": "<mermaid>\nflowchart TD\n    CP[Chest Pain] --> CARDIAC[Suspected Cardiac Origin, follow Red 2]\n    CP --> TRAUMA[Traumatic, follow Chest Trauma protocol, Green 7]\n    CP --> UNCERTAIN[Uncertain Etiology, follow Red 7]\n</mermaid>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ALL",
-        "html": "<blockquote>\n<p>Consider cardiac origin chest pain in the following:\n* Chest pain or discomfort in other areas of the body (e.g., arm, jaw, epigastrium), shortness of breath, sweating, nausea, vomiting and dizziness.\n* Atypical or unusual symptoms are more common in women, the elderly and patients with diabetes. May also present with CHF, syncope and/or shock.</p>\n</blockquote>"
+        "html": "<ul>\n<li>Chest pain or discomfort in other areas of the body (e.g., arm, jaw, epigastrium), shortness of breath, sweating, nausea, vomiting and dizziness.</li>\n<li>Atypical or unusual symptoms are more common in women, the elderly and patients with diabetes. May also present with CHF, syncope and/or shock.</li>\n</ul>",
+        "pearlsTitle": null
       }
     ],
     "steps": [],
