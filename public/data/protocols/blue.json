@@ -94,93 +94,17 @@
     "category": "blue",
     "intro": [
       {
-        "type": "content",
+        "type": "mermaid",
         "providerLevel": "ALL",
-        "html": "<p>Place Advanced Airway</p>"
+        "html": "<mermaid>\nflowchart TD\n    START[Place Advanced Airway]\n    START --> CONFIRM[Confirm ETT or Blind Insertion Airway Device placement with continuous wave form capnography.*<br/>AND<br/>Confirm ETT and BIAD placement with physical exam, including absence of sounds over the epigastrium, presence of symmetric bilateral breath sounds, etc.]\n    CONFIRM --> CORRECT[ETT/BIAD placement correct]\n    CONFIRM --> UNCERTAIN[ETT/BIAD placement uncertain or equivocal findings for confirmation]\n    CONFIRM --> INCORRECT[ETT/BIAD placement incorrect]\n    CORRECT --> SECURE[Secure ETT/BIAD in place]\n    UNCERTAIN --> VIZ{Immediate direct visualization of ETT/BIAD through vocal cords?**}\n    VIZ -->|Yes| SECURE\n    VIZ -->|No| REMOVE[Remove ETT/BIAD and ventilate via BVM]\n    INCORRECT --> REMOVE\n    SECURE --> MONITOR[Continue EtCO2 monitoring en route to hospital and repeated evaluation of ETT/BIAD placement via breath sounds assessment]\n    REMOVE --> RETRY[Attempt correct ETT/BIAD placement or continue BVM ventilation]\n</mermaid>"
       },
       {
         "type": "content",
         "providerLevel": "ALL",
-        "html": "<p>\u2193</p>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p>Confirm ETT or Blind Insertion Airway Device placement with continuous wave form capnography.*\n<strong>AND</strong>\nConfirm ETT and BIAD placement with physical exam, including absence of sounds over the epigastrium, presence of symmetric bilateral breath sounds, etc.</p>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<hr/>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p><strong>ETT/BIAD placement correct</strong></p>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<hr/>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p><strong>ETT/BIAD placement uncertain or equivocal findings for confirmation</strong></p>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<hr/>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p><strong>ETT/BIAD placement incorrect</strong></p>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<hr/>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p>* For cardiac arrest patients, consider placement of the ETT/BIAD as well as lack of pulmonary circulation in the interpretation of EtCO2 findings.</p>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p>** Nasotracheally-intubated patients should be assumed to have incorrect ETT/BIAD placement if findings of breath sounds or EtCO2 results are uncertain or equivocal</p>"
+        "html": "<p>* For cardiac arrest patients, consider placement of the ETT/BIAD as well as lack of pulmonary circulation in the interpretation of EtCO2 findings.</p>\n<p>** Nasotracheally-intubated patients should be assumed to have incorrect ETT/BIAD placement if findings of breath sounds or EtCO2 results are uncertain or equivocal.</p>"
       }
     ],
-    "steps": [
-      {
-        "num": 1,
-        "providerLevel": "ALL",
-        "html": "Secure ETT/BIAD in place"
-      },
-      {
-        "num": 2,
-        "providerLevel": "ALL",
-        "html": "Continue EtCO2 monitoring en route to hospital and repeated evaluation of ETT/BIAD placement via breath sounds assessment"
-      },
-      {
-        "num": 3,
-        "providerLevel": "ALL",
-        "html": "Immediate direct visualization of ETT/BIAD through vocal cords?**<ul><li><strong>Yes</strong>: Secure ETT/BIAD in place</li><li><strong>No</strong>: Remove ETT/BIAD and ventilate via BVM -&gt; Attempt correct ETT/BIAD placement or continue BVM ventilation</li></ul>"
-      },
-      {
-        "num": 4,
-        "providerLevel": "ALL",
-        "html": "Remove ETT/BIAD and ventilate via BVM"
-      },
-      {
-        "num": 5,
-        "providerLevel": "ALL",
-        "html": "Attempt correct ETT/BIAD placement or continue BVM ventilation"
-      }
-    ],
+    "steps": [],
     "pearls": [],
     "pages": [
       {
