@@ -3,7 +3,7 @@
 Tracks per-protocol progress on rewriting Summary-tab step summaries (see STYLE_GUIDE.md).
 Status: `pending` / `in-progress` / `done`. Update this file as each protocol is completed and commit alongside the data change.
 
-**126 protocols total. 7 done.**
+**126 protocols total. 8 done.**
 
 | status | id | title | steps | pearls | meds |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@ Status: `pending` / `in-progress` / `done`. Update this file as each protocol is
 | done | `blue_032` | Pulmonary Edema (without shock) | 13 | 0 | yes |
 | done | `blue_033` | Pulmonary Hypertension Complications | 4 | 1 |  |
 | done | `blue_034_035` | Surgical Cricothyrotomy | 20 | 0 |  |
-| pending | `blue_036_037` | Tracheostomy Care | 18 | 2 | yes |
+| done | `blue_036_037` | Tracheostomy Care | 18 | 2 | yes |
 | pending | `red_038` | Chest Pain - General | 0 | 0 |  |
 | pending | `red_039_040_041` | Chest Pain - Suspected Cardiac Origin / STEMI Criteria | 17 | 0 | yes |
 | pending | `red_042` | Guidelines to the Prehospital Use of 12-Lead ECGs by the ALS Clinician | 4 | 0 |  |
