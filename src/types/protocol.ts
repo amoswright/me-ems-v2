@@ -56,7 +56,10 @@ export interface ProtocolStep {
 
 // Non-step content (intro text, mermaid diagrams, tables, bullet lists)
 export interface ProtocolIntroItem {
-  type: 'content' | 'mermaid' | 'table' | 'list' | 'tool' | 'pearls';
+  // 'note' = an internal editorial flag (e.g. a source-document discrepancy worth a second
+  // look), NOT official protocol content — rendered distinctly from 'pearls' so it's never
+  // mistaken for clinical guidance.
+  type: 'content' | 'mermaid' | 'table' | 'list' | 'tool' | 'pearls' | 'note';
   providerLevel: ProviderLevel;
   html: string;
   tool?: string;           // interactive tool id, e.g. 'stroke-fast'

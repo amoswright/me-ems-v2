@@ -760,10 +760,11 @@ export function ProtocolSummaryView({ protocol }: { protocol: Protocol }) {
   // one level's colored region.
   const groups = sortedLevelOrder.map(level => ({
     level,
-    introItems: protocol.intro.filter(item => item.providerLevel === level && item.type !== 'pearls'),
+    introItems: protocol.intro.filter(item => item.providerLevel === level && item.type !== 'pearls' && item.type !== 'note'),
     steps: protocol.steps.filter(step => step.providerLevel === level),
   }));
   const pearlsItems = protocol.intro.filter(item => item.type === 'pearls');
+  const noteItems = protocol.intro.filter(item => item.type === 'note');
 
   return (
     <div>
@@ -793,6 +794,18 @@ export function ProtocolSummaryView({ protocol }: { protocol: Protocol }) {
           </div>
           <div className="space-y-2">
             <InfoCard html={pearl.html} level="PEARLS" />
+          </div>
+        </div>
+      ))}
+      {noteItems.map((note, ni) => (
+        <div key={`n-${ni}`} className="bg-gray-50 dark:bg-gray-800/60 border border-dashed border-gray-300 dark:border-gray-600 rounded-xl p-4 mb-4">
+          <div className="flex items-center gap-2 mb-2">
+            <span className="text-[10px] font-extrabold tracking-widest uppercase text-gray-500 dark:text-gray-400">
+              Note to self
+            </span>
+          </div>
+          <div className="text-sm text-gray-600 dark:text-gray-400 italic space-y-2">
+            {renderProtocolHtml(note.html)}
           </div>
         </div>
       ))}

@@ -279,6 +279,11 @@
         "providerLevel": "ALL",
         "html": "<ul>\n<li>Remember to obtain APGAR scores at 1 and 5 minutes on baby, see <strong>Lavender 4</strong></li>\n<li><strong>NEVER GIVE NALOXONE TO A NEONATE</strong></li>\n<li>In neonates, ventilation and oxygenation may increase heart rate in properly placed advanced airways sooner than chest compressions.</li>\n<li>In a newborn, the SpO2 monitor should be placed on the RIGHT hand</li>\n<li>In a newborn, goal Peak Inspiratory Pressure should be 20 cmH2O with 5 cmH2O of PEEP (<strong>Paramedic</strong> level, if certified by NRP, or equivalent training, credentialed by their service-level medical director, and properly equipped).</li>\n<li>In a newborn, use 3:1 compression-to-ventilation ratio with a pause for ventilation, even with a BIAD or ETT</li>\n</ul>",
         "pearlsTitle": null
+      },
+      {
+        "type": "note",
+        "providerLevel": "ALL",
+        "html": "<p>The third \"HR below 60?\" check (after chest compressions begin) has a \"No\" arrow in the source PDF that loops back into Chest compressions rather than exiting the loop. This looks like a labeling error in the original protocol document &#8212; standard NRP logic says HR &#8805; 60 should stop compressions, not restart them. Represented here exactly as drawn since the source PDF is the transcription authority, but flagged for review against the physical protocol book.</p>"
       }
     ],
     "steps": [],
