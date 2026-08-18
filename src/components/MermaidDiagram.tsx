@@ -6,7 +6,6 @@ interface MermaidDiagramProps {
 }
 
 export function MermaidDiagram({ content, id }: MermaidDiagramProps) {
-  console.log('🎨 MermaidDiagram rendered with content:', content?.substring(0, 100));
   const containerRef = useRef<HTMLDivElement>(null);
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
@@ -36,23 +35,16 @@ export function MermaidDiagram({ content, id }: MermaidDiagramProps) {
     let mounted = true;
 
     const renderDiagram = async () => {
-      console.log('🎨 renderDiagram called with content:', content?.substring(0, 100));
-      if (!containerRef.current) {
-        console.log('❌ containerRef.current is null');
-        return;
-      }
+      if (!containerRef.current) return;
 
       try {
         setIsLoading(true);
         setError(null);
 
         // Dynamically import mermaid
-        console.log('📦 Importing mermaid...');
         const mermaid = (await import('mermaid')).default;
-        console.log('✅ Mermaid imported successfully');
 
         // Initialize mermaid with theme-aware colors
-        console.log('🎨 Initializing mermaid with theme:', isDarkMode ? 'dark' : 'light');
         if (isDarkMode) {
           // Dark mode theme
           mermaid.initialize({
@@ -120,47 +112,31 @@ export function MermaidDiagram({ content, id }: MermaidDiagramProps) {
             },
           });
         }
-        console.log('✅ Mermaid initialized successfully');
-
         // Generate unique ID for this diagram
         const diagramId = id || `mermaid-${Math.random().toString(36).substr(2, 9)}`;
-        console.log('🆔 Generated diagram ID:', diagramId);
-        console.log('📝 Content to render (first 200 chars):', content.substring(0, 200));
 
         // Render the diagram
-        console.log('🎨 Calling mermaid.render()...');
         const { svg } = await mermaid.render(diagramId, content);
-        console.log('✅ mermaid.render() completed, SVG length:', svg.length);
 
         if (mounted && containerRef.current) {
-          console.log('📄 Setting innerHTML with SVG...');
           containerRef.current.innerHTML = svg;
-          console.log('✅ innerHTML set successfully');
 
           // Manipulate SVG for mobile readability
-          console.log('🔧 Manipulating SVG for responsive display...');
           const svgElement = containerRef.current.querySelector('svg');
           if (svgElement) {
-            // Keep viewBox for responsive scaling, but make SVG fit container width
+            // Keep viewBox for responsive scaling, but make SVG fit container width.
+            // Height must stay off the attribute (SVG height="auto" is invalid, unlike CSS) —
+            // the style override below is enough to size it responsively.
             svgElement.setAttribute('width', '100%');
-            svgElement.setAttribute('height', 'auto');
+            svgElement.removeAttribute('height');
             svgElement.style.maxWidth = '100%';
             svgElement.style.height = 'auto';
-            console.log('✅ SVG manipulation complete');
           }
 
-          console.log('✅ Setting isLoading to false');
           setIsLoading(false);
         }
       } catch (err) {
-        console.error('❌ Mermaid rendering error:', err);
-        console.error('❌ Error type:', typeof err);
-        console.error('❌ Error instanceof Error:', err instanceof Error);
-        if (err instanceof Error) {
-          console.error('❌ Error message:', err.message);
-          console.error('❌ Error stack:', err.stack);
-        }
-        console.error('❌ Content that failed:', content);
+        console.error('Mermaid rendering error:', err);
         if (mounted) {
           setError(err instanceof Error ? err.message : 'Failed to render diagram');
           setIsLoading(false);
