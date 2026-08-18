@@ -189,22 +189,41 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "Minimize stimulation"
+        "html": "Minimize stimulation",
+        "summary": {
+          "label": "Minimize Stimulation",
+          "category": "procedure"
+        }
       },
       {
         "num": 2,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Place IV for anticipated medication administration."
+        "html": "Place IV for anticipated medication administration.",
+        "summary": {
+          "label": "Establish IV",
+          "detail": "IV",
+          "category": "procedure"
+        }
       },
       {
         "num": 3,
         "providerLevel": "PARAMEDIC",
-        "html": "Pain control<ol type=\"a\"><li><strong>Adult &amp; Pediatric</strong>: Fentanyl 0.5 - 1 mcg/kg <strong>IV/IO</strong>, may repeat every 15 minutes to a MAX cumulative dose of 5 mcg/kg.</li></ol>"
+        "html": "Pain control<ol type=\"a\"><li><strong>Adult &amp; Pediatric</strong>: Fentanyl 0.5 - 1 mcg/kg <strong>IV/IO</strong>, may repeat every 15 minutes to a MAX cumulative dose of 5 mcg/kg.</li></ol>",
+        "summary": {
+          "label": "Fentanyl (Pain Control)",
+          "category": "medication",
+          "detail": "Adult: 0.5-1 mcg/kg IV/IO\nPeds: 0.5-1 mcg/kg IV/IO\nRepeat q15min (max 5 mcg/kg cumulative)"
+        }
       },
       {
         "num": 4,
         "providerLevel": "PARAMEDIC",
-        "html": "Anxiolysis - After adequate pain control, if the patient continues to have signs of inadequate sedation (including eye opening, coughing or gagging, sweating, tearing, new or worsening hypertension and/or tachycardia, tachypnea, or attempts to self-extubate) and the patient is NOT hypotensive, consider <strong>ONE</strong> of the following options:<ol type=\"a\"><li>Midazolam<ol type=\"i\"><li><strong>Adult</strong>: 0.5 - 2.5 mg <strong>IV/IO</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 5 mg OR 1-5 mg <strong>IM</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 10 mg.</li><li><strong>Pediatric</strong>:<ol><li><strong>6 months - 12 years</strong>: 0.05 mg/kg <strong>IV/IO</strong>, may repeat every 5 minutes to a MAX cumulative dose of 5 mg.</li><li><strong>6 months - 12 years</strong>: 0.1 mg/kg <strong>IM</strong> (MAX single dose 5 mg), may repeat every 5 minutes to a maximum cumulative dose of 10 mg. <strong>-OR-</strong></li></ol></li></ol></li><li>Ketamine (<strong>Adult ONLY</strong>)<ol type=\"i\"><li>0.2 mg/kg <strong>IV/IO</strong>, max single dose of 25 mg. Mix in 100 mL bag of saline and infuse over 10 minutes via a pump. May repeat x 1 in 5 minutes.</li><li>0.4 mg/kg <strong>IM</strong>, max single dose 50 mg. May repeat x 1 in 10 minutes.</li></ol></li></ol>"
+        "html": "Anxiolysis - After adequate pain control, if the patient continues to have signs of inadequate sedation (including eye opening, coughing or gagging, sweating, tearing, new or worsening hypertension and/or tachycardia, tachypnea, or attempts to self-extubate) and the patient is NOT hypotensive, consider <strong>ONE</strong> of the following options:<ol type=\"a\"><li>Midazolam<ol type=\"i\"><li><strong>Adult</strong>: 0.5 - 2.5 mg <strong>IV/IO</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 5 mg OR 1-5 mg <strong>IM</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 10 mg.</li><li><strong>Pediatric</strong>:<ol><li><strong>6 months - 12 years</strong>: 0.05 mg/kg <strong>IV/IO</strong>, may repeat every 5 minutes to a MAX cumulative dose of 5 mg.</li><li><strong>6 months - 12 years</strong>: 0.1 mg/kg <strong>IM</strong> (MAX single dose 5 mg), may repeat every 5 minutes to a maximum cumulative dose of 10 mg. <strong>-OR-</strong></li></ol></li></ol></li><li>Ketamine (<strong>Adult ONLY</strong>)<ol type=\"i\"><li>0.2 mg/kg <strong>IV/IO</strong>, max single dose of 25 mg. Mix in 100 mL bag of saline and infuse over 10 minutes via a pump. May repeat x 1 in 5 minutes.</li><li>0.4 mg/kg <strong>IM</strong>, max single dose 50 mg. May repeat x 1 in 10 minutes.</li></ol></li></ol>",
+        "summary": {
+          "label": "Anxiolysis Options",
+          "category": "medication",
+          "detail": "Adult: Midazolam 0.5-2.5 mg IV/IO q5min (max 5mg cumulative)\nAdult: Midazolam 1-5 mg IM q5min (max 10mg cumulative)\nPeds 6mo-12yr: Midazolam 0.05 mg/kg IV/IO q5min (max 5mg cumulative)\nPeds 6mo-12yr: Midazolam 0.1 mg/kg IM (max single 5mg) q5min (max 10mg cumulative)\nAdult: Ketamine 0.2 mg/kg IV/IO (max single 25mg) over 10min via pump, repeat x1 in 5min\nAdult: Ketamine 0.4 mg/kg IM (max single 50mg), repeat x1 in 10min"
+        }
       }
     ],
     "pearls": [],
@@ -392,17 +411,31 @@
       {
         "num": 1,
         "providerLevel": "EMT_ADVANCED_EMT_PARAMEDIC",
-        "html": "Attempt coaching."
+        "html": "Attempt coaching.",
+        "summary": {
+          "label": "Coaching",
+          "category": "procedure"
+        }
       },
       {
         "num": 2,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "If CPAP causing nausea and bloating, consider ondansetron, see Nausea and Vomiting protocol, <strong>Gold 18</strong>."
+        "html": "If CPAP causing nausea and bloating, consider ondansetron, see Nausea and Vomiting protocol, <strong>Gold 18</strong>.",
+        "summary": {
+          "label": "Ondansetron (if nausea)",
+          "category": "medication",
+          "detail": "See Nausea/Vomiting protocol, Gold 18"
+        }
       },
       {
         "num": 3,
         "providerLevel": "PARAMEDIC",
-        "html": "If unable to achieve sufficient anxiolysis to tolerate CPAP with coaching, contact OLMC for ONE of the following anxiolytics:<ol type=\"a\"><li>Midazolam<ol type=\"i\"><li>0.5 - 2.5 mg <strong>IV/IO</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 5 mg.</li><li>1-5 mg <strong>IM</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 10 mg. <strong>-OR-</strong></li></ol></li><li>Ketamine<ol type=\"i\"><li>0.2 mg/kg <strong>IV/IO</strong>, MAX single dose of 25 mg. Mix in 100 mL bag of saline and infuse over 10 minutes via a pump. May repeat x 1 in 5 minutes.</li><li>0.4 mg/kg <strong>IM</strong>, MAX single dose 50 mg. May repeat x 1 in 10 minutes.</li></ol></li></ol>"
+        "html": "If unable to achieve sufficient anxiolysis to tolerate CPAP with coaching, contact OLMC for ONE of the following anxiolytics:<ol type=\"a\"><li>Midazolam<ol type=\"i\"><li>0.5 - 2.5 mg <strong>IV/IO</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 5 mg.</li><li>1-5 mg <strong>IM</strong> every 5 minutes, may repeat x 3 to a MAX cumulative dose of 10 mg. <strong>-OR-</strong></li></ol></li><li>Ketamine<ol type=\"i\"><li>0.2 mg/kg <strong>IV/IO</strong>, MAX single dose of 25 mg. Mix in 100 mL bag of saline and infuse over 10 minutes via a pump. May repeat x 1 in 5 minutes.</li><li>0.4 mg/kg <strong>IM</strong>, MAX single dose 50 mg. May repeat x 1 in 10 minutes.</li></ol></li></ol>",
+        "summary": {
+          "label": "Anxiolysis Options (via OLMC)",
+          "category": "medication",
+          "detail": "Midazolam: 0.5-2.5 mg IV/IO q5min (max 5mg)\nMidazolam: 1-5 mg IM q5min (max 10mg)\nKetamine: 0.2 mg/kg IV/IO (max 25mg) over 10min via pump, repeat x1 in 5min\nKetamine: 0.4 mg/kg IM (max 50mg), repeat x1 in 10min"
+        }
       }
     ],
     "pearls": [],
@@ -547,22 +580,38 @@
       {
         "num": 1,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Establish peripheral access."
+        "html": "Establish peripheral access.",
+        "summary": {
+          "label": "Establish Peripheral IV",
+          "category": "procedure"
+        }
       },
       {
         "num": 2,
         "providerLevel": "PARAMEDIC",
-        "html": "Verify the patient's medication and dose."
+        "html": "Verify the patient's medication and dose.",
+        "summary": {
+          "label": "Verify Medication & Dose",
+          "category": "assessment"
+        }
       },
       {
         "num": 3,
         "providerLevel": "PARAMEDIC",
-        "html": "Re-initiate the patient's medication through the newly-established peripheral access."
+        "html": "Re-initiate the patient's medication through the newly-established peripheral access.",
+        "summary": {
+          "label": "Re-initiate Medication",
+          "category": "medication"
+        }
       },
       {
         "num": 4,
         "providerLevel": "PARAMEDIC",
-        "html": "Consider the transport destination suggestions as listed above."
+        "html": "Consider the transport destination suggestions as listed above.",
+        "summary": {
+          "label": "Transport Destination",
+          "category": "communication"
+        }
       }
     ],
     "pearls": [],
