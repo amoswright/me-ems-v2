@@ -120,29 +120,15 @@
     "category": "blue",
     "intro": [
       {
-        "type": "content",
+        "type": "mermaid",
         "providerLevel": "ALL",
-        "html": "<p><img alt=\"Visual reference from Failed Intubation Algorithm\" src=\"/assets/figures/page-0026-visual.webp\"/></p>"
+        "html": "<mermaid>\nflowchart TD\n    INFO[\"A 'failed' intubation or the 'can't intubate patient' is defined as two (2) unsuccessful intubation attempts by the most proficient technician on scene OR anatomy inconsistent with intubation attempts.<br/>NO MORE THAN THREE (3) TOTAL ATTEMPTS PER PATIENT WITHOUT OLMC CONSULTATION.\"]\n    INFO --> D1{Adequate oxygenation and ventilation with BVM?}\n    D1 -->|Yes| CONTINUE[Continue BVM]\n    CONTINUE --> DESAT[If SpO2 drops less than 90% or it becomes difficult to ventilate with BVM]\n    DESAT --> BIAD[Blind Insertion Airway Device]\n    D1 -->|No| D2{Facial trauma or unrelieved obstruction?}\n    D2 -->|No| BIAD\n    D2 -->|Yes| SURG[Paramedic: Surgical airway, Blue 12]\n    BIAD --> NOTIFY1[Notify OLMC or receiving hospital AS EARLY AS POSSIBLE regarding the patient's difficult airway]\n    SURG --> VENT[Ventilate, monitor for signs of adequacy including EtCO2 and pulse oximetry]\n    VENT --> NOTIFY2[Notify receiving hospital]\n</mermaid>"
       },
       {
-        "type": "content",
+        "type": "pearls",
         "providerLevel": "ALL",
-        "html": "<p>A \"failed\" intubation or the \"can't intubate patient\" is defined as two (2) unsuccessful intubation attempts by the most proficient technician on scene OR anatomy inconsistent with intubation attempts.</p>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p>NO MORE THAN THREE (3) TOTAL ATTEMPTS PER PATIENT WITHOUT OLMC CONSULTATION.</p>"
-      },
-      {
-        "type": "list",
-        "providerLevel": "ALL",
-        "html": "<ul>\n<li>Adequate oxygenation and ventilation with BVM?<ul>\n<li><strong>Yes</strong>: Continue BVM<ul>\n<li>If SPO\u2082 drops less than 90% or it becomes difficult to ventilate with BVM:<ul>\n<li>Blind Insertion Airway Device<ul>\n<li>Notify OLMC or receiving hospital AS EARLY AS POSSIBLE regarding the patient's difficult airway</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li><strong>No</strong>: Facial trauma or unrelieved obstruction?<ul>\n<li><strong>Yes</strong>: <strong>Paramedic</strong> Surgical airway, <strong>Blue 12</strong><ul>\n<li>Ventilate, monitor for signs of adequacy including <strong>EtCO\u2082</strong> and <strong>pulse oximetry</strong><ul>\n<li>Notify receiving hospital</li>\n</ul>\n</li>\n</ul>\n</li>\n<li><strong>No</strong>: Blind Insertion Airway Device<ul>\n<li>Notify OLMC or receiving hospital AS EARLY AS POSSIBLE regarding the patient's difficult airway</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<blockquote>\n<p>Continuous pulse oximetry and EtCO\u2082 monitoring should be utilized in all patients with difficult airways or respiratory distress.</p>\n<p>FOR PEDIATRIC PATIENTS REQUIRING SURGICAL AIRWAY \u2013 Consider needle cricothyrotomy in patients less than 8 years old OR if physiologically young enough that surgical landmarks are NOT identifiable.</p>\n</blockquote>"
+        "html": "<p>Continuous pulse oximetry and EtCO2 monitoring should be utilized in all patients with difficult airways or respiratory distress.</p>\n<p>FOR PEDIATRIC PATIENTS REQUIRING SURGICAL AIRWAY &#8211; Consider needle cricothyrotomy in patients less than 8 years old OR if physiologically young enough that surgical landmarks are NOT identifiable.</p>",
+        "pearlsTitle": null
       }
     ],
     "steps": [],
