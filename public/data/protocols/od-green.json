@@ -1694,11 +1694,6 @@
     "category": "od-green",
     "intro": [
       {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p><img alt=\"Visual reference from Operational K9 Normal Vitals &amp; Glasgow Coma Score\" src=\"/assets/figures/page-0221-visual.webp\"/></p>"
-      },
-      {
         "type": "table",
         "providerLevel": "ALL",
         "html": "<table>\n<thead>\n<tr>\n<th style=\"text-align: left;\">Parameter</th>\n<th style=\"text-align: left;\">Normal Value</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: left;\"><strong>RR</strong></td>\n<td style=\"text-align: left;\">10 - 40 breaths/minute</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>HR</strong></td>\n<td style=\"text-align: left;\">60 - 80 bpm (up to 130 post exercise)</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Capillary Refill</strong></td>\n<td style=\"text-align: left;\">less than 2 sec.</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Rectal Temp</strong></td>\n<td style=\"text-align: left;\">100 -102.5 F (103-106 F post exercise)</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>LOC</strong></td>\n<td style=\"text-align: left;\">Bright, alert, responsive (BAR)</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>BP</strong></td>\n<td style=\"text-align: left;\">120/75 mmHg</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>Blood Glucose</strong></td>\n<td style=\"text-align: left;\">70 - 120 mg/dL</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>SpO2</strong></td>\n<td style=\"text-align: left;\">greater than 94%</td>\n</tr>\n<tr>\n<td style=\"text-align: left;\"><strong>EtCO2</strong></td>\n<td style=\"text-align: left;\">35 - 45 mmHg</td>\n</tr>\n</tbody>\n</table>"

@@ -164,11 +164,6 @@
     "category": "pink",
     "intro": [
       {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p><img alt=\"Visual reference from Normal Pediatric Vital Signs\" src=\"/assets/figures/page-0140-visual.webp\"/></p>"
-      },
-      {
         "type": "table",
         "providerLevel": "ALL",
         "html": "<table>\n<thead>\n<tr>\n<th>Age</th>\n<th>Approximate Weight (kg)</th>\n<th>Pulse/Min</th>\n<th>Resp/Min</th>\n<th>Minimum Systolic BP</th>\n<th>Glucose (mg/dl)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Newborn</td>\n<td>3</td>\n<td>100-160</td>\n<td>30-60</td>\n<td>60</td>\n<td>45-120</td>\n</tr>\n<tr>\n<td>6 months</td>\n<td>7</td>\n<td>100-160</td>\n<td>30-60</td>\n<td>70</td>\n<td>100-180</td>\n</tr>\n<tr>\n<td>1 year</td>\n<td>10</td>\n<td>100-140</td>\n<td>24-40</td>\n<td>70</td>\n<td>100-180</td>\n</tr>\n<tr>\n<td>2 years</td>\n<td>12</td>\n<td>80-130</td>\n<td>24-40</td>\n<td>70</td>\n<td>100-180</td>\n</tr>\n<tr>\n<td>3</td>\n<td>15</td>\n<td>80-130</td>\n<td>24-40</td>\n<td>Multiply age x 2 and add 70</td>\n<td>100-180</td>\n</tr>\n<tr>\n<td>4</td>\n<td>16</td>\n<td>80-120</td>\n<td>22-34</td>\n<td>Multiply age x 2 and add 70</td>\n<td>100-180</td>\n</tr>\n<tr>\n<td>5</td>\n<td>18</td>\n<td>80-120</td>\n<td>22-34</td>\n<td>Multiply age x 2 and add 70</td>\n<td>100-180</td>\n</tr>\n<tr>\n<td>6-7</td>\n<td>20</td>\n<td>70-110</td>\n<td>18-30</td>\n<td>Multiply age x 2 and add 70</td>\n<td>80-140</td>\n</tr>\n<tr>\n<td>8-9</td>\n<td>25</td>\n<td>70-110</td>\n<td>18-30</td>\n<td>Multiply age x 2 and add 70</td>\n<td>80-140</td>\n</tr>\n<tr>\n<td>10-11</td>\n<td>35</td>\n<td>60-100</td>\n<td>16-24</td>\n<td>Multiply age x 2 and add 70</td>\n<td>70-120</td>\n</tr>\n<tr>\n<td>12-13</td>\n<td>40</td>\n<td>60-100</td>\n<td>16-24</td>\n<td>Multiply age x 2 and add 70</td>\n<td>70-120</td>\n</tr>\n<tr>\n<td>14</td>\n<td>50</td>\n<td>60-100</td>\n<td>16-24</td>\n<td>Multiply age x 2 and add 70</td>\n<td>70-120</td>\n</tr>\n<tr>\n<td>15</td>\n<td>55+</td>\n<td>60-100</td>\n<td>14-20</td>\n<td>Multiply age x 2 and add 70</td>\n<td>70-120</td>\n</tr>\n</tbody>\n</table>"
@@ -177,11 +172,6 @@
         "type": "content",
         "providerLevel": "ALL",
         "html": "<blockquote>\n<p>Note: Estimated weight in kilograms: [2 x (age in years)] + 8\n* Typical Systolic BP in children 1-10 years of age: 90 + (age in years x 2)\n* Lower Limits of Systolic BP for a child age 3-15 years: 70 + (age in years x 2)</p>\n</blockquote>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p><img alt=\"Visual reference from Normal Pediatric Vital Signs\" src=\"/assets/figures/page-0141-visual.webp\"/></p>"
       },
       {
         "type": "content",
@@ -214,11 +204,6 @@
     "title": "Pediatric Specific Equipment Sizes",
     "category": "pink",
     "intro": [
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p><img alt=\"Visual reference from Pediatric Specific Equipment Sizes\" src=\"/assets/figures/page-0142-visual.webp\"/></p>"
-      },
       {
         "type": "table",
         "providerLevel": "ALL",

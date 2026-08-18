@@ -7,11 +7,6 @@
       {
         "type": "content",
         "providerLevel": "ALL",
-        "html": "<p><img alt=\"Visual reference from Trauma Triage\" src=\"/assets/figures/page-0095-visual.webp\"/></p>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
         "html": "<h1>Trauma Triage #1</h1>"
       },
       {
@@ -78,11 +73,6 @@
         "type": "list",
         "providerLevel": "ALL",
         "html": "<ul>\n<li><strong>Yes</strong>: Go to nearest <strong>Level 1 or 2 Trauma Center</strong> if total transport time is less than 45 minutes, otherwise go to highest-level trauma center available OR the closest ED which is a trauma system participating hospital**; any questions, contact OLMC</li>\n<li><strong>No</strong>: Transport to nearest Trauma System participating hospital</li>\n</ul>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p><img alt=\"Visual reference from Trauma Triage\" src=\"/assets/figures/page-0096-visual.webp\"/></p>"
       },
       {
         "type": "pearls",
@@ -234,11 +224,6 @@
     "title": "Glasgow Coma Scale",
     "category": "green",
     "intro": [
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p><img alt=\"Visual reference from Glasgow Coma Scale\" src=\"/assets/figures/page-0100-visual.webp\"/></p>"
-      },
       {
         "type": "table",
         "providerLevel": "ALL",
@@ -675,11 +660,6 @@
         "providerLevel": "PARAMEDIC",
         "html": "<p>Tranexamic acid is a lysine analogue that competitively binds to plasminogen therefore interrupting interactions with fibrin and preventing fibrinolysis or clot break down. Patients in hemorrhagic shock from either blunt or penetrating trauma may benefit from Tranexamic acid (TXA). TXA must be provided as soon as possible, preferably within 1 (one) hour of injury and absolutely before 3 hours from injury.</p>\n<p>Please ensure that receiving hospital staff:</p>\n<ol start=\"1\"><li>Know the <strong>time of injury</strong>,</li><li>Are aware that the patient <strong>received TXA</strong>,</li><li>Are aware of the <strong>1 gram dose</strong> as the patient may need to be re-dosed upon arrival, and</li><li><strong>Flag the IV line</strong> that the patient received TXA through with a labeled piece of tape as some medications and blood products should not be provided through the same line.</li></ol>\n\n<p>*Additionally, discuss the use of TXA in patients on anticoagulants as these patients may require anticoagulation reversal and the combination of TXA and some of the reversal agents may have additive thrombotic effects. There are few adverse effects of this medication. TXA may cause hypotension if provided rapidly. The full dose should be provided over 10 minutes to prevent hypotension.</p>",
         "pearlsTitle": "the use of TXA"
-      },
-      {
-        "type": "content",
-        "providerLevel": "PARAMEDIC",
-        "html": "<p><img alt=\"Visual reference from Hemorrhagic Shock\" src=\"/assets/figures/page-0109-visual.webp\"/></p>"
       },
       {
         "type": "pearls",

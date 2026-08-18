@@ -247,11 +247,6 @@
       {
         "type": "content",
         "providerLevel": "ALL",
-        "html": "<p><img alt=\"Visual reference from Chest Pain - Fibrinolytic Checklist\" src=\"/assets/figures/page-0043-visual.webp\"/></p>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
         "html": "<p>For chest pain of suspected cardiac origin, initiate therapy per protocol, including the early use of aspirin and nitroglycerin, if not contraindicated.</p>"
       },
       {
@@ -372,11 +367,6 @@
     "title": "Cardiac Arrest Overview",
     "category": "red",
     "intro": [
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p><img alt=\"Visual reference from Cardiac Arrest Overview\" src=\"/assets/figures/page-0045-visual.webp\"/></p>"
-      },
       {
         "type": "content",
         "providerLevel": "ALL",
@@ -897,11 +887,6 @@
         "html": "<p><strong>Goal #2 - Identify STEMI</strong></p>"
       },
       {
-        "type": "content",
-        "providerLevel": "PARAMEDIC",
-        "html": "<p><img alt=\"Visual reference from Adult Post-Resuscitation Care &amp; Checklist\" src=\"/assets/figures/page-0054-visual.webp\"/></p>"
-      },
-      {
         "type": "table",
         "providerLevel": "PARAMEDIC",
         "html": "<table>\n<thead>\n<tr>\n<th></th>\n<th>SAVE A LIFE</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>S</td>\n<td><strong>S</strong>tabilize - Stay on scene vs. rapid departure</td>\n</tr>\n<tr>\n<td>A</td>\n<td><strong>A</strong>irway - if still unresponsive, establish a definitive airway (SGA, ETT)</td>\n</tr>\n<tr>\n<td>V</td>\n<td><strong>V</strong>itals - change frequency to every 3 minutes<br/><strong>V</strong>asopressors (NOREPInephrine) - focus on cerebral perfusion pressure, goal is MAP greater than 80 mmHg</td>\n</tr>\n<tr>\n<td>E</td>\n<td><strong>E</strong>tCO2 - monitor airway and for re-arrest</td>\n</tr>\n<tr>\n<td>A</td>\n<td><strong>A</strong>lert/activate hospital</td>\n</tr>\n<tr>\n<td>L</td>\n<td><strong>L</strong>eave/<strong>L</strong>oad in ambulance with mechanical CPR device in place, if available in case patient rearrests en route to hospital</td>\n</tr>\n<tr>\n<td>I</td>\n<td><strong>I</strong>V - if only an IO has been placed</td>\n</tr>\n<tr>\n<td>F</td>\n<td><strong>F</strong>ollow-up vital signs to ensure stability before departure</td>\n</tr>\n<tr>\n<td>E</td>\n<td><strong>E</strong>CG - may affect destination, delayed ECG increases accuracy</td>\n</tr>\n</tbody>\n</table>"
@@ -1366,11 +1351,6 @@
     "title": "Pediatric Tachycardia",
     "category": "red",
     "intro": [
-      {
-        "type": "content",
-        "providerLevel": "ALL",
-        "html": "<p><img alt=\"Visual reference from Pediatric Tachycardia\" src=\"/assets/figures/page-0063-visual.webp\"/></p>"
-      },
       {
         "type": "content",
         "providerLevel": "ALL",
