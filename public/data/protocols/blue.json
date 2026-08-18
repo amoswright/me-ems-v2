@@ -462,67 +462,125 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "O\u2082 as appropriate. Assist ventilations (PPV) if needed."
+        "html": "O\u2082 as appropriate. Assist ventilations (PPV) if needed.",
+        "summary": {
+          "label": "Supplemental O\u2082",
+          "category": "medication",
+          "detail": "Assist ventilations (PPV) if needed"
+        }
       },
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "Assess for shock."
+        "html": "Assess for shock.",
+        "summary": {
+          "label": "Assess for Shock",
+          "category": "assessment"
+        }
       },
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "If BP greater than 100 mmHg, place in sitting position."
+        "html": "If BP greater than 100 mmHg, place in sitting position.",
+        "summary": {
+          "label": "Position of Comfort (Sitting)",
+          "category": "procedure",
+          "detail": "If BP greater than 100 mmHg"
+        }
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "Request ALS."
+        "html": "Request ALS.",
+        "summary": {
+          "label": "Request ALS",
+          "category": "communication"
+        }
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "If available, and so trained, consider trial of CPAP."
+        "html": "If available, and so trained, consider trial of CPAP.",
+        "summary": {
+          "label": "Consider CPAP",
+          "category": "procedure",
+          "detail": "If available and trained"
+        }
       },
       {
         "num": 6,
         "providerLevel": "EMT",
-        "html": "Obtain 12-lead ECG, if available and so trained."
+        "html": "Obtain 12-lead ECG, if available and so trained.",
+        "summary": {
+          "label": "12-Lead ECG",
+          "category": "assessment"
+        }
       },
       {
         "num": 7,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Cardiac monitor and 12-lead ECG."
+        "html": "Cardiac monitor and 12-lead ECG.",
+        "summary": {
+          "label": "Cardiac Monitor + 12-Lead ECG",
+          "category": "assessment"
+        }
       },
       {
         "num": 8,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Establish IV en route."
+        "html": "Establish IV en route.",
+        "summary": {
+          "label": "Establish IV",
+          "category": "procedure",
+          "detail": "IV"
+        }
       },
       {
         "num": 9,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Manage airway as needed, refer to Airway Algorithm, Blue 2."
+        "html": "Manage airway as needed, refer to Airway Algorithm, Blue 2.",
+        "summary": {
+          "label": "Manage Airway",
+          "category": "procedure",
+          "detail": "See Airway Algorithm, Blue 2"
+        }
       },
       {
         "num": 10,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Contact OLMC for administration of nitroglycerin 0.4 mg tab or 1 spray sublingual (SL). Repeat nitroglycerin at 2-minute intervals if systolic BP greater than 100 mmHg. After initiation of SL nitroglycerin, may place 1 inch of nitroglycerin ointment 2% to the chest wall if BP greater than 100 mmHg and remove nitroglycerin ointment 2% if BP less than 100 mmHg. If the patient has had nitroglycerin before and no IV is established, and systolic BP is greater than 100 mmHg, then it is OK to give nitroglycerin."
+        "html": "Contact OLMC for administration of nitroglycerin 0.4 mg tab or 1 spray sublingual (SL). Repeat nitroglycerin at 2-minute intervals if systolic BP greater than 100 mmHg. After initiation of SL nitroglycerin, may place 1 inch of nitroglycerin ointment 2% to the chest wall if BP greater than 100 mmHg and remove nitroglycerin ointment 2% if BP less than 100 mmHg. If the patient has had nitroglycerin before and no IV is established, and systolic BP is greater than 100 mmHg, then it is OK to give nitroglycerin.",
+        "summary": {
+          "label": "Nitroglycerin (SL + Ointment)",
+          "category": "medication",
+          "detail": "0.4 mg tab or 1 spray SL, repeat q2min if SBP greater than 100 mmHg\nNitro ointment 2%: 1 inch to chest wall if SBP greater than 100 mmHg; remove if less than 100 mmHg"
+        }
       },
       {
         "num": 11,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Consider use of CPAP"
+        "html": "Consider use of CPAP",
+        "summary": {
+          "label": "Consider CPAP",
+          "category": "procedure"
+        }
       },
       {
         "num": 12,
         "providerLevel": "PARAMEDIC",
-        "html": "Paramedic may perform all treatments above without medical control."
+        "html": "Paramedic may perform all treatments above without medical control.",
+        "summary": {
+          "label": "No Medical Control Required",
+          "category": "communication"
+        }
       },
       {
         "num": 13,
         "providerLevel": "PARAMEDIC",
-        "html": "Contact OLMC if above measures are not working."
+        "html": "Contact OLMC if above measures are not working.",
+        "summary": {
+          "label": "Contact OLMC (if not working)",
+          "category": "communication"
+        }
       }
     ],
     "pearls": [],
@@ -668,102 +726,191 @@
       {
         "num": 1,
         "providerLevel": "ALL",
-        "html": "Cuffed tracheostomy tube or 6.0 - 7.0 ETT"
+        "html": "Cuffed tracheostomy tube or 6.0 - 7.0 ETT",
+        "summary": {
+          "label": "Cuffed Trach Tube / 6.0-7.0 ETT",
+          "category": "procedure"
+        }
       },
       {
         "num": 2,
         "providerLevel": "ALL",
-        "html": "Tracheal hook or bougie"
+        "html": "Tracheal hook or bougie",
+        "summary": {
+          "label": "Tracheal Hook or Bougie",
+          "category": "procedure"
+        }
       },
       {
         "num": 3,
         "providerLevel": "ALL",
-        "html": "Trousseau dilator (if available)"
+        "html": "Trousseau dilator (if available)",
+        "summary": {
+          "label": "Trousseau Dilator (if available)",
+          "category": "procedure"
+        }
       },
       {
         "num": 4,
         "providerLevel": "ALL",
-        "html": "Syringe to inflate cuff"
+        "html": "Syringe to inflate cuff",
+        "summary": {
+          "label": "Syringe to Inflate Cuff",
+          "category": "procedure"
+        }
       },
       {
         "num": 5,
         "providerLevel": "ALL",
-        "html": "Scalpel (No. 11 blade)"
+        "html": "Scalpel (No. 11 blade)",
+        "summary": {
+          "label": "Scalpel (No. 11 Blade)",
+          "category": "procedure"
+        }
       },
       {
         "num": 6,
         "providerLevel": "ALL",
-        "html": "Umbilical tape or other means to secure tracheostomy tube or ETT"
+        "html": "Umbilical tape or other means to secure tracheostomy tube or ETT",
+        "summary": {
+          "label": "Umbilical Tape to Secure Tube",
+          "category": "procedure"
+        }
       },
       {
         "num": 7,
         "providerLevel": "ALL",
-        "html": "4x4 gauze"
+        "html": "4x4 gauze",
+        "summary": {
+          "label": "4x4 Gauze",
+          "category": "procedure"
+        }
       },
       {
         "num": 8,
         "providerLevel": "ALL",
-        "html": "Extend the neck when possible to ensure best access to the trachea. Swab/cleanse the area."
+        "html": "Extend the neck when possible to ensure best access to the trachea. Swab/cleanse the area.",
+        "summary": {
+          "label": "Position & Prep Neck",
+          "category": "procedure",
+          "detail": "Extend neck, swab/cleanse area"
+        }
       },
       {
         "num": 9,
         "providerLevel": "ALL",
-        "html": "Immobilize the trachea with your non-dominant thumb and middle finger while palpating the cricothyroid membrane with your non-dominant index finger. NOTE: The cricothyroid membrane is immediately BELOW the thyroid cartilage."
+        "html": "Immobilize the trachea with your non-dominant thumb and middle finger while palpating the cricothyroid membrane with your non-dominant index finger. NOTE: The cricothyroid membrane is immediately BELOW the thyroid cartilage.",
+        "summary": {
+          "label": "Palpate Cricothyroid Membrane",
+          "category": "procedure",
+          "detail": "Immobilize trachea with thumb/middle finger; membrane is just below the thyroid cartilage"
+        }
       },
       {
         "num": 10,
         "providerLevel": "ALL",
-        "html": "Make a 3 - 5 cm <strong>vertical</strong> incision over the cricothyroid membrane through the skin and subcutaneous tissues. NOTE: Severe bleeding is possible with this procedure and may occur at this or the following steps. Be prepared to suction and provide direct pressure to control bleeding."
+        "html": "Make a 3 - 5 cm <strong>vertical</strong> incision over the cricothyroid membrane through the skin and subcutaneous tissues. NOTE: Severe bleeding is possible with this procedure and may occur at this or the following steps. Be prepared to suction and provide direct pressure to control bleeding.",
+        "summary": {
+          "label": "Vertical Incision (3-5cm)",
+          "category": "procedure",
+          "detail": "Through skin/subQ over cricothyroid membrane. Caution: bleeding risk \u2014 be ready to suction/apply pressure"
+        }
       },
       {
         "num": 11,
         "providerLevel": "ALL",
-        "html": "Palpate the membrane through the incision to confirm anatomy."
+        "html": "Palpate the membrane through the incision to confirm anatomy.",
+        "summary": {
+          "label": "Confirm Anatomy",
+          "category": "assessment",
+          "detail": "Palpate membrane through incision"
+        }
       },
       {
         "num": 12,
         "providerLevel": "ALL",
-        "html": "Make a small (1 cm or less) incision <strong>horizontally</strong> through the cricothyroid membrane."
+        "html": "Make a small (1 cm or less) incision <strong>horizontally</strong> through the cricothyroid membrane.",
+        "summary": {
+          "label": "Horizontal Incision (\u22641cm)",
+          "category": "procedure",
+          "detail": "Through cricothyroid membrane"
+        }
       },
       {
         "num": 13,
         "providerLevel": "ALL",
-        "html": "Insert the tracheal hook or bougie in the opening of the membrane and rotate toward the head while maintaining hold of the thyroid cartilage with your non-dominant hand."
+        "html": "Insert the tracheal hook or bougie in the opening of the membrane and rotate toward the head while maintaining hold of the thyroid cartilage with your non-dominant hand.",
+        "summary": {
+          "label": "Insert Hook/Bougie",
+          "category": "procedure",
+          "detail": "Rotate toward head; maintain hold of thyroid cartilage"
+        }
       },
       {
         "num": 14,
         "providerLevel": "ALL",
-        "html": "If Trousseau dilator available, insert into the incision site and spread vertical then rotate 90 degrees until the dilator is parallel with the neck."
+        "html": "If Trousseau dilator available, insert into the incision site and spread vertical then rotate 90 degrees until the dilator is parallel with the neck.",
+        "summary": {
+          "label": "Insert Dilator (if available)",
+          "category": "procedure",
+          "detail": "Spread vertically, rotate 90\u00b0 parallel to neck"
+        }
       },
       {
         "num": 15,
         "providerLevel": "ALL",
-        "html": "Insert the cuffed tracheostomy tube or ETT tube into the incision site. Advance until the flanges rest on the skin of the neck (when using tracheostomy tube)."
+        "html": "Insert the cuffed tracheostomy tube or ETT tube into the incision site. Advance until the flanges rest on the skin of the neck (when using tracheostomy tube).",
+        "summary": {
+          "label": "Insert Tube",
+          "category": "procedure",
+          "detail": "Advance until flanges rest on skin (tracheostomy tube)"
+        }
       },
       {
         "num": 16,
         "providerLevel": "ALL",
-        "html": "Carefully remove the dilator (if used), tracheal hook and obturator of the tracheostomy tube."
+        "html": "Carefully remove the dilator (if used), tracheal hook and obturator of the tracheostomy tube.",
+        "summary": {
+          "label": "Remove Dilator/Hook/Obturator",
+          "category": "procedure"
+        }
       },
       {
         "num": 17,
         "providerLevel": "ALL",
-        "html": "Inflate the balloon of the tracheostomy tube/ETT."
+        "html": "Inflate the balloon of the tracheostomy tube/ETT.",
+        "summary": {
+          "label": "Inflate Cuff",
+          "category": "procedure"
+        }
       },
       {
         "num": 18,
         "providerLevel": "ALL",
-        "html": "Ventilate and confirm position by physical exam and EtCO\u2082."
+        "html": "Ventilate and confirm position by physical exam and EtCO\u2082.",
+        "summary": {
+          "label": "Ventilate & Confirm Placement",
+          "category": "assessment",
+          "detail": "Physical exam + EtCO2"
+        }
       },
       {
         "num": 19,
         "providerLevel": "ALL",
-        "html": "Secure the tube in place."
+        "html": "Secure the tube in place.",
+        "summary": {
+          "label": "Secure Tube",
+          "category": "procedure"
+        }
       },
       {
         "num": 20,
         "providerLevel": "ALL",
-        "html": "Dress incision site."
+        "html": "Dress incision site.",
+        "summary": {
+          "label": "Dress Incision Site",
+          "category": "procedure"
+        }
       }
     ],
     "pearls": [],

@@ -3,7 +3,7 @@
 Tracks per-protocol progress on rewriting Summary-tab step summaries (see STYLE_GUIDE.md).
 Status: `pending` / `in-progress` / `done`. Update this file as each protocol is completed and commit alongside the data change.
 
-**126 protocols total. 5 done.**
+**126 protocols total. 7 done.**
 
 | status | id | title | steps | pearls | meds |
 |---|---|---|---|---|---|
@@ -16,9 +16,9 @@ Status: `pending` / `in-progress` / `done`. Update this file as each protocol is
 | done | `blue_027` | Post Intubation / BIAD Pain Control | 4 | 0 | yes |
 | done | `blue_028_029_030` | Respiratory Distress with Bronchospasm | 12 | 2 | yes |
 | done | `blue_031` | Anxiolysis in CPAP | 3 | 0 | yes |
-| pending | `blue_032` | Pulmonary Edema (without shock) | 13 | 0 | yes |
+| done | `blue_032` | Pulmonary Edema (without shock) | 13 | 0 | yes |
 | done | `blue_033` | Pulmonary Hypertension Complications | 4 | 1 |  |
-| pending | `blue_034_035` | Surgical Cricothyrotomy | 20 | 0 |  |
+| done | `blue_034_035` | Surgical Cricothyrotomy | 20 | 0 |  |
 | pending | `blue_036_037` | Tracheostomy Care | 18 | 2 | yes |
 | pending | `red_038` | Chest Pain - General | 0 | 0 |  |
 | pending | `red_039_040_041` | Chest Pain - Suspected Cardiac Origin / STEMI Criteria | 17 | 0 | yes |
