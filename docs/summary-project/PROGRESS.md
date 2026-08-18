@@ -3,7 +3,7 @@
 Tracks per-protocol progress on rewriting Summary-tab step summaries (see STYLE_GUIDE.md).
 Status: `pending` / `in-progress` / `done`. Update this file as each protocol is completed and commit alongside the data change.
 
-**126 protocols total. 12 done.**
+**126 protocols total. 14 done.**
 
 | status | id | title | steps | pearls | meds |
 |---|---|---|---|---|---|
@@ -27,8 +27,8 @@ Status: `pending` / `in-progress` / `done`. Update this file as each protocol is
 | done | `red_044` | Chest Pain - Uncertain Etiology | 10 | 0 |  |
 | pending | `red_045` | Cardiac Arrest Overview | 0 | 0 |  |
 | done | `red_046_047_048_049` | Adult Cardiac Arrest | 26 | 2 | yes |
-| pending | `red_050` | Refractory VF / VT | 3 | 0 |  |
-| pending | `red_051_052` | Termination of Resuscitation | 16 | 0 |  |
+| done | `red_050` | Refractory VF / VT | 3 | 0 |  |
+| done | `red_051_052` | Termination of Resuscitation | 16 | 0 |  |
 | pending | `red_053_054` | Adult Post-Resuscitation Care & Checklist | 11 | 0 | yes |
 | pending | `red_055_056_057` | Pediatric Cardiac Arrest | 21 | 1 | yes |
 | pending | `red_058` | Pediatric Post-Resuscitation Care | 9 | 0 | yes |

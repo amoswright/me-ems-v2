@@ -915,17 +915,32 @@
       {
         "num": 1,
         "providerLevel": "ALL",
-        "html": "Consider dual-sequential external defibrillation, if 2 defibrillators are available.<ol type=\"a\"><li>This can only be performed with MANUAL defibrillators.</li></ol>"
+        "html": "Consider dual-sequential external defibrillation, if 2 defibrillators are available.<ol type=\"a\"><li>This can only be performed with MANUAL defibrillators.</li></ol>",
+        "summary": {
+          "label": "Consider Dual-Sequential Defib",
+          "category": "procedure",
+          "detail": "Requires 2 MANUAL defibrillators"
+        }
       },
       {
         "num": 2,
         "providerLevel": "ALL",
-        "html": "<strong>Vector Change:</strong> apply a second set of pads. If first set was in the anterior-apex position (blue pads in figure), place a second set in the anterior-posterior position (red pads). Do not allow the pads to touch one another."
+        "html": "<strong>Vector Change:</strong> apply a second set of pads. If first set was in the anterior-apex position (blue pads in figure), place a second set in the anterior-posterior position (red pads). Do not allow the pads to touch one another.",
+        "summary": {
+          "label": "Vector Change (2nd Pad Set)",
+          "category": "procedure",
+          "detail": "Anterior-apex + anterior-posterior; pads must not touch"
+        }
       },
       {
         "num": 3,
         "providerLevel": "ALL",
-        "html": "<strong>Ensure adequate pad contact:</strong> i.e. pressure on pads with a barrier such as a stack of folded towels. Reassess for adequate pad contact before each defibrillation."
+        "html": "<strong>Ensure adequate pad contact:</strong> i.e. pressure on pads with a barrier such as a stack of folded towels. Reassess for adequate pad contact before each defibrillation.",
+        "summary": {
+          "label": "Ensure Pad Contact",
+          "category": "procedure",
+          "detail": "Use barrier (folded towels) for pressure; recheck before each shock"
+        }
       }
     ],
     "pearls": [],
@@ -1042,82 +1057,153 @@
       {
         "num": 1,
         "providerLevel": "ALL",
-        "html": "Focus attention on the family or bystanders. Explain the rationale for termination."
+        "html": "Focus attention on the family or bystanders. Explain the rationale for termination.",
+        "summary": {
+          "label": "Support Family/Bystanders",
+          "category": "communication",
+          "detail": "Explain rationale for termination"
+        }
       },
       {
         "num": 2,
         "providerLevel": "ALL",
-        "html": "Consider accessing support for family: other family, friends, or social support such as clergy."
+        "html": "Consider accessing support for family: other family, friends, or social support such as clergy.",
+        "summary": {
+          "label": "Arrange Family Support",
+          "category": "communication",
+          "detail": "Other family, friends, clergy, social support"
+        }
       },
       {
         "num": 3,
         "providerLevel": "ALL",
-        "html": "If termination of resuscitation occurs, one must consider management of the patient's remains. No one option is correct for all circumstances; factors on scene will likely dictate the best option. Refer to the DNR Guidelines #4, <strong>Grey 6</strong>. If questions remain regarding disposition of the patient's remains, contact OLMC. In the event that a patient arrests or re-arrests after leaving the scene and resuscitative efforts are unsuccessful, continue non-emergent transport to the hospital for disposition of the patient remains and family notification. This pathway should also be considered when termination of resuscitation occurs in unsafe or undesirable locations. Please discuss and pre-plan with local hospitals to ensure that all local systems are involved."
+        "html": "If termination of resuscitation occurs, one must consider management of the patient's remains. No one option is correct for all circumstances; factors on scene will likely dictate the best option. Refer to the DNR Guidelines #4, <strong>Grey 6</strong>. If questions remain regarding disposition of the patient's remains, contact OLMC. In the event that a patient arrests or re-arrests after leaving the scene and resuscitative efforts are unsuccessful, continue non-emergent transport to the hospital for disposition of the patient remains and family notification. This pathway should also be considered when termination of resuscitation occurs in unsafe or undesirable locations. Please discuss and pre-plan with local hospitals to ensure that all local systems are involved.",
+        "summary": {
+          "label": "Manage Patient Remains",
+          "category": "communication",
+          "detail": "See DNR Guidelines #4, Grey 6; contact OLMC if questions remain"
+        }
       },
       {
         "num": 4,
         "providerLevel": "ALL",
-        "html": "Obvious signs of decomposition"
+        "html": "Obvious signs of decomposition",
+        "summary": {
+          "label": "Donor Rule-Out: Decomposition",
+          "category": "assessment"
+        }
       },
       {
         "num": 5,
         "providerLevel": "ALL",
-        "html": "Last known alive \u2265 18 hours"
+        "html": "Last known alive \u2265 18 hours",
+        "summary": {
+          "label": "Donor Rule-Out: LKA \u226518hrs",
+          "category": "assessment"
+        }
       },
       {
         "num": 6,
         "providerLevel": "ALL",
-        "html": "Evidence of IV drug abuse"
+        "html": "Evidence of IV drug abuse",
+        "summary": {
+          "label": "Donor Rule-Out: IV Drug Use",
+          "category": "assessment"
+        }
       },
       {
         "num": 7,
         "providerLevel": "ALL",
-        "html": "Known HIV or Hepatitis"
+        "html": "Known HIV or Hepatitis",
+        "summary": {
+          "label": "Donor Rule-Out: HIV/Hepatitis",
+          "category": "assessment"
+        }
       },
       {
         "num": 8,
         "providerLevel": "ALL",
-        "html": "Name & DOB of Patient"
+        "html": "Name & DOB of Patient",
+        "summary": {
+          "label": "Info: Name & DOB",
+          "category": "communication",
+          "detail": "For New England Donor Services referral call, 800-446-6362"
+        }
       },
       {
         "num": 9,
         "providerLevel": "ALL",
-        "html": "Date & Time Last Known Alive or Pronounced Dead"
+        "html": "Date & Time Last Known Alive or Pronounced Dead",
+        "summary": {
+          "label": "Info: LKA/Pronounced Time",
+          "category": "communication"
+        }
       },
       {
         "num": 10,
         "providerLevel": "ALL",
-        "html": "Cause of Death/Evidence of Drug Use at Scene"
+        "html": "Cause of Death/Evidence of Drug Use at Scene",
+        "summary": {
+          "label": "Info: Cause of Death",
+          "category": "communication",
+          "detail": "Including evidence of drug use at scene"
+        }
       },
       {
         "num": 11,
         "providerLevel": "ALL",
-        "html": "Any known Medical History/ Regular Medications"
+        "html": "Any known Medical History/ Regular Medications",
+        "summary": {
+          "label": "Info: Medical Hx/Meds",
+          "category": "communication"
+        }
       },
       {
         "num": 12,
         "providerLevel": "ALL",
-        "html": "<h1>of IVs Attempted, Established &amp; Amount of Fluids Infused</h1>"
+        "html": "<h1>of IVs Attempted, Established &amp; Amount of Fluids Infused</h1>",
+        "summary": {
+          "label": "Info: IV Attempts/Fluids",
+          "category": "communication"
+        }
       },
       {
         "num": 13,
         "providerLevel": "ALL",
-        "html": "Which Police Dept. Involved & Phone Number?"
+        "html": "Which Police Dept. Involved & Phone Number?",
+        "summary": {
+          "label": "Info: Police Dept & Phone",
+          "category": "communication"
+        }
       },
       {
         "num": 14,
         "providerLevel": "ALL",
-        "html": "MEO contacted? Accepted?"
+        "html": "MEO contacted? Accepted?",
+        "summary": {
+          "label": "Info: MEO Contacted?",
+          "category": "communication"
+        }
       },
       {
         "num": 15,
         "providerLevel": "ALL",
-        "html": "Where is body going? (MEO/ Funeral Home)"
+        "html": "Where is body going? (MEO/ Funeral Home)",
+        "summary": {
+          "label": "Info: Body Disposition",
+          "category": "communication",
+          "detail": "MEO or Funeral Home"
+        }
       },
       {
         "num": 16,
         "providerLevel": "ALL",
-        "html": "NOK contact info (name, relation, best # to call)"
+        "html": "NOK contact info (name, relation, best # to call)",
+        "summary": {
+          "label": "Info: NOK Contact",
+          "category": "communication",
+          "detail": "Name, relation, best number to call"
+        }
       }
     ],
     "pearls": [],
