@@ -601,132 +601,254 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "Initiate CPR until AED arrives unless valid DNR or signs incompatible with life (refer to Do Not Resuscitate Guidelines, Grey 3) are present; refer to Termination of Resuscitation protocol, Red 14."
+        "html": "Initiate CPR until AED arrives unless valid DNR or signs incompatible with life (refer to Do Not Resuscitate Guidelines, Grey 3) are present; refer to Termination of Resuscitation protocol, Red 14.",
+        "summary": {
+          "label": "Initiate CPR",
+          "category": "procedure",
+          "detail": "Unless valid DNR or signs incompatible with life \u2014 see Grey 3 / Red 14"
+        }
       },
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "Attach AED as soon as available with minimal interruptions in chest compressions and follow AED prompts."
+        "html": "Attach AED as soon as available with minimal interruptions in chest compressions and follow AED prompts.",
+        "summary": {
+          "label": "Attach AED",
+          "category": "procedure",
+          "detail": "Minimize compression interruptions; follow prompts"
+        }
       },
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "Place oral and/or nasal airway(s)."
+        "html": "Place oral and/or nasal airway(s).",
+        "summary": {
+          "label": "OPA/NPA",
+          "category": "procedure"
+        }
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "High-flow O2 with BVM ventilation at a ratio of 30:2 or 1 breath every 10 chest compressions during recoil and without interrupting compressions."
+        "html": "High-flow O2 with BVM ventilation at a ratio of 30:2 or 1 breath every 10 chest compressions during recoil and without interrupting compressions.",
+        "summary": {
+          "label": "BVM Ventilation",
+          "category": "procedure",
+          "detail": "30:2, or 1 breath/10 compressions during recoil, without interrupting compressions"
+        }
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "Request ALS."
+        "html": "Request ALS.",
+        "summary": {
+          "label": "Request ALS",
+          "category": "communication"
+        }
       },
       {
         "num": 6,
         "providerLevel": "EMT",
-        "html": "Continue 2-minute cycles of chest compressions and AED checks."
+        "html": "Continue 2-minute cycles of chest compressions and AED checks.",
+        "summary": {
+          "label": "2-Min CPR/AED Cycles",
+          "category": "procedure"
+        }
       },
       {
         "num": 7,
         "providerLevel": "EMT",
-        "html": "If ROSC occurs, refer to Adult Post-Resuscitation Care protocol, Red 16."
+        "html": "If ROSC occurs, refer to Adult Post-Resuscitation Care protocol, Red 16.",
+        "summary": {
+          "label": "ROSC? Refer to Red 16",
+          "category": "decision"
+        }
       },
       {
         "num": 8,
         "providerLevel": "EMT",
-        "html": "Consider termination of resuscitation; refer to Termination of Resuscitation protocol, Red 14; if cardiac arrest is due to trauma, refer to Termination of Resuscitation for Traumatic Cardiac Arrest protocol, Green 22."
+        "html": "Consider termination of resuscitation; refer to Termination of Resuscitation protocol, Red 14; if cardiac arrest is due to trauma, refer to Termination of Resuscitation for Traumatic Cardiac Arrest protocol, Green 22.",
+        "summary": {
+          "label": "Consider TOR",
+          "category": "decision",
+          "detail": "Red 14, or Green 22 if traumatic arrest"
+        }
       },
       {
         "num": 9,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Ensure that high-performance CPR is being provided."
+        "html": "Ensure that high-performance CPR is being provided.",
+        "summary": {
+          "label": "Ensure High-Performance CPR",
+          "category": "assessment"
+        }
       },
       {
         "num": 10,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Defibrillate ventricular fibrillation (VF) and pulseless ventricular tachycardia. For refractory VF/VT, refer to Red 13."
+        "html": "Defibrillate ventricular fibrillation (VF) and pulseless ventricular tachycardia. For refractory VF/VT, refer to Red 13.",
+        "summary": {
+          "label": "Defibrillate VF/pVT",
+          "category": "procedure",
+          "detail": "Refractory VF/VT: see Red 13"
+        }
       },
       {
         "num": 11,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Establish IV/IO without interrupting chest compressions."
+        "html": "Establish IV/IO without interrupting chest compressions.",
+        "summary": {
+          "label": "IV/IO Access",
+          "category": "procedure",
+          "detail": "Without interrupting compressions"
+        }
       },
       {
         "num": 12,
         "providerLevel": "ADVANCED_EMT",
-        "html": "EPINEPHRine 1 mg of 1mg/10mL IV/IO push (within 30 seconds) every 3-5 minutes, if so trained and equipped."
+        "html": "EPINEPHRine 1 mg of 1mg/10mL IV/IO push (within 30 seconds) every 3-5 minutes, if so trained and equipped.",
+        "summary": {
+          "label": "Epinephrine",
+          "category": "medication",
+          "detail": "1 mg (1mg/10mL) IV/IO push within 30sec, q3-5min"
+        }
       },
       {
         "num": 13,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Manage the airway per Airway Algorithm, Blue 2. Avoid respiratory rate greater than 10/minute in cardiac arrest."
+        "html": "Manage the airway per Airway Algorithm, Blue 2. Avoid respiratory rate greater than 10/minute in cardiac arrest.",
+        "summary": {
+          "label": "Manage Airway",
+          "category": "procedure",
+          "detail": "See Airway Algorithm, Blue 2. Avoid rate greater than 10/min during arrest"
+        }
       },
       {
         "num": 14,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Request ALS."
+        "html": "Request ALS.",
+        "summary": {
+          "label": "Request ALS",
+          "category": "communication"
+        }
       },
       {
         "num": 15,
         "providerLevel": "PARAMEDIC",
-        "html": "One medication intervention at each 2-minute reassessment per ACLS protocol:<ol type=\"a\"><li>VF/VT: amiodarone 300 mg IV/IO; may consider additional 150 mg IV/IO one time (mix in D5W).</li><li>Torsades: 2 grams of magnesium sulfate IV/IO, diluted in 10 mL of IVF (D5W preferred), over 1-2 minutes.</li><li>For refractory VF/VT, refer to Refractory VF/VT protocol, Red 13.</li><li>For PEA, in addition to standard therapies, consider treatment based on QRS complex width and rate: narrow/fast vs wide/slow</li></ol>"
+        "html": "One medication intervention at each 2-minute reassessment per ACLS protocol:<ol type=\"a\"><li>VF/VT: amiodarone 300 mg IV/IO; may consider additional 150 mg IV/IO one time (mix in D5W).</li><li>Torsades: 2 grams of magnesium sulfate IV/IO, diluted in 10 mL of IVF (D5W preferred), over 1-2 minutes.</li><li>For refractory VF/VT, refer to Refractory VF/VT protocol, Red 13.</li><li>For PEA, in addition to standard therapies, consider treatment based on QRS complex width and rate: narrow/fast vs wide/slow</li></ol>",
+        "summary": {
+          "label": "Rhythm-Based Medication",
+          "category": "medication",
+          "detail": "VF/VT: Amiodarone 300 mg IV/IO; may repeat 150 mg IV/IO x1\nTorsades: Mag Sulfate 2g IV/IO over 1-2min\nRefractory VF/VT: see Red 13\nPEA: consider cause by QRS width/rate (narrow/fast vs wide/slow)"
+        }
       },
       {
         "num": 16,
         "providerLevel": "PARAMEDIC",
-        "html": "Consider causes of OHCA. Consult OLMC early for questions/advice.<ol type=\"a\"><li>Is patient on dialysis, have known renal disease or suspicion for hyperkalemia?<ol type=\"i\"><li>Calcium gluconate 3 gram bolus IV/IO, diluted in a minimum of 10 mL of IVF, over 1 minute</li><li>Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2</li><li>IV fluid bolus</li></ol></li><li>Is patient suspected TCA or other suspected sodium channel blocker overdose? (See Pearls)<ol type=\"i\"><li>Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2</li><li>IV fluid bolus</li></ol></li><li>Is there a suspected pre-existing metabolic acidosis? (See Pearls)<ol type=\"i\"><li>Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2</li><li>IV fluid bolus</li></ol></li><li>Is hypovolemia suspected? If yes, give fluid bolus.</li><li>Is hypoxia suspected? If yes, administer high-flow oxygen and manage airway per Airway Algorithm, Blue 2.</li><li>Do you suspect a pneumothorax? If yes, perform needle decompression.</li><li>Is patient's core temperature less than 30\u00b0C (86\u00b0F) and circumstances consistent with hypothermia? If yes, see Severe Hypothermia WITHOUT signs of Life protocol, Yellow 12.</li></ol>"
+        "html": "Consider causes of OHCA. Consult OLMC early for questions/advice.<ol type=\"a\"><li>Is patient on dialysis, have known renal disease or suspicion for hyperkalemia?<ol type=\"i\"><li>Calcium gluconate 3 gram bolus IV/IO, diluted in a minimum of 10 mL of IVF, over 1 minute</li><li>Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2</li><li>IV fluid bolus</li></ol></li><li>Is patient suspected TCA or other suspected sodium channel blocker overdose? (See Pearls)<ol type=\"i\"><li>Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2</li><li>IV fluid bolus</li></ol></li><li>Is there a suspected pre-existing metabolic acidosis? (See Pearls)<ol type=\"i\"><li>Sodium bicarbonate 50 mEq bolus IV/IO; may repeat x 2</li><li>IV fluid bolus</li></ol></li><li>Is hypovolemia suspected? If yes, give fluid bolus.</li><li>Is hypoxia suspected? If yes, administer high-flow oxygen and manage airway per Airway Algorithm, Blue 2.</li><li>Do you suspect a pneumothorax? If yes, perform needle decompression.</li><li>Is patient's core temperature less than 30\u00b0C (86\u00b0F) and circumstances consistent with hypothermia? If yes, see Severe Hypothermia WITHOUT signs of Life protocol, Yellow 12.</li></ol>",
+        "summary": {
+          "label": "Consider Cause of Arrest",
+          "category": "decision",
+          "detail": "Hyperkalemia/renal: Calcium gluconate 3g IV/IO over 1min; Sodium bicarb 50mEq IV/IO (repeat x2); fluid bolus\nTCA/Na-channel OD or metabolic acidosis: Sodium bicarb 50mEq IV/IO (repeat x2); fluid bolus\nHypovolemia: fluid bolus\nHypoxia: high-flow O2 + Airway Algorithm, Blue 2\nPneumothorax: needle decompression\nHypothermia (core less than 30\u00b0C): see Yellow 12"
+        }
       },
       {
         "num": 17,
         "providerLevel": "PARAMEDIC",
-        "html": "Upon ROSC:<ol type=\"a\"><li>Refer to Adult Post-Resuscitation Care protocol, Red 16.</li><li>Contact OLMC for options of:<ol type=\"i\"><li>Post-resuscitation amiodarone bolus (mix in D5W)</li></ol></li></ol>"
+        "html": "Upon ROSC:<ol type=\"a\"><li>Refer to Adult Post-Resuscitation Care protocol, Red 16.</li><li>Contact OLMC for options of:<ol type=\"i\"><li>Post-resuscitation amiodarone bolus (mix in D5W)</li></ol></li></ol>",
+        "summary": {
+          "label": "Post-ROSC Options",
+          "category": "medication",
+          "detail": "Refer to Red 16; consider OLMC-directed amiodarone bolus (mix in D5W)"
+        }
       },
       {
         "num": 18,
         "providerLevel": "PARAMEDIC",
-        "html": "Mechanical CPR (mCPR) devices are not mandatory devices, but may play a role in three prehospital cardiac arrest settings, including:<ol type=\"a\"><li>Resuscitation events with few numbers of rescuers,</li><li>Resuscitation events that are prolonged,</li><li>Resuscitation events occurring during transport.</li></ol>"
+        "html": "Mechanical CPR (mCPR) devices are not mandatory devices, but may play a role in three prehospital cardiac arrest settings, including:<ol type=\"a\"><li>Resuscitation events with few numbers of rescuers,</li><li>Resuscitation events that are prolonged,</li><li>Resuscitation events occurring during transport.</li></ol>",
+        "summary": {
+          "label": "mCPR: When It May Help",
+          "category": "procedure",
+          "detail": "Few rescuers, prolonged resuscitation, or during transport"
+        }
       },
       {
         "num": 19,
         "providerLevel": "PARAMEDIC",
-        "html": "Manual CPR MUST remain the FIRST strategy for chest compressions as manual CPR is the most readily available and effective compression strategy in the vast majority of cases."
+        "html": "Manual CPR MUST remain the FIRST strategy for chest compressions as manual CPR is the most readily available and effective compression strategy in the vast majority of cases.",
+        "summary": {
+          "label": "Manual CPR First",
+          "category": "procedure",
+          "detail": "Most readily available and effective in most cases"
+        }
       },
       {
         "num": 20,
         "providerLevel": "PARAMEDIC",
-        "html": "If applied, a mCPR device should be placed in a manner which minimizes interruptions, keeping all breaks in CPR to less than 10 seconds."
+        "html": "If applied, a mCPR device should be placed in a manner which minimizes interruptions, keeping all breaks in CPR to less than 10 seconds.",
+        "summary": {
+          "label": "mCPR: Minimize Interruptions",
+          "category": "procedure",
+          "detail": "Keep all CPR breaks under 10 seconds"
+        }
       },
       {
         "num": 21,
         "providerLevel": "PARAMEDIC",
-        "html": "Application Process -- Upon encountering a patient in cardiac arrest:<ol type=\"a\"><li>Initiate manual CPR.</li><li>Continue manual CPR for a minimum of 2 two-minute cycles. Placement or implementation of mechanical CPR may not begin until AFTER the 2nd cycle of CPR.</li><li>If the responding EMS service chooses to implement mechanical CPR, placement may begin AFTER the second cycle of CPR and must be applied in a manner that coordinates with pulse/rhythm checks AND keeps all breaks in CPR to less than 10 seconds.</li><li>Apply the device in accordance to manufacturer's instructions.</li><li>It is possible that application of the device, in a manner that is coordinated with pulse/rhythm checks and maintains interruptions in CPR less than 10 seconds, may take an additional 2 or more cycles of CPR, leading to initiation of mechanical CPR after the 4th round of manual CPR.</li></ol>"
+        "html": "Application Process -- Upon encountering a patient in cardiac arrest:<ol type=\"a\"><li>Initiate manual CPR.</li><li>Continue manual CPR for a minimum of 2 two-minute cycles. Placement or implementation of mechanical CPR may not begin until AFTER the 2nd cycle of CPR.</li><li>If the responding EMS service chooses to implement mechanical CPR, placement may begin AFTER the second cycle of CPR and must be applied in a manner that coordinates with pulse/rhythm checks AND keeps all breaks in CPR to less than 10 seconds.</li><li>Apply the device in accordance to manufacturer's instructions.</li><li>It is possible that application of the device, in a manner that is coordinated with pulse/rhythm checks and maintains interruptions in CPR less than 10 seconds, may take an additional 2 or more cycles of CPR, leading to initiation of mechanical CPR after the 4th round of manual CPR.</li></ol>",
+        "summary": {
+          "label": "mCPR Application Sequence",
+          "category": "procedure",
+          "detail": "Manual CPR first \u2014 minimum 2 full 2-min cycles\nPlacement only after 2nd cycle; coordinate with pulse/rhythm checks\nKeep all CPR breaks under 10sec (may take until ~4th cycle)"
+        }
       },
       {
         "num": 22,
         "providerLevel": "PARAMEDIC",
-        "html": "Contraindications to Mechanical CPR<ol type=\"a\"><li>Age less than 18.</li><li>Patients who are unable to fit into the device due to body habitus.</li></ol>"
+        "html": "Contraindications to Mechanical CPR<ol type=\"a\"><li>Age less than 18.</li><li>Patients who are unable to fit into the device due to body habitus.</li></ol>",
+        "summary": {
+          "label": "mCPR Contraindications",
+          "category": "decision",
+          "detail": "Age less than 18; body habitus doesn't fit device"
+        }
       },
       {
         "num": 23,
         "providerLevel": "PARAMEDIC",
-        "html": "In addition to the above, mechanical CPR devices may be placed prior to transport in patients that have recently achieved ROSC in the event of rearrest. The device should be in \"stand-by\" mode and activated if patient re-arrests en route to the hospital."
+        "html": "In addition to the above, mechanical CPR devices may be placed prior to transport in patients that have recently achieved ROSC in the event of rearrest. The device should be in \"stand-by\" mode and activated if patient re-arrests en route to the hospital.",
+        "summary": {
+          "label": "mCPR Standby (Post-ROSC)",
+          "category": "procedure",
+          "detail": "May place in standby, activate if re-arrest en route"
+        }
       },
       {
         "num": 24,
         "providerLevel": "PARAMEDIC",
-        "html": "All Maine EMS clinicians should be trained in High Performance CPR and Incident Command for Cardiac Arrest."
+        "html": "All Maine EMS clinicians should be trained in High Performance CPR and Incident Command for Cardiac Arrest.",
+        "summary": {
+          "label": "Training: HP-CPR & ICS",
+          "category": "procedure"
+        }
       },
       {
         "num": 25,
         "providerLevel": "PARAMEDIC",
-        "html": "Mechanical CPR devices should ONLY be used by clinicians who have been trained to use the devices and can apply the devices while maintaining all breaks in CPR to 10 seconds or less."
+        "html": "Mechanical CPR devices should ONLY be used by clinicians who have been trained to use the devices and can apply the devices while maintaining all breaks in CPR to 10 seconds or less.",
+        "summary": {
+          "label": "mCPR: Trained Users Only",
+          "category": "procedure"
+        }
       },
       {
         "num": 26,
         "providerLevel": "PARAMEDIC",
-        "html": "Additionally, Maine EMS clinicians should routinely practice High Performance CPR, Incident Command for Cardiac Arrest and, if the service chooses, placement and use of mechanical CPR devices. The frequency of such training is difficult for the MDPB to determine for each individual service. Ultimately, this number will be determined by multiple factors, including the size of the service and the service's annual number of resuscitation attempts. As a guide, some of the EMS services with the highest survival from witnessed VF arrest perform resuscitation training (including high performance CPR and ICS for cardiac arrest) 2-4 times a year. Please consult with your service medical director and QI program to assist in determining the proper frequency of trainings for your service."
+        "html": "Additionally, Maine EMS clinicians should routinely practice High Performance CPR, Incident Command for Cardiac Arrest and, if the service chooses, placement and use of mechanical CPR devices. The frequency of such training is difficult for the MDPB to determine for each individual service. Ultimately, this number will be determined by multiple factors, including the size of the service and the service's annual number of resuscitation attempts. As a guide, some of the EMS services with the highest survival from witnessed VF arrest perform resuscitation training (including high performance CPR and ICS for cardiac arrest) 2-4 times a year. Please consult with your service medical director and QI program to assist in determining the proper frequency of trainings for your service.",
+        "summary": {
+          "label": "Training Frequency Guidance",
+          "category": "procedure",
+          "detail": "Consult service medical director/QI program"
+        }
       }
     ],
     "pearls": [],
