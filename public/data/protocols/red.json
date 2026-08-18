@@ -76,87 +76,167 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "Administer O2 to keep O2 sats greater than or equal to 94% and less than 99% (avoid hypo/hyperoxia)."
+        "html": "Administer O2 to keep O2 sats greater than or equal to 94% and less than 99% (avoid hypo/hyperoxia).",
+        "summary": {
+          "label": "Titrated O\u2082",
+          "category": "medication",
+          "detail": "Target SpO2 94-99% (avoid hypo/hyperoxia)"
+        }
       },
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "Treat for shock if indicated."
+        "html": "Treat for shock if indicated.",
+        "summary": {
+          "label": "Treat for Shock (if indicated)",
+          "category": "procedure"
+        }
       },
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "Request ALS."
+        "html": "Request ALS.",
+        "summary": {
+          "label": "Request ALS",
+          "category": "communication"
+        }
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "If patient has not taken an aspirin, administer chewable aspirin 324 mg <strong>PO</strong>, if not contraindicated by allergy."
+        "html": "If patient has not taken an aspirin, administer chewable aspirin 324 mg <strong>PO</strong>, if not contraindicated by allergy.",
+        "summary": {
+          "label": "Aspirin (Chewable)",
+          "category": "medication",
+          "detail": "324 mg PO, if not already taken / not contraindicated"
+        }
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "If available and so trained, perform 12-lead ECG. EMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the EMT in obtaining the 12-lead ECG is to present it to the Paramedic and/or receiving facility."
+        "html": "If available and so trained, perform 12-lead ECG. EMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the EMT in obtaining the 12-lead ECG is to present it to the Paramedic and/or receiving facility.",
+        "summary": {
+          "label": "12-Lead ECG",
+          "category": "assessment",
+          "detail": "EMT: obtain and present to Paramedic/facility, not for interpretation"
+        }
       },
       {
         "num": 6,
         "providerLevel": "EMT",
-        "html": "Contact OLMC for the <strong>OPTION</strong> of assisting with the administration of patient's own nitroglycerin."
+        "html": "Contact OLMC for the <strong>OPTION</strong> of assisting with the administration of patient's own nitroglycerin.",
+        "summary": {
+          "label": "Contact OLMC (Assist Pt's Nitro)",
+          "category": "communication"
+        }
       },
       {
         "num": 7,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Establish IV en route."
+        "html": "Establish IV en route.",
+        "summary": {
+          "label": "Establish IV",
+          "category": "procedure",
+          "detail": "IV"
+        }
       },
       {
         "num": 8,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Cardiac monitor and 12-lead ECG within the <em>first</em> 10 minutes of patient contact, if so trained. AEMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the AEMT in obtaining the ECG is to present it to the Paramedic and/or receiving facility."
+        "html": "Cardiac monitor and 12-lead ECG within the <em>first</em> 10 minutes of patient contact, if so trained. AEMTs are not certified to interpret the 12-lead ECG or change the ALS response based on obtaining a 12-lead ECG. The purpose of the AEMT in obtaining the ECG is to present it to the Paramedic and/or receiving facility.",
+        "summary": {
+          "label": "Cardiac Monitor + 12-Lead ECG",
+          "category": "assessment",
+          "detail": "Within first 10 min of contact; AEMT: obtain/present, not for interpretation"
+        }
       },
       {
         "num": 9,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Contact OLMC for administration of nitroglycerin 0.4 mg tab or 0.4 mg spray <strong>SL</strong> every 5 minutes up to 3 doses, if needed, for symptoms <strong>AND</strong> systolic BP remains above 100 mmHg. If the patient has had nitroglycerin before and no IV is established, and systolic BP is greater than 100 mmHg, then it is OK to give nitroglycerin."
+        "html": "Contact OLMC for administration of nitroglycerin 0.4 mg tab or 0.4 mg spray <strong>SL</strong> every 5 minutes up to 3 doses, if needed, for symptoms <strong>AND</strong> systolic BP remains above 100 mmHg. If the patient has had nitroglycerin before and no IV is established, and systolic BP is greater than 100 mmHg, then it is OK to give nitroglycerin.",
+        "summary": {
+          "label": "Nitroglycerin (via OLMC)",
+          "category": "medication",
+          "detail": "0.4 mg tab or spray SL q5min, up to 3 doses, if SBP greater than 100 mmHg"
+        }
       },
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "Paramedic may perform all treatments above without medical control."
+        "html": "Paramedic may perform all treatments above without medical control.",
+        "summary": {
+          "label": "No Medical Control Required",
+          "category": "communication"
+        }
       },
       {
         "num": 11,
         "providerLevel": "PARAMEDIC",
-        "html": "Obtain 12-lead ECG within <em>first</em> 10 minutes of patient contact. If patient meets <strong>STEMI</strong> criteria, refer to local or regional cardiac systems of care for destination decision support.* Alert the destination hospital as soon as possible to allow the hospital to prepare while addressing any questions regarding appropriateness of destination, dynamic patient presentations or treatment modalities."
+        "html": "Obtain 12-lead ECG within <em>first</em> 10 minutes of patient contact. If patient meets <strong>STEMI</strong> criteria, refer to local or regional cardiac systems of care for destination decision support.* Alert the destination hospital as soon as possible to allow the hospital to prepare while addressing any questions regarding appropriateness of destination, dynamic patient presentations or treatment modalities.",
+        "summary": {
+          "label": "12-Lead ECG + STEMI Activation",
+          "category": "assessment",
+          "detail": "Within 10 min; if STEMI, activate cardiac system of care and alert destination early"
+        }
       },
       {
         "num": 12,
         "providerLevel": "PARAMEDIC",
-        "html": "Patients who present with inferior MI, clear lung sounds, and BP less than 90 mmHg, give fluid bolus."
+        "html": "Patients who present with inferior MI, clear lung sounds, and BP less than 90 mmHg, give fluid bolus.",
+        "summary": {
+          "label": "Fluid Bolus (Inferior MI + Hypotension)",
+          "category": "medication",
+          "detail": "If inferior MI, clear lung sounds, and SBP less than 90 mmHg"
+        }
       },
       {
         "num": 13,
         "providerLevel": "PARAMEDIC",
-        "html": "Consider<ol type=\"a\"><li>Additional nitroglycerin</li><li>Fentanyl 1 mcg/kg <strong>IV/IM</strong>, or <strong>IN</strong> to a MAX dose of 100 mcgs</li><li>Additional fluid bolus in patients with inferior MI</li></ol>"
+        "html": "Consider<ol type=\"a\"><li>Additional nitroglycerin</li><li>Fentanyl 1 mcg/kg <strong>IV/IM</strong>, or <strong>IN</strong> to a MAX dose of 100 mcgs</li><li>Additional fluid bolus in patients with inferior MI</li></ol>",
+        "summary": {
+          "label": "Additional Options",
+          "category": "medication",
+          "detail": "Additional nitroglycerin\nFentanyl: 1 mcg/kg IV/IM or IN (max 100 mcg)\nAdditional fluid bolus if inferior MI"
+        }
       },
       {
         "num": 14,
         "providerLevel": "PARAMEDIC",
-        "html": "If patient develops a dysrhythmia, refer to appropriate protocol."
+        "html": "If patient develops a dysrhythmia, refer to appropriate protocol.",
+        "summary": {
+          "label": "Dysrhythmia? Refer to Protocol",
+          "category": "decision"
+        }
       },
       {
         "num": 15,
         "providerLevel": "PARAMEDIC",
-        "html": "Septal (V1, V2), Anterior (V3, V4), Inferior (II, III, aVF) or Lateral MI (I, aVL, V5, V6): ST elevation greater than 1 mm in two or more anatomically contiguous leads with reciprocal changes."
+        "html": "Septal (V1, V2), Anterior (V3, V4), Inferior (II, III, aVF) or Lateral MI (I, aVL, V5, V6): ST elevation greater than 1 mm in two or more anatomically contiguous leads with reciprocal changes.",
+        "summary": {
+          "label": "STEMI Criteria (by Lead Group)",
+          "category": "assessment",
+          "detail": "Septal V1-V2 / Anterior V3-V4 / Inferior II,III,aVF / Lateral I,aVL,V5-V6\nST elevation greater than 1mm in 2+ contiguous leads with reciprocal changes"
+        }
       },
       {
         "num": 16,
         "providerLevel": "PARAMEDIC",
-        "html": "For leads V2-V3, the criteria for STEMI are:<ul><li>2 mm - Males 40 yo and older</li><li>2.5 mm - Males younger than 40 yo</li><li>1.5 mm for Women independent of age</li></ul>"
+        "html": "For leads V2-V3, the criteria for STEMI are:<ul><li>2 mm - Males 40 yo and older</li><li>2.5 mm - Males younger than 40 yo</li><li>1.5 mm for Women independent of age</li></ul>",
+        "summary": {
+          "label": "STEMI Criteria (V2-V3)",
+          "category": "assessment",
+          "detail": "Males \u226540yo: 2mm | Males <40yo: 2.5mm | Women: 1.5mm (any age)"
+        }
       },
       {
         "num": 17,
         "providerLevel": "PARAMEDIC",
-        "html": "Posterior MI: ST depression greater than 1 mm in V1, V2 (and possibly V3) with an R/S ratio of greater than or equal to 1, place posterior leads to evaluate for ST segment elevation in leads V7/V8/V9"
+        "html": "Posterior MI: ST depression greater than 1 mm in V1, V2 (and possibly V3) with an R/S ratio of greater than or equal to 1, place posterior leads to evaluate for ST segment elevation in leads V7/V8/V9",
+        "summary": {
+          "label": "Posterior MI Criteria",
+          "category": "assessment",
+          "detail": "ST depression greater than 1mm in V1-V2 (\u00b1V3), R/S ratio \u22651; place posterior leads V7-V9 to check for elevation"
+        }
       }
     ],
     "pearls": [],
