@@ -1245,57 +1245,106 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "Manage airway. Administer O\u2082 only to keep O\u2082 sats greater than or equal to 94% and less than 99% (avoid hypo/hyperoxia). Maintain ventilation rate between 10-12 breaths per minute."
+        "html": "Manage airway. Administer O\u2082 only to keep O\u2082 sats greater than or equal to 94% and less than 99% (avoid hypo/hyperoxia). Maintain ventilation rate between 10-12 breaths per minute.",
+        "summary": {
+          "label": "Manage Airway + Titrated O\u2082",
+          "category": "procedure",
+          "detail": "Target SpO2 94-99%; ventilate 10-12/min"
+        }
       },
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "Request ALS."
+        "html": "Request ALS.",
+        "summary": {
+          "label": "Request ALS",
+          "category": "communication"
+        }
       },
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "Perform 12-lead ECG, if so trained."
+        "html": "Perform 12-lead ECG, if so trained.",
+        "summary": {
+          "label": "12-Lead ECG",
+          "category": "assessment"
+        }
       },
       {
         "num": 4,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Provide advanced airway management if indicated and initiate capnography. Avoid excessive ventilation. Aim for ventilation rate between 10-12 breaths per minute."
+        "html": "Provide advanced airway management if indicated and initiate capnography. Avoid excessive ventilation. Aim for ventilation rate between 10-12 breaths per minute.",
+        "summary": {
+          "label": "Advanced Airway + Capnography",
+          "category": "procedure",
+          "detail": "Ventilate 10-12/min, avoid excessive ventilation"
+        }
       },
       {
         "num": 5,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Obtain IV access and treat hypotension with fluid boluses. Goal systolic BP after ROSC is greater than or equal to 100 mmHg. For post-resuscitation hypotension, administer fluid boluses. Total volume should not exceed 2000 mL."
+        "html": "Obtain IV access and treat hypotension with fluid boluses. Goal systolic BP after ROSC is greater than or equal to 100 mmHg. For post-resuscitation hypotension, administer fluid boluses. Total volume should not exceed 2000 mL.",
+        "summary": {
+          "label": "IV + Fluid Bolus (Hypotension)",
+          "category": "medication",
+          "detail": "Goal SBP \u2265100 mmHg; max total 2000 mL"
+        }
       },
       {
         "num": 6,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Perform 12-lead ECG."
+        "html": "Perform 12-lead ECG.",
+        "summary": {
+          "label": "12-Lead ECG",
+          "category": "assessment"
+        }
       },
       {
         "num": 7,
         "providerLevel": "PARAMEDIC",
-        "html": "Goal systolic BP after ROSC is greater than or equal to 100 mmHg. For post-resuscitation hypotension, administer IV fluid boluses. Total volume should not exceed 2000 mL."
+        "html": "Goal systolic BP after ROSC is greater than or equal to 100 mmHg. For post-resuscitation hypotension, administer IV fluid boluses. Total volume should not exceed 2000 mL.",
+        "summary": {
+          "label": "Fluid Bolus (Hypotension)",
+          "category": "medication",
+          "detail": "Goal SBP \u2265100 mmHg; max total 2000 mL"
+        }
       },
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "If evidence of STEMI on 12-lead ECG, refer to Chest Pain-Suspected Cardiac Origin protocol, <strong>Red 2</strong> and follow local STEMI referral patterns."
+        "html": "If evidence of STEMI on 12-lead ECG, refer to Chest Pain-Suspected Cardiac Origin protocol, <strong>Red 2</strong> and follow local STEMI referral patterns.",
+        "summary": {
+          "label": "STEMI? Refer to Red 2",
+          "category": "decision"
+        }
       },
       {
         "num": 9,
         "providerLevel": "PARAMEDIC",
-        "html": "If hypotension persists:<ol type=\"a\"><li>NOREPInephrine IV infusion. NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump.<ol type=\"i\"><li><strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS.</li><li><strong>Dosing</strong> - Starting dose of NOREPInephrine is 0.03 mcg/kg/min. Titrate by 0.03 mcg/kg/min every 3-5 minutes. Usual dose is 0.03-0.25 mcg/kg/min. Usual MAX dose is 0.6 mcg/kg/min. Absolute MAX dose is 3 mcg/kg/min.</li><li><strong>Titrate</strong> to maintain SBP greater than 100 mmHg.</li></ol></li></ol>"
+        "html": "If hypotension persists:<ol type=\"a\"><li>NOREPInephrine IV infusion. NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump.<ol type=\"i\"><li><strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS.</li><li><strong>Dosing</strong> - Starting dose of NOREPInephrine is 0.03 mcg/kg/min. Titrate by 0.03 mcg/kg/min every 3-5 minutes. Usual dose is 0.03-0.25 mcg/kg/min. Usual MAX dose is 0.6 mcg/kg/min. Absolute MAX dose is 3 mcg/kg/min.</li><li><strong>Titrate</strong> to maintain SBP greater than 100 mmHg.</li></ol></li></ol>",
+        "summary": {
+          "label": "Norepinephrine Infusion",
+          "category": "medication",
+          "detail": "Mix 8mg in 250mL NS via approved pump\nStart 0.03 mcg/kg/min, titrate by 0.03 q3-5min\nUsual 0.03-0.25 (max 0.6), absolute max 3 mcg/kg/min\nTitrate to SBP greater than 100 mmHg"
+        }
       },
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "If seizure develops, refer to Seizure protocol, <strong>Gold 8</strong>."
+        "html": "If seizure develops, refer to Seizure protocol, <strong>Gold 8</strong>.",
+        "summary": {
+          "label": "Seizure? Refer to Gold 8",
+          "category": "decision"
+        }
       },
       {
         "num": 11,
         "providerLevel": "PARAMEDIC",
-        "html": "If patient suffers loss of spontaneous circulation and re-arrests, refer to appropriate protocol."
+        "html": "If patient suffers loss of spontaneous circulation and re-arrests, refer to appropriate protocol.",
+        "summary": {
+          "label": "Re-arrest? Refer to Protocol",
+          "category": "decision"
+        }
       }
     ],
     "pearls": [],
@@ -1338,107 +1387,206 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "Initiate immediate CPR with minimal interruptions, continue CPR until AED arrives or signs incompatible with life are present, refer to Do Not Resuscitate Guidelines, <strong>Grey 3</strong>; refer to Termination of Resuscitation protocol, <strong>Red 14</strong>."
+        "html": "Initiate immediate CPR with minimal interruptions, continue CPR until AED arrives or signs incompatible with life are present, refer to Do Not Resuscitate Guidelines, <strong>Grey 3</strong>; refer to Termination of Resuscitation protocol, <strong>Red 14</strong>.",
+        "summary": {
+          "label": "Initiate CPR",
+          "category": "procedure",
+          "detail": "Minimal interruptions; unless DNR/incompatible with life \u2014 see Grey 3/Red 14"
+        }
       },
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "Attach AED as soon as available with minimal interruptions in chest compressions and follow AED prompts. From birth to 8 years, use pediatric AED pads. If pediatric pads are unavailable, use adult AED pads, do not allow pads to overlap."
+        "html": "Attach AED as soon as available with minimal interruptions in chest compressions and follow AED prompts. From birth to 8 years, use pediatric AED pads. If pediatric pads are unavailable, use adult AED pads, do not allow pads to overlap.",
+        "summary": {
+          "label": "Attach AED",
+          "category": "procedure",
+          "detail": "Pediatric pads birth-8yo; adult pads OK if unavailable (don't overlap)"
+        }
       },
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "Place oral and/or nasal airway(s)."
+        "html": "Place oral and/or nasal airway(s).",
+        "summary": {
+          "label": "OPA/NPA",
+          "category": "procedure"
+        }
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "High-flow O\u2082 with BVM ventilation at a ratio of 30:2 or 15:2 if multiple rescuers."
+        "html": "High-flow O\u2082 with BVM ventilation at a ratio of 30:2 or 15:2 if multiple rescuers.",
+        "summary": {
+          "label": "BVM Ventilation",
+          "category": "procedure",
+          "detail": "30:2, or 15:2 with multiple rescuers"
+        }
       },
       {
         "num": 5,
         "providerLevel": "EMT",
-        "html": "Request ALS."
+        "html": "Request ALS.",
+        "summary": {
+          "label": "Request ALS",
+          "category": "communication"
+        }
       },
       {
         "num": 6,
         "providerLevel": "EMT",
-        "html": "Continue 2-minute cycles of chest compressions and AED checks."
+        "html": "Continue 2-minute cycles of chest compressions and AED checks.",
+        "summary": {
+          "label": "2-Min CPR/AED Cycles",
+          "category": "procedure"
+        }
       },
       {
         "num": 7,
         "providerLevel": "EMT",
-        "html": "If ROSC occurs, refer to Pediatric Post-Resuscitation Care protocol, <strong>Red 21</strong>."
+        "html": "If ROSC occurs, refer to Pediatric Post-Resuscitation Care protocol, <strong>Red 21</strong>.",
+        "summary": {
+          "label": "ROSC? Refer to Red 21",
+          "category": "decision"
+        }
       },
       {
         "num": 8,
         "providerLevel": "EMT",
-        "html": "Consider termination of resuscitation after discussion with OLMC ; refer to Termination of Resuscitation protocol, <strong>Red 14</strong>."
+        "html": "Consider termination of resuscitation after discussion with OLMC ; refer to Termination of Resuscitation protocol, <strong>Red 14</strong>.",
+        "summary": {
+          "label": "Consider TOR (via OLMC)",
+          "category": "decision",
+          "detail": "Refer to Red 14"
+        }
       },
       {
         "num": 9,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Establish IV/IO without interrupting chest compressions."
+        "html": "Establish IV/IO without interrupting chest compressions.",
+        "summary": {
+          "label": "IV/IO Access",
+          "category": "procedure",
+          "detail": "Without interrupting compressions"
+        }
       },
       {
         "num": 10,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Manage the airway per Airway Algorithm, <strong>Blue 2</strong>."
+        "html": "Manage the airway per Airway Algorithm, <strong>Blue 2</strong>.",
+        "summary": {
+          "label": "Manage Airway",
+          "category": "procedure",
+          "detail": "See Airway Algorithm, Blue 2"
+        }
       },
       {
         "num": 11,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Establish weight in kg using length-based tape, see Pediatric Specific Equipment Sizes protocol, <strong>Pink 6</strong> for suggested equipment size, if needed."
+        "html": "Establish weight in kg using length-based tape, see Pediatric Specific Equipment Sizes protocol, <strong>Pink 6</strong> for suggested equipment size, if needed.",
+        "summary": {
+          "label": "Weight via Length-Based Tape",
+          "category": "assessment",
+          "detail": "See Pediatric Equipment Sizes, Pink 6"
+        }
       },
       {
         "num": 12,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Continue 2-minute cycles of chest compressions."
+        "html": "Continue 2-minute cycles of chest compressions.",
+        "summary": {
+          "label": "2-Min CPR Cycles",
+          "category": "procedure"
+        }
       },
       {
         "num": 13,
         "providerLevel": "ADVANCED_EMT",
-        "html": "For Ventricular Fibrillation (VF)/Pulseless Ventricular Tachycardia (VT):<ol type=\"a\"><li>Initial defibrillation at 2 J/kg; perform CPR for 2 minutes and recheck rhythm; if still a shockable rhythm, defibrillation at 4 J/kg; perform CPR and reassess every 2 minutes. Continue 2 minute cycles of CPR with defibrillation as indicated. Third defibrillation at 6 J/kg, fourth at 8 J/kg, fifth and subsequent defibrillations at a MAX of 10 J/kg.</li></ol>"
+        "html": "For Ventricular Fibrillation (VF)/Pulseless Ventricular Tachycardia (VT):<ol type=\"a\"><li>Initial defibrillation at 2 J/kg; perform CPR for 2 minutes and recheck rhythm; if still a shockable rhythm, defibrillation at 4 J/kg; perform CPR and reassess every 2 minutes. Continue 2 minute cycles of CPR with defibrillation as indicated. Third defibrillation at 6 J/kg, fourth at 8 J/kg, fifth and subsequent defibrillations at a MAX of 10 J/kg.</li></ol>",
+        "summary": {
+          "label": "Defibrillate VF/pVT",
+          "category": "procedure",
+          "detail": "1st: 2 J/kg \u2192 2nd: 4 J/kg \u2192 3rd: 6 J/kg \u2192 4th: 8 J/kg \u2192 5th+: max 10 J/kg\nCPR 2min + reassess rhythm between each shock"
+        }
       },
       {
         "num": 14,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Administer NS 20 mL/kg fluid bolus IV/IO. May repeat x 1 at 5 minutes after initial bolus. If pre-existing cardiac history, consider reducing to 10 mL/kg for each bolus."
+        "html": "Administer NS 20 mL/kg fluid bolus IV/IO. May repeat x 1 at 5 minutes after initial bolus. If pre-existing cardiac history, consider reducing to 10 mL/kg for each bolus.",
+        "summary": {
+          "label": "Fluid Bolus",
+          "category": "medication",
+          "detail": "NS 20 mL/kg IV/IO; may repeat x1 at 5min. Cardiac hx: reduce to 10 mL/kg"
+        }
       },
       {
         "num": 15,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Check blood glucose if resources are adequate and doing so would not interfere with CPR. If blood glucose is < 60 mg/dL, treat with 5 mL/kg of D\u2081\u2080W."
+        "html": "Check blood glucose if resources are adequate and doing so would not interfere with CPR. If blood glucose is < 60 mg/dL, treat with 5 mL/kg of D\u2081\u2080W.",
+        "summary": {
+          "label": "Blood Glucose Check",
+          "category": "assessment",
+          "detail": "If less than 60 mg/dL: D10W 5 mL/kg"
+        }
       },
       {
         "num": 16,
         "providerLevel": "PARAMEDIC",
-        "html": "If BVM ventilation is inadequate, consider placement of advanced airway. In most cases, BIADs are preferable due to their ease of placement. See Pediatric Specific Equipment Sizes protocol, <strong>Pink 6</strong> for suggested equipment size."
+        "html": "If BVM ventilation is inadequate, consider placement of advanced airway. In most cases, BIADs are preferable due to their ease of placement. See Pediatric Specific Equipment Sizes protocol, <strong>Pink 6</strong> for suggested equipment size.",
+        "summary": {
+          "label": "Consider Advanced Airway",
+          "category": "procedure",
+          "detail": "BIAD preferred; see Pink 6 for sizing"
+        }
       },
       {
         "num": 17,
         "providerLevel": "PARAMEDIC",
-        "html": "One medication intervention at each 2-minute reassessment per PALS guidelines."
+        "html": "One medication intervention at each 2-minute reassessment per PALS guidelines.",
+        "summary": {
+          "label": "One Medication per Reassessment",
+          "category": "medication",
+          "detail": "Per PALS guidelines, each 2-min cycle"
+        }
       },
       {
         "num": 18,
         "providerLevel": "PARAMEDIC",
-        "html": "For pulseless VT/VF, defibrillate as indicated.<ol type=\"a\"><li>If no response after first defibrillation, administer 0.01 mg/kg (0.1 mL/kg) EPINEPHRine of 1mg/10mL IV/IO rapid push. MAX single dose 1 mg.<ol type=\"i\"><li>Repeat every 3-5 minutes</li></ol></li><li>If no response after second defibrillation, consider:<ol type=\"i\"><li>Amiodarone 5 mg/kg bolus IV/IO. MAX single dose of 300 mg. Can repeat in 3-5 minutes up to a total dose of 15 mg/kg (mix in D\u2085W).</li><li>Torsades: Magnesium sulfate 25-50 mg/kg IV/IO, diluted in 10 mL IVF (D\u2085W preferred), over 1-2 minutes. MAX single dose 2 grams.</li></ol></li></ol>"
+        "html": "For pulseless VT/VF, defibrillate as indicated.<ol type=\"a\"><li>If no response after first defibrillation, administer 0.01 mg/kg (0.1 mL/kg) EPINEPHRine of 1mg/10mL IV/IO rapid push. MAX single dose 1 mg.<ol type=\"i\"><li>Repeat every 3-5 minutes</li></ol></li><li>If no response after second defibrillation, consider:<ol type=\"i\"><li>Amiodarone 5 mg/kg bolus IV/IO. MAX single dose of 300 mg. Can repeat in 3-5 minutes up to a total dose of 15 mg/kg (mix in D\u2085W).</li><li>Torsades: Magnesium sulfate 25-50 mg/kg IV/IO, diluted in 10 mL IVF (D\u2085W preferred), over 1-2 minutes. MAX single dose 2 grams.</li></ol></li></ol>",
+        "summary": {
+          "label": "VF/VT Medications",
+          "category": "medication",
+          "detail": "After 1st defib, no response: Epi 0.01 mg/kg (0.1 mL/kg) IV/IO rapid push (max 1mg), repeat q3-5min\nAfter 2nd defib, no response: Amiodarone 5 mg/kg IV/IO (max 300mg single, max 15mg/kg total)\nTorsades: Mag Sulfate 25-50 mg/kg IV/IO over 1-2min (max 2g single)"
+        }
       },
       {
         "num": 19,
         "providerLevel": "PARAMEDIC",
-        "html": "For Asystole or Pulseless Electrical Activity:<ol type=\"a\"><li>Administer 0.01 mg/kg (0.1 mL/kg) EPINEPHRine (1mg/10mL) IV/IO rapid push. MAX single dose 1 mg.<ol type=\"i\"><li>Repeat every 3-5 minutes.</li></ol></li><li>Perform 2 minutes of CPR, then check rhythm. If asystole/PEA, continue EPINEPHRine and 2 minutes of CPR until:<ol type=\"i\"><li>Pulse obtained, OR</li><li>Shockable rhythm obtained, OR</li><li>Decision made to discontinue further efforts, refer to Termination of Resuscitation protocol, <strong>Red 14</strong>.</li></ol></li></ol>"
+        "html": "For Asystole or Pulseless Electrical Activity:<ol type=\"a\"><li>Administer 0.01 mg/kg (0.1 mL/kg) EPINEPHRine (1mg/10mL) IV/IO rapid push. MAX single dose 1 mg.<ol type=\"i\"><li>Repeat every 3-5 minutes.</li></ol></li><li>Perform 2 minutes of CPR, then check rhythm. If asystole/PEA, continue EPINEPHRine and 2 minutes of CPR until:<ol type=\"i\"><li>Pulse obtained, OR</li><li>Shockable rhythm obtained, OR</li><li>Decision made to discontinue further efforts, refer to Termination of Resuscitation protocol, <strong>Red 14</strong>.</li></ol></li></ol>",
+        "summary": {
+          "label": "Asystole/PEA: Epinephrine",
+          "category": "medication",
+          "detail": "0.01 mg/kg (0.1 mL/kg) IV/IO rapid push (max 1mg), repeat q3-5min\n2min CPR between doses; continue until pulse, shockable rhythm, or TOR (Red 14)"
+        }
       },
       {
         "num": 20,
         "providerLevel": "PARAMEDIC",
-        "html": "Consider causes of OHCA. Consult OLMC early for questions/advice.<ol type=\"a\"><li>For hypoxia, administer high-flow oxygen and manage airway per Airway Algorithm, <strong>Blue 2</strong>.</li><li>If hypovolemia is suspected, give fluid bolus of 20 mL/kg IV/IO. May repeat x 1 at 5 minutes after initial bolus. If pre-existing cardiac history, consider reducing to 10 mL/kg for each bolus.</li><li>For suspected pre-arrest metabolic acidosis, suspected or known hyperkalemia (dialysis patient), or known TCA overdose, consider:<ol type=\"i\"><li>Sodium bicarbonate 1 mEq/kg bolus IV/IO, MAX single dose 50 mEq. Do not mix with any resuscitation drugs. Flush IV tubing with NS before and after drug administration. For TCA overdose, repeat every 5 minutes until QRS duration is less than 120 msec. <strong>Do not use routinely in cardiac arrest.</strong> (8.4% sodium bicarbonate must be diluted 1:1 with D\u2085W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age).</li></ol></li><li>If patient's core temperature less than 30\u00b0C (86\u00b0F) and circumstances consistent with hypothermia, see Severe Hypothermia WITHOUT Signs of Life protocol, <strong>Yellow 12</strong>.</li><li>For known or suspected hyperkalemia or symptomatic calcium channel blocker/beta-blocker overdose, consider:<ol type=\"i\"><li>Calcium gluconate 60 mg/kg bolus IV/IO, diluted in a minimum of 10 mL of IVF, over 1 minute; MAX single dose of 3 grams; may repeat in 10 minutes. <strong>Do not use routinely in cardiac arrest.</strong></li></ol></li><li>Perform needle decompression if there is a suspected pneumothorax.</li></ol>"
+        "html": "Consider causes of OHCA. Consult OLMC early for questions/advice.<ol type=\"a\"><li>For hypoxia, administer high-flow oxygen and manage airway per Airway Algorithm, <strong>Blue 2</strong>.</li><li>If hypovolemia is suspected, give fluid bolus of 20 mL/kg IV/IO. May repeat x 1 at 5 minutes after initial bolus. If pre-existing cardiac history, consider reducing to 10 mL/kg for each bolus.</li><li>For suspected pre-arrest metabolic acidosis, suspected or known hyperkalemia (dialysis patient), or known TCA overdose, consider:<ol type=\"i\"><li>Sodium bicarbonate 1 mEq/kg bolus IV/IO, MAX single dose 50 mEq. Do not mix with any resuscitation drugs. Flush IV tubing with NS before and after drug administration. For TCA overdose, repeat every 5 minutes until QRS duration is less than 120 msec. <strong>Do not use routinely in cardiac arrest.</strong> (8.4% sodium bicarbonate must be diluted 1:1 with D\u2085W to 4.2% [0.5 mEq/mL] prior to administration in patients less than 2 years of age).</li></ol></li><li>If patient's core temperature less than 30\u00b0C (86\u00b0F) and circumstances consistent with hypothermia, see Severe Hypothermia WITHOUT Signs of Life protocol, <strong>Yellow 12</strong>.</li><li>For known or suspected hyperkalemia or symptomatic calcium channel blocker/beta-blocker overdose, consider:<ol type=\"i\"><li>Calcium gluconate 60 mg/kg bolus IV/IO, diluted in a minimum of 10 mL of IVF, over 1 minute; MAX single dose of 3 grams; may repeat in 10 minutes. <strong>Do not use routinely in cardiac arrest.</strong></li></ol></li><li>Perform needle decompression if there is a suspected pneumothorax.</li></ol>",
+        "summary": {
+          "label": "Consider Cause of Arrest",
+          "category": "decision",
+          "detail": "Hypoxia: high-flow O2 + Airway Algorithm, Blue 2\nHypovolemia: fluid bolus 20 mL/kg IV/IO (10 mL/kg if cardiac hx), may repeat x1 at 5min\nAcidosis/hyperkalemia/TCA OD: Sodium bicarb 1 mEq/kg IV/IO (max 50mEq); flush line; not routine\nHyperkalemia/CCB-BB OD: Calcium gluconate 60 mg/kg IV/IO over 1min (max 3g), may repeat in 10min; not routine\nHypothermia (core less than 30\u00b0C): see Yellow 12\nPneumothorax: needle decompression"
+        }
       },
       {
         "num": 21,
         "providerLevel": "PARAMEDIC",
-        "html": "Upon ROSC:<ol type=\"a\"><li>Refer to Pediatric Post-Resuscitation Care protocol, <strong>Red 21</strong>.</li></ol>"
+        "html": "Upon ROSC:<ol type=\"a\"><li>Refer to Pediatric Post-Resuscitation Care protocol, <strong>Red 21</strong>.</li></ol>",
+        "summary": {
+          "label": "Post-ROSC: Refer to Red 21",
+          "category": "decision"
+        }
       }
     ],
     "pearls": [],
