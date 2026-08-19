@@ -385,11 +385,6 @@
         "html": "<h3>Management of Hypotension/Blood Pressure</h3>"
       },
       {
-        "type": "content",
-        "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<pre><code>b. For SBP below goal for age, give 20 mL/kg IV bolus. May repeat x 2 up to a total of 60 mL/kg to achieve goal SBP. If needing the third bolus, please consult OLMC.\n</code></pre>"
-      },
-      {
         "type": "pearls",
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
         "html": "<ul>\n<li>A single episode of SBP &lt;90 mmHg is independently associated with at least a doubling of mortality. Repeated episodes of hypotension can increase the risk of dying by as much as <em>eight</em> times. Hypotension kills neurons!</li>\n<li>In the context of Head Trauma, do not allow permissive hypotension below 90 mmHg (in adults) and do not wait for the patient to become hypotensive. If the SBP is dropping, or if there are any other signs of compensated shock such as increasing heart rate with decreasing SBP, begin aggressive treatment before the patient becomes hypotensive.</li>\n<li>In TBI, treatment of acute hypertension is <strong>NOT</strong> recommended.</li>\n<li>IV fluids should be restricted to a minimal \"keep open\" rate in patients with, SBP \u2265 100 mmHg (infants/young children) SBP \u2265 130 mmHg (older children/adolescents), and SBP \u2265 140 mmHg in adults.</li>\n</ul>",
@@ -542,7 +537,7 @@
       {
         "num": 12,
         "providerLevel": "ADVANCED_EMT_PARAMEDIC",
-        "html": "<strong>PEDIATRICS</strong> - GOAL SBP defined below:<ol type=\"a\"><li>Hypotension is defined as SBP below the 5th percentile for age, estimated using the following guide:<ol type=\"i\"><li>Age 0-10 years: 70 mmHg + (age x 2)</li><li>Age greater than 10 years: 90 mmHg (same as adolescents and adults)</li><li>\"Rules of Thumb\" to remember:<ol><li>Infant = 70 mmHg</li><li>5 year old = 80 mmHg</li><li>10 years and older = 90 mmHg</li></ol></li></ol></li></ol>"
+        "html": "<strong>PEDIATRICS</strong> - GOAL SBP defined below:<ol type=\"a\"><li>Hypotension is defined as SBP below the 5th percentile for age, estimated using the following guide:<ol type=\"i\"><li>Age 0-10 years: 70 mmHg + (age x 2)</li><li>Age greater than 10 years: 90 mmHg (same as adolescents and adults)</li><li>&#8220;Rules of Thumb&#8221; to remember:<ol><li>Infant = 70 mmHg</li><li>5 year old = 80 mmHg</li><li>10 years and older = 90 mmHg</li></ol></li></ol></li><li>For SBP below goal for age, give 20 mL/kg IV bolus. May repeat x 2 up to a total of 60 mL/kg to achieve goal SBP. If needing the third bolus, please consult OLMC.</li></ol>"
       },
       {
         "num": 13,

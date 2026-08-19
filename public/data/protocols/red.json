@@ -903,11 +903,6 @@
       {
         "type": "content",
         "providerLevel": "ALL",
-        "html": "<pre><code>b. Assure that controls for the second manual defibrillator are accessible to the team leader.\nc. Verify that both cardiac manual defibrillators are attached to the patient, that all pads are well-adhered, and simultaneously charge both manual defibrillators.\nd. When both defibrillators are charged to maximum energy settings and all persons are clear, push one shock button followed by the other immediately after the first shock is delivered.\ne. May repeat procedure every 2 minutes as indicated if refractory VF/VT persists, or consider vector change as noted below.\n</code></pre>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "ALL",
         "html": "<p>http://emssolutionsint.blogspot.com/2015/02/double-sequential-external.html</p>"
       }
     ],
@@ -915,11 +910,11 @@
       {
         "num": 1,
         "providerLevel": "ALL",
-        "html": "Consider dual-sequential external defibrillation, if 2 defibrillators are available.<ol type=\"a\"><li>This can only be performed with MANUAL defibrillators.</li></ol>",
+        "html": "Consider dual-sequential external defibrillation, if 2 defibrillators are available.<ol type=\"a\"><li>This can only be performed with MANUAL defibrillators.</li><li>Assure that controls for the second manual defibrillator are accessible to the team leader.</li><li>Verify that both cardiac manual defibrillators are attached to the patient, that all pads are well-adhered, and simultaneously charge both manual defibrillators.</li><li>When both defibrillators are charged to maximum energy settings and all persons are clear, push one shock button followed by the other immediately after the first shock is delivered.</li><li>May repeat procedure every 2 minutes as indicated if refractory VF/VT persists, or consider vector change as noted below.</li></ol>",
         "summary": {
-          "label": "Consider Dual-Sequential Defib",
+          "label": "Dual-Sequential Defib",
           "category": "procedure",
-          "detail": "Requires 2 MANUAL defibrillators"
+          "detail": "Requires 2 MANUAL defibrillators; 2nd defib's controls accessible to team leader\nVerify both sets of pads adhered; charge both simultaneously\nPush both shock buttons in immediate succession\nMay repeat q2min if refractory VF/VT persists"
         }
       },
       {
@@ -1623,47 +1618,88 @@
       {
         "num": 1,
         "providerLevel": "EMT",
-        "html": "Manage airway per Airway Algorithm, <strong>Blue 2</strong>."
+        "html": "Manage airway per Airway Algorithm, <strong>Blue 2</strong>.",
+        "summary": {
+          "label": "Manage Airway",
+          "category": "procedure",
+          "detail": "See Airway Algorithm, Blue 2"
+        }
       },
       {
         "num": 2,
         "providerLevel": "EMT",
-        "html": "Optimize ventilation and oxygenation:<ol type=\"a\"><li>Initial ventilation rate of 12-20 breaths/min.</li><li>Administer oxygen as appropriate with target of achieving 94-99% saturation (avoid hypo-/hyperoxia).</li></ol>"
+        "html": "Optimize ventilation and oxygenation:<ol type=\"a\"><li>Initial ventilation rate of 12-20 breaths/min.</li><li>Administer oxygen as appropriate with target of achieving 94-99% saturation (avoid hypo-/hyperoxia).</li></ol>",
+        "summary": {
+          "label": "Optimize Ventilation + O\u2082",
+          "category": "medication",
+          "detail": "Rate 12-20/min; target SpO2 94-99%"
+        }
       },
       {
         "num": 3,
         "providerLevel": "EMT",
-        "html": "Request ALS."
+        "html": "Request ALS.",
+        "summary": {
+          "label": "Request ALS",
+          "category": "communication"
+        }
       },
       {
         "num": 4,
         "providerLevel": "EMT",
-        "html": "Perform 12-lead ECG, if so trained and doing so would not delay transport."
+        "html": "Perform 12-lead ECG, if so trained and doing so would not delay transport.",
+        "summary": {
+          "label": "12-Lead ECG",
+          "category": "assessment",
+          "detail": "If trained and won't delay transport"
+        }
       },
       {
         "num": 5,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Titrate waveform capnography to 35-45 mmHg."
+        "html": "Titrate waveform capnography to 35-45 mmHg.",
+        "summary": {
+          "label": "Titrate to EtCO2 35-45",
+          "category": "procedure"
+        }
       },
       {
         "num": 6,
         "providerLevel": "ADVANCED_EMT",
-        "html": "Obtain IV/IO access and treat hypotension with fluid boluses (20 mL/kg NS) to maintain systolic blood pressure of 70 mmHg + (2 x age); may repeat to a MAX of 60 mL/kg. Consider 10 mL/kg fluid boluses if the patient has pre-existing cardiac disease."
+        "html": "Obtain IV/IO access and treat hypotension with fluid boluses (20 mL/kg NS) to maintain systolic blood pressure of 70 mmHg + (2 x age); may repeat to a MAX of 60 mL/kg. Consider 10 mL/kg fluid boluses if the patient has pre-existing cardiac disease.",
+        "summary": {
+          "label": "Fluid Bolus (Hypotension)",
+          "category": "medication",
+          "detail": "20 mL/kg NS; goal SBP 70+(2\u00d7age); max 60 mL/kg total. Cardiac hx: 10 mL/kg boluses"
+        }
       },
       {
         "num": 7,
         "providerLevel": "PARAMEDIC",
-        "html": "If hypotension persists after fluid boluses:<ol type=\"a\"><li>NOREPInephrine IV infusion:<ol type=\"i\"><li><strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS</li><li><strong>Dosing</strong> - infusion 0.1 - 2 mcg/kg/min (MAX dose of 30 mcg/min) titrated to effect</li><li>NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump</li></ol></li></ol>"
+        "html": "If hypotension persists after fluid boluses:<ol type=\"a\"><li>NOREPInephrine IV infusion:<ol type=\"i\"><li><strong>Preparation</strong> - mix NOREPInephrine 8 mg in 250 mL NS</li><li><strong>Dosing</strong> - infusion 0.1 - 2 mcg/kg/min (MAX dose of 30 mcg/min) titrated to effect</li><li>NOREPInephrine infusions must be administered via a Maine EMS-approved medication pump</li></ol></li></ol>",
+        "summary": {
+          "label": "Norepinephrine Infusion",
+          "category": "medication",
+          "detail": "Mix 8mg in 250mL NS via approved pump\n0.1-2 mcg/kg/min titrated to effect (max 30 mcg/min)"
+        }
       },
       {
         "num": 8,
         "providerLevel": "PARAMEDIC",
-        "html": "If seizure develops, refer to Seizure protocol, <strong>Gold 8</strong>."
+        "html": "If seizure develops, refer to Seizure protocol, <strong>Gold 8</strong>.",
+        "summary": {
+          "label": "Seizure? Refer to Gold 8",
+          "category": "decision"
+        }
       },
       {
         "num": 9,
         "providerLevel": "PARAMEDIC",
-        "html": "If patient suffers loss of spontaneous circulation and re-arrests, refer to appropriate protocol."
+        "html": "If patient suffers loss of spontaneous circulation and re-arrests, refer to appropriate protocol.",
+        "summary": {
+          "label": "Re-arrest? Refer to Protocol",
+          "category": "decision"
+        }
       }
     ],
     "pearls": [],
@@ -1739,17 +1775,7 @@
       {
         "type": "content",
         "providerLevel": "PARAMEDIC",
-        "html": "<pre><code>b. Adenosine:\\*\n    i. Adenosine 6 mg IV rapid bolus at centrally located peripheral IV with rapid saline flush\n        1. May repeat adenosine x 2 at 12 mg IV rapid bolus at centrally located peripheral IV with rapid saline flush.\n</code></pre>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "PARAMEDIC",
         "html": "<p>Only for REGULAR rhythm with MONOmorphic QRS (see PEARL)</p>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "PARAMEDIC",
-        "html": "<pre><code>a. Adenosine 6 mg IV rapid bolus at centrally located peripheral IV with rapid saline flush.\n    i. May repeat adenosine x 2 at 12 mg IV rapid bolus at centrally located peripheral IV with rapid saline flush.\n    ii. Consider amiodarone 150 mg IV/IO in 100 mL D5W over 10 minutes.\n</code></pre>"
       },
       {
         "type": "content",
@@ -1811,12 +1837,12 @@
       {
         "num": 10,
         "providerLevel": "PARAMEDIC",
-        "html": "Narrow complex tachycardia (due to rhythms other than sinus tachycardia):<ol type=\"a\"><li>Modified Valsalva maneuver - Position patient seated upright and have patient blow into a 10 mL syringe forcefully, attempting to move the plunger for 15 seconds. Then, immediately lay the patient supine and raise legs to 45 degrees. Hold legs for 1 min, then return to seated position. Reassess. May repeat once.</li></ol>"
+        "html": "Narrow complex tachycardia (due to rhythms other than sinus tachycardia):<ol type=\"a\"><li>Modified Valsalva maneuver - Position patient seated upright and have patient blow into a 10 mL syringe forcefully, attempting to move the plunger for 15 seconds. Then, immediately lay the patient supine and raise legs to 45 degrees. Hold legs for 1 min, then return to seated position. Reassess. May repeat once.</li><li>Adenosine:*<ol type=\"i\"><li>Adenosine 6 mg IV rapid bolus at centrally located peripheral IV with rapid saline flush<ol><li>May repeat adenosine x 2 at 12 mg IV rapid bolus at centrally located peripheral IV with rapid saline flush.</li></ol></li></ol></li></ol>"
       },
       {
         "num": 11,
         "providerLevel": "PARAMEDIC",
-        "html": "Wide complex tachycardia"
+        "html": "Wide complex tachycardia<p><em>Only for REGULAR rhythm with MONOmorphic QRS (see PEARL)</em></p><ol type=\"a\"><li>Adenosine 6 mg IV rapid bolus at centrally located peripheral IV with rapid saline flush.<ol type=\"i\"><li>May repeat adenosine x 2 at 12 mg IV rapid bolus at centrally located peripheral IV with rapid saline flush.</li><li>Consider amiodarone 150 mg IV/IO in 100 mL D5W over 10 minutes.</li></ol></li></ol>"
       },
       {
         "num": 12,
@@ -1896,11 +1922,6 @@
       {
         "type": "content",
         "providerLevel": "PARAMEDIC",
-        "html": "<pre><code>b. For patients unable to perform the Modified Valsalva maneuver, consider any of the following:\n    i. Place a chilled ice pack (if available) gently on the infant\u2019s eyes and cheeks for 15\u201330 seconds (being careful not to occlude the nose/mouth)\n    ii. Gently press the infant\u2019s knees to the chest for 15-30 seconds\n    iii. Ask the infant to blow forcefully through a straw or into a syringe\nc. Adenosine\\*:\n    i. Adenosine 0.1 mg/kg IV/IO (MAX dose 6 mg) rapid bolus at centrally located peripheral IV with rapid saline flush.\n    ii. May repeat adenosine x 1 at 0.2 mg/kg IV/IO (MAX dose of 12 mg) rapid bolus at centrally located peripheral IV preferred with rapid saline flush.\nd. If no IV/IO access or adenosine ineffective\n    i. Synchronized cardioversion at 0.5-1.0 J/kg.\n    ii. If first attempt unsuccessful, increase to 2.0 J/kg for all subsequent attempts.\n</code></pre>"
-      },
-      {
-        "type": "content",
-        "providerLevel": "PARAMEDIC",
         "html": "<blockquote>\n<p>Treatment of pre-excitation rhythms (such as WPW) include blocking at the level of the AV node, using adenosine or beta-blockers. Patients with <em>pre-excitation AND A-fib</em> should <strong>NOT</strong> receive any agents that block the AV node, as this could cause VF. WPW with A-fib may be recognized by a very fast rhythm, a predominance of wide QRS complexes with occasional narrow complexes and an irregular rhythm. When WPW with A-fib is suspected, the patient should <strong>NOT</strong> receive any medications that block the AV node because this will force all impulses through the accessory pathway and can cause VF. <em>Instead, these patients should be cardioverted when they become unstable.</em></p>\n<p>Do <strong>NOT</strong> give adenosine to a patient with Polymorphic VT or Torsades.</p>\n<p>Do <strong>NOT</strong> give amiodarone to a patient converted from Polymorphic VT unless QT interval is less than 0.500 sec.</p>\n<p>If QT interval is greater than 0.500 sec, contact OLMC for options.</p>\n<p>*Adenosine: make sure that your monitor is printing prior to administration of adenosine as the effects may be short-lived, but just slowing down the rhythm may help to identify the etiology of the rhythm and therefore guide next steps even in chemical cardioversion does not occur.</p>\n</blockquote>"
       }
     ],
@@ -1973,7 +1994,7 @@
       {
         "num": 14,
         "providerLevel": "PARAMEDIC",
-        "html": "Narrow complex tachycardia (due to rhythms other than sinus tachycardia):<ol type=\"a\"><li>Modified Valsalva maneuver (if patient able to follow directions and participate) - Position patient seated upright and have patient blow into a 10 mL syringe forcefully, attempting to move the plunger for 15 seconds. Then, immediately lay the patient supine and raise legs to 45 degrees. Hold legs for 1 min, then return to seated position. Reassess. May repeat once.</li></ol>"
+        "html": "Narrow complex tachycardia (due to rhythms other than sinus tachycardia):<ol type=\"a\"><li>Modified Valsalva maneuver (if patient able to follow directions and participate) - Position patient seated upright and have patient blow into a 10 mL syringe forcefully, attempting to move the plunger for 15 seconds. Then, immediately lay the patient supine and raise legs to 45 degrees. Hold legs for 1 min, then return to seated position. Reassess. May repeat once.</li><li>For patients unable to perform the Modified Valsalva maneuver, consider any of the following:<ol type=\"i\"><li>Place a chilled ice pack (if available) gently on the infant&#8217;s eyes and cheeks for 15&#8211;30 seconds (being careful not to occlude the nose/mouth)</li><li>Gently press the infant&#8217;s knees to the chest for 15-30 seconds</li><li>Ask the infant to blow forcefully through a straw or into a syringe</li></ol></li><li>Adenosine*:<ol type=\"i\"><li>Adenosine 0.1 mg/kg IV/IO (MAX dose 6 mg) rapid bolus at centrally located peripheral IV with rapid saline flush.</li><li>May repeat adenosine x 1 at 0.2 mg/kg IV/IO (MAX dose of 12 mg) rapid bolus at centrally located peripheral IV preferred with rapid saline flush.</li></ol></li><li>If no IV/IO access or adenosine ineffective<ol type=\"i\"><li>Synchronized cardioversion at 0.5-1.0 J/kg.</li><li>If first attempt unsuccessful, increase to 2.0 J/kg for all subsequent attempts.</li></ol></li></ol>"
       },
       {
         "num": 15,
